@@ -189,7 +189,7 @@
         const items = g.items.filter((x) => !slug || x.o.slug === slug);
         if (!items.length) return "";
         const lu = S.svLogos[k];
-        return `<div class="card sv"><div class="sv-head"><span class="sv-lg">${lu ? `<img src="${esc(lu)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</span><h3>${esc(g.nazwa)}</h3></div>${items.map(({ o, s }) => {
+        return `<div class="card sv"><div class="sv-head"><span class="sv-lg">${lu ? `<img src="${esc(lu)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</span><h3>${esc(g.nazwa)}</h3></div>${items.map(({ o, s }) => {
           const none = /^brak/i.test(s.dostepnosc || "");
           return `<div class="sv-row${none ? " none" : ""}">
             <div class="sv-op">${esc(o.operator)}</div>
