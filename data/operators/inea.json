@@ -1,0 +1,3651 @@
+{
+  "operator": "INEA",
+  "slug": "inea",
+  "sprawdzono": "2026-10-23",
+  "zrodla": [
+    {
+      "id": "s1",
+      "tytul": "Wykaz kanałów telewizyjnych INEA, stan na 8.10.2026 (PDF)",
+      "url": "https://www.inea.pl/sites/default/files/2026-05/Wykaz_Kanalow_Telewizyjnych.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s2",
+      "tytul": "Telewizja HIWAY – strona produktu",
+      "url": "https://www.inea.pl/hiway",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s3",
+      "tytul": "Cennik usług telewizyjnych (GPON), obowiązuje od 8.10.2026 (PDF)",
+      "url": "https://www.inea.pl/sites/default/files/2026-07/DIGITAL_CENNIK_USLUG_TELEWIZYJNYCH_%28GPON%29_2026-07-08.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s4",
+      "tytul": "Cennik usług telewizyjnych (HFC), obowiązuje od 8.07.2026 (PDF)",
+      "url": "https://www.inea.pl/sites/default/files/2026-07/DIGITAL_CENNIK_USLUG_TELEWIZYJNYCH_%28HFC%29_2026-07-08.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s5",
+      "tytul": "Regulamin szczególny świadczenia usługi telewizyjnej INEA (od 10.11.2024)",
+      "url": "https://www.inea.pl/sites/default/files/2024-11/REGULAMIN_INEA%20-%20TELEWIZJA_10.11.2024.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s6",
+      "tytul": "Regulamin i cennik promocji Kanały PREMIUM 11.0 (od 2.06.2026)",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Kanaly%20premium%2011.0%202026-06-02.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s7",
+      "tytul": "Regulamin i cennik promocji Multiroom za dyszkę 4.0 (od 17.08.2026)",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Multiroom%20za%20dyszke%204.0%202026-08-17.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s8",
+      "tytul": "Regulamin i cennik promocji Nagrania HIWAY 5.0 (od 1.07.2026)",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Nagrania%20HIWAY%205.0%202026-07-01.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s9",
+      "tytul": "Regulamin i cennik promocji Zestawy TV z rabatem 9.0 (od 1.07.2026)",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Zestawy%20TV%20z%20rabatem%209.0%202026-07-01.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s10",
+      "tytul": "Regulamin promocji Pół roku za free 6M_FH 3.0 (NREG) – sieć Fiberhost",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Pol%20roku%20za%20free%206M_FH%203.0%20%28NREG%29%202026-08-17.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s11",
+      "tytul": "Regulamin promocji Pół roku za free 6M_SI 3.0 – sieć Światłowód Inwestycje",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Pol%20roku%20za%20free%206M_SI%203.0_2026-03-16.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s12",
+      "tytul": "Regulamin promocji Super zestaw z telewizją 5M_FH 6.0 – GPON Fiberhost",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Super%20zestaw%20z%20telewizja%205M_FH%206.0%202026-08-17.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s13",
+      "tytul": "Regulamin promocji Internet z telewizją bez zobowiązań_HFC 8.0",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Internet%20z%20telewizja%20bez%20zobowiazan_HFC%208.0%202026-03-16.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s14",
+      "tytul": "INEA Online TV – strona usługi",
+      "url": "https://www.inea.pl/inea-online-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s15",
+      "tytul": "Serwis CANAL+ w INEA – strona",
+      "url": "https://www.inea.pl/lp/serwis-streamingowy-canal",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s16",
+      "tytul": "HBO Max w INEA – strona",
+      "url": "https://www.inea.pl/lp/platforma-hbo-max",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s17",
+      "tytul": "HIWAY.pl – FILMBOX",
+      "url": "https://hiway.pl/filmbox/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s18",
+      "tytul": "HIWAY.pl – Czym jest HIWAY",
+      "url": "https://hiway.pl/czym-jest-hiway/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s19",
+      "tytul": "Oferta Internet z TV – Pół roku za FREE (strona)",
+      "url": "https://www.inea.pl/oferta/internet-z-tv-pol-roku-za-free-od-inea",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s20",
+      "tytul": "Regulamin VOD (Usługi wideo na żądanie)",
+      "url": "https://www.inea.pl/sites/default/files/2024-10/B2C_Regulamin_VOD_2024-03-09.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s21",
+      "tytul": "Regulamin promocji Wybierz więcej_GPON 4.0 (od 17.08.2026)",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Wybierz%20wiecej_GPON%204.0%202026-08-17.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s22",
+      "tytul": "Lista dokumentów: Cenniki i regulaminy INEA",
+      "url": "https://www.inea.pl/pomoc/dokumenty?category=Cenniki%20i%20regulaminy",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    }
+  ],
+  "podsumowanie": "INEA sprzedaje telewizję HIWAY wyłącznie w pakiecie z internetem światłowodowym (GPON), na sieci Fiberhost i Światłowód Inwestycje; dekoder łączy się z routerem po Wi-Fi i obsługuje 4K. Podstawą jest START+REGIO (72 kanały), rozszerzany o CLASSIC (+65) lub EXTRA (+121) i paczki tematyczne bez zobowiązań, a premium (CANAL+, HBO Max, Cinemax, FILMBOX) na 12 miesięcy. W starszej sieci kablowej HFC obowiązują osobne pakiety BASIC/ECONOMY/SELECT.",
+  "technologie": [
+    {
+      "nazwa": "IPTV",
+      "opis": "Telewizja HIWAY w technologii GPON (FTTH): bezprzewodowy dekoder 4K łączony z routerem INEA po Wi-Fi, z telewizorem kablem HDMI. Pakiety START+REGIO, CLASSIC, EXTRA i tematyczne. Dostępna na infrastrukturze Fiberhost i Światłowód Inwestycje (promocje FH i SI zawierają ten sam pakiet START).",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "nazwa": "DVB-C (kablówka)",
+      "opis": "Starsza sieć hybrydowa HFC z pakietami BASIC, ECONOMY, SELECT. Odbiór przez dekoder lub moduł CAM (regulamin TV). Operator infrastruktury może wyłączyć HFC w trakcie umowy. Osobne cenniki dla HFC świadczonej przez operatora lokalnego (Prosat) oraz dla Gniezna, Wrześni i Pobiedzisk.",
+      "zrodla": [
+        "s4",
+        "s5",
+        "s13",
+        "s22"
+      ]
+    },
+    {
+      "nazwa": "OTT (aplikacja)",
+      "opis": "INEA Online TV: bezpłatna aplikacja (Android, iOS) i przeglądarka dla klientów telewizji HIWAY, do 3 urządzeń jednocześnie. Dodatkowo serwisy CANAL+ online, HBO Max i FILMBOX+ w ramach pakietów premium.",
+      "zrodla": [
+        "s14",
+        "s15",
+        "s16",
+        "s17"
+      ]
+    }
+  ],
+  "pakiety": [
+    {
+      "id": "inea-start-regio",
+      "nazwa": "START+REGIO",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 72,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Podstawowa paczka telewizji HIWAY, dołączana zawsze do pakietu Internet z telewizją. W wykazie kanałów to kolumny START (56 kanałów) i REGIO (16 kanałów regionalnych, m.in. 9 wydań TVP 3).",
+      "warunki": "Technologia GPON (telewizja HIWAY, dekoder po Wi-Fi). Sprzedawana tylko razem z internetem światłowodowym. REGIO uruchamiany jest zawsze razem z pakietem START.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3",
+        "s19"
+      ]
+    },
+    {
+      "id": "inea-classic",
+      "nazwa": "CLASSIC",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 65,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "inea-start-regio",
+      "opis": "Rozszerzenie podstawy o 65 kanałów (m.in. AXN, Polsat Film, TVN 24, Discovery, Eurosport 1–2, CANAL+ Sport 5, Disney Channel). Liczba 65 to kanały ponad START+REGIO.",
+      "warunki": "Technologia GPON (telewizja HIWAY, dekoder po Wi-Fi). Sprzedawana tylko razem z internetem światłowodowym. Pakiet na czas nieokreślony, dodawany do START+REGIO. Wymagany do zamówienia paczki EUROSPORT i HBO + HBO MAX (wg cennika GPON).",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-extra",
+      "nazwa": "EXTRA",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 121,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "inea-classic",
+      "opis": "Największy pakiet rozszerzający: wszystkie 65 kanałów CLASSIC plus m.in. Eleven Sports 1–4, Polsat Sport 2 i 3, kanały dziecięce (Nickelodeon, Disney Junior), Discovery Historia, Nat Geo Wild, Animal Planet. 121 kanałów ponad START+REGIO.",
+      "warunki": "Technologia GPON (telewizja HIWAY, dekoder po Wi-Fi). Sprzedawana tylko razem z internetem światłowodowym. Pakiet na czas nieokreślony, dodawany do START+REGIO. Wymagany do zamówienia paczki EUROSPORT i HBO + HBO MAX (wg cennika GPON).",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-film",
+      "nazwa": "FILM",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 5,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Paczka filmowa: AMC, Bollywood, Viasat Epic Drama, FX Comedy, Romance TV.",
+      "warunki": "Pakiet dodatkowy na czas nieokreślony, dostępny tylko dla klientów z pakietem START (START+REGIO); można go dodać lub usunąć w dowolnym momencie.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-kids",
+      "nazwa": "KIDS",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 5,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Paczka dla dzieci: 2x2, Baby TV, Polsat JimJam, Top Kids, Junior Music.",
+      "warunki": "Pakiet dodatkowy na czas nieokreślony, dostępny tylko dla klientów z pakietem START (START+REGIO); można go dodać lub usunąć w dowolnym momencie.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-sport",
+      "nazwa": "SPORT",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 11,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Paczka sportowa: Extreme Sports Channel, Xtreme TV, Golf Zone, FightBox, FightKlub, GameToon, GINX, Motowizja, Nautical Channel, Polsat Games, Sport Klub. Nie zawiera Polsat Sport ani Eleven.",
+      "warunki": "Pakiet dodatkowy na czas nieokreślony, dostępny tylko dla klientów z pakietem START (START+REGIO); można go dodać lub usunąć w dowolnym momencie.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-document",
+      "nazwa": "DOCUMENT",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 6,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Paczka dokumentalna: DocuBox, Polsat Doku, Polsat Viasat Explore/History/Nature, TVC Reality.",
+      "warunki": "Pakiet dodatkowy na czas nieokreślony, dostępny tylko dla klientów z pakietem START (START+REGIO); można go dodać lub usunąć w dowolnym momencie.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-eleven",
+      "nazwa": "ELEVEN",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 5,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Eleven Sports 1–4 oraz Eleven Sports 1 w 4K.",
+      "warunki": "Pakiet dodatkowy na czas nieokreślony, dostępny tylko dla klientów z pakietem START (START+REGIO); można go dodać lub usunąć w dowolnym momencie. Kanały Eleven są też w pakiecie EXTRA.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-eurosport",
+      "nazwa": "EUROSPORT",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 2,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Eurosport 3 i Eurosport 4 (Eurosport 1 i 2 są w CLASSIC/EXTRA).",
+      "warunki": "Dostępny wyłącznie dla klientów pakietów CLASSIC i EXTRA (cennik GPON). Na czas nieokreślony.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-play",
+      "nazwa": "PLAY",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 7,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Kanały dla dorosłych: Brazzers, Dorcel TV, Dorcel XXX, Hustler, Playboy, Redlight, Private.",
+      "warunki": "Pakiet dodatkowy na czas nieokreślony, dostępny tylko dla klientów z pakietem START (START+REGIO); można go dodać lub usunąć w dowolnym momencie.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "inea-hfc-basic",
+      "nazwa": "BASIC (HFC)",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 62,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Pakiet podstawowy w starszej sieci kablowej HFC (odpowiednik START). Zawiera tylko 3 wydania TVP 3 (Lublin, Poznań, Wrocław).",
+      "warunki": "Tylko w lokalach podłączonych w technologii HFC. Operator infrastruktury może wyłączyć sieć HFC w trakcie umowy (INEA proponuje wtedy przejście na GPON). Nowa sprzedaż TV w HIWAY odbywa się na GPON.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s13"
+      ]
+    },
+    {
+      "id": "inea-hfc-economy",
+      "nazwa": "ECONOMY (HFC)",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 53,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "inea-hfc-basic",
+      "opis": "Rozszerzenie BASIC w sieci HFC (odpowiednik CLASSIC), 53 kanały ponad BASIC.",
+      "warunki": "Tylko HFC. Wymagany do zamówienia HBO + HBO MAX w HFC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "inea-hfc-select",
+      "nazwa": "SELECT (HFC)",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 100,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "inea-hfc-economy",
+      "opis": "Największe rozszerzenie w HFC (odpowiednik EXTRA), 100 kanałów ponad BASIC; zawiera kanały ECONOMY.",
+      "warunki": "Tylko HFC. Brak Eleven Sports 4 w wykazie HFC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "inea-hfc-movie-pack",
+      "nazwa": "MOVIE PACK (HFC)",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 5,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "AMC, Bollywood, Viasat Epic Drama, Romance TV, TVC Reality.",
+      "warunki": "Tylko HFC, dla klientów z pakietem BASIC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "inea-hfc-kids-pack",
+      "nazwa": "KIDS PACK (HFC)",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 5,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "2x2, Baby TV, Polsat JimJam, Top Kids, Junior Music.",
+      "warunki": "Tylko HFC, dla klientów z pakietem BASIC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "inea-hfc-sport-pack-plus",
+      "nazwa": "SPORT PACK PLUS (HFC)",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 6,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Extreme Sports Channel, GameToon, GINX, Motowizja, Nautical Channel, Polsat Games.",
+      "warunki": "Tylko HFC, dla klientów z pakietem BASIC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "inea-hfc-docu-pack",
+      "nazwa": "DOCU PACK (HFC)",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 5,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "DocuBox, Polsat Doku, Polsat Viasat Explore/History/Nature.",
+      "warunki": "Tylko HFC, dla klientów z pakietem BASIC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "inea-hfc-eleven-sports",
+      "nazwa": "ELEVEN SPORTS (HFC)",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 3,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Eleven Sports 1–3.",
+      "warunki": "Tylko HFC, dla klientów z pakietem BASIC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "inea-hfc-gold",
+      "nazwa": "GOLD (HFC)",
+      "rodzaj": "tematyczny",
+      "liczba_kanalow": 7,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Kanały dla dorosłych (odpowiednik PLAY).",
+      "warunki": "Tylko HFC, dla klientów z pakietem BASIC.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "kanaly": [
+    {
+      "nazwa": "Metro",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Nowa TV",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polonia 1",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Polsat 2",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "RTK",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO)"
+    },
+    {
+      "nazwa": "STK",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO)"
+    },
+    {
+      "nazwa": "Super Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Tele 5",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TTV",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV 4",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "TV 6",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "TV Okazje",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Puls",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "TV Puls 2",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Relax",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO)"
+    },
+    {
+      "nazwa": "TV Trwam",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Wielkopolska",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO)"
+    },
+    {
+      "nazwa": "TVN",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "TVN 7",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP 1",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "TVP 2",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "TVP 3 Bydgoszcz",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy; tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP 3 Katowice",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy; tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP 3 Kraków",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy; tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP 3 Lublin",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy"
+    },
+    {
+      "nazwa": "TVP 3 Łódź",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy; tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP 3 Opole",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy; tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP 3 Poznań",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy"
+    },
+    {
+      "nazwa": "TVP 3 Warszawa",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy; tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP 3 Wrocław",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); w GPON dostępne regionalne wydania TVP 3 z listy"
+    },
+    {
+      "nazwa": "New TV",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP Polonia",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "WP",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Regio",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO); tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "WTK",
+      "kategoria": "regionalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał z części REGIO (START+REGIO)"
+    },
+    {
+      "nazwa": "Zoom",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TBN Polska",
+      "kategoria": "ogólne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ale Kino+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AMC",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-film",
+        "inea-hfc-movie-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AXN",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AXN Black",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AXN Spin",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AXN White",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC First",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Bollywood",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-film",
+        "inea-hfc-movie-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FilMax",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Viasat Epic Drama",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-film",
+        "inea-hfc-movie-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Filmbox+ action",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-filmbox"
+    },
+    {
+      "nazwa": "Filmbox+ festival",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-filmbox; tylko w ofercie GPON (HIWAY), brak w wykazie HFC; w HFC pakiet FILMBOX zawiera 4 kanały, bez Filmbox+ festival"
+    },
+    {
+      "nazwa": "Filmbox+ emotion",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-filmbox"
+    },
+    {
+      "nazwa": "Filmbox+ comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-filmbox"
+    },
+    {
+      "nazwa": "Filmbox+ hits",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-filmbox"
+    },
+    {
+      "nazwa": "FX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Kino Polska",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "Filmbox+ one",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Novelas+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Paramount Network",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Romance TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-film",
+        "inea-hfc-movie-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Stopklatka TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Sundance",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN Fabuła",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP HD",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Kultura",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Warner TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Eleven Sports 1",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-eleven",
+        "inea-hfc-select",
+        "inea-hfc-eleven-sports"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Eleven Sports 2",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-eleven",
+        "inea-hfc-select",
+        "inea-hfc-eleven-sports"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Eleven Sports 3",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-eleven",
+        "inea-hfc-select",
+        "inea-hfc-eleven-sports"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Eleven Sports 4",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-eleven"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Eurosport 1",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "Eurosport 2",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Eurosport 3",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-eurosport"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Eurosport 4",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-eurosport"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Extreme Sports Channel",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-sport",
+        "inea-hfc-sport-pack-plus"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Xtreme TV",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-sport",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Golf Zone",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-sport"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "FightBox",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-sport",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FightKlub",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-sport",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "GameToon",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-sport",
+        "inea-hfc-sport-pack-plus"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "GINX",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-sport",
+        "inea-hfc-sport-pack-plus"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Motowizja",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-sport",
+        "inea-hfc-sport-pack-plus"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Nautical Channel",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-sport",
+        "inea-hfc-sport-pack-plus"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "CANAL+ Sport 5",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Games",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-sport",
+        "inea-hfc-select",
+        "inea-hfc-sport-pack-plus"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport 1",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "Polsat Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport Fight",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Sport Klub",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-sport",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Sport",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "2x2",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-kids",
+        "inea-hfc-kids-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Baby TV",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-kids",
+        "inea-hfc-kids-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Cartoonito",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Cartoon Network",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Cbeebies",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Da Vinci",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Disney Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "Disney Junior",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Disney XD",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "ducktv",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "MiniMini+",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Nick Jr.",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Nickelodeon",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Nicktoons",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat JimJam",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-kids",
+        "inea-hfc-kids-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "teleTOON+",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TeenNick",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Junior Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Top Kids",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-kids",
+        "inea-hfc-kids-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Junior Music",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-kids",
+        "inea-hfc-kids-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP ABC",
+      "kategoria": "dla dzieci",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "wPolsce24",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Biznes24",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Polsat News",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "Polsat News 2",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat News Polityka",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "TV Republika",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN 24",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN 24 BiS",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]"
+    },
+    {
+      "nazwa": "TVP Info",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Wydarzenia 24",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Kanał Zero",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Euronews PL",
+      "kategoria": "informacyjne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVC Super",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "BBC Lifestyle",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC Brit",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TLC",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "CANAL+ DOMO",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "CANAL+ KUCHNIA",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Food Network",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "StudioMED TV",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Crime+Investigation Polsat",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVC Reality",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-document",
+        "inea-hfc-movie-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Remonty TV",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał w tymczasowej reemisji promocyjnej (oznaczenie * w wykazie)"
+    },
+    {
+      "nazwa": "ID",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Play",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN Turbo",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "DTX",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN Style",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "HGTV",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FashionBox",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Kobieta",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "CTV",
+      "kategoria": "lifestyle",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Szlagier TV",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Kabaret TV",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Comedy Central",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Comedy Central Extra",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FX Comedy",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-film"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVP Rozrywka",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Polsat Cafe",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Active Family",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Antena",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Show TV",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVS",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "ViDocTV",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "TVT",
+      "kategoria": "inne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Adventure",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Animal Planet",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC Earth",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Discovery Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "Discovery Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Discovery Science",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Discovery Life",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DocuBox",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-document",
+        "inea-hfc-docu-pack"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "English Club TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Fokus TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "History",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "History 2",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "National Geographic",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-classic, inea-extra [GPON]; kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "National Geographic Wild",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "NAT GEO People",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Planete+",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Doku",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-document",
+        "inea-hfc-docu-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat Explore",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-document",
+        "inea-hfc-docu-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat History",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-document",
+        "inea-hfc-docu-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-document",
+        "inea-hfc-docu-pack"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Travel Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Dokument",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-hfc-economy, inea-hfc-select [HFC]"
+    },
+    {
+      "nazwa": "TVP Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "TVP NAUKA",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "4FUN Dance",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "4FUN.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Disco Polo Music",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Eska TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Eska TV Extra",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "4FUN Kids",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Kino Polska Muzyka",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "MIXTAPE",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Nuta Gold",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Stingray iConcerts",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "MTV Polska",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Eska Rock TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Music Box",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Nuta.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polo TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Polsat Music",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Power TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "STARS.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Stingray Classica",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "JAZZ",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Music 80s",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "V90",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Vox Music TV",
+      "kategoria": "muzyczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC News",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "kanał gwarantowany (GW) w: inea-start-regio [GPON]; język: angielski; kanał gwarantowany (GW) w: inea-hfc-basic [HFC]"
+    },
+    {
+      "nazwa": "Belsat TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: białoruski"
+    },
+    {
+      "nazwa": "CNN",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Current Time TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: rosyjski"
+    },
+    {
+      "nazwa": "Deutsche Welle (DW)",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Euronews ENG",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Euronews DE",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: niemiecki"
+    },
+    {
+      "nazwa": "France 24 ENG",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "France 24 FR",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-extra",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: francuski"
+    },
+    {
+      "nazwa": "Sky News",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-start-regio",
+        "inea-classic",
+        "inea-extra",
+        "inea-hfc-basic",
+        "inea-hfc-economy",
+        "inea-hfc-select"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "TVP World",
+      "kategoria": "zagraniczne",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Brazzers",
+      "kategoria": "dla dorosłych",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-play",
+        "inea-hfc-gold"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Dorcel TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-play",
+        "inea-hfc-gold"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Dorcel XXX",
+      "kategoria": "dla dorosłych",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-play",
+        "inea-hfc-gold"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Hustler",
+      "kategoria": "dla dorosłych",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-play",
+        "inea-hfc-gold"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Playboy",
+      "kategoria": "dla dorosłych",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-play",
+        "inea-hfc-gold"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Redlight",
+      "kategoria": "dla dorosłych",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-play",
+        "inea-hfc-gold"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Private",
+      "kategoria": "dla dorosłych",
+      "jakosc": "nie podano",
+      "pakiety": [
+        "inea-play",
+        "inea-hfc-gold"
+      ],
+      "uwagi": "język: angielski"
+    },
+    {
+      "nazwa": "Funbox UHD",
+      "kategoria": "filmy i seriale",
+      "jakosc": "4K",
+      "pakiety": [
+        "inea-classic",
+        "inea-extra"
+      ],
+      "uwagi": "język: niemiecki; tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "Eleven Sports 1 4K",
+      "kategoria": "sportowe",
+      "jakosc": "4K",
+      "pakiety": [
+        "inea-extra",
+        "inea-eleven"
+      ],
+      "uwagi": "wersja 4K kanału Eleven Sports 1 (kategoria 4K w wykazie GPON)"
+    },
+    {
+      "nazwa": "Love Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "inea-extra"
+      ],
+      "uwagi": "tylko w ofercie GPON (HIWAY), brak w wykazie HFC"
+    },
+    {
+      "nazwa": "CANAL+ Premium",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport, inea-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport, inea-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport, inea-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport, inea-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Dokument",
+      "kategoria": "dokumentalne",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport, inea-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ 360",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport, inea-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Now",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Sport",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Sport 4",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 1",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 2",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 3",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 4",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 5",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 6",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 7",
+      "kategoria": "sportowe",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-canalplus-super-sport"
+    },
+    {
+      "nazwa": "Cinemax 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-cinemax"
+    },
+    {
+      "nazwa": "Cinemax 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-cinemax"
+    },
+    {
+      "nazwa": "HBO 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-hbo-max"
+    },
+    {
+      "nazwa": "HBO 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-hbo-max"
+    },
+    {
+      "nazwa": "HBO 3",
+      "kategoria": "filmy i seriale",
+      "jakosc": "nie podano",
+      "pakiety": [],
+      "uwagi": "dodatek: inea-hbo-max"
+    }
+  ],
+  "dodatki": [
+    {
+      "id": "inea-canalplus-super-sport",
+      "nazwa": "CANAL+ SUPER SPORT & serwis CANAL+",
+      "rodzaj": "sport",
+      "zawartosc": "18 kanałów CANAL+ (m.in. CANAL+ Premium, CANAL+ Sport 1–4, CANAL+ Extra 1–7, CANAL+ Film, Seriale, Dokument, 360, Now) oraz serwis CANAL+ online (Super Sport). Strona INEA wymienia m.in. Ligę Mistrzów, Premier League, Ekstraklasę, LaLigę, PGE Ekstraligę, WTA, KSW.",
+      "kanaly": [
+        "CANAL+ Premium",
+        "CANAL+ 1",
+        "CANAL+ Film",
+        "CANAL+ Seriale",
+        "CANAL+ Dokument",
+        "CANAL+ 360",
+        "CANAL+ Now",
+        "CANAL+ Sport",
+        "CANAL+ Sport 2",
+        "CANAL+ Sport 3",
+        "CANAL+ Sport 4",
+        "CANAL+ Extra 1",
+        "CANAL+ Extra 2",
+        "CANAL+ Extra 3",
+        "CANAL+ Extra 4",
+        "CANAL+ Extra 5",
+        "CANAL+ Extra 6",
+        "CANAL+ Extra 7"
+      ],
+      "warunki": "Promocja Kanały PREMIUM 11.0: umowa na 12 miesięcy (okres lojalnościowy). Ze względów technicznych zestaw dostępny wyłącznie w pakietach HIWAY i START w technologii GPON (brak telewizyjnej wersji w HFC). Serwis CANAL+ online: oglądanie na 2 urządzeniach jednocześnie, aktywacja przez link z e-maila.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s6",
+        "s15",
+        "s2"
+      ]
+    },
+    {
+      "id": "inea-canalplus-seriale-filmy",
+      "nazwa": "CANAL+ SERIALE I FILMY & serwis CANAL+",
+      "rodzaj": "filmowy",
+      "zawartosc": "6 kanałów (CANAL+ Premium, CANAL+ 1, CANAL+ Film, CANAL+ Seriale, CANAL+ Dokument, CANAL+ 360) oraz serwis CANAL+ online w wariancie Seriale i Filmy.",
+      "kanaly": [
+        "CANAL+ Premium",
+        "CANAL+ 1",
+        "CANAL+ Film",
+        "CANAL+ Seriale",
+        "CANAL+ Dokument",
+        "CANAL+ 360"
+      ],
+      "warunki": "Promocja Kanały PREMIUM 11.0: umowa na 12 miesięcy. Dostępny w GPON i HFC. Serwis CANAL+ online na 2 urządzeniach jednocześnie.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4",
+        "s6",
+        "s15"
+      ]
+    },
+    {
+      "id": "inea-hbo-max",
+      "nazwa": "HBO + HBO MAX",
+      "rodzaj": "premium",
+      "zawartosc": "Kanały HBO 1, HBO 2, HBO 3 oraz dostęp do serwisu HBO Max (wg strony INEA plan Premium: 4 urządzenia jednocześnie, Full HD/4K, pobieranie do 100 tytułów).",
+      "kanaly": [
+        "HBO 1",
+        "HBO 2",
+        "HBO 3"
+      ],
+      "warunki": "Promocja Kanały PREMIUM 11.0: umowa na 12 miesięcy. Wg cenników: w GPON tylko dla klientów pakietów CLASSIC i EXTRA, w HFC tylko dla ECONOMY i SELECT. Konto HBO Max łączy się z INEA loginem IDK i hasłem z Moja INEA.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4",
+        "s6",
+        "s16"
+      ]
+    },
+    {
+      "id": "inea-cinemax",
+      "nazwa": "Cinemax HD",
+      "rodzaj": "filmowy",
+      "zawartosc": "Cinemax 1 i Cinemax 2.",
+      "kanaly": [
+        "Cinemax 1",
+        "Cinemax 2"
+      ],
+      "warunki": "Promocja Kanały PREMIUM 11.0: umowa na 12 miesięcy. Dostępny w GPON i HFC.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "id": "inea-filmbox",
+      "nazwa": "FILMBOX & FILMBOX+ STREAM",
+      "rodzaj": "filmowy",
+      "zawartosc": "Kanały Filmbox+ action, festival, emotion, comedy, hits (w HFC 4 kanały, bez festival) oraz serwis FILMBOX+ Stream (VOD i kanały na żywo w aplikacji, 3 urządzenia jednocześnie, rejestracja kodem aktywacyjnym).",
+      "kanaly": [
+        "Filmbox+ action",
+        "Filmbox+ festival",
+        "Filmbox+ emotion",
+        "Filmbox+ comedy",
+        "Filmbox+ hits"
+      ],
+      "warunki": "Promocja Kanały PREMIUM 11.0: umowa na 12 miesięcy. W cennikach ujęty jako pakiet dodatkowy dla klientów z pakietem START (GPON) / BASIC (HFC).",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4",
+        "s6",
+        "s17"
+      ]
+    }
+  ],
+  "streaming": [
+    {
+      "serwis": "Canal+ online",
+      "dostepnosc": "w cenie pakietu CANAL+ SUPER SPORT lub CANAL+ SERIALE I FILMY; dla klientów samego internetu (bez TV) jako płatna usługa dodatkowa",
+      "opis": "Serwis CANAL+ z treściami na życzenie i kanałami na żywo; przeglądarka, iOS, Android, telewizory z Android TV lub Tizen; 2 urządzenia jednocześnie.",
+      "zrodla": [
+        "s15",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "serwis": "Max",
+      "dostepnosc": "w cenie pakietu HBO + HBO MAX; dla klientów samego internetu (bez TV) jako płatna usługa dodatkowa HBO MAX",
+      "opis": "Wg strony INEA plan Premium: 4 urządzenia jednocześnie, Full HD/4K, Dolby Atmos dla wybranych tytułów.",
+      "zrodla": [
+        "s16",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "w cenie pakietu FILMBOX & FILMBOX+; dla klientów samego internetu (bez TV) jako płatna usługa dodatkowa FILMBOX+",
+      "opis": "FILMBOX+ Stream: filmy i seriale na życzenie oraz kanały na żywo w aplikacji, 3 urządzenia jednocześnie.",
+      "zrodla": [
+        "s17",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "integracja w dekoderze",
+      "opis": "YouTube dostępny na dekoderze HIWAY, także w 4K.",
+      "zrodla": [
+        "s2",
+        "s18"
+      ]
+    },
+    {
+      "serwis": "Netflix",
+      "dostepnosc": "brak",
+      "opis": "Oficjalne strony i cenniki INEA nie wspominają o Netflixie (ani o Disney+, SkyShowtime, Player, Prime Video, Polsat Box Go, Viaplay) w ofercie lub na dekoderze HIWAY.",
+      "zrodla": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "multiroom": {
+    "dostepny": true,
+    "max_odbiornikow": 5,
+    "jak_dziala": "Pakiet Multiroom Cyfrowy HD: kolejny dekoder w tym samym lokalu. Można mieć maksymalnie 4 pakiety Multiroom (łącznie 5 telewizorów), gdy pozwalają na to warunki techniczne. Dostępna promocja Multiroom za dyszkę 4.0 (umowa na czas nieokreślony).",
+    "co_na_kolejnych_tv": "Te same pakiety (standardowe i dodatkowe) co na głównym dekoderze, z możliwością oglądania różnych kanałów jednocześnie.",
+    "uwagi": "Multiroom wygasa razem z umową na telewizję. Przy zamówieniu naliczana jest jednorazowa opłata za wydanie sprzętu. W części promocji na sieci Fiberhost dostępne są zestawy Internet + TV od razu z dodatkowym dekoderem.",
+    "zrodla": [
+      "s3",
+      "s4",
+      "s2",
+      "s7",
+      "s5",
+      "s12"
+    ]
+  },
+  "sprzet_i_funkcje": {
+    "dekodery": [
+      {
+        "nazwa": "Dekoder HIWAY (GPON)",
+        "opis": "Bezprzewodowy dekoder ok. 12 cm, łączy się z internetem INEA po Wi-Fi, z telewizorem przez HDMI. Obraz 4K, aplikacja YouTube (4K), funkcja CEC (włączanie TV pilotem dekodera). Model i system operacyjny nie są podane na stronach INEA."
+      },
+      {
+        "nazwa": "Dekoder / moduł CAM (HFC)",
+        "opis": "W sieci kablowej HFC regulamin przewiduje odbiór przez dekoder lub moduł CAM. Szczegóły modeli nie są opublikowane."
+      }
+    ],
+    "aplikacja": {
+      "nazwa": "INEA Online TV",
+      "urzadzenia": "smartfony i tablety z Androidem i iOS, przeglądarka internetowa",
+      "ile_urzadzen_jednoczesnie": "do 3",
+      "uwagi": "Bezpłatna dla klientów telewizji HIWAY; logowanie numerem klienta i hasłem z aplikacji INEA. Wg strony: prawie 100 kanałów w sieci INEA i ponad 40 poza siecią (strona podaje też 'ponad 100' – niespójne liczby). Brak informacji o nagrywaniu i catch-up w aplikacji. Osobna aplikacja INEA służy do obsługi konta (dodawanie pakietów, czat)."
+    },
+    "smart_tv_bez_dekodera": "Nie potwierdzono. INEA nie podaje aplikacji INEA Online TV na Smart TV; regulamin wymaga dekodera lub modułu CAM. Bez dekodera można oglądać serwisy CANAL+ online (Android TV, Tizen), HBO Max i FILMBOX+ we własnych aplikacjach; klienci samego internetu mogą je zamówić jako usługi dodatkowe.",
+    "nagrywanie": "Nagrywanie w HIWAY, także całych serii. Nagrania przechowywane standardowo 14 dni; płatne opcje wydłużenia (30, 60 lub 90 dni) i dodatkowej przestrzeni (50 h lub 100 h), także w promocji Nagrania HIWAY 5.0. Podstawowa pojemność nagrań nie jest podana.",
+    "cofanie_i_ogladanie_od_poczatku": "Catch-up do 7 dni wstecz, oglądanie bieżącego programu od początku, pauza, cofanie i przewijanie.",
+    "vod": "Wypożyczalnia VOD na dekoderze z płatnymi wypożyczeniami pojedynczych tytułów (cena przy tytule w menu, miesięczny limit wartości). HIWAY.pl wymienia też bibliotekę Nickelodeon i Paramount. Profile domowników na dekoderze.",
+    "zrodla": [
+      "s2",
+      "s18",
+      "s3",
+      "s8",
+      "s20",
+      "s14",
+      "s5"
+    ]
+  },
+  "warunki_ogolne": [
+    "Telewizja HIWAY jest sprzedawana tylko w pakiecie z internetem światłowodowym INEA; START+REGIO jest zawsze w zestawie Internet z telewizją.",
+    "Pakiety CLASSIC, EXTRA i paczki tematyczne (FILM, KIDS, SPORT, DOCUMENT, ELEVEN, EUROSPORT, PLAY) są na czas nieokreślony: dodaje się je i usuwa w dowolnym momencie.",
+    "Pakiety premium (CANAL+ x2, HBO + HBO MAX, Cinemax, FILMBOX) w promocji Kanały PREMIUM 11.0 wymagają umowy na 12 miesięcy; zamówienie przedłuża umowę główną na ten sam okres.",
+    "EUROSPORT i HBO + HBO MAX w GPON wymagają pakietu CLASSIC lub EXTRA.",
+    "CANAL+ SUPER SPORT (kanały TV) dostępny tylko w GPON (HIWAY/START), nie w HFC.",
+    "Oferta TV jest taka sama na sieci Fiberhost i Światłowód Inwestycje (ten sam wykaz kanałów GPON i pakiet START w promocjach FH i SI); różnią się promocje i opłaty jednorazowe. Instalacja samodzielna (Podłącz sam) tylko na sieci Fiberhost.",
+    "W sieci HFC obowiązują inne pakiety (BASIC/ECONOMY/SELECT) i nieco inna lista kanałów, np. tylko 3 wydania TVP 3, brak Eleven Sports 4, Eurosport 3/4, Kanał Zero, wPolsce24.",
+    "Promocje z telewizją wymagają zgody na przetwarzanie danych o oglądalności w celach analitycznych.",
+    "Kanały oznaczone GW są gwarantowane umownie; pozostałe mogą się zmieniać bez zmiany umowy.",
+    "Opłaty INEA nie obejmują abonamentu RTV.",
+    "Jakość HD/UHD zależy od telewizora, nadawcy i możliwości sieci; wykaz kanałów nie podaje jakości dla poszczególnych kanałów poza kategorią 4K."
+  ],
+  "faq": [
+    {
+      "pytanie": "Czy mogę mieć samą telewizję bez internetu?",
+      "odpowiedz": "Nie. Telewizja HIWAY jest dostępna tylko w pakiecie z internetem światłowodowym INEA.",
+      "zrodla": [
+        "s2",
+        "s19"
+      ]
+    },
+    {
+      "pytanie": "Ile kanałów dostanę w podstawowym pakiecie?",
+      "odpowiedz": "72 kanały w paczce START+REGIO (56 w START i 16 regionalnych w REGIO). Można dobrać CLASSIC (+65) lub EXTRA (+121), razem do ok. 193 kanałów, plus paczki tematyczne i premium.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na kilku telewizorach?",
+      "odpowiedz": "Tak, przez Multiroom: do 4 dodatkowych dekoderów, czyli łącznie 5 telewizorów. Na każdym są te same pakiety co na głównym i można oglądać różne kanały jednocześnie.",
+      "zrodla": [
+        "s3",
+        "s2",
+        "s7"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na telefonie lub laptopie?",
+      "odpowiedz": "Tak, w bezpłatnej aplikacji INEA Online TV (Android, iOS) lub w przeglądarce, do 3 urządzeń jednocześnie. Lista kanałów w aplikacji jest mniejsza niż na dekoderze, a poza siecią INEA dostępnych jest jeszcze mniej kanałów.",
+      "zrodla": [
+        "s14"
+      ]
+    },
+    {
+      "pytanie": "Czy da się oglądać na Smart TV bez dekodera?",
+      "odpowiedz": "INEA nie podaje takiej możliwości dla kanałów HIWAY, do odbioru potrzebny jest dekoder. Bez dekodera działają tylko serwisy premium we własnych aplikacjach, np. CANAL+ online na telewizorach z Android TV lub Tizen.",
+      "zrodla": [
+        "s5",
+        "s14",
+        "s15"
+      ]
+    },
+    {
+      "pytanie": "Czy dekoder trzeba podłączać kablem do routera?",
+      "odpowiedz": "Nie. Dekoder HIWAY łączy się z internetem INEA po Wi-Fi, a z telewizorem kablem HDMI.",
+      "zrodla": [
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy jest 4K?",
+      "odpowiedz": "Tak, dekoder obsługuje 4K. W wykazie są kanały 4K: Eleven Sports 1 4K, Funbox UHD i Love Nature, a także YouTube w 4K.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s18"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę nagrywać programy?",
+      "odpowiedz": "Tak, także całe serie. Nagrania są trzymane 14 dni; można dokupić wydłużenie do 30, 60 lub 90 dni oraz dodatkowe 50 h lub 100 h przestrzeni.",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę cofnąć program albo obejrzeć coś, co już leciało?",
+      "odpowiedz": "Tak. Catch-up do 7 dni wstecz, oglądanie od początku, pauza i cofanie.",
+      "zrodla": [
+        "s2",
+        "s18"
+      ]
+    },
+    {
+      "pytanie": "Jakie są kanały sportowe?",
+      "odpowiedz": "START: TVP Sport, Polsat Sport Fight. CLASSIC: Polsat Sport 1, Eurosport 1 i 2, CANAL+ Sport 5. EXTRA dodaje Polsat Sport 2 i 3, Eleven Sports 1–4. Osobno: paczka ELEVEN, EUROSPORT (Eurosport 3 i 4, wymaga CLASSIC/EXTRA), SPORT (11 kanałów niszowych) oraz premium CANAL+ SUPER SPORT.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy jest CANAL+ i na jakich warunkach?",
+      "odpowiedz": "Tak, dwa pakiety: CANAL+ SUPER SPORT (18 kanałów + serwis CANAL+ online) i CANAL+ SERIALE I FILMY (6 kanałów + serwis). W promocji wymagają umowy na 12 miesięcy. SUPER SPORT jako kanały TV jest tylko w GPON.",
+      "zrodla": [
+        "s6",
+        "s1",
+        "s15"
+      ]
+    },
+    {
+      "pytanie": "Czy w ofercie jest HBO Max?",
+      "odpowiedz": "Tak, w pakiecie HBO + HBO MAX (kanały HBO 1–3 i serwis HBO Max). Umowa na 12 miesięcy; w GPON wymaga pakietu CLASSIC lub EXTRA.",
+      "zrodla": [
+        "s6",
+        "s3",
+        "s16"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Netflix albo Disney+?",
+      "odpowiedz": "Oficjalne materiały INEA nie wymieniają Netflixa ani Disney+ w ofercie ani na dekoderze HIWAY. Na dekoderze potwierdzony jest YouTube.",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s18"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę zmieniać pakiety w trakcie umowy?",
+      "odpowiedz": "Tak. CLASSIC, EXTRA i paczki tematyczne dodaje się i usuwa w dowolnym momencie (aplikacja INEA, infolinia, salon). Pakiety premium w promocji są na 12 miesięcy.",
+      "zrodla": [
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "pytanie": "Czy jest coś dla dzieci?",
+      "odpowiedz": "W START jest TVP ABC; CLASSIC dodaje m.in. Cartoon Network, Cartoonito, Disney Channel, MiniMini+, Nick Jr., teleTOON+; EXTRA m.in. Nickelodeon, Disney Junior, Disney XD, CBeebies, Da Vinci. Jest też paczka KIDS (2x2, Baby TV, Polsat JimJam, Top Kids, Junior Music).",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy oferta TV jest taka sama na sieci Fiberhost i Światłowód Inwestycje?",
+      "odpowiedz": "Tak, obowiązuje ten sam wykaz kanałów GPON i ten sam pakiet START w promocjach. Różnią się promocje i opłaty jednorazowe; Podłącz sam jest tylko na Fiberhost. Inne pakiety mają klienci w starej sieci kablowej HFC.",
+      "zrodla": [
+        "s1",
+        "s10",
+        "s11",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "pytanie": "Czy mam kanały regionalne z mojego miasta?",
+      "odpowiedz": "REGIO (w zestawie z START) zawiera 9 wydań TVP 3 (Bydgoszcz, Katowice, Kraków, Lublin, Łódź, Opole, Poznań, Warszawa, Wrocław) oraz m.in. WTK, TV Wielkopolska, RTK, STK, TV Regio, New TV, TV Relax.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy jest wypożyczalnia filmów?",
+      "odpowiedz": "Tak, VOD na dekoderze z płatnym wypożyczeniem pojedynczych tytułów (cena widoczna przy tytule w menu).",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s20"
+      ]
+    }
+  ],
+  "do_sprawdzenia": [
+    "Nexera: żaden oficjalny dokument INEA (cenniki, regulaminy promocji z października 2026, strona HIWAY) nie wymienia sieci Nexera. Nie potwierdzono, czy INEA sprzedaje usługi (w tym TV) na Nexerze i czy oferta TV jest tam taka sama.",
+    "Jakość kanałów (HD/SD): wykaz kanałów nie podaje jakości dla poszczególnych kanałów; potwierdzone są tylko kanały z kategorii 4K. W polu 'jakosc' wpisano 'nie podano'.",
+    "Model i system dekodera HIWAY (czy Android TV), dostępność innych aplikacji (Netflix, Disney+, Prime Video, Max) na dekoderze: brak informacji na stronach INEA.",
+    "Podstawowa pojemność nagrań (ile godzin w standardzie): nie podano; znane są tylko 14 dni przechowywania i dokupowane opcje.",
+    "INEA Online TV: dokładna lista kanałów w aplikacji i poza siecią INEA; strona podaje niespójnie 'prawie 100' i 'ponad 100' kanałów. Brak informacji o nagrywaniu i catch-up w aplikacji oraz o aplikacji na Smart TV.",
+    "Strona HIWAY.pl/filmbox opisuje kanały FilmBox Premium/Extra/Family/Action/Arthouse, a aktualny wykaz z 8.10.2026 wymienia Filmbox+ action/festival/emotion/comedy/hits; przyjęto wykaz.",
+    "Dla oferty HFC: nie sprawdzono list kanałów w cennikach operatora lokalnego (Prosat) ani w Gnieźnie, Wrześni i Pobiedziskach (osobny cennik z 9.07.2025).",
+    "Wymóg CLASSIC/EXTRA dla HBO + HBO MAX wynika z cennika podstawowego GPON; regulamin promocji Kanały PREMIUM 11.0 tego nie powtarza. Warto potwierdzić u INEA, czy klient z samym START może kupić HBO w promocji.",
+    "Plan serwisu CANAL+ online w pakietach (np. czy zawiera 4K) i dokładny plan HBO Max: opisy z landing page INEA, bez potwierdzenia w regulaminie.",
+    "Kontekst: media (spidersweb.pl, 08.2026) podają, że Deutsche Telekom przejmuje INEA i Fiberhost, z finalizacją po zgodzie UOKiK. Nie potwierdzono w źródłach INEA; możliwe przyszłe zmiany oferty."
+  ]
+}
