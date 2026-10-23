@@ -29,6 +29,8 @@ DATA = ROOT / "data"
 OPS_DIR = DATA / "operators"
 SCHEMA = (ROOT / "schema" / "operator.schema.md").read_text(encoding="utf-8")
 MODEL = os.environ.get("MODEL", "claude-sonnet-5-5")
+# twardy limit tokenów wejściowych na jednego operatora (bezpiecznik kosztów)
+MAX_INPUT_PER_OP = int(os.environ.get("MAX_INPUT_PER_OP", "700000"))
 TODAY = dt.date.today().isoformat()
 REQUIRED = ["operator", "slug", "zrodla", "pakiety", "kanaly", "dodatki", "streaming", "multiroom",
             "sprzet_i_funkcje", "warunki_ogolne", "faq", "do_sprawdzenia"]
@@ -45,6 +47,7 @@ Zasady (bezwzględne):
 - Nie usuwaj danych tylko dlatego, że nie udało się otworzyć źródła. Usuwasz kanał/pakiet/dodatek wyłącznie wtedy,
   gdy aktualne oficjalne źródło pokazuje, że go już nie ma. Jeśli źródło jest niedostępne, zostaw dane i dopisz to do "do_sprawdzenia".
 - Bez cen pakietów TV. WYJĄTEK: w sekcji "streaming" podawaj aktualne ceny i zasady (promocje, okres, warunki).
+- Oszczędzaj: czytaj tylko źródła potrzebne do weryfikacji (najpierw lista kanałów i strona streamingów), nie czytaj wielu podobnych stron. Jeśli główne źródła się nie zmieniły, odpowiedz BEZ_ZMIAN.
 - Najpierw sprawdź źródła z obecnych danych (lista URL w wiadomości), potem poszukaj nowszych wersji (np. nowy PDF z listą kanałów).
 - Teksty po polsku.
 
@@ -67,9 +70,9 @@ def call_claude(client, user_msg):
     """Wywołanie z obsługą pause_turn (długie przeszukiwanie po stronie serwera)."""
     messages = [{"role": "user", "content": user_msg}]
     tools = [
-        {"type": "web_search_20260318", "name": "web_search", "max_uses": 15,
+        {"type": "web_search_20260318", "name": "web_search", "max_uses": 5,
          "user_location": {"type": "approximate", "country": "PL", "timezone": "Europe/Warsaw"}},
-        {"type": "web_fetch_20260318", "name": "web_fetch", "max_uses": 25, "max_content_tokens": 120000},
+        {"type": "web_fetch_20260318", "name": "web_fetch", "max_uses": 10, "max_content_tokens": 40000},
     ]
     usage = {"input": 0, "output": 0, "searches": 0}
     for _ in range(8):
@@ -83,6 +86,8 @@ def call_claude(client, user_msg):
         if stu is not None:
             usage["searches"] += getattr(stu, "web_search_requests", 0) or 0
         if msg.stop_reason == "pause_turn":
+            if usage["input"] > MAX_INPUT_PER_OP:
+                raise RuntimeError(f"Przekroczony limit kosztów dla operatora ({usage['input']} tokenów), dane bez zmian")
             messages.append({"role": "assistant", "content": msg.content})
             continue
         text = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
@@ -169,7 +174,7 @@ def send_report(report):
         log("Brak MAKE_WEBHOOK_URL, raport tylko w logu")
         return
     req = urllib.request.Request(url, data=json.dumps(report, ensure_ascii=False).encode("utf-8"),
-                                 headers={"Content-Type": "application/json"})
+                                 headers={"Content-Type": "application/json", "User-Agent": "teleranking-tv/1.0 (+https://github.com/mojanetia-strona/teleranking-tv)"})
     urllib.request.urlopen(req, timeout=60).read()
     log("Raport wysłany do Make")
 
