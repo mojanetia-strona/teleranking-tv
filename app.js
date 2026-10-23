@@ -91,7 +91,7 @@
     const cats = [...new Set([...S.channels.values()].map((c) => c.kategoria))].sort();
     app.innerHTML = `
       <h1>Szukaj kanału</h1>
-      <p class="muted">Wpisz nazwę kanału i zobacz, u którego operatora jest i od jakiego pakietu.</p>
+      <p class="lead">Wpisz nazwę kanału i zobacz, u którego operatora jest i od jakiego pakietu.</p>
       <input class="search" id="q" placeholder="np. Polsat Sport, Eleven, TVN24, Canal+…" autofocus>
       <div class="bar" id="cats"><button class="chip on" data-c="">wszystkie</button>${cats.map((c) => `<button class="chip" data-c="${esc(c)}">${esc(c)}</button>`).join("")}</div>
       <div id="res"></div>`;
@@ -117,21 +117,21 @@
   function channelCard(c) {
     const rows = S.ops.map((o) => {
       const w = whereAt(o, c.key);
-      if (!w) return `<div class="res-op"><span>${esc(o.operator)}</span><span class="muted">brak</span></div>`;
+      if (!w) return `<div class="res-op none"><span>${esc(o.operator)}</span><span class="muted">brak</span></div>`;
       let txt = "";
       if (w.paks.length) txt = `od pakietu <b>${esc(w.paks[0].nazwa)}</b>` + (w.paks.length > 1 ? ` <span class="muted small">(też: ${w.paks.slice(1).map((p) => esc(p.nazwa)).join(", ")})</span>` : "");
       if (w.adds.length) txt += (txt ? "<br>" : "") + w.adds.map((d) => `<span class="tag add">dodatek</span> ${esc(d.nazwa)}`).join(", ");
       if (!txt) txt = '<span class="muted">jest na liście, bez przypisanego pakietu</span>';
       const note = w.k && w.k.uwagi && !/^dodatek:/i.test(w.k.uwagi) ? `<br><span class="muted small">${esc(w.k.uwagi)}</span>` : "";
-      return `<div class="res-op"><a href="#/operator/${o.slug}">${esc(o.operator)}</a><span style="text-align:right">${qual(w.k && w.k.jakosc)} ${txt}${note}</span></div>`;
+      return `<div class="res-op"><a href="#/operator/${o.slug}">${esc(o.operator)}</a><span class="val">${qual(w.k && w.k.jakosc)} ${txt}${note}</span></div>`;
     }).join("");
-    return `<div class="card"><h3>${esc(c.nazwa)} <span class="chip">${esc(c.kategoria)}</span></h3>${rows}</div>`;
+    return `<div class="card"><div class="ch-head"><h3 style="margin:0">${esc(c.nazwa)}</h3><span class="chip">${esc(c.kategoria)}</span></div>${rows}</div>`;
   }
 
   views.dobierz = function () {
     app.innerHTML = `
       <h1>Dobierz pakiet do kanałów</h1>
-      <p class="muted">Klient chce konkretne kanały? Dodaj je, a zobaczysz u każdego operatora najmniejszy pakiet (i ewentualne dodatki), który je zawiera.</p>
+      <p class="lead">Klient chce konkretne kanały? Dodaj je, a zobaczysz u każdego operatora najmniejszy pakiet (i ewentualne dodatki), który je zawiera.</p>
       <input class="search" id="q" placeholder="Dodaj kanał…">
       <div class="sugg" id="sg" hidden></div>
       <div class="pick" id="pk"></div>
@@ -157,7 +157,7 @@
           body = `<b>${esc(r.pak.nazwa)}</b>` + (r.adds.length ? ` + ${r.adds.map((d) => `<span class="tag add">dodatek</span> ${esc(d.nazwa)}`).join(" + ")}` : "");
           if (r.missing.length) body += `<br><span class="no">Brak:</span> ${r.missing.map((k) => esc(S.channels.get(k).nazwa)).join(", ")}`;
         }
-        return `<div class="card"><div class="op-head"><h3><a href="#/operator/${o.slug}">${esc(o.operator)}</a></h3></div>${body}</div>`;
+        return `<div class="card${r && !r.missing.length ? " best" : ""}"><div class="op-head"><h3><a href="#/operator/${o.slug}">${esc(o.operator)}</a></h3></div>${body}</div>`;
       }).join("");
     };
     draw();
@@ -183,7 +183,7 @@
   }
 
   views.operatorzy = function () {
-    app.innerHTML = `<h1>Operatorzy</h1><p class="muted">Ściągawka TV dla każdego operatora.</p><div class="grid">` +
+    app.innerHTML = `<h1>Operatorzy</h1><p class="lead">Ściągawka TV dla każdego operatora.</p><div class="grid">` +
       S.ops.map((o) => `<a class="card" style="text-decoration:none;color:inherit" href="#/operator/${o.slug}">
         <h3>${esc(o.operator)}</h3>
         <p class="small muted">${esc(o.podsumowanie || "")}</p>
@@ -254,13 +254,13 @@
       ["Streaming", (o) => arr(o.streaming).filter((s) => !/^brak/i.test(s.dostepnosc || "")).map((s) => `<span class="chip" title="${esc(s.dostepnosc)}">${esc(s.serwis)}</span>`).join("") || "-"],
       ["Dodatki premium", (o) => arr(o.dodatki).map((d) => `<span class="chip">${esc(d.nazwa)}</span>`).join("") || "-"],
     ];
-    app.innerHTML = `<h1>Porównanie operatorów</h1><p class="muted">Najważniejsze cechy obok siebie. Szczegóły i źródła w kartach operatorów.</p>
+    app.innerHTML = `<h1>Porównanie operatorów</h1><p class="lead">Najważniejsze cechy obok siebie. Szczegóły i źródła w kartach operatorów.</p>
       <div class="tbl"><table><tr><th></th>${S.ops.map((o) => `<th><a style="color:#fff" href="#/operator/${o.slug}">${esc(o.operator)}</a></th>`).join("")}</tr>
       ${rows.map(([l, f]) => `<tr><td><b>${l}</b></td>${S.ops.map((o) => `<td>${f(o)}</td>`).join("")}</tr>`).join("")}</table></div>`;
   };
 
   views.faq = function () {
-    app.innerHTML = `<h1>Pytania klientów</h1><p class="muted">Gotowe odpowiedzi na pytania o telewizję u każdego operatora.</p>
+    app.innerHTML = `<h1>Pytania klientów</h1><p class="lead">Gotowe odpowiedzi na pytania o telewizję u każdego operatora.</p>
       <input class="search" id="q" placeholder="np. multiroom, Netflix, nagrywanie, Smart TV…">
       <div class="bar" id="ops"><button class="chip on" data-s="">wszyscy</button>${S.ops.map((o) => `<button class="chip" data-s="${o.slug}">${esc(o.operator)}</button>`).join("")}</div><div id="res"></div>`;
     let op = "";
@@ -278,7 +278,7 @@
   };
 
   views.zmiany = function () {
-    app.innerHTML = `<h1>Historia zmian</h1><p class="muted">Co zmieniło się w ofertach TV przy cotygodniowych aktualizacjach.</p>` +
+    app.innerHTML = `<h1>Historia zmian</h1><p class="lead">Co zmieniło się w ofertach TV przy cotygodniowych aktualizacjach.</p>` +
       (arr(S.changelog).map((w) => `<div class="card"><h3>${esc(w.data)}</h3>${arr(w.operatorzy).map((x) => `<p><b>${esc(x.operator)}:</b></p><ul>${arr(x.zmiany).map((z) => `<li>${esc(z)}</li>`).join("")}</ul>`).join("") || '<p class="muted">Bez zmian.</p>'}</div>`).join("") || '<p class="muted">Brak wpisów.</p>');
   };
 

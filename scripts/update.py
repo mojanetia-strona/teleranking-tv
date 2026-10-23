@@ -175,7 +175,8 @@ def send_report(report):
 
 
 def main():
-    client = anthropic.Anthropic()
+    ws = os.environ.get("ANTHROPIC_WORKSPACE_ID", "").strip()
+    client = anthropic.Anthropic(default_headers={"anthropic-workspace-id": ws} if ws else None)
     index = json.loads((DATA / "index.json").read_text(encoding="utf-8"))
     only = [s.strip() for s in os.environ.get("ONLY", "").split(",") if s.strip()]
     slugs = [s for s in index["operatorzy"] if not only or s in only]
