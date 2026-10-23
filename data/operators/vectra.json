@@ -1,0 +1,3529 @@
+{
+  "operator": "Vectra",
+  "slug": "vectra",
+  "sprawdzono": "2026-10-23",
+  "zrodla": [
+    {
+      "id": "s1",
+      "tytul": "Wykaz telewizji cyfrowej IN01p v1.102 (obowiązuje od 1.10.2026), PDF",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202610021409556abf9f13729ca/in01p-wykaz-telewizji-cyfrowej-v-1-102.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s2",
+      "tytul": "Wykaz kanałów IN01 2.27 z numeracją EPG, kategoriami i jakością (1.04.2026), PDF",
+      "url": "https://tvo-48-26.e.blueonline.tv/s/vectra-www/uploads/2026041415302369de416f7b926/12300-in01-epg-oferta-programowa-2-27-260403.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s3",
+      "tytul": "Telewizja cyfrowa - oferta (pakiety Stalowy-Super Film & Sport)",
+      "url": "https://www.vectra.pl/oferta-telewizja-cyfrowa",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s4",
+      "tytul": "Pakiety Premium Telewizji",
+      "url": "https://www.vectra.pl/pakiety-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s5",
+      "tytul": "Telewizja internetowa TV Smart - oferta",
+      "url": "https://www.vectra.pl/oferta-telewizja-internetowa",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s6",
+      "tytul": "Wykaz programów gwarantowanych i niegwarantowanych dla Telewizji Smart IN16 v1.31 (od 15.09.2026), PDF",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202609141203236aa7c66b01850/in16-wykaz-programow-gwarantowanych-i-niegwarantowanych-dla-telewizji-smart-v-1-31.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s7",
+      "tytul": "Regulamin Szczegółowy Świadczenia Usługi Telewizji v3.1 (od 13.05.2025), PDF",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202505130828416822e69920e07/rg02-regulamin-szczegolowy-swiadczenia-uslugi-telewizji-v-3-1.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s8",
+      "tytul": "Regulamin świadczenia usługi TV Smart v2.1.1, PDF",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202607151246226a5764fe04a5d/rg17-regulamin-swiadczenia-tv-smart-v-2-1-1.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s9",
+      "tytul": "Cennik główny - cyfrowy CN02 v1.44 (wykorzystany tylko w zakresie nazw pakietów, dekoderów i warunków), PDF",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/2026043015353569f35aa76168a/cn02-cennik-glowny-cyfrowy-v-1-44.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s10",
+      "tytul": "Poznaj nasze dekodery",
+      "url": "https://www.vectra.pl/poznaj-nasze-dekodery",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s11",
+      "tytul": "Poznaj naszą telewizję",
+      "url": "https://www.vectra.pl/poznaj-nasza-telewizja",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s12",
+      "tytul": "TV Smart GO",
+      "url": "https://www.vectra.pl/tv-smart-go",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s13",
+      "tytul": "CANAL+ w Vectrze",
+      "url": "https://www.vectra.pl/canal-plus-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s14",
+      "tytul": "Superpakiety Internet + Telewizja + Streaming",
+      "url": "https://www.vectra.pl/oferta-internet-telewizja-premium",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s15",
+      "tytul": "Poradnik TV Smart",
+      "url": "https://www.vectra.pl/tv-smart-poradnik",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s16",
+      "tytul": "Informacja prasowa Vectry 'Królewska oferta' (2.03.2026), PDF",
+      "url": "https://www.telko.in/download,13070,2026_03_02_%28Vectra+startuje+z+Kr%C3%B3lewsk%C4%85+ofert%C4%85%29_informacja+prasowa.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s17",
+      "tytul": "Telewizja - strona główna sekcji",
+      "url": "https://www.vectra.pl/telewizja",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    }
+  ],
+  "podsumowanie": "Vectra sprzedaje telewizję w dwóch liniach: telewizja cyfrowa w sieci kablowej (pakiety Stalowy 37, Srebrny 72, Złoty 128, Platynowy 167, Super Film & Sport 191 kanałów) oraz telewizja internetowa TV Smart z dekoderem Android TV (pakiety 41/81/125 kanałów). Pakiety są kumulatywne, w aktualnej ofercie Srebrny i wyższe mają HBO z biblioteką HBO Max. TV można kupić samodzielnie lub w pakiecie z internetem (Superpakiety ze streamingiem: Netflix, Disney+, HBO Max, CANAL+). Każdy klient TV ma bezpłatną aplikację TV Smart GO (3 ekrany jednocześnie).",
+  "technologie": [
+    {
+      "nazwa": "DVB-C (kablówka)",
+      "opis": "Telewizja cyfrowa w sieci kablowej Vectry, dekoder (Vectra 4K BOX / 4K BOX PVR / HD) lub moduł CI+ 4K w gnieździe telewizora. Dostępna tylko pod adresami w zasięgu sieci Vectry. Regulamin mówi ogólnie o sygnale cyfrowym lub analogowym, nazwa DVB-C nie pada w źródłach wprost.",
+      "zrodla": [
+        "s3",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "nazwa": "Telewizja analogowa (kablówka)",
+      "opis": "Cennik wymienia analogowe pakiety Złoty/Złoty+, Srebrny/Srebrny+, Polski, Stalowy (oferta schyłkowa, dostępna w wybranych lokalizacjach).",
+      "zrodla": [
+        "s9"
+      ]
+    },
+    {
+      "nazwa": "IPTV / OTT (TV Smart)",
+      "opis": "Telewizja internetowa TV Smart: sygnał przesyłany przez internet do urządzenia TV Smart 4K BOX (Android TV). Wymaga łącza min. 10 Mb/s (HD) lub 25 Mb/s (4K). Regulamin TV Smart nie wymaga, by łącze było od Vectry, ale regulamin telewizji dla dekodera Smart wymaga usługi internetu od Dostawcy (niespójność, patrz do_sprawdzenia).",
+      "zrodla": [
+        "s5",
+        "s8",
+        "s7"
+      ]
+    },
+    {
+      "nazwa": "OTT (aplikacja)",
+      "opis": "Aplikacja TV Smart GO (Android, iOS) i przeglądarka tvsmart.vectra.pl, bezpłatnie dla klientów TV, do 3 ekranów jednocześnie, także poza domem w UE.",
+      "zrodla": [
+        "s12",
+        "s2"
+      ]
+    }
+  ],
+  "pakiety": [
+    {
+      "id": "vectra-stalowy",
+      "nazwa": "Pakiet Stalowy",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 37,
+      "liczba_kanalow_hd": 35,
+      "zawiera_pakiet": null,
+      "opis": "Najmniejszy pakiet telewizji cyfrowej (kablowej): kanały naziemne TVP, Polsat, TVN, TV Puls, TV4 oraz tematyczne TVP. Dla osób, które chcą głównie kanałów ogólnodostępnych w lepszej jakości.",
+      "warunki": "Telewizja cyfrowa w sieci kablowej Vectry, dekoder w cenie. Oferowany z 23-miesięcznym okresem zobowiązania lub bez zobowiązania. 37 pozycji wg wykazu (TVP 3 liczone podwójnie, dwie wersje regionalne).",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "vectra-srebrny",
+      "nazwa": "Pakiet Srebrny",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 72,
+      "liczba_kanalow_hd": 60,
+      "zawiera_pakiet": "vectra-stalowy",
+      "opis": "Rozszerzenie Stalowego o m.in. TVN 24 BIS, TVN Fabuła, Food Network, HGTV, FilmBox+ One, Polsat Sport 1, Polsat 2. W aktualnej ofercie z kanałami HBO, HBO 2, HBO 3 i pełną biblioteką HBO Max.",
+      "warunki": "Telewizja cyfrowa w sieci kablowej Vectry. Strona oferty podaje 72 kanały, wykaz IN01 2.27 podaje 73. HBO i HBO Max w cenie wg aktualnej oferty (s3).",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "vectra-zloty",
+      "nazwa": "Pakiet Złoty",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 128,
+      "liczba_kanalow_hd": 109,
+      "zawiera_pakiet": "vectra-srebrny",
+      "opis": "Pakiet rodzinny: dochodzą Discovery, National Geographic, TLC, TVN 24, TVN Style, TVN Turbo, AXN, Warner TV, 13 Ulica, CNN, Cartoon Network, Cartoonito, Disney Channel, Nickelodeon, Eurosport 1, Canal+ Sport 5, Polsat News, Polsat Film.",
+      "warunki": "Telewizja cyfrowa w sieci kablowej Vectry. Strona oferty: 128 kanałów, wykaz IN01 2.27: 129. Wg strony oferty zawiera HBO, HBO 2, HBO 3 i HBO Max.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "vectra-platynowy",
+      "nazwa": "Pakiet Platynowy",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 167,
+      "liczba_kanalow_hd": 143,
+      "zawiera_pakiet": "vectra-zloty",
+      "opis": "Największy pakiet bazowy: dodatkowo BBC Earth, BBC First, BBC Lifestyle, Animal Planet, Disney Junior, CBeebies, FX, FX Comedy, AXN Spin/White, Polsat Cafe, Polsat Doku, Polsat Play, Filmax 4K, Funbox UHD, Ultra TV 4K, InUltra, Eleven Sports 4, Canal+ Domo i Kuchnia.",
+      "warunki": "Telewizja cyfrowa w sieci kablowej Vectry. Strona oferty: 167 kanałów, wykaz IN01 2.27: 168. Wg strony oferty zawiera HBO i HBO Max.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "vectra-super-film-sport",
+      "nazwa": "Pakiet Super Film & Sport",
+      "rodzaj": "premium",
+      "liczba_kanalow": 191,
+      "liczba_kanalow_hd": 160,
+      "zawiera_pakiet": "vectra-platynowy",
+      "opis": "Najwyższy pakiet: wg strony Pakietów Premium łączy pakiet kanałów HBO z dostępem do HBO Max, FilmBox+ oraz Sport na Ostro (Polsat Sport 2, Eurosport 3/4, Extreme Channel, Motowizja, Golf Zone, FightKlub, kanały e-sportowe, Dorcel XXX).",
+      "warunki": "Liczba kanałów różni się w źródłach: oferta 191, strona Pakietów Premium 189, wykaz IN01 2.27: 190. Skład wyprowadzony z opisu na vectra.pl/pakiety-tv, nie z wykazu IN01p (nie ma w nim osobnej kolumny).",
+      "zrodla": [
+        "s3",
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "id": "vectra-smart-start",
+      "nazwa": "TV Smart - Pakiet Start (41 kanałów w ofercie)",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 27,
+      "liczba_kanalow_hd": 24,
+      "zawiera_pakiet": null,
+      "opis": "Telewizja internetowa TV Smart (przez internet, dekoder TV Smart 4K BOX). Kanały główne: TVP 1, TVP 2, TVN, TVN 7, Polsat, TV Puls, WP, Metro, kanały 4K Funbox UHD i Ultra TV 4K.",
+      "warunki": "Wykaz IN16 podaje 27 pozycji, strona oferty reklamuje pakiet jako 41 kanałów (różnica niewyjaśniona). Wymagane łącze min. 10 Mb/s (HD) / 25 Mb/s (4K).",
+      "zrodla": [
+        "s5",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "id": "vectra-smart-standard",
+      "nazwa": "TV Smart - Pakiet Standard (81 kanałów w ofercie)",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 66,
+      "liczba_kanalow_hd": 58,
+      "zawiera_pakiet": "vectra-smart-start",
+      "opis": "Start + Discovery, National Geographic, TLC, TVN 24, TVN 24 BIS, TVN Style, TVN Turbo, Eurosport 1-4, Disney Channel, Nickelodeon, Kino Polska, History.",
+      "warunki": "Wykaz IN16: 66 pozycji, strona oferty: 81 kanałów.",
+      "zrodla": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "id": "vectra-smart-max",
+      "nazwa": "TV Smart - Pakiet Max (125 kanałów w ofercie)",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 110,
+      "liczba_kanalow_hd": 95,
+      "zawiera_pakiet": "vectra-smart-standard",
+      "opis": "Standard + AXN, BBC Brit/Earth/First/Lifestyle, Cartoon Network, Cartoonito, Disney Junior, CNN, Warner TV, FX, Canal+ Sport 5, Filmbox+ One, Filmax 4K, Polsat Viasat Nature/Explore.",
+      "warunki": "Wykaz IN16: 110 pozycji, strona oferty: 125 kanałów.",
+      "zrodla": [
+        "s5",
+        "s6"
+      ]
+    }
+  ],
+  "kanaly": [
+    {
+      "nazwa": "ANTENA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "POLSAT",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "PULS 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "STOPKLATKA",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TTV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TV PULS",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max; Na liście w wersji HD i SD (dwie pozycje)"
+    },
+    {
+      "nazwa": "TV TRWAM",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TV4",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TVN 7",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TVP 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TVP 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TVP 3",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Start, TV Smart Standard, TV Smart Max; Dwie wersje regionalne TVP 3 (dwie pozycje na liście, nr 138 i 139); w TV Smart regionalne oddziały TVP 3"
+    },
+    {
+      "nazwa": "TVP ABC",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP HISTORIA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP INFO",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP KULTURA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP POLONIA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP ROZRYWKA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP SPORT",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "ALFA TVP",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "ESKA TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "FOKUS TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "MANGO",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "METRO",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "NOWA TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "POLO TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "SUPER POLSAT",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TV OKAZJE",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TV6",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TVP DOKUMENT",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TVP KOBIETA",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TVP NAUKA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "WP",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "WTK",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "ZOOM TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-stalowy",
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Stalowy, Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "4FUN.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FILMBOX+ ONE",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FOOD NETWORK",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "HGTV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN 24 BIS",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN FABUŁA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "4FUN DANCE",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "4FUN KIDS",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "AL JAZEERA",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "BELSAT TV",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "BLOOMBERG",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "DAYSTAR",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "DW",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "ESKA ROCK TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "ESPRESO",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "EWTN POLSKA",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "FASHION TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "FRANCE 24 (ANG)",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "FRANCE 24 (FRANC)",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "FREEDOM",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "KABARET TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "KINO POLSKA MUZYKA",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "MINIMINI+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "MUSIC BOX POLSKA",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "POLONIA 1",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "POLSAT 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy; dodatek: vectra-polsat-2"
+    },
+    {
+      "nazwa": "POLSAT NEWS 2",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "POLSAT NEWS POLITYKA",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "POLSAT SPORT 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy; dodatek: vectra-sport-na-ostro, vectra-polsat-sport"
+    },
+    {
+      "nazwa": "POWER TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "ROMANCE TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TBN POLSKA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TRAVEL CHANNEL",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TV 5 MONDE",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TVS",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Srebrny, Złoty, Platynowy"
+    },
+    {
+      "nazwa": "13 ULICA",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AXN",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy; Na liście w wersji HD (gwarantowany) i SD (niegwarantowany)"
+    },
+    {
+      "nazwa": "BBC BRIT",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "CARTOONITO",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Max"
+    },
+    {
+      "nazwa": "CARTOON NETWORK",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "CNN",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Max"
+    },
+    {
+      "nazwa": "DISCOVERY CHANNEL",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DISCOVERY HISTORIA",
+      "kategoria": "dokumentalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DISCOVERY LIFE",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DISCOVERY SCIENCE",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DISNEY CHANNEL",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DTX",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "EUROSPORT 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "KINO POLSKA",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "MTV POLSKA",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "NATIONAL GEOGRAPHIC",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "NICKELODEON",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TLC",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN 24",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN STYLE",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN TURBO",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał 'TVP HD' (nr 113 w EPG)"
+    },
+    {
+      "nazwa": "TVP SERIALE",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "WARNER TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Max"
+    },
+    {
+      "nazwa": "AMC",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "AXN BLACK",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "BBC NEWS",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "BIZNES24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "BOLLYWOOD",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "CANAL+ SPORT 5",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "COMEDY CENTRAL",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "CRIME+INVESTIGATION POLSAT",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "DISNEY XD",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "ECHO24",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "ESKA TV EXTRA",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "HISTORY",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "HOME TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "ID",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "MIXTAPE",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "NATIONAL GEOGRAPHIC WILD",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "NICKTOONS",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "NOVELAS+1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "PARAMOUNT NETWORK",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "POLSAT COMEDY CENTRAL EXTRA",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "POLSAT FILM",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy; dodatek: vectra-polsat-film"
+    },
+    {
+      "nazwa": "POLSAT NEWS",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy; dodatek: vectra-polsat-news"
+    },
+    {
+      "nazwa": "POLSAT VIASAT HISTORY",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "SPORTKLUB",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "STARS.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TELE 5",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TV REGIONALNA.PL",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "TV REPUBLIKA",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "TVC",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "VIASAT TRUE CRIME",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "VOX MUSIC TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "WPOLSCE24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-zloty",
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Złoty, Platynowy"
+    },
+    {
+      "nazwa": "ANIMAL PLANET",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Max"
+    },
+    {
+      "nazwa": "BBC EARTH",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC FIRST",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC LIFESTYLE",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "CBEEBIES",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DISNEY JUNIOR",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FX COMEDY",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "ACTIVE FAMILY",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "ADVENTURE",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy"
+    },
+    {
+      "nazwa": "ALE KINO+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "AXN SPIN",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "AXN WHITE",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "CANAL+ DOMO",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "CANAL+ KUCHNIA",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "DA VINCI",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy"
+    },
+    {
+      "nazwa": "DOCUBOX",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "ELEVEN SPORTS 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy; dodatek: vectra-eleven"
+    },
+    {
+      "nazwa": "EPIC DRAMA",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "FILMAX 4K",
+      "kategoria": "filmy i seriale",
+      "jakosc": "4K",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "FILMAX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy"
+    },
+    {
+      "nazwa": "FX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "FUNBOX U",
+      "kategoria": "ogólne",
+      "jakosc": "4K",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "HISTORY2",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "INULTRA",
+      "kategoria": "ogólne",
+      "jakosc": "4K",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "JUNIOR MUSIC",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "LRT LITUANICA",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "NAT GEO PEOPLE",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "NICK JR",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "NUTA GOLD",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy"
+    },
+    {
+      "nazwa": "NUTA.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy"
+    },
+    {
+      "nazwa": "PLANETE+",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "POLSAT CAFE",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy; dodatek: vectra-polsat-cafe"
+    },
+    {
+      "nazwa": "POLSAT DOKU",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy"
+    },
+    {
+      "nazwa": "POLSAT PLAY",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy; dodatek: vectra-polsat-play"
+    },
+    {
+      "nazwa": "POLSAT VIASAT EXPLORE",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "POLSAT VIASAT NATURE",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "TELETOON+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "TOP KIDS",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Max"
+    },
+    {
+      "nazwa": "ULTRA TV 4K",
+      "kategoria": "ogólne",
+      "jakosc": "4K",
+      "pakiety": [
+        "vectra-platynowy",
+        "vectra-super-film-sport",
+        "vectra-smart-start",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: Platynowy, TV Smart Start, TV Smart Standard, TV Smart Max"
+    },
+    {
+      "nazwa": "CANAL+ PREMIUM",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-seriale-filmy, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-seriale-filmy, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ 360",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-seriale-filmy, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ FILM",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-seriale-filmy, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ SPORT",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ SPORT 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ NOW",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ SPORT 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ SPORT 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-select, vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ DOKUMENT",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-seriale-filmy, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ SERIALE",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "Wg wykazu EPG (IN01 2.27) kanał dostępny tylko w wybranych lokalizacjach; dodatek: vectra-canal-prestige, vectra-canal-prestige-4k, vectra-canal-seriale-filmy, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ 4K",
+      "kategoria": "sportowe",
+      "jakosc": "4K",
+      "pakiety": [],
+      "uwagi": "Wymaga dekodera TV Smart 4K BOX (vectra.pl/canal-plus-tv); dodatek: vectra-canal-prestige-4k, vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 5",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 6",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 7",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-canal-super-sport"
+    },
+    {
+      "nazwa": "HBO",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "W aktualnych ofertach vectra.pl kanały HBO + biblioteka HBO Max są w cenie pakietów Srebrny, Złoty i Platynowy (promocja), formalnie osobny pakiet HBO w wykazie IN01p; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-hbo"
+    },
+    {
+      "nazwa": "HBO 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "W aktualnych ofertach vectra.pl kanały HBO + biblioteka HBO Max są w cenie pakietów Srebrny, Złoty i Platynowy (promocja), formalnie osobny pakiet HBO w wykazie IN01p; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-hbo"
+    },
+    {
+      "nazwa": "HBO 3",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "W aktualnych ofertach vectra.pl kanały HBO + biblioteka HBO Max są w cenie pakietów Srebrny, Złoty i Platynowy (promocja), formalnie osobny pakiet HBO w wykazie IN01p; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-hbo"
+    },
+    {
+      "nazwa": "CINEMAX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-cinemax"
+    },
+    {
+      "nazwa": "CINEMAX 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-cinemax"
+    },
+    {
+      "nazwa": "FIGHTBOX",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ ACTION",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ COMEDY",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ EMOTION",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ FESTIVAL",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ HITS",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-filmbox"
+    },
+    {
+      "nazwa": "ELEVEN SPORTS 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-eleven"
+    },
+    {
+      "nazwa": "ELEVEN SPORTS 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-eleven, vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "ELEVEN SPORTS 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-eleven"
+    },
+    {
+      "nazwa": "ELEVEN SPORTS 1 4K",
+      "kategoria": "sportowe",
+      "jakosc": "4K",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-eleven"
+    },
+    {
+      "nazwa": "EUROSPORT 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "DORCEL XXX",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro, vectra-erotyczny"
+    },
+    {
+      "nazwa": "E-SPORT",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "EXTREME CHANNEL",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "EUROSPORT 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Standard, TV Smart Max; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "EUROSPORT 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport",
+        "vectra-smart-standard",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Standard, TV Smart Max; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "FIGHTKLUB",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "GAMETOON",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Max; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "GINX ESPORTS TV",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport",
+        "vectra-smart-max"
+      ],
+      "uwagi": "Kanał niegwarantowany (operator może go wycofać bez zmiany umowy) w: TV Smart Max; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "GOLF ZONE",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "MOTOWIZJA",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro"
+    },
+    {
+      "nazwa": "POLSAT SPORT 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "vectra-super-film-sport"
+      ],
+      "uwagi": "Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-sport-na-ostro, vectra-polsat-sport-extra"
+    },
+    {
+      "nazwa": "1+1 INTERNATIONAL",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "DACHA TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "FILM UA DRAMA",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "KUS KUS",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "NIKI JUNIOR",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "NIKI KIDS",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "STAR CINEMA",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "STAR FAMILY",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-ukraina"
+    },
+    {
+      "nazwa": "ADULT CHANNEL",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-erotyczny"
+    },
+    {
+      "nazwa": "BLUE HUSTLER",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-erotyczny"
+    },
+    {
+      "nazwa": "BRAZZERS TV EUROPE",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-erotyczny"
+    },
+    {
+      "nazwa": "HUSTLER TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-erotyczny"
+    },
+    {
+      "nazwa": "PRIVATE TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: vectra-erotyczny"
+    }
+  ],
+  "dodatki": [
+    {
+      "id": "vectra-hbo",
+      "nazwa": "Pakiet HBO",
+      "rodzaj": "filmowy",
+      "zawartosc": "3 kanały HBO; w ofercie HBO Max (warianty Podstawowy/Standardowy/Premium w cenniku).",
+      "kanaly": [
+        "HBO",
+        "HBO 2",
+        "HBO 3"
+      ],
+      "warunki": "W aktualnych ofertach telewizji cyfrowej HBO + HBO Max są w cenie pakietów Srebrny, Złoty, Platynowy. Dostępny też w TV Smart.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s6",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-cinemax",
+      "nazwa": "Pakiet Cinemax",
+      "rodzaj": "filmowy",
+      "zawartosc": "2 kanały Cinemax.",
+      "kanaly": [
+        "CINEMAX",
+        "CINEMAX 2"
+      ],
+      "warunki": "Wg cennika dostępny samodzielnie lub jako dokupienie do HBO (wariant dokupiony tylko dla abonentów pakietu HBO). Dostępny też w TV Smart.",
+      "zrodla": [
+        "s1",
+        "s6",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-filmbox",
+      "nazwa": "Pakiet FilmBox+",
+      "rodzaj": "filmowy",
+      "zawartosc": "5 kanałów FilmBox+ i FightBox; na stronie oferowany też serwis FILMBOX+ Stream.",
+      "kanaly": [
+        "FIGHTBOX",
+        "FILMBOX+ ACTION",
+        "FILMBOX+ COMEDY",
+        "FILMBOX+ EMOTION",
+        "FILMBOX+ FESTIVAL",
+        "FILMBOX+ HITS"
+      ],
+      "warunki": "Wymaga pakietu bazowego TV. W cenie Pakietu Super Film & Sport.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "id": "vectra-canal-seriale-filmy",
+      "nazwa": "CANAL+ Seriale i Filmy",
+      "rodzaj": "premium",
+      "zawartosc": "6 kanałów CANAL+ (filmy, seriale, CANAL+ ORIGINAL, dokumenty) w HD/4K + treści w serwisie streamingowym CANAL+.",
+      "kanaly": [
+        "CANAL+ PREMIUM",
+        "CANAL+ 1",
+        "CANAL+ 360",
+        "CANAL+ FILM",
+        "CANAL+ DOKUMENT",
+        "CANAL+ SERIALE"
+      ],
+      "warunki": "Dodatek do telewizji, bez okresu zobowiązania. Działa na wybranych dekoderach.",
+      "zrodla": [
+        "s1",
+        "s13",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-canal-super-sport",
+      "nazwa": "CANAL+ Super Sport",
+      "rodzaj": "sport",
+      "zawartosc": "19 kanałów: CANAL+ Sport 1-4, CANAL+ Extra 1-7, CANAL+ 4K, kanały filmowe CANAL+. Liga Mistrzów UEFA, PKO BP Ekstraklasa, Premier League, wybrane mecze LaLiga + serwis CANAL+.",
+      "kanaly": [
+        "CANAL+ PREMIUM",
+        "CANAL+ 1",
+        "CANAL+ 360",
+        "CANAL+ FILM",
+        "CANAL+ SPORT",
+        "CANAL+ SPORT 2",
+        "CANAL+ NOW",
+        "CANAL+ SPORT 3",
+        "CANAL+ SPORT 4",
+        "CANAL+ DOKUMENT",
+        "CANAL+ SERIALE",
+        "CANAL+ 4K",
+        "CANAL+ EXTRA 1",
+        "CANAL+ EXTRA 2",
+        "CANAL+ EXTRA 3",
+        "CANAL+ EXTRA 4",
+        "CANAL+ EXTRA 5",
+        "CANAL+ EXTRA 6",
+        "CANAL+ EXTRA 7"
+      ],
+      "warunki": "Dodatek do telewizji, bez okresu zobowiązania. Kanał CANAL+ 4K tylko z dekoderem TV Smart 4K BOX.",
+      "zrodla": [
+        "s1",
+        "s13"
+      ]
+    },
+    {
+      "id": "vectra-canal-select",
+      "nazwa": "CANAL+ Select",
+      "rodzaj": "premium",
+      "zawartosc": "CANAL+ Premium, 1, 360, Film, Sport, Sport 2 (+ Now, Sport 3, Sport 4 niegwarantowane).",
+      "kanaly": [
+        "CANAL+ PREMIUM",
+        "CANAL+ 1",
+        "CANAL+ 360",
+        "CANAL+ FILM",
+        "CANAL+ SPORT",
+        "CANAL+ SPORT 2",
+        "CANAL+ NOW",
+        "CANAL+ SPORT 3",
+        "CANAL+ SPORT 4"
+      ],
+      "warunki": "Ujęty w wykazie i cenniku; na stronie www nie jest aktywnie promowany. Działa na wybranych dekoderach.",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-canal-prestige",
+      "nazwa": "CANAL+ Prestige",
+      "rodzaj": "premium",
+      "zawartosc": "Jak Select + CANAL+ Dokument i CANAL+ Seriale.",
+      "kanaly": [
+        "CANAL+ PREMIUM",
+        "CANAL+ 1",
+        "CANAL+ 360",
+        "CANAL+ FILM",
+        "CANAL+ SPORT",
+        "CANAL+ SPORT 2",
+        "CANAL+ NOW",
+        "CANAL+ SPORT 3",
+        "CANAL+ SPORT 4",
+        "CANAL+ DOKUMENT",
+        "CANAL+ SERIALE"
+      ],
+      "warunki": "Ujęty w wykazie i cenniku; na stronie www nie jest aktywnie promowany.",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-canal-prestige-4k",
+      "nazwa": "CANAL+ Prestige 4K",
+      "rodzaj": "premium",
+      "zawartosc": "Jak Prestige + CANAL+ 4K Ultra HD.",
+      "kanaly": [
+        "CANAL+ PREMIUM",
+        "CANAL+ 1",
+        "CANAL+ 360",
+        "CANAL+ FILM",
+        "CANAL+ SPORT",
+        "CANAL+ SPORT 2",
+        "CANAL+ NOW",
+        "CANAL+ SPORT 3",
+        "CANAL+ SPORT 4",
+        "CANAL+ DOKUMENT",
+        "CANAL+ SERIALE",
+        "CANAL+ 4K"
+      ],
+      "warunki": "Wymaga dekodera 4K.",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-eleven",
+      "nazwa": "Pakiet Eleven",
+      "rodzaj": "sport",
+      "zawartosc": "Eleven Sports 1-4 i Eleven Sports 1 4K. Cennik wymienia też Eleven Online (serwis i aplikacja TV Smart GO).",
+      "kanaly": [
+        "ELEVEN SPORTS 4",
+        "ELEVEN SPORTS 1",
+        "ELEVEN SPORTS 2",
+        "ELEVEN SPORTS 3",
+        "ELEVEN SPORTS 1 4K"
+      ],
+      "warunki": "Wymaga pakietu bazowego. Dostępny też w TV Smart. W wybranych ofertach internet+TV jako prezent.",
+      "zrodla": [
+        "s1",
+        "s6",
+        "s9",
+        "s14"
+      ]
+    },
+    {
+      "id": "vectra-sport-na-ostro",
+      "nazwa": "Sport na Ostro",
+      "rodzaj": "sport",
+      "zawartosc": "15 kanałów: Eurosport 1-4, Polsat Sport 1-2, Eleven Sports 2, Extreme Channel, Motowizja, Golf Zone, FightKlub, E-Sport, Gametoon, Ginx Esports TV, Dorcel XXX (18+).",
+      "kanaly": [
+        "POLSAT SPORT 1",
+        "EUROSPORT 1",
+        "ELEVEN SPORTS 2",
+        "EUROSPORT 2",
+        "DORCEL XXX",
+        "E-SPORT",
+        "EXTREME CHANNEL",
+        "EUROSPORT 3",
+        "EUROSPORT 4",
+        "FIGHTKLUB",
+        "GAMETOON",
+        "GINX ESPORTS TV",
+        "GOLF ZONE",
+        "MOTOWIZJA",
+        "POLSAT SPORT 2"
+      ],
+      "warunki": "Wymaga pakietu bazowego. W cenie Pakietu Super Film & Sport. Na stronie występuje też wariant 'Pakiet Ostry' (20 kanałów: 14 sportowych + 6 dla dorosłych), bez pełnej listy.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "vectra-erotyczny",
+      "nazwa": "Pakiet Erotyczny (dla dorosłych)",
+      "rodzaj": "erotyczny",
+      "zawartosc": "6 kanałów: Dorcel XXX, Blue Hustler, Hustler TV, Adult Channel, Brazzers TV Europe, Private TV.",
+      "kanaly": [
+        "DORCEL XXX",
+        "ADULT CHANNEL",
+        "BLUE HUSTLER",
+        "BRAZZERS TV EUROPE",
+        "HUSTLER TV",
+        "PRIVATE TV"
+      ],
+      "warunki": "Tylko dla pełnoletnich, dostęp chroniony hasłem/PIN.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "id": "vectra-ukraina",
+      "nazwa": "Pakiet Ukraina",
+      "rodzaj": "inny",
+      "zawartosc": "Kanały ukraińskie: 1+1 International, Star Cinema, Star Family (TV Smart), Dacha TV, Film UA Drama, Kus Kus, Niki Junior, Niki Kids.",
+      "kanaly": [
+        "1+1 INTERNATIONAL",
+        "DACHA TV",
+        "FILM UA DRAMA",
+        "KUS KUS",
+        "NIKI JUNIOR",
+        "NIKI KIDS",
+        "STAR CINEMA",
+        "STAR FAMILY"
+      ],
+      "warunki": "W telewizji cyfrowej 7 kanałów (bez Star Family), w TV Smart 8.",
+      "zrodla": [
+        "s1",
+        "s6"
+      ]
+    },
+    {
+      "id": "vectra-polsat-2",
+      "nazwa": "Kanał Polsat 2 (pojedynczy)",
+      "rodzaj": "inny",
+      "zawartosc": "Pojedynczy kanał do dokupienia.",
+      "kanaly": [
+        "POLSAT 2"
+      ],
+      "warunki": "Wymaga usługi telewizji cyfrowej. Przydatne głównie w niższych pakietach (w wyższych kanał bywa w składzie jako niegwarantowany).",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-polsat-cafe",
+      "nazwa": "Kanał Polsat Cafe (pojedynczy)",
+      "rodzaj": "inny",
+      "zawartosc": "Pojedynczy kanał do dokupienia.",
+      "kanaly": [
+        "POLSAT CAFE"
+      ],
+      "warunki": "Wymaga usługi telewizji cyfrowej. Przydatne głównie w niższych pakietach (w wyższych kanał bywa w składzie jako niegwarantowany).",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-polsat-film",
+      "nazwa": "Kanał Polsat Film (pojedynczy)",
+      "rodzaj": "inny",
+      "zawartosc": "Pojedynczy kanał do dokupienia.",
+      "kanaly": [
+        "POLSAT FILM"
+      ],
+      "warunki": "Wymaga usługi telewizji cyfrowej. Przydatne głównie w niższych pakietach (w wyższych kanał bywa w składzie jako niegwarantowany).",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-polsat-news",
+      "nazwa": "Kanał Polsat News (pojedynczy)",
+      "rodzaj": "inny",
+      "zawartosc": "Pojedynczy kanał do dokupienia.",
+      "kanaly": [
+        "POLSAT NEWS"
+      ],
+      "warunki": "Wymaga usługi telewizji cyfrowej. Przydatne głównie w niższych pakietach (w wyższych kanał bywa w składzie jako niegwarantowany).",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-polsat-play",
+      "nazwa": "Kanał Polsat Play (pojedynczy)",
+      "rodzaj": "inny",
+      "zawartosc": "Pojedynczy kanał do dokupienia.",
+      "kanaly": [
+        "POLSAT PLAY"
+      ],
+      "warunki": "Wymaga usługi telewizji cyfrowej. Przydatne głównie w niższych pakietach (w wyższych kanał bywa w składzie jako niegwarantowany).",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-polsat-sport",
+      "nazwa": "Kanał Polsat Sport (pojedynczy)",
+      "rodzaj": "sport",
+      "zawartosc": "Pojedynczy kanał do dokupienia.",
+      "kanaly": [
+        "POLSAT SPORT 1"
+      ],
+      "warunki": "Wymaga usługi telewizji cyfrowej. Przydatne głównie w niższych pakietach (w wyższych kanał bywa w składzie jako niegwarantowany).",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "vectra-polsat-sport-extra",
+      "nazwa": "Kanał Polsat Sport Extra (pojedynczy)",
+      "rodzaj": "sport",
+      "zawartosc": "Pojedynczy kanał do dokupienia.",
+      "kanaly": [
+        "POLSAT SPORT 2"
+      ],
+      "warunki": "Wymaga usługi telewizji cyfrowej. Przydatne głównie w niższych pakietach (w wyższych kanał bywa w składzie jako niegwarantowany).",
+      "zrodla": [
+        "s1",
+        "s9"
+      ]
+    }
+  ],
+  "streaming": [
+    {
+      "serwis": "Max",
+      "dostepnosc": "w cenie pakietu Srebrny, Złoty, Platynowy, Super Film & Sport (aktualna oferta) | jako płatny dodatek (HBO Max Podstawowy/Standardowy/Premium)",
+      "opis": "Kanały HBO, HBO 2, HBO 3 + pełna biblioteka HBO Max. Aplikacja HBO Max dostępna na dekoderach TV Smart 4K BOX.",
+      "zrodla": [
+        "s3",
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "serwis": "Netflix",
+      "dostepnosc": "w cenie wybranych Superpakietów internet+TV | integracja w dekoderze (logowanie własnym kontem)",
+      "opis": "Netflix (plan Podstawowy) w Superpakiecie 129 kanałów na czas umowy. Aplikacja Netflix preinstalowana na Vectra 4K BOX i 4K BOX PVR, dostępna na TV Smart 4K BOX.",
+      "zrodla": [
+        "s14",
+        "s10",
+        "s16"
+      ]
+    },
+    {
+      "serwis": "Disney+",
+      "dostepnosc": "w cenie wybranych Superpakietów internet+TV | integracja w dekoderze",
+      "opis": "Disney+ Standard w Superpakiecie. Aplikacja preinstalowana na Vectra 4K BOX/PVR.",
+      "zrodla": [
+        "s14",
+        "s10"
+      ]
+    },
+    {
+      "serwis": "Canal+ online",
+      "dostepnosc": "w cenie pakietu CANAL+ Seriale i Filmy / CANAL+ Super Sport",
+      "opis": "Abonenci pakietów CANAL+ korzystają z treści serwisu CANAL+. Osobny regulamin usługi CANAL+ online.",
+      "zrodla": [
+        "s13"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "dostepnosc": "jako płatny dodatek (pakiet Eleven, Eleven Online w TV Smart GO) | prezent w wybranych ofertach",
+      "opis": "5 kanałów Eleven Sports, w tym Eleven Sports 1 4K.",
+      "zrodla": [
+        "s1",
+        "s9",
+        "s14"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "dostepnosc": "integracja w dekoderze (logowanie własnym kontem)",
+      "opis": "Wymieniony wśród aplikacji dekodera TV Smart 4K BOX (Android TV, Google Play).",
+      "zrodla": [
+        "s11"
+      ]
+    },
+    {
+      "serwis": "Viaplay",
+      "dostepnosc": "integracja w dekoderze (logowanie własnym kontem)",
+      "opis": "Wymieniony wśród aplikacji dekodera TV Smart 4K BOX.",
+      "zrodla": [
+        "s11"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "FILMBOX+ Stream, Blacknut (ponad 500 gier w chmurze), VOD: FilmKlub, VODusie, XXX Klub, Kino na życzenie (wypożyczenia). YouTube i Tidal jako aplikacje na TV Smart 4K BOX.",
+      "zrodla": [
+        "s11",
+        "s9",
+        "s17"
+      ]
+    },
+    {
+      "serwis": "SkyShowtime",
+      "dostepnosc": "brak",
+      "opis": "Nie występuje w ofercie na vectra.pl (nie znaleziono w źródłach).",
+      "zrodla": [
+        "s14"
+      ]
+    },
+    {
+      "serwis": "Polsat Box Go",
+      "dostepnosc": "brak",
+      "opis": "Nie występuje w ofercie; Vectra sprzedaje natomiast pojedyncze kanały Polsat jako dodatki.",
+      "zrodla": [
+        "s9"
+      ]
+    }
+  ],
+  "multiroom": {
+    "dostepny": true,
+    "max_odbiornikow": null,
+    "jak_dziala": "Usługa Multiroom pozwala oglądać telewizję niezależnie na kilku telewizorach (kolejny dekoder). W kablówce analogowej dodatkowe gniazdo płatne 10% abonamentu pakietu. Alternatywnie aplikacja TV Smart GO na 3 ekranach jednocześnie (smartfon, tablet, komputer, telewizor).",
+    "co_na_kolejnych_tv": "Brak potwierdzenia w źródłach, czy kolejny dekoder ma ten sam pakiet. W TV Smart GO dostępne są tylko kanały, których nadawcy pozwalają na oglądanie poza domem.",
+    "uwagi": "Szczegóły multiroomu strona kieruje do formularza kontaktowego (vectra.pl/kontakt). Maksymalna liczba dekoderów niepodana.",
+    "zrodla": [
+      "s3",
+      "s9",
+      "s12",
+      "s7"
+    ]
+  },
+  "sprzet_i_funkcje": {
+    "dekodery": [
+      {
+        "nazwa": "TV Smart 4K BOX",
+        "opis": "Dekoder TV Smart (IP), Android TV z Google Play, Asystent Google (sterowanie głosowe), Chromecast, Wi-Fi i Bluetooth, 4K/HDR. Aplikacje: Netflix, Disney+, HBO Max, YouTube, Amazon Prime, Viaplay, Tidal. Nagrywanie w chmurze. Wymaga konta Google. Jedyny obsługujący kanał CANAL+ 4K."
+      },
+      {
+        "nazwa": "Vectra 4K BOX",
+        "opis": "Dekoder telewizji cyfrowej, HD i 4K UHD, EPG, ulubione, kontrola rodzicielska, Netflix i Disney+ preinstalowane, bez sklepu z aplikacjami i bez YouTube. Standardowo w cenie pakietu."
+      },
+      {
+        "nazwa": "Vectra 4K BOX PVR",
+        "opis": "Jak 4K BOX + nagrywarka z dyskiem 1 TB, planowanie nagrań, przechowywanie bez limitu czasu, Wi-Fi i Bluetooth."
+      },
+      {
+        "nazwa": "Dekoder HD (w tym HD PVR)",
+        "opis": "Starszy dekoder HD, EPG, catch-up do 7 dni; w modelach z dyskiem nagrywanie, pauza i przewijanie na żywo."
+      },
+      {
+        "nazwa": "Moduł CI+ 4K",
+        "opis": "Karta do gniazda CI+ w telewizorze, odbiór bez dekodera; bez streamingów i bez nagrywania."
+      }
+    ],
+    "aplikacja": {
+      "nazwa": "TV Smart GO",
+      "urzadzenia": "smartfon i tablet (Android, iOS), komputer przez przeglądarkę tvsmart.vectra.pl, telewizor (typ niepodany)",
+      "ile_urzadzen_jednoczesnie": "3 ekrany jednocześnie bez dodatkowych opłat",
+      "uwagi": "Bezpłatna dla klientów Vectry, logowanie danymi Strefy Klienta. Kanały z posiadanego pakietu, ale tylko te, na które nadawca zezwala poza domem. Działa w domu i poza domem w UE. Funkcje: catch-up do 7 dni, restart, nagrania w chmurze, VOD."
+    },
+    "smart_tv_bez_dekodera": "Tak, na dwa sposoby: moduł CI+ 4K w gnieździe CI+ telewizora (telewizja cyfrowa) albo aplikacja TV Smart GO / przeglądarka. Strona oferty podaje, że Vectra TV Smart można oglądać na Smart TV bez dodatkowego dekodera, ale nie podaje listy obsługiwanych marek (Samsung, LG, Android TV).",
+    "nagrywanie": "Kablówka: nagrywanie lokalne na dekoderze Vectra 4K BOX PVR (dysk 1 TB, bez limitu czasu) lub HD PVR; cennik wymienia też usługę USB PVR. TV Smart: nagrania w chmurze (nPVR) - strona dekoderów podaje limit 10 h, a poradnik wyboru 100 h (niespójne).",
+    "cofanie_i_ogladanie_od_poczatku": "Catch-up TV do 7 dni wstecz i Restart TV (oglądanie od początku trwającego programu) - na wybranych modelach dekoderów i w TV Smart GO, dla wybranych kanałów.",
+    "vod": "Kino na życzenie (wypożyczenia), biblioteka tysięcy filmów i seriali, część w 4K HDR (Dolby Vision, HDR10). Dostęp do darmowych pozycji zależy od pakietu. W TV Smart zakup VOD z PIN-em (domyślnie 1234), domyślny limit wydatków 100 zł/mies.",
+    "zrodla": [
+      "s10",
+      "s11",
+      "s12",
+      "s3",
+      "s7",
+      "s8",
+      "s9",
+      "s2",
+      "s15"
+    ]
+  },
+  "warunki_ogolne": [
+    "Telewizja cyfrowa (kablowa) dostępna tylko w zasięgu sieci Vectry; o dostępności decyduje adres.",
+    "Telewizję można kupić bez internetu (oferty 'Telewizja cyfrowa' i 'Telewizja internetowa' sprzedawane osobno), są też pakiety internet + TV.",
+    "Oferty z 23-miesięcznym okresem zobowiązania lub bez zobowiązania; TV Smart także z 11-miesięcznym zobowiązaniem.",
+    "Dekoder w cenie abonamentu (w ofercie TV cyfrowej: Vectra 4K BOX; w TV Smart: TV Smart 4K BOX).",
+    "Abonament usługi głównej rośnie o 10 zł po okresie zobowiązania i po każdych kolejnych 12 miesiącach (zapis w ofertach dla nowych klientów).",
+    "Pakiety bazowe są kumulatywne: Stalowy < Srebrny < Złoty < Platynowy < Super Film & Sport. Wykaz kanałów jest jeden ogólnopolski (IN01p v1.102 od 1.10.2026), bez wariantów regionalnych poza TVP 3 (wersje regionalne) i kanałem lokalnym; CANAL+ Seriale wg wykazu EPG tylko w wybranych lokalizacjach.",
+    "TV Smart ma osobny, mniejszy lineup (pakiety Start/Standard/Max wg wykazu IN16), nie identyczny z kablówką.",
+    "Kanały dzielą się na gwarantowane (ich wycofanie = zmiana umowy) i niegwarantowane (mogą zniknąć bez zmiany umowy). Duża część kanałów, także TVN, TVP 1 w TV Smart, ma status niegwarantowanego.",
+    "Liczby kanałów różnią się o 1-2 między stroną oferty a wykazami PDF; w danych 'liczba_kanalow' pochodzi ze strony oferty.",
+    "Pakiety premium (CANAL+, VOD) działają tylko na wybranych dekoderach; opłata za pakiety może zależeć od typu dekodera.",
+    "Kanały dla dorosłych chronione hasłem/PIN."
+  ],
+  "faq": [
+    {
+      "pytanie": "Czy mogę mieć telewizję Vectry bez internetu?",
+      "odpowiedz": "Tak. Telewizja cyfrowa (pakiety Stalowy-Super Film & Sport) jest sprzedawana także samodzielnie, o ile adres jest w zasięgu sieci kablowej Vectry. Telewizja internetowa TV Smart potrzebuje łącza min. 10 Mb/s (4K: 25 Mb/s).",
+      "zrodla": [
+        "s3",
+        "s5",
+        "s8"
+      ]
+    },
+    {
+      "pytanie": "Jakie są pakiety i ile mają kanałów?",
+      "odpowiedz": "Kablówka: Stalowy 37, Srebrny 72, Złoty 128, Platynowy 167, Super Film & Sport 191 kanałów. TV Smart (przez internet): 41, 81 i 125 kanałów.",
+      "zrodla": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "pytanie": "Czy HBO jest w cenie?",
+      "odpowiedz": "W aktualnej ofercie tak: pakiety Srebrny, Złoty, Platynowy i Super Film & Sport zawierają kanały HBO, HBO 2, HBO 3 i pełną bibliotekę HBO Max.",
+      "zrodla": [
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na drugim telewizorze?",
+      "odpowiedz": "Tak, Vectra ma usługę Multiroom (kolejny dekoder, oglądanie niezależnie). Szczegóły i dostępność ustala się z konsultantem. Bez drugiego dekodera można oglądać przez aplikację TV Smart GO na telewizorze lub innym urządzeniu.",
+      "zrodla": [
+        "s3",
+        "s12"
+      ]
+    },
+    {
+      "pytanie": "Na ilu urządzeniach mogę oglądać w aplikacji?",
+      "odpowiedz": "Aplikacja TV Smart GO jest bezpłatna i działa na 3 ekranach jednocześnie (telefon, tablet, komputer przez tvsmart.vectra.pl, telewizor).",
+      "zrodla": [
+        "s12"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać poza domem albo za granicą?",
+      "odpowiedz": "Tak, w TV Smart GO w domu i poza domem na terenie UE, ale tylko kanały, których nadawcy pozwalają na oglądanie poza domem. TV Smart działa w EOG w ograniczonym zakresie programowym.",
+      "zrodla": [
+        "s12",
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "pytanie": "Czy da się oglądać bez dekodera na Smart TV?",
+      "odpowiedz": "Tak: przez moduł CI+ 4K wkładany w gniazdo CI+ telewizora (kablówka) albo przez aplikację TV Smart GO / przeglądarkę. Listy obsługiwanych modeli telewizorów Vectra nie publikuje.",
+      "zrodla": [
+        "s10",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Jak nagrywać programy?",
+      "odpowiedz": "W kablówce dekoder Vectra 4K BOX PVR z dyskiem 1 TB (nagrania bez limitu czasu, planowanie). W TV Smart nagrania w chmurze.",
+      "zrodla": [
+        "s10",
+        "s12"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę obejrzeć program, który już leciał?",
+      "odpowiedz": "Tak, Catch-up TV do 7 dni wstecz i Restart TV (od początku trwającego programu) na wybranych dekoderach i w TV Smart GO, dla wybranych kanałów.",
+      "zrodla": [
+        "s3",
+        "s12",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Jaki dekoder dostanę?",
+      "odpowiedz": "W ofercie TV cyfrowej dekoder Vectra 4K BOX w cenie (4K, Netflix i Disney+). Z nagrywarką: 4K BOX PVR. W TV Smart: TV Smart 4K BOX z Android TV, Google Play i sterowaniem głosowym.",
+      "zrodla": [
+        "s3",
+        "s10"
+      ]
+    },
+    {
+      "pytanie": "Czy na dekoderze jest Netflix, YouTube, Disney+?",
+      "odpowiedz": "TV Smart 4K BOX ma Google Play, więc YouTube, Netflix, Disney+, HBO Max, Prime Video itd. Vectra 4K BOX i PVR mają preinstalowane Netflix i Disney+, bez YouTube. Moduł CI+ nie ma aplikacji. Subskrypcje opłaca się osobno, chyba że są w Superpakiecie.",
+      "zrodla": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "pytanie": "Czy Netflix może być w abonamencie?",
+      "odpowiedz": "Tak, w Superpakietach internet + TV (129 kanałów) Netflix (plan Podstawowy) lub Disney+ Standard jest w cenie na czas umowy.",
+      "zrodla": [
+        "s14"
+      ]
+    },
+    {
+      "pytanie": "Gdzie obejrzę Ligę Mistrzów i Ekstraklasę?",
+      "odpowiedz": "W dodatku CANAL+ Super Sport (19 kanałów: Liga Mistrzów UEFA, PKO BP Ekstraklasa, Premier League, wybrane mecze LaLiga). Bez zobowiązania. CANAL+ 4K wymaga dekodera TV Smart 4K BOX.",
+      "zrodla": [
+        "s13"
+      ]
+    },
+    {
+      "pytanie": "Gdzie jest Polsat Sport i Eleven Sports?",
+      "odpowiedz": "Polsat Sport 1 jest w pakietach od Srebrnego (jako kanał niegwarantowany), Polsat Sport 2 w Sport na Ostro / Super Film & Sport; oba można też dokupić jako pojedyncze kanały. Eleven Sports 1-3 i 1 4K to pakiet Eleven; Eleven Sports 4 jest w Platynowym.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę dokupić Canal+?",
+      "odpowiedz": "Tak: CANAL+ Seriale i Filmy (6 kanałów) lub CANAL+ Super Sport (19 kanałów), oba bez okresu zobowiązania, z dostępem do serwisu CANAL+. W wykazie są też Select, Prestige i Prestige 4K.",
+      "zrodla": [
+        "s13",
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy są kanały w 4K?",
+      "odpowiedz": "Tak, m.in. Funbox UHD, Ultra TV 4K, InUltra, Filmax 4K (Platynowy), Eleven Sports 1 4K, CANAL+ 4K. Wymagany dekoder 4K i telewizor 4K.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy kanał może zniknąć z mojego pakietu?",
+      "odpowiedz": "Kanały niegwarantowane mogą być wycofane lub zamienione bez zmiany umowy; kanały gwarantowane nie (ich zmiana to zmiana warunków umowy). Status każdego kanału jest w wykazie programów.",
+      "zrodla": [
+        "s1",
+        "s7"
+      ]
+    },
+    {
+      "pytanie": "Czy jest pakiet dla dorosłych i kontrola rodzicielska?",
+      "odpowiedz": "Tak, Pakiet Erotyczny (6 kanałów) jako dodatek. Kanały dla dorosłych są chronione hasłem, dekodery mają kontrolę rodzicielską.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "pytanie": "Czym się różni TV Smart od zwykłej telewizji cyfrowej?",
+      "odpowiedz": "TV Smart idzie przez internet do dekodera Android TV (Google Play, chmurowe nagrania), ma pakiety 41/81/125 kanałów i krótsze umowy (11 mies.). Kablówka ma większe pakiety (do 191 kanałów), dekoder Vectra 4K BOX i opcję nagrywarki z dyskiem.",
+      "zrodla": [
+        "s5",
+        "s3",
+        "s10"
+      ]
+    }
+  ],
+  "do_sprawdzenia": [
+    "Multiroom: maksymalna liczba dodatkowych dekoderów, czy kolejne dekodery mają ten sam pakiet, jakie modele - strona odsyła do formularza, brak danych w regulaminie (tylko definicja 'Gniazda Dodatkowego').",
+    "Nagrywanie w chmurze TV Smart: limit godzin niespójny (10 h vs 100 h na stronie dekoderów), czas przechowywania nieznany.",
+    "Super Film & Sport: dokładny skład (189/190/191 kanałów w różnych źródłach) - przypisanie kanałów w 'kanaly' wyprowadzone z opisu na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro), nie z wykazu IN01p.",
+    "TV Smart: liczby kanałów w ofercie (41/81/125) nie zgadzają się z wykazem IN16 v1.31 (27/66/110); możliwe, że oferta liczy kanały dodatkowe/radio - nie potwierdzono.",
+    "TV Smart: czy wymaga internetu Vectry (regulamin telewizji pkt 5.2 dla dekodera Smart: tak; regulamin TV Smart: tylko min. 10/25 Mb/s) - niespójne.",
+    "Lista Smart TV (Samsung, LG, Android TV) obsługujących aplikację TV Smart GO - niepodana.",
+    "Kategorie i jakość kanałów przyjęto z wykazu EPG IN01 2.27 (kwiecień 2026); kanały spoza tego wykazu (np. FilmBox+, Echo24, kanały ukraińskie) skategoryzowano wg nazwy. Część kanałów SD w EPG może być nadawana w HD.",
+    "HBO w Złotym/Platynowym: strona oferty podaje HBO w cenie, ale wykaz IN01p traktuje HBO jako osobny pakiet - prawdopodobnie element promocji, warto sprawdzić w regulaminie promocji.",
+    "Pakiet 'Ostry' (20 kanałów) widoczny na vectra.pl/pakiety-tv - brak pełnej listy kanałów i relacji do Sport na Ostro.",
+    "Oferta dla Vectra w sieciach przejętych (np. Multimedia Polska) - nie potwierdzono, czy lineup jest identyczny we wszystkich sieciach.",
+    "Strony vectra.pl nie dało się pobrać bezpośrednio (blokada), treści czytane przez pośredni fetch - warto zweryfikować w przeglądarce."
+  ]
+}
