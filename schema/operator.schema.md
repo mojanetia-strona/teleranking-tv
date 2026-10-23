@@ -1,6 +1,7 @@
 # Format pliku danych operatora: data/operators/<slug>.json
 
 Jeden plik JSON na operatora. Wszystkie teksty po polsku. Bez cen (ceny są w ofertach na teleranking.pl).
+WYJĄTEK: w sekcji "streaming" ceny SĄ wymagane (pole "cena").
 Zasada nadrzędna: tylko fakty potwierdzone w oficjalnym źródle operatora (strona operatora, PDF z listą kanałów,
 regulamin/cennik promocji). Czego nie da się potwierdzić, NIE wpisujemy jako faktu, tylko dodajemy do "do_sprawdzenia".
 Każdy pakiet, dodatek i sekcja ma pole "zrodla" z identyfikatorami źródeł z listy "zrodla" na górze pliku.
@@ -52,8 +53,11 @@ Każdy pakiet, dodatek i sekcja ma pole "zrodla" z identyfikatorami źródeł z 
   ],
   "streaming": [
     {
-      "serwis": "Netflix | Max | Disney+ | Canal+ online | Polsat Box Go | SkyShowtime | Player | Amazon Prime Video | Eleven Sports | Viaplay | inny",
+      "serwis": "Netflix | HBO Max | Disney+ | CANAL+ online | Polsat Box Go | SkyShowtime | Player | Amazon Prime Video | Eleven Sports | Viaplay | inny",
+      "wariant": "np. Netflix Standard z reklamami / Podstawowy / Premium; puste jeśli brak wariantów",
       "dostepnosc": "w cenie pakietu X | jako płatny dodatek | integracja w dekoderze (logowanie własnym kontem) | brak",
+      "cena": "DOKŁADNIE jak w cenniku/regulaminie, np. '0 zł przez 6 mies., potem 29,99 zł/mies.' albo 'w cenie pakietu L'; puste, jeśli nie da się potwierdzić",
+      "zasady": "konkretnie: czy wymaga umowy/pakietu TV/internetu, na jak długo promocja, czy jest zobowiązanie, jak aktywować, czy można użyć istniejącego konta, jak zrezygnować, na ilu urządzeniach",
       "opis": "",
       "zrodla": ["s3"]
     }

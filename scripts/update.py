@@ -44,7 +44,7 @@ Zasady (bezwzględne):
 - Nie zgaduj. Czego nie da się potwierdzić w oficjalnym źródle, nie wpisuj jako faktu, tylko dodaj do "do_sprawdzenia".
 - Nie usuwaj danych tylko dlatego, że nie udało się otworzyć źródła. Usuwasz kanał/pakiet/dodatek wyłącznie wtedy,
   gdy aktualne oficjalne źródło pokazuje, że go już nie ma. Jeśli źródło jest niedostępne, zostaw dane i dopisz to do "do_sprawdzenia".
-- Bez cen.
+- Bez cen pakietów TV. WYJĄTEK: w sekcji "streaming" podawaj aktualne ceny i zasady (promocje, okres, warunki).
 - Najpierw sprawdź źródła z obecnych danych (lista URL w wiadomości), potem poszukaj nowszych wersji (np. nowy PDF z listą kanałów).
 - Teksty po polsku.
 
