@@ -1,0 +1,2835 @@
+{
+  "operator": "T-Mobile",
+  "slug": "t-mobile",
+  "sprawdzono": "2026-10-23",
+  "zrodla": [
+    {
+      "id": "s1",
+      "tytul": "Strona MagentaTV (T-Mobile)",
+      "url": "https://www.t-mobile.pl/MagentaTV",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s2",
+      "tytul": "Sklep T-Mobile: pakiety MagentaTV",
+      "url": "https://www.t-mobile.pl/sklep/oferta/magentatv?tariffId=tv4e_M_3x0_24m_offe",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s3",
+      "tytul": "Lista programów MagentaTV, stan na 18.08.2026 (pakiety Telewizja dla każdego / MIDI / MAXI). Dokument T-Mobile; oficjalnego adresu na t-mobile.pl nie udało się odnaleźć, użyto kopii pliku",
+      "url": "https://teletropiciel.pl/t-mobile/MagentaTV.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s4",
+      "tytul": "Lista programów MagentaTV, stan na 1.07.2026 (pakiety S/M/L, CANAL+ SUPER SPORT, Eurosport), podlinkowana ze strony dekodera",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6a43d2c4a249e9b64c6e8d48/attachments/a62015a9760b4227bc3a86e7aa6e4baa",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s5",
+      "tytul": "Dekoder MagentaTV Box",
+      "url": "https://www.t-mobile.pl/MagentaTV/dekoder-tv-box",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s6",
+      "tytul": "Multiroom w MagentaTV",
+      "url": "https://www.t-mobile.pl/multiroom",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s7",
+      "tytul": "Regulamin Usługi Multiroom w T-Mobile (od 18.08.2026)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1003337",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s8",
+      "tytul": "Blog T-Mobile: MagentaTV, telewizja w nowoczesnym wydaniu (20.08.2026)",
+      "url": "https://www.t-mobile.pl/blog/magentatv-telewizja-w-nowoczesnym-wydaniu-poznaj-szczegoly-i-wybierz-pakiet-dla-siebie",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s9",
+      "tytul": "Regulamin i cennik: MagentaTV dla klientów Internetu światłowodowego (od 09.09.2026)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6aa0866e14af16e52c48f6d7/attachments/7c0ce84388764f80819f72d0dafcc7ed",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s10",
+      "tytul": "Regulamin i cennik: MagentaTV S dla abonentów przedłużających umowę (od 22.10.2026)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6ad944fba0606b2631342764/attachments/babab53a0cc542adb84322e4c61e1c38",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s11",
+      "tytul": "Regulamin opcji dodatkowej CANAL+ SUPER SPORT w T-Mobile (od 15.10.2025)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/68ee01b9e6ab461d8091d296/attachments/98ae83b0b928405984d3bca5e871d194",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s12",
+      "tytul": "CANAL+ SUPER SPORT w MagentaTV",
+      "url": "https://www.t-mobile.pl/canal-plus-super-sport",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s13",
+      "tytul": "Regulamin opcji dodatkowej EUROSPORT w T-Mobile (od 30.04.2026)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/69f88aa26488472266fd619b/attachments/545bb5f4d827418e96fe524678f37b7d",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s14",
+      "tytul": "Eurosport w T-Mobile",
+      "url": "https://www.t-mobile.pl/eurosport",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s15",
+      "tytul": "Internet światłowodowy + TV",
+      "url": "https://www.t-mobile.pl/d/pakiety/swiatlowod-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s16",
+      "tytul": "Regulamin: Internet światłowodowy z telewizją, W pakiecie lepiej (od 23.09.2025)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/F_001_1005659",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s17",
+      "tytul": "Netflix w T-Mobile",
+      "url": "https://www.t-mobile.pl/rozrywka/netflix",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s18",
+      "tytul": "HBO Max w T-Mobile",
+      "url": "https://www.t-mobile.pl/rozrywka/hbo_max",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s19",
+      "tytul": "Serwis streamingowy CANAL+ w T-Mobile",
+      "url": "https://www.t-mobile.pl/rozrywka/canalplus",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s20",
+      "tytul": "Komunikat prasowy T-Mobile: otwarcie MagentaTV dla wszystkich (PAP MediaRoom, 18.08.2026)",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/t-mobile-otworzyl-dostep-do-magenta-tv-dla-wszystkich",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s21",
+      "tytul": "Regulamin i cennik: MagentaTV przez 6 miesięcy za 0 zł dla przedłużających (od 18.08.2026)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6a83fa99d2feb7c941a6d8fb/attachments/bc3de6eaca5844f78c2041ff92b15aec",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s22",
+      "tytul": "Internet światłowodowy + TV + Abonament",
+      "url": "https://www.t-mobile.pl/d/pakiety/internet-abonament-telewizja",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    }
+  ],
+  "podsumowanie": "T-Mobile sprzedaje telewizję pod marką MagentaTV: to telewizja internetowa (OTT/IPTV) oglądana w aplikacji (Smart TV, telefon, tablet, przeglądarka) albo na dekoderze MagentaTV Box z Android TV. Od 18.08.2026 są trzy pakiety: bezterminowa „Telewizja dla każdego” (75 kanałów, dla klientów dowolnego operatora i dowolnego internetu) oraz płatne MIDI (170 kanałów) i MAXI (207 kanałów, z HBO, Eleven Sports i kanałami 4K) na 24 miesiące. Klienci światłowodu T-Mobile kupują TV w pakiecie z internetem (Magenta Dom), a w regulaminach tej oferty pakiety nazywają się S/M/L. Dodatki: CANAL+ SUPER SPORT, Eurosport 3 i 4, kanały na sztuki, Multiroom.",
+  "technologie": [
+    {
+      "nazwa": "OTT (aplikacja)",
+      "opis": "Aplikacja MagentaTV na Smart TV, smartfonie, tablecie i komputerze oraz strona magentatv.pl. Według listy kanałów z 18.08.2026 wszystkie kanały działają przez internet od dowolnego dostawcy. Działa we wszystkich trzech pakietach.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s8",
+        "s20"
+      ]
+    },
+    {
+      "nazwa": "IPTV",
+      "opis": "Dekoder MagentaTV Box z Android TV, podłączony do internetu (zalecany kabel Ethernet, przy Multiroom kabel jest wymagany). W ofercie dla klientów światłowodu T-Mobile (Magenta Dom) dekoder jest w cenie i pracuje na stacjonarnym internecie T-Mobile (FTTH lub HFC, zależnie od adresu). W pakiecie Telewizja dla każdego dekoder to płatna opcja.",
+      "zrodla": [
+        "s1",
+        "s5",
+        "s9",
+        "s15",
+        "s22"
+      ]
+    }
+  ],
+  "pakiety": [
+    {
+      "id": "tmobile-dla-kazdego",
+      "nazwa": "Telewizja dla każdego",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 75,
+      "liczba_kanalow_hd": 67,
+      "zawiera_pakiet": null,
+      "opis": "Darmowy po rabatach pakiet 75 kanałów (15 gwarantowanych, 60 niegwarantowanych): główne kanały TVP, Polsat, TVN, TVN Siedem, TV4, TV Puls, regionalne TVP 3 i kanały tematyczne. Oglądanie w aplikacji MagentaTV, nagrywanie 20 h, oglądanie do 7 dni wstecz, 5 urządzeń (3 jednocześnie).",
+      "warunki": "Umowa bezterminowa. Dla klientów wszystkich sieci, bez potrzeby internetu T-Mobile. Wymaga rejestracji (nowymoj.t-mobile.pl/tv), zgód marketingowych i obsługi elektronicznej (od tego zależą rabaty). Dekoder za dopłatą. Możliwość dokupienia pojedynczych kanałów.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3",
+        "s8",
+        "s20"
+      ]
+    },
+    {
+      "id": "tmobile-midi",
+      "nazwa": "MIDI",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 170,
+      "liczba_kanalow_hd": 146,
+      "zawiera_pakiet": "tmobile-dla-kazdego",
+      "opis": "170 kanałów (45 gwarantowanych, 125 niegwarantowanych): dodatkowo m.in. TVN24, Polsat 2, Polsat Sport 1-3, Eurosport 1 i 2, kanały Discovery, National Geographic, Disney Channel, AXN, Polsat Film. Nagrywanie 100 h, oglądanie do 7 dni wstecz, kolekcja VOD, 5 urządzeń (3 jednocześnie).",
+      "warunki": "Umowa na 24 miesiące. Działa przez internet od dowolnego dostawcy. Klienci światłowodu T-Mobile mają w ofercie pakietowej dekoder w cenie.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3",
+        "s15",
+        "s20"
+      ]
+    },
+    {
+      "id": "tmobile-maxi",
+      "nazwa": "MAXI",
+      "rodzaj": "premium",
+      "liczba_kanalow": 207,
+      "liczba_kanalow_hd": 181,
+      "zawiera_pakiet": "tmobile-midi",
+      "opis": "207 kanałów (51 gwarantowanych, 156 niegwarantowanych): wszystko z MIDI plus HBO 1-3, Eleven Sports 1-4 (w tym Eleven Sports 1 4K), CANAL+ Sport 5, AXN Black/Spin/White, AMC, Epic Drama, Viasat, kanały 4K (Filmax 4K, Love Nature 4K, TravelXP 4K, Museum 4K, Ultra TV 4K i inne). Nagrywanie 100 h, oglądanie do 7 dni wstecz, rozszerzona kolekcja VOD, 5 urządzeń (3 jednocześnie), dekoder w cenie.",
+      "warunki": "Umowa na 24 miesiące (czas określony). Działa przez internet od dowolnego dostawcy.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3",
+        "s15",
+        "s22",
+        "s20"
+      ]
+    }
+  ],
+  "kanaly": [
+    {
+      "nazwa": "TVP 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 1; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVP 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 2; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Warszawa",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 3 i 810; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 4; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVN",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 5; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVN24",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 6; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVP Info",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 7; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TV4",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 8; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TV6",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 9; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Super Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 10; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 11; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVN Siedem",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 12; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TV Puls",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 13; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Puls 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 14; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVP Polonia",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 15; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Rozrywka",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 16; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Sport",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 17; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Kultura",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 18; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Historia",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 19; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Dokument",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 20; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Kobieta",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 21; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP ABC",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 22; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Metro",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 23; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Nowa TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 24; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "WP",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 25; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVP World",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 26; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVS",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 27; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Nauka",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 28; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Alfa TVP",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 29; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Tele 5",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 35; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polonia 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 36; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Antena",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 37; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Home TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 38; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVC",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 39; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Kabaret TV",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 41; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Pogoda 24 TV",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 42; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Telewizja Republika",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 43; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "ZERO",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 44; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TV Trwam",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 45; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Białystok",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 800; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Bydgoszcz",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 801; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Gdańsk",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 802; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Katowice",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 803; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Kraków",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 804; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Lublin",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 805; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Łódź",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 806; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Poznań",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 807; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Rzeszów",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 808; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Szczecin",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 809; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Wrocław",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 811; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Kielce",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 812; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Opole",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 813; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Olsztyn",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 814; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP 3 Gorzów Wielkopolski",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 815; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 100; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 101; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Rodzina",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 102; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "HBO",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 103; kanał gwarantowany"
+    },
+    {
+      "nazwa": "HBO 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 104; kanał gwarantowany"
+    },
+    {
+      "nazwa": "HBO 3",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 105; kanał gwarantowany"
+    },
+    {
+      "nazwa": "FX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 106; kanał gwarantowany"
+    },
+    {
+      "nazwa": "FX Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 107; kanał gwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "TVN Fabuła",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 108; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Paramount Network",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 109; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Comedy Central",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 110; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Comedy Central Extra",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 111; kanał niegwarantowany; dostępny w ofercie do 31.12.2026 r. (przypis na liście kanałów)"
+    },
+    {
+      "nazwa": "BBC First",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 112; kanał gwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "AleKino+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 114; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Novelas+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 115; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Stopklatka",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 122; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Zoom TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 123; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP HD",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 125; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Romance TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 126; kanał niegwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "AXN",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 127; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "AXN Black",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 128; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "AXN Spin",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 129; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "AXN White",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 130; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "AMC",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 131; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Warner TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 132; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Epic Drama",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 133; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "CTV − DLA CIEBIE",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 134; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Filmax 4K",
+      "kategoria": "filmy i seriale",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 135; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Film 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 136; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVC Super",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 141; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Kino Polska",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 143; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Polsat News",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 200; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat News 2",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 201; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "wPolsce24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 202; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVN24 BiS",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 203; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Newsmax",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 204; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "Wydarzenia 24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 205; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat News Polityka",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 206; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "BBC World News",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 207; kanał gwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "DW English",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 208; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "FRANCE 24 French",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 209; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "FRANCE 24 English",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 210; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "Euronews PL",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 211; kanał niegwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "CNN",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 212; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "Republika",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 214; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Euronews ENG",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 215; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "Euronews DE",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 216; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "Euronews SP",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 217; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "Euronews IT",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 218; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "Eurosport 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 300; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Eurosport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 301; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Polsat Sport 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 302; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 304; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 305; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Sport Fight",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 306; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Games",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 307; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Eleven Sports 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 308; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Eleven Sports 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 309; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Eleven Sports 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 310; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Eleven Sports 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 311; kanał niegwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "Eleven Sports 1 4K",
+      "kategoria": "sportowe",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 312; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVN Turbo",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 313; kanał gwarantowany"
+    },
+    {
+      "nazwa": "DTX",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 314; kanał gwarantowany"
+    },
+    {
+      "nazwa": "CANAL+ Sport 5",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 315; kanał niegwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "Motowizja",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 328; kanał niegwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "FighTime",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 331; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Golf Zone",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 332; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "HGTV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 401; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TVN Style",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 402; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TLC",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 403; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Food Network",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 404; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Discovery Life",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 405; kanał gwarantowany"
+    },
+    {
+      "nazwa": "TTV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 406; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Polsat Café",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 407; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Play",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 408; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "BBC Lifestyle",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 409; kanał gwarantowany"
+    },
+    {
+      "nazwa": "CANAL+ KUCHNIA",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 410; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "CANAL+ DOMO",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 411; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Remonty TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 412; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVC Reality",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 413; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Active Family",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 414; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Fashion TV 4K",
+      "kategoria": "lifestyle",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 415; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "MyZen.TV 4K",
+      "kategoria": "lifestyle",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 416; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat X",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 417; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Reality",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 418; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TBN Polska",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 420; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Xtreme TV",
+      "kategoria": "lifestyle",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 421; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Doku",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 501; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Discovery Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 502; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Discovery Science",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 503; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Discovery Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 504; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Animal Planet",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 505; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Travel Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 506; kanał gwarantowany"
+    },
+    {
+      "nazwa": "ID Investigation Discovery",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 507; kanał gwarantowany"
+    },
+    {
+      "nazwa": "BBC Earth",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 508; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Planete+",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 509; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "National Geographic",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 510; kanał gwarantowany"
+    },
+    {
+      "nazwa": "National Geographic Wild",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 511; kanał gwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "Nat Geo People",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 512; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Fokus",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 513; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Arirang TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 515; kanał niegwarantowany; kanał obcojęzyczny"
+    },
+    {
+      "nazwa": "History",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 516; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "History 2",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 517; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Crime+Investigation Polsat",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 518; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Love Nature 4K",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 519; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TravelXP 4K",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 520; kanał niegwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "Museum 4K",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 521; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Viasat History",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 522; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Polsat Viasat Explore",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 523; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Polsat Viasat Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 524; kanał gwarantowany"
+    },
+    {
+      "nazwa": "BBC Brit",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 526; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Adventure",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 530; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Show TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 531; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "ViDoc TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 532; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "ViDoc TV 4K",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 533; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Eska TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 600; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Eska Rock",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 601; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Eska TV Extra",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 602; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "VOX Music TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 603; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Disco Polo Music",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 604; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polsat Music",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 605; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Polo TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 606; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "MTV Polska",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 607; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Kino Polska Muzyka",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 610; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Music Box",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 611; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "STARS.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 612; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Mezzo",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 613; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "4Fun TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 615; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "4Fun Dance",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 616; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Power TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 617; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Nuta TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 618; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Nuta Gold",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 619; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Szlagier TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 620; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Ultra TV 4K",
+      "kategoria": "muzyczne",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 621; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Disney Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 701; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Disney Junior",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 702; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Disney XD",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 703; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Nick Jr.",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 704; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Nickelodeon",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 705; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "NickToons",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 706; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TeenNick",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 707; kanał niegwarantowany; dostępny w ofercie do 31.12.2026 r. (przypis na liście kanałów)"
+    },
+    {
+      "nazwa": "MiniMini+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 708; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "teleTOON+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 709; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "BBC CBeebies",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 710; kanał gwarantowany"
+    },
+    {
+      "nazwa": "Da Vinci",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 711; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "ducktv",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 712; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Cartoon Network",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 713; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Cartoonito",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 714; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Top Kids",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 720; kanał niegwarantowany; można dokupić do pakietu Telewizja dla każdego jako kanał na sztuki (dodatek: tmobile-kanaly-na-sztuki)"
+    },
+    {
+      "nazwa": "Junior Music",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 721; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "Junior Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 722; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "4Fun Kids",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 723; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "CANAL+ 4K",
+      "kategoria": "filmy i seriale",
+      "jakosc": "4K",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ PREMIUM",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ FILM",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ 360",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ DOKUMENT",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ SERIALE",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ NOW",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ SPORT",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ SPORT 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ SPORT 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ SPORT 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 5",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 6",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "CANAL+ EXTRA 7",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-canalplus-super-sport; na liście kanałów z 1.07.2026 oznaczony jako dostępny tylko na dekoderze (TV BOX)"
+    },
+    {
+      "nazwa": "Eurosport 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-eurosport"
+    },
+    {
+      "nazwa": "Eurosport 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: tmobile-eurosport"
+    }
+  ],
+  "dodatki": [
+    {
+      "id": "tmobile-canalplus-super-sport",
+      "nazwa": "CANAL+ SUPER SPORT",
+      "rodzaj": "premium",
+      "zawartosc": "19 kanałów CANAL+: filmy, seriale, dokumenty i sport (m.in. Premier League, Liga Mistrzów UEFA, PKO Ekstraklasa, PGE Ekstraliga, KSW, WTA), część transmisji w 4K.",
+      "kanaly": [
+        "CANAL+ 4K",
+        "CANAL+ PREMIUM",
+        "CANAL+ 1",
+        "CANAL+ FILM",
+        "CANAL+ 360",
+        "CANAL+ DOKUMENT",
+        "CANAL+ SERIALE",
+        "CANAL+ NOW",
+        "CANAL+ SPORT",
+        "CANAL+ SPORT 2",
+        "CANAL+ SPORT 3",
+        "CANAL+ SPORT 4",
+        "CANAL+ EXTRA 1",
+        "CANAL+ EXTRA 2",
+        "CANAL+ EXTRA 3",
+        "CANAL+ EXTRA 4",
+        "CANAL+ EXTRA 5",
+        "CANAL+ EXTRA 6",
+        "CANAL+ EXTRA 7"
+      ],
+      "warunki": "Według regulaminu opcji (od 15.10.2025) tylko dla klientów pakietu M lub L umowy o usługi telewizyjne. W regulaminach ofert z TV aktywacja możliwa przy zawarciu umowy (później na odrębnym regulaminie). Wyłączenie z końcem cyklu rozliczeniowego, aktywacja do 48 h. Na liście kanałów z 1.07.2026 kanały CANAL+ oznaczone jako dostępne tylko na dekoderze (TV BOX).",
+      "zrodla": [
+        "s4",
+        "s9",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "id": "tmobile-eurosport",
+      "nazwa": "Eurosport (Eurosport 3 i 4)",
+      "rodzaj": "sport",
+      "zawartosc": "Kanały Eurosport 3 i Eurosport 4 (m.in. żużel Speedway Grand Prix, NBA, tenis, sporty zimowe).",
+      "kanaly": [
+        "Eurosport 3",
+        "Eurosport 4"
+      ],
+      "warunki": "Opcja do umowy o usługi telewizyjne w pakietach S, M lub L. Włączanie i wyłączanie w dowolnym momencie (wyłączenie z końcem cyklu), aktywacja do 48 h.",
+      "zrodla": [
+        "s13",
+        "s14",
+        "s4"
+      ]
+    },
+    {
+      "id": "tmobile-kanaly-na-sztuki",
+      "nazwa": "Kanały na sztuki do Telewizji dla każdego",
+      "rodzaj": "inny",
+      "zawartosc": "Pojedyncze kanały, które można dokupić do pakietu Telewizja dla każdego.",
+      "kanaly": [
+        "FX Comedy",
+        "BBC First",
+        "Romance TV",
+        "Euronews PL",
+        "Eleven Sports 4",
+        "CANAL+ Sport 5",
+        "Motowizja",
+        "National Geographic Wild",
+        "TravelXP 4K",
+        "Top Kids"
+      ],
+      "warunki": "Tylko do pakietu Telewizja dla każdego; opłata miesięczna za każdy kanał.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "tmobile-multiroom",
+      "nazwa": "Multiroom",
+      "rodzaj": "inny",
+      "zawartosc": "Dodatkowy dekoder na kolejny telewizor z tymi samymi kanałami co dekoder główny (maks. 2 dodatkowe dekodery).",
+      "kanaly": [],
+      "warunki": "Minimalnie jeden cykl rozliczeniowy, rezygnacja w dowolnym momencie ze zwrotem dekodera. Dekoder Multiroom działa tylko po kablu Ethernet i tylko pod adresem świadczenia usług. Dostępność w pakietach opisana niespójnie (patrz do_sprawdzenia).",
+      "zrodla": [
+        "s6",
+        "s7",
+        "s9",
+        "s10"
+      ]
+    }
+  ],
+  "streaming": [
+    {
+      "serwis": "Netflix",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Osobna płatna subskrypcja Netflix rozliczana na fakturze T-Mobile, aktywowana w aplikacji Mój T-Mobile. Nie jest w cenie pakietów MagentaTV. Pilot dekodera MagentaTV Box ma dedykowany przycisk Netflix.",
+      "zrodla": [
+        "s17",
+        "s5"
+      ]
+    },
+    {
+      "serwis": "Max",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "HBO Max jako osobny serwis aktywowany w Mój T-Mobile (klienci T-Mobile dostają plan Premium w cenie Standardowego). Nie jest w cenie pakietów MagentaTV. Linearne kanały HBO, HBO 2 i HBO 3 są w pakiecie MAXI. Aplikacja HBO Max wymieniona na stronie dekodera.",
+      "zrodla": [
+        "s18",
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "serwis": "Canal+ online",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Serwis streamingowy CANAL+ (pakiety CANAL+ SERIALE I FILMY i CANAL+ SUPER SPORT) jako osobna subskrypcja rozliczana na fakturze T-Mobile. Niezależnie od tego jest dodatek telewizyjny CANAL+ SUPER SPORT do MagentaTV (kanały linearne). Aplikacja CANAL+ wymieniona na stronie dekodera.",
+      "zrodla": [
+        "s19",
+        "s12",
+        "s5"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "dostepnosc": "w cenie pakietu MAXI",
+      "opis": "Kanały linearne Eleven Sports 1-4 i Eleven Sports 1 4K w pakiecie MAXI (nie serwis streamingowy).",
+      "zrodla": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "w cenie pakietu MIDI i MAXI",
+      "opis": "Wideo na żądanie od T-Mobile (kolekcja VOD MagentaTV): w MIDI kolekcja VOD, w MAXI rozszerzona. Katalog zależy od pakietu i może się zmieniać.",
+      "zrodla": [
+        "s1",
+        "s9",
+        "s15"
+      ]
+    }
+  ],
+  "multiroom": {
+    "dostepny": true,
+    "max_odbiornikow": 3,
+    "jak_dziala": "Dodatkowy dekoder Multiroom (maks. 2 dodatkowe na adres, więc łącznie 3 telewizory z dekoderem). Dekoder wysyłany bezpłatnie, podłączany samodzielnie, tylko przez kabel Ethernet. Niezależnie od tego aplikacja MagentaTV pozwala oglądać na 3 urządzeniach jednocześnie (5 zarejestrowanych).",
+    "co_na_kolejnych_tv": "Te same programy co na dekoderze głównym.",
+    "uwagi": "Płatna opcja, minimum jeden cykl rozliczeniowy. Zamówienie przez infolinię 602 900 000 lub w salonie. Brak potwierdzenia, czy na dodatkowym dekoderze działa nagrywanie i odtwarzanie nagrań z dekodera głównego.",
+    "zrodla": [
+      "s6",
+      "s7",
+      "s8"
+    ]
+  },
+  "sprzet_i_funkcje": {
+    "dekodery": [
+      {
+        "nazwa": "MagentaTV Box (także MagentaTV Box 2. generacji)",
+        "opis": "Android TV, Asystent Google (wyszukiwanie głosowe), Google Play, Chromecast, obraz 4K HDR, Dolby Vision i Dolby Atmos. Pilot Bluetooth z podświetlanymi przyciskami, sterowaniem głosowym, przyciskiem Netflix i EPG. Użyczany przez T-Mobile; zwrot w ciągu 14 dni po zakończeniu umowy."
+      }
+    ],
+    "aplikacja": {
+      "nazwa": "MagentaTV",
+      "urzadzenia": "Smart TV (Google TV/Android TV, Samsung Tizen, LG webOS), smartfon i tablet (Android, iOS), komputer (przeglądarka, magentatv.pl)",
+      "ile_urzadzen_jednoczesnie": "3 jednocześnie, 5 zarejestrowanych",
+      "uwagi": "Logowanie loginem z umowy i hasłem do Mój T-Mobile. Usługa gwarantowana tylko w Polsce; czasowo w UE/EOG możliwa, ale niegwarantowana (T-Mobile może weryfikować IP)."
+    },
+    "smart_tv_bez_dekodera": "Tak. Aplikacja MagentaTV działa na Smart TV z Google TV/Android TV, Tizen (Samsung) i webOS (LG); dekoder jest opcjonalny we wszystkich pakietach.",
+    "nagrywanie": "Nagrywanie w chmurze (wirtualny dysk): 20 h w Telewizji dla każdego, 100 h w MIDI i MAXI, nagrania przechowywane do 180 dni. Dostępne na wybranych kanałach (wg listy z 18.08.2026: 128 kanałów), zależnie od praw nadawcy.",
+    "cofanie_i_ogladanie_od_poczatku": "Catch-up do 7 dni wstecz (na niektórych kanałach, np. TVN, TVN Siedem, Metro, TTV, 2 dni); wg listy z 18.08.2026 catch-up ma 189 kanałów. Time-shift (pauza, przewijanie, wznawianie) na 113 kanałach. Dostępność zależy od praw nadawcy i może różnić się dla poszczególnych audycji.",
+    "vod": "Wideo na żądanie od T-Mobile: kolekcja VOD w MIDI, rozszerzona w MAXI (seriale i dokumenty). Katalog zależy od pakietu i może się zmieniać.",
+    "zrodla": [
+      "s1",
+      "s2",
+      "s3",
+      "s5",
+      "s8",
+      "s9",
+      "s10"
+    ]
+  },
+  "warunki_ogolne": [
+    "Telewizja dla każdego (75 kanałów) jest dostępna dla klientów każdej sieci i z internetem od dowolnego dostawcy, bez umowy terminowej.",
+    "MIDI i MAXI to umowy na 24 miesiące; po tym okresie umowa przechodzi na czas nieokreślony, jeśli żadna strona jej nie wypowie (30 dni przed końcem).",
+    "W ofercie dla klientów Internetu światłowodowego T-Mobile (Magenta Dom) TV działa na bazie umowy internetowej: zakończenie umowy na internet kończy TV. Strony pakietowe piszą, że TV jest tam dostępna tylko w pakiecie ze światłowodem.",
+    "Regulaminy ofert dla klientów światłowodu używają nazw pakietów S, M i L; strony sprzedażowe nazw Telewizja dla każdego, MIDI i MAXI.",
+    "W umowie terminowej nie można zejść poniżej pakietu wybranego przy podpisaniu; zmiana w górę zawsze, jedna zmiana na cykl.",
+    "Część kanałów jest niegwarantowana (60 z 75, 125 ze 170, 156 z 207): T-Mobile może je dodawać i wycofywać bez zmiany umowy.",
+    "Nagrywanie, catch-up i time-shift zależą od praw nadawcy; na wielu kanałach TVP i Polsatu nagrywanie i time-shift są niedostępne.",
+    "Usługa gwarantowana tylko w Polsce; za granicą w UE/EOG dostęp możliwy, ale niegwarantowany.",
+    "Rabaty w cenie wymagają zgód marketingowych i obsługi elektronicznej (e-faktura); wycofanie zgód wpływa na cenę.",
+    "Dostępność dekodera i oferty pakietowej ze światłowodem zależy od adresu (FTTH lub HFC)."
+  ],
+  "faq": [
+    {
+      "pytanie": "Czy muszę mieć internet z T-Mobile, żeby oglądać MagentaTV?",
+      "odpowiedz": "Nie. Pakiety Telewizja dla każdego, MIDI i MAXI działają przez internet od dowolnego dostawcy. Wyjątek to oferta pakietowa dla klientów światłowodu T-Mobile (Magenta Dom), w której TV jest powiązana z umową na internet T-Mobile.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s9",
+        "s20"
+      ]
+    },
+    {
+      "pytanie": "Czy Telewizja dla każdego naprawdę jest za 0 zł i jaki jest haczyk?",
+      "odpowiedz": "Cena 0 zł wynika z dwóch rabatów: za zgody marketingowe i za obsługę elektroniczną. Bez umowy terminowej. Z 75 kanałów tylko 15 jest gwarantowanych, pozostałe 60 operator może zmieniać. Nagrywanie 20 h.",
+      "zrodla": [
+        "s1",
+        "s8",
+        "s20"
+      ]
+    },
+    {
+      "pytanie": "Na ilu urządzeniach mogę oglądać?",
+      "odpowiedz": "Na 5 zarejestrowanych urządzeniach, w tym na 3 jednocześnie, we wszystkich pakietach.",
+      "zrodla": [
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "pytanie": "Czy potrzebuję dekodera?",
+      "odpowiedz": "Nie. Można oglądać w aplikacji na Smart TV, telefonie, tablecie i komputerze. Dekoder MagentaTV Box jest opcjonalny: w Telewizji dla każdego płatny, w MAXI i w ofertach ze światłowodem T-Mobile w cenie.",
+      "zrodla": [
+        "s1",
+        "s15",
+        "s20"
+      ]
+    },
+    {
+      "pytanie": "Na jakich telewizorach działa aplikacja bez dekodera?",
+      "odpowiedz": "Na telewizorach z Google TV/Android TV, Samsung (Tizen) i LG (webOS). Na starszym telewizorze bez Smart TV potrzebny jest dekoder.",
+      "zrodla": [
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na drugim telewizorze (Multiroom)?",
+      "odpowiedz": "Tak. Usługa Multiroom daje do 2 dodatkowych dekoderów na adres, z tymi samymi kanałami co dekoder główny. Dekoder dodatkowy musi być podłączony kablem Ethernet. Opłata miesięczna, minimum jeden cykl rozliczeniowy. Drugi telewizor ze Smart TV może też używać aplikacji (limit 3 jednoczesnych odtworzeń).",
+      "zrodla": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę nagrywać programy?",
+      "odpowiedz": "Tak, w chmurze: 20 h w Telewizji dla każdego, 100 h w MIDI i MAXI, nagrania trzymane do 180 dni. Nie na każdym kanale; na wielu kanałach TVP i Polsatu nagrywanie jest niedostępne.",
+      "zrodla": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę obejrzeć program, który już się skończył?",
+      "odpowiedz": "Tak, catch-up do 7 dni wstecz na większości kanałów (na TVN, TVN Siedem, Metro i TTV 2 dni). Dodatkowo time-shift: pauza i przewijanie na części kanałów.",
+      "zrodla": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Polsat Sport i Eleven Sports?",
+      "odpowiedz": "Polsat Sport 1, 2, 3 i Polsat Sport Fight są od pakietu MIDI. Eleven Sports 1-4 i Eleven Sports 1 4K są tylko w MAXI. Eurosport 1 i 2 od MIDI, Eurosport 3 i 4 jako płatny dodatek.",
+      "zrodla": [
+        "s3",
+        "s13"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Canal+ i liga angielska / Liga Mistrzów?",
+      "odpowiedz": "Tak, w płatnym dodatku CANAL+ SUPER SPORT (19 kanałów CANAL+, m.in. Premier League, Liga Mistrzów, Ekstraklasa, KSW). Według regulaminu dodatek jest dla pakietów M/L (odpowiednik MIDI/MAXI), a kanały CANAL+ działają na dekoderze.",
+      "zrodla": [
+        "s11",
+        "s12",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy jest HBO?",
+      "odpowiedz": "Kanały HBO, HBO 2 i HBO 3 są w pakiecie MAXI. Serwis HBO Max można dodatkowo zamówić przez T-Mobile jako osobną subskrypcję.",
+      "zrodla": [
+        "s3",
+        "s18"
+      ]
+    },
+    {
+      "pytanie": "Czy Netflix jest w pakiecie?",
+      "odpowiedz": "Nie. Netflix można zamówić przez T-Mobile jako osobną płatną subskrypcję rozliczaną na fakturze. Dekoder MagentaTV Box ma przycisk Netflix na pilocie.",
+      "zrodla": [
+        "s17",
+        "s5"
+      ]
+    },
+    {
+      "pytanie": "Czy jest TVN24 i Polsat?",
+      "odpowiedz": "Polsat jest już w Telewizji dla każdego. TVN24, TVN24 BiS i Polsat News są od pakietu MIDI.",
+      "zrodla": [
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy są kanały w 4K?",
+      "odpowiedz": "Tak, w pakiecie MAXI (m.in. Eleven Sports 1 4K, Filmax 4K, Love Nature 4K, TravelXP 4K, Museum 4K, Ultra TV 4K, Fashion TV 4K). Dekoder MagentaTV Box obsługuje 4K HDR. CANAL+ 4K jest w dodatku CANAL+ SUPER SPORT.",
+      "zrodla": [
+        "s3",
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę zmienić pakiet na mniejszy w trakcie umowy?",
+      "odpowiedz": "W umowie terminowej nie można zejść poniżej pakietu wybranego przy podpisaniu. Zmiana na wyższy pakiet jest możliwa zawsze, jedna zmiana na cykl rozliczeniowy.",
+      "zrodla": [
+        "s9",
+        "s21"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać za granicą?",
+      "odpowiedz": "Usługa jest gwarantowana tylko w Polsce. Podczas czasowego pobytu w UE/EOG oglądanie w aplikacji jest możliwe, ale niegwarantowane i może zostać ograniczone.",
+      "zrodla": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę dokupić pojedyncze kanały?",
+      "odpowiedz": "Tak, do pakietu Telewizja dla każdego można dokupić wybrane kanały na sztuki (np. FX Comedy, BBC First, Eleven Sports 4, CANAL+ Sport 5, National Geographic Wild).",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "do_sprawdzenia": [
+    "Lista kanałów z 18.08.2026 (Telewizja dla każdego / MIDI / MAXI) pochodzi z kopii dokumentu T-Mobile na teletropiciel.pl; nie udało się znaleźć jej oficjalnego adresu na t-mobile.pl (strona MagentaTV ma przycisk „Zobacz kanały” bez linku). Oficjalny PDF podlinkowany ze strony dekodera to starsza lista z 1.07.2026 z pakietami S/M/L.",
+    "Liczby z listy z 18.08.2026 nie zgadzają się dokładnie z marketingiem: dla Telewizji dla każdego wychodzi 77 unikalnych kanałów (78 pozycji z TVP 3 Warszawa podwójnie) zamiast 75, dla MIDI 168/169 pozycji zamiast 170, MAXI 206 unikalnych/207 pozycji. Kanały gwarantowane w tabeli: 16/45/54 zamiast 15/45/51. Pole „gwarantowany” w uwagach kanałów trzeba zweryfikować na oficjalnej liście.",
+    "Mapowanie pakietów S/M/L (regulaminy dla klientów światłowodu, lista z 1.07.2026) na Telewizję dla każdego / MIDI / MAXI nie jest potwierdzone wprost. Konfigurator na stronie światłowodu pokazuje też pakiet M z 85 kanałami.",
+    "Multiroom: regulamin oferty z 09.09.2026 i 16 podaje dostępność w S, M i L, a regulaminy z 18.08.2026 i 22.10.2026 tylko w Midi i Maxi. Nie wiadomo, czy Multiroom można dokupić do Telewizji dla każdego.",
+    "CANAL+ SUPER SPORT: czy można go dokupić do pakietów MIDI/MAXI kupionych bez internetu T-Mobile i czy działa w aplikacji, czy wyłącznie na dekoderze.",
+    "Czy na dekoderze MagentaTV Box można instalować YouTube, Disney+, Prime Video, SkyShowtime, Player, Polsat Box Go itd. ze Sklepu Google Play (regulamin wspomina Google Play, ale strona dekodera wymienia tylko Netflix, HBO Max, CANAL+, Eurosport).",
+    "Czy w Telewizji dla każdego jest dostęp do VOD i czy w aplikacji wyświetlane są reklamy.",
+    "Funkcja start-over (oglądanie od początku trwającej audycji) nie jest opisana osobno w oficjalnych źródłach.",
+    "Lista urządzeń dla aplikacji: prasa podaje też Apple TV i zapowiedź Hisense; oficjalnie potwierdzone tylko Google TV, Tizen, webOS, Android, iOS i przeglądarka.",
+    "Czy nagrywanie i odtwarzanie nagrań działa na dodatkowym dekoderze Multiroom (pytanie jest w FAQ T-Mobile, ale bez odpowiedzi).",
+    "Kanały Polsat Comedy Central Extra i TeenNick mają być w ofercie tylko do 31.12.2026 r.",
+    "Liczby kanałów z funkcjami: lista 18.08.2026 podaje nagrywanie 128, catch-up 189, time-shift 113; lista 1.07.2026: 116/158/134. Funkcje per kanał nie zostały wpisane do pliku."
+  ]
+}
