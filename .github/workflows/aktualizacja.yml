@@ -1,0 +1,42 @@
+name: Cotygodniowa aktualizacja bazy TV
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # poniedziałek ok. 6:17 czasu polskiego (zimą 5:17)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Tylko wybrani operatorzy (slugi po przecinku, np. netia,vectra). Puste = wszyscy."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aktualizacja
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "anthropic>=0.70"
+      - name: Aktualizacja danych
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+          ONLY: ${{ github.event.inputs.only }}
+        run: python scripts/update.py
+      - name: Zapis zmian
+        if: always()
+        run: |
+          git config user.name "teleranking-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Aktualizacja bazy TV $(date +%F)" && git push)
