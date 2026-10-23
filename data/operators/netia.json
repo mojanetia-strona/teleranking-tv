@@ -1,0 +1,3046 @@
+{
+  "operator": "Netia",
+  "slug": "netia",
+  "sprawdzono": "2026-10-23",
+  "zrodla": [
+    {
+      "id": "s1",
+      "tytul": "Netia: Kanały TV (pakiety XS/S/M/L i pakiety dodatkowe)",
+      "url": "https://www.netia.pl/pl/telewizja/kanaly-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s2",
+      "tytul": "Netia: lista kanałów PDF \"Sprawdź gwiazdorskie pakiety TV\" (NETIA-757, sierpień 2026)",
+      "url": "https://www.netia.pl/getmedia/f442a6c3-5310-4172-9110-39fd3d5d9b4f/NETIA-757-(N75-Programming)-2026-SIERPIEN.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s3",
+      "tytul": "Netia: Telewizja (strona główna TV)",
+      "url": "https://www.netia.pl/pl/telewizja",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s4",
+      "tytul": "Netia: pakiet Internet + Telewizja Dla Każdego",
+      "url": "https://www.netia.pl/pl/pakiety/internet-telewizja/dla-kazdego",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s5",
+      "tytul": "Netia: pakiet Internet + Telewizja Dla Kinomaniaka",
+      "url": "https://www.netia.pl/pl/pakiety/internet-telewizja/dla-kinomaniaka",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s6",
+      "tytul": "Netia: pakiet Internet + Telewizja Dla Fanów Sportu",
+      "url": "https://www.netia.pl/pl/pakiety/internet-telewizja/dla-fanow-sportu",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s7",
+      "tytul": "Netia: Multiroom",
+      "url": "https://www.netia.pl/pl/multiroom",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s8",
+      "tytul": "Netia: Netia GO",
+      "url": "https://www.netia.pl/pl/netia-go",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s9",
+      "tytul": "Netia: Giganagrywarka",
+      "url": "https://www.netia.pl/pl/telewizja/giganagrywarka",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s10",
+      "tytul": "Netia: Dlaczego Netia TV",
+      "url": "https://www.netia.pl/pl/telewizja/dlaczego-netia-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s11",
+      "tytul": "Netia: Cennik \"Nieziemska Rozrywka - Dosprzedaż MR PON ver1\" (oferta 10.11.2024-30.04.2025, archiwalny)",
+      "url": "https://www.netia.pl/getmedia/db9bc8e8-a05f-423d-ad30-4efcb168b11b/Cennik-Nieziemska-Rozrywka-Dosprzedaz-MR-PON-ver1.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s12",
+      "tytul": "Netia: Disney+",
+      "url": "https://www.netia.pl/pl/disney",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s13",
+      "tytul": "Netia: SkyShowtime",
+      "url": "https://www.netia.pl/pl/skyshowtime",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s14",
+      "tytul": "Netia: HBO Max",
+      "url": "https://www.netia.pl/pl/max",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s15",
+      "tytul": "Netia: Amazon Prime",
+      "url": "https://www.netia.pl/pl/amazon-prime-lp",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s16",
+      "tytul": "Netia: Apple TV",
+      "url": "https://www.netia.pl/pl/apple-tv-lp",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    }
+  ],
+  "podsumowanie": "Netia sprzedaje telewizję razem z internetem stacjonarnym (ceny pakietów TV podawane \"z internetem\"). Telewizja działa przez dekoder podłączony do internetu Netii (IPTV) oraz online w aplikacji Netia GO. Struktura to stałe pakiety XS (w cenie internetu, bez dekodera), S, M i L (każdy kolejny zawiera poprzedni), do których dokupuje się pakiety tematyczne (CANAL+, HBO, Polsat Sport Premium, Eleven Sports, FilmBox, Cinemax, Dla dzieci, ukraiński, dla dorosłych); brak kanałów à la carte. Na stronie sprzedawane są też gotowe zestawy internet + TV: Dla Każdego, Dla Kinomaniaka (z HBO Max) i Dla Fanów Sportu (z Eleven Sports i Polsat Sport Premium).",
+  "technologie": [
+    {
+      "nazwa": "IPTV",
+      "opis": "Dekoder (EVOBOX 4K, Netia Player, Soundbox 4K) musi być połączony z internetem Netii kablem lub przez Wi-Fi; nie potrzeba anteny. Usługi świadczone m.in. w sieci światłowodowej PON.",
+      "zrodla": [
+        "s4",
+        "s11"
+      ]
+    },
+    {
+      "nazwa": "OTT (aplikacja)",
+      "opis": "Netia GO: kanały z pakietu na żywo i treści na życzenie na smartfonie, tablecie, komputerze (go.netia.pl) i Smart TV. Pakiet XS dostępny bez dekodera.",
+      "zrodla": [
+        "s8",
+        "s1"
+      ]
+    }
+  ],
+  "pakiety": [
+    {
+      "id": "netia-xs",
+      "nazwa": "Pakiet XS",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 35,
+      "liczba_kanalow_hd": 15,
+      "zawiera_pakiet": "",
+      "opis": "Najmniejszy pakiet, w cenie abonamentu internetowego, z dostępem bez dekodera (oglądanie online). Kanały ogólnopolskie TVP/Polsat/TV4, 16 oddziałów TVP 3, kanały lokalne i 5 kanałów 4K. Na netia.pl opisany jako 36 kanałów (Polsat wpisany dwukrotnie), w PDF jako 35 kanałów + 16 regionalnych TVP.",
+      "warunki": "W cenie abonamentu internetu Netii, bez dekodera. Kanały 4K (Inultra, MyZen, Museum, Love Nature, TravelXP) tylko na urządzeniach 4K.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-s",
+      "nazwa": "Pakiet S",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 95,
+      "liczba_kanalow_hd": 48,
+      "zawiera_pakiet": "netia-xs",
+      "opis": "Pakiet startowy z dekoderem: główne kanały ogólnopolskie (TVN, Polsat, TVP, Puls), rodzina kanałów Polsat (w tym Polsat Sport 1/2/3, Polsat Film, Polsat Doku), muzyczne i regionalne. 29 kanałów dostępnych także w Netia GO.",
+      "warunki": "Cena podawana \"z internetem\". Dostępny także jako S 4K (z dekoderem 4K).",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-m",
+      "nazwa": "Pakiet M",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 120,
+      "liczba_kanalow_hd": 68,
+      "zawiera_pakiet": "netia-s",
+      "opis": "Pakiet S rozszerzony o kanały Discovery i TVN (TVN24, TVN Style, TVN Turbo, TVN Fabuła), Eurosport 1 i 2, HGTV, Food Network, Cartoon Network, Cartoonito, Warner TV i in. 48 kanałów dostępnych także w Netia GO. Pakiet bazowy w ofercie \"Dla Każdego\" (tam opisany jako 118 kanałów).",
+      "warunki": "Cena podawana \"z internetem\". Dostępny także jako M 4K. Wg PDF: nagrywarka z 7-dniową historią w pakiecie M bez dodatkowej opłaty.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "id": "netia-l",
+      "nazwa": "Pakiet L",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 189,
+      "liczba_kanalow_hd": 104,
+      "zawiera_pakiet": "netia-m",
+      "opis": "Największy pakiet: M plus kanały filmowe i serialowe (AXN, AMC, FX, BBC, 13 Ulica, Epic Drama, Ale Kino+, Kino Polska), dokumentalne (National Geographic, History, Planete+), pełen zestaw dziecięcy (Disney, Nickelodeon, MiniMini+, teleTOON+), informacyjne zagraniczne (CNN, BBC News, Sky News) i niemieckojęzyczne. 96 kanałów dostępnych także w Netia GO.",
+      "warunki": "Cena podawana \"z internetem\". Dostępny także jako L 4K. Na netia.pl 189 kanałów, w PDF 188. Wg PDF: nagrywarka z 7-dniową historią w pakiecie L bez dodatkowej opłaty.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "kanaly": [
+    {
+      "nazwa": "Zero",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "w pakietach S/M/L na netia.pl jako \"PolsatHD\""
+    },
+    {
+      "nazwa": "TVP 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV4",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Okazje",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; w PDF jako \"TV Okazja\""
+    },
+    {
+      "nazwa": "Tele 5",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polonia 1",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "WP",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Inultra",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "kanał dostępny wyłącznie na urządzeniach 4K (wg listy kanałów PDF)"
+    },
+    {
+      "nazwa": "MyZen",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "kanał dostępny wyłącznie na urządzeniach 4K (wg listy kanałów PDF)"
+    },
+    {
+      "nazwa": "Museum",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "kanał dostępny wyłącznie na urządzeniach 4K (wg listy kanałów PDF)"
+    },
+    {
+      "nazwa": "Love Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "kanał dostępny wyłącznie na urządzeniach 4K (wg listy kanałów PDF)"
+    },
+    {
+      "nazwa": "TravelXP",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "kanał dostępny wyłącznie na urządzeniach 4K (wg listy kanałów PDF)"
+    },
+    {
+      "nazwa": "Lubelska.tv",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVT",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "DlaCiebie.tv",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "tvregionalna.pl",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Telewizja Kłodzka",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Białystok",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Bydgoszcz",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Gdańsk",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Gorzów Wielkopolski",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Katowice",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Kielce",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Kraków",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Lublin",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Łódź",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Olsztyn",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Opole",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Poznań",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Rzeszów",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Szczecin",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Warszawa",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "TVP Wrocław",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-xs",
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "regionalny oddział TVP 3"
+    },
+    {
+      "nazwa": "Polsat 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN Siedem",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Puls",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Puls 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV 6",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Info",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Rozrywka",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Kultura",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVS",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Trwam",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Zoom TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Nowa TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Metro",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Polonia",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "FOKUS TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat History",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVP Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVP Sport",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Super Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat Explorer",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat Rodzina",
+      "kategoria": "lifestyle",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Crime+Investigation Polsat",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVP ABC",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Comedy Central Extra",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Stopklatka TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat News",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat News 2",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polo TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Eska TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Eska Extra TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Eska Rock TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Disco Polo Music",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVC",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TTV",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Cafe",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat Doku",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Games",
+      "kategoria": "lifestyle",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat Jim Jam",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat Music",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Play",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport Fight",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wydarzenia24",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Vox Music TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Polsat News Polityka",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "4fun.tv",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "4fun Dance",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "4funKids",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Stars TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Film 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Reality",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat X",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Mango",
+      "kategoria": "lifestyle",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "News Max",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-s",
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "HGTV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Travel Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Discovery Science",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Food Network",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVN Fabuła",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "wPolsce.pl",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; w PDF jako \"wPolsce24\""
+    },
+    {
+      "nazwa": "Animal Planet",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Discovery Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Discovery Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Discovery Life",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "DTX",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Eurosport",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Eurosport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "ID",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TLC",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TV Republika",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVN 24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVN 24 BiŚ",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN Style",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVN Turbo",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TVP",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Cartoon Network",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Cartoonito",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "WARNER TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-m",
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Al Jazeera",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "13 Ulica",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Active Family",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AMC",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Arte",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "AXN Black",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "AXN",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "AXN Spin",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "AXN White",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "BBC Brit",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "BBC CBeebies",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "BBC Earth",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "BBC FIRST",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "BBC Lifestyle",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "BBC News",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "w PDF jako \"BBC World News\""
+    },
+    {
+      "nazwa": "CNN",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Comedy Central",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Da Vinci",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Disney Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Disney Junior",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Disney XD",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "DW-TV",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "English Club TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Epic Drama",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Euronews",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Extreme Sports Channel",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "FX Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "FX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "France 24 Ang",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "France 24 Fra",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Golf Channel Polska",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; w PDF jako \"Golf Zone\""
+    },
+    {
+      "nazwa": "History",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Kino Polska",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Kino Polska Muzyka",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Filmbox One",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Nat Geo People",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Nat Geo WilD",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "National Geographic Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Nick JR",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Nickelodeon",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Nicktoons",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Novela TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Paramount Network",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Red Carpet",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "RTL",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "RTL2",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "SciFi Universal",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "SKY NEWS",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Sundance TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Super RTL",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV5Monde",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "HOME TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "VOX",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Water Planet",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Euronews (wersja rosyjska)",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "H2",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "E! ENTERTAINMENT",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "ROMANCE TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Ale Kino+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Domo+",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Kuchnia+",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "MiniMini+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Planete+",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "teleTOON+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Novelas+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "TEENNICK",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO; także w dodatku: netia-dla-dzieci"
+    },
+    {
+      "nazwa": "Motowizja",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "MTV Polska",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": "dostępny także w Netia GO"
+    },
+    {
+      "nazwa": "Viasat True Crime",
+      "kategoria": "dokumentalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "netia-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Canal+ Premium",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Dokument",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ 360",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Sport",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Sport 4",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Sport 6",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Sport 7",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Now",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra"
+    },
+    {
+      "nazwa": "Canal+ Extra 1",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra; kanał eventowy CANAL+ (zawartość zmienna)"
+    },
+    {
+      "nazwa": "Canal+ Extra 2",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra; kanał eventowy CANAL+ (zawartość zmienna)"
+    },
+    {
+      "nazwa": "Canal+ Extra 3",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra; kanał eventowy CANAL+ (zawartość zmienna)"
+    },
+    {
+      "nazwa": "Canal+ Extra 4",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra; kanał eventowy CANAL+ (zawartość zmienna)"
+    },
+    {
+      "nazwa": "Canal+ Extra 5",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra; kanał eventowy CANAL+ (zawartość zmienna)"
+    },
+    {
+      "nazwa": "Canal+ Extra 6",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra; kanał eventowy CANAL+ (zawartość zmienna)"
+    },
+    {
+      "nazwa": "Canal+ Extra 7",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-canalplus-ultra; kanał eventowy CANAL+ (zawartość zmienna)"
+    },
+    {
+      "nazwa": "HBO",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-hbo"
+    },
+    {
+      "nazwa": "HBO 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-hbo"
+    },
+    {
+      "nazwa": "HBO 3",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-hbo"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 1",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 2",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 3",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 4",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Eleven Sports 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-eleven-sports"
+    },
+    {
+      "nazwa": "Eleven Sports 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-eleven-sports"
+    },
+    {
+      "nazwa": "Eleven Sports 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-eleven-sports"
+    },
+    {
+      "nazwa": "Eleven Sports 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-eleven-sports"
+    },
+    {
+      "nazwa": "Eleven Sports 1 4K",
+      "kategoria": "sportowe",
+      "jakosc": "4K",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-eleven-sports"
+    },
+    {
+      "nazwa": "Filmbox Action",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Festival",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Emotion",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Hits",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-filmbox"
+    },
+    {
+      "nazwa": "Cinemax",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-cinemax"
+    },
+    {
+      "nazwa": "Cinemax 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-cinemax"
+    },
+    {
+      "nazwa": "Star Cinema",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-ukraina"
+    },
+    {
+      "nazwa": "36,6",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-ukraina"
+    },
+    {
+      "nazwa": "Film UA Drama",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-ukraina"
+    },
+    {
+      "nazwa": "Dacha",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-ukraina"
+    },
+    {
+      "nazwa": "1+1 International",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-ukraina"
+    },
+    {
+      "nazwa": "Kus Kus",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-ukraina"
+    },
+    {
+      "nazwa": "Kvartal TV International",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-ukraina"
+    },
+    {
+      "nazwa": "Brazzers TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    },
+    {
+      "nazwa": "Hustler TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    },
+    {
+      "nazwa": "Private TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    },
+    {
+      "nazwa": "Redlight TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    },
+    {
+      "nazwa": "Vivid Red",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    },
+    {
+      "nazwa": "Vivid Touch",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    },
+    {
+      "nazwa": "Dorcel TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    },
+    {
+      "nazwa": "Blue Hustler",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "dodatek: netia-dla-doroslych"
+    }
+  ],
+  "dodatki": [
+    {
+      "id": "netia-canalplus-seriale-filmy",
+      "nazwa": "CANAL+ SERIALE I FILMY",
+      "rodzaj": "premium",
+      "zawartosc": "6 kanałów CANAL+ z filmami, serialami i dokumentem (bez kanałów sportowych).",
+      "kanaly": [
+        "Canal+ Premium",
+        "Canal+ 1",
+        "Canal+ Film",
+        "Canal+ Seriale",
+        "Canal+ Dokument",
+        "Canal+ 360"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-canalplus-ultra",
+      "nazwa": "CANAL+ ULTRA",
+      "rodzaj": "premium",
+      "zawartosc": "20 kanałów: pełny zestaw CANAL+ (filmy, seriale, dokument) plus kanały CANAL+ Sport i CANAL+ Extra.",
+      "kanaly": [
+        "Canal+ Premium",
+        "Canal+ 1",
+        "Canal+ Film",
+        "Canal+ Seriale",
+        "Canal+ Dokument",
+        "Canal+ Sport",
+        "Canal+ Sport 2",
+        "Canal+ Sport 3",
+        "Canal+ Sport 4",
+        "Canal+ Sport 6",
+        "Canal+ Sport 7",
+        "Canal+ Now",
+        "Canal+ Extra 1",
+        "Canal+ Extra 2",
+        "Canal+ Extra 3",
+        "Canal+ Extra 4",
+        "Canal+ Extra 5",
+        "Canal+ Extra 6",
+        "Canal+ Extra 7",
+        "Canal+ 360"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-hbo",
+      "nazwa": "HBO HD",
+      "rodzaj": "filmowy",
+      "zawartosc": "3 kanały HBO (dostępne też w Netia GO) + dostęp do aplikacji HBO Max. HBO Max jest dostępny tylko z pakietem HBO HD.",
+      "kanaly": [
+        "HBO",
+        "HBO 2",
+        "HBO 3"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS. HBO Max wymaga aktywnego pakietu HBO HD; oferta dla abonentów z internetem i TV Netii.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s14"
+      ]
+    },
+    {
+      "id": "netia-polsat-sport-premium",
+      "nazwa": "Polsat Sport Premium",
+      "rodzaj": "sport",
+      "zawartosc": "6 kanałów (wszystkie w Netia GO) + 4 serwisy premium w systemie PPV bez dodatkowych opłat. Wg netia.pl m.in. rozgrywki UEFA (Liga Europy, Liga Konferencji, Liga Narodów).",
+      "kanaly": [
+        "Polsat Sport Premium 1",
+        "Polsat Sport Premium 2",
+        "Polsat Sport Extra 1",
+        "Polsat Sport Extra 2",
+        "Polsat Sport Extra 3",
+        "Polsat Sport Extra 4"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "id": "netia-eleven-sports",
+      "nazwa": "Eleven Sports",
+      "rodzaj": "sport",
+      "zawartosc": "5 kanałów, w tym Eleven Sports 1 w 4K (4 kanały w Netia GO). Wg netia.pl m.in. Formuła 1, wybrane mecze ligi hiszpańskiej.",
+      "kanaly": [
+        "Eleven Sports 1",
+        "Eleven Sports 2",
+        "Eleven Sports 3",
+        "Eleven Sports 4",
+        "Eleven Sports 1 4K"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "id": "netia-filmbox",
+      "nazwa": "FilmBox",
+      "rodzaj": "filmowy",
+      "zawartosc": "5 kanałów filmowych FilmBox (4 w Netia GO).",
+      "kanaly": [
+        "Filmbox Action",
+        "Filmbox Festival",
+        "Filmbox Emotion",
+        "Filmbox Comedy",
+        "Filmbox Hits"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-cinemax",
+      "nazwa": "Cinemax HD",
+      "rodzaj": "filmowy",
+      "zawartosc": "2 kanały Cinemax (oba w Netia GO). Wg listy kanałów PDF promocyjnie w pakietach M 4K i L 4K.",
+      "kanaly": [
+        "Cinemax",
+        "Cinemax 2"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-dla-dzieci",
+      "nazwa": "Dla dzieci",
+      "rodzaj": "dziecięcy",
+      "zawartosc": "13 kanałów dziecięcych (wszystkie w Netia GO). Uwaga: wszystkie te kanały są już w pakiecie L, Cartoonito i Cartoon Network także w M, więc dodatek ma sens głównie przy pakiecie S lub M.",
+      "kanaly": [
+        "Cartoonito",
+        "BBC CBeebies",
+        "Cartoon Network",
+        "Da Vinci",
+        "Disney Channel",
+        "Disney Junior",
+        "Disney XD",
+        "Nick JR",
+        "Nickelodeon",
+        "Nicktoons",
+        "MiniMini+",
+        "teleTOON+",
+        "TEENNICK"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-ukraina",
+      "nazwa": "Пакет Україна (pakiet ukraiński)",
+      "rodzaj": "inny",
+      "zawartosc": "7 kanałów ukraińskojęzycznych (wszystkie w Netia GO).",
+      "kanaly": [
+        "Star Cinema",
+        "36,6",
+        "Film UA Drama",
+        "Dacha",
+        "1+1 International",
+        "Kus Kus",
+        "Kvartal TV International"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "netia-dla-doroslych",
+      "nazwa": "Dla dorosłych",
+      "rodzaj": "erotyczny",
+      "zawartosc": "8 kanałów dla dorosłych. Nie są dostępne w Netia GO.",
+      "kanaly": [
+        "Brazzers TV",
+        "Hustler TV",
+        "Private TV",
+        "Redlight TV",
+        "Vivid Red",
+        "Vivid Touch",
+        "Dorcel TV",
+        "Blue Hustler"
+      ],
+      "warunki": "Dokupowany do pakietu S, M lub L (wg listy kanałów PDF: \"Dodatkowe pakiety dostępne w pakietach S, M, L\"); nie do pakietu XS.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "streaming": [
+    {
+      "serwis": "Netflix",
+      "dostepnosc": "brak informacji",
+      "opis": "Oficjalne strony Netii (telewizja, pakiety, dekodery) nie wspominają o Netflixie: ani jako dodatek, ani jako aplikacja na dekoderze.",
+      "zrodla": [
+        "s3",
+        "s10"
+      ]
+    },
+    {
+      "serwis": "Max",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "HBO Max dostępny tylko z pakietem kanałów HBO HD (HBO, HBO 2, HBO 3). W cenie oferty \"Dla Kinomaniaka\" oraz ofert M 4K / L 4K z HBO Max. Do 4 urządzeń jednocześnie, 5 profili. Logowanie przez wybór operatora Netia (ID klienta + kod z SMS/e-mail).",
+      "zrodla": [
+        "s14",
+        "s5",
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Disney+",
+      "dostepnosc": "w cenie wybranych ofert internetowych / jako płatny dodatek na rachunku Netii",
+      "opis": "Plan Disney+ Standard (2 ekrany jednocześnie). Oferta \"Internet z Disney+\" - dostęp jest częścią usługi internetowej przez cały okres jej trwania. Opłata może być doliczana do rachunku Netii. Aplikacja Disney+ na dekoderze tylko na dekoderach 4K (Netia nie gwarantuje dostępności).",
+      "zrodla": [
+        "s12",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "SkyShowtime",
+      "dostepnosc": "w cenie wybranych taryf internetowych",
+      "opis": "Plan Standard (Full HD, 2 streamy jednocześnie, 5 profili + dziecięcy). Wymaga pakietu z internetem Netii i umowy na 24 okresy rozliczeniowe. Aktywacja linkiem z e-maila/SMS.",
+      "zrodla": [
+        "s13"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "dostepnosc": "w cenie wybranych ofert (internet z Prime, internet + TV z Prime)",
+      "opis": "Aktywacja linkiem z e-maila/SMS w ciągu 24 h. Do 3 urządzeń jednocześnie. Obecny abonent Prime musi założyć nowe konto Amazon lub anulować subskrypcję kupioną bezpośrednio w Amazonie.",
+      "zrodla": [
+        "s15"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "w cenie wybranych ofert (internet + TV 118 kanałów lub sam internet)",
+      "opis": "Apple TV (dawniej Apple TV+): w pakietach z internetem 1 Gb/s, umowa 24 okresy rozliczeniowe. Subskrypcję można współdzielić z maks. 6 osobami. Nie wymaga urządzenia Apple.",
+      "zrodla": [
+        "s16"
+      ]
+    },
+    {
+      "serwis": "Canal+ online",
+      "dostepnosc": "brak informacji",
+      "opis": "Netia sprzedaje kanały CANAL+ jako pakiety dodatkowe (CANAL+ SERIALE I FILMY, CANAL+ ULTRA), ale na oficjalnych stronach nie ma informacji o dostępie do aplikacji CANAL+ online.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Pakiet Eleven Sports (5 kanałów, w tym 4K). W cenie oferty \"Dla Fanów Sportu\". W Netia GO dostępny też jako część Netia Premium Sport (Eleven Sports, Polsat Sport Premium, Motowizja) bez długotrwałych zobowiązań.",
+      "zrodla": [
+        "s1",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "w cenie pakietu (każdy pakiet TV)",
+      "opis": "Netia GO: własna aplikacja/serwis Netii z kanałami z pakietu na żywo, programami na życzenie i wypożyczalnią VOD. Dostęp bez względu na wybrany pakiet.",
+      "zrodla": [
+        "s8",
+        "s4"
+      ]
+    }
+  ],
+  "multiroom": {
+    "dostepny": true,
+    "max_odbiornikow": 4,
+    "jak_dziala": "Każdy dodatkowy telewizor dostaje osobny dekoder Netii (Multiroom HD lub Multiroom 4K, w ofercie także Multiroom Soundbox 4K). Telewizory muszą być w tej samej sieci lokalnej. Usługa w ramach jednej umowy i jednej faktury, zamawiana przez konsultanta.",
+    "co_na_kolejnych_tv": "Te same kanały co w umowie TV; dodatkowe dekodery mają te same funkcje co główny. Na każdym telewizorze można jednocześnie oglądać inny kanał.",
+    "uwagi": "Wymaga usługi TV + internet w Netii. Wg cennika z 2024/2025 Multiroom obejmuje warianty pakietów S/S4K, M/M4K, L/L4K. Działanie nagrań na dodatkowych dekoderach nie jest opisane.",
+    "zrodla": [
+      "s7",
+      "s11",
+      "s3"
+    ]
+  },
+  "sprzet_i_funkcje": {
+    "dekodery": [
+      {
+        "nazwa": "EVOBOX 4K",
+        "opis": "Dekoder 4K z nowym menu, w ofertach internet + TV na czas umowy w cenie abonamentu; łączy się z internetem kablem lub przez Wi-Fi."
+      },
+      {
+        "nazwa": "Netia Player",
+        "opis": "Dekoder, na którym działa usługa Giganagrywarka (nagrywanie w chmurze, cofanie, catch-up)."
+      },
+      {
+        "nazwa": "Soundbox 4K",
+        "opis": "Dekoder 4K z wbudowanym głośnikiem (dźwięk przestrzenny), opcjonalnie do usługi TV w wariancie 4K lub do Multiroom 4K."
+      }
+    ],
+    "aplikacja": {
+      "nazwa": "Netia GO",
+      "urzadzenia": "smartfon i tablet (Google Play, App Store), komputer (przeglądarka go.netia.pl), Smart TV (sklep aplikacji telewizora), przesyłanie na TV przez Chromecast i AirPlay",
+      "ile_urzadzen_jednoczesnie": "kanały z pakietu na 3 urządzeniach mobilnych jednocześnie, w domu i poza domem",
+      "uwagi": "Logowanie danymi Netia Online. Profile dla domowników, pobieranie wybranych treści offline. Liczba kanałów w Netia GO zależy od pakietu: wg strony kanałów S 29, M 48, L 96 (strona Netia GO podaje S 24, M 46, L 96)."
+    },
+    "smart_tv_bez_dekodera": "Tak, przez aplikację Netia GO ze sklepu Smart TV (marki telewizorów nie są wymienione na netia.pl). Pakiet XS jest opisany jako dostęp bez dekodera. Pełne pakiety S/M/L na głównym telewizorze są sprzedawane z dekoderem.",
+    "nagrywanie": "Giganagrywarka (nagrywanie w chmurze na dekoderze Netia Player): Basic - 100 godzin, przechowywanie 30 dni; Maxi - 1500 godzin, przechowywanie 120 dni. Można nagrywać jednocześnie dowolnie wiele programów; zaplanowane nagrania działają też przy dekoderze odłączonym od prądu. W ofercie Dla Każdego Giganagrywarka Maxi bez opłat przez 3 miesiące. Wg PDF: nagrywarka z 7-dniową historią w M i L bez dodatkowej opłaty, w S płatna.",
+    "cofanie_i_ogladanie_od_poczatku": "Timeshift: cofanie do 2 godzin wstecz na kanałach objętych Giganagrywarką. Catch-up: do 7 dni wstecz na wybranych kanałach. Funkcja oglądania od początku (start-over) nie jest opisana na netia.pl.",
+    "vod": "Netia GO: programy i seriale z kanałów z pakietu na życzenie bez dodatkowych opłat, wypożyczalnia filmów (opłata doliczana do rachunku), Netia Premium (setki filmów przez 30 dni za jedną opłatą).",
+    "zrodla": [
+      "s4",
+      "s8",
+      "s9",
+      "s10",
+      "s11",
+      "s2"
+    ]
+  },
+  "warunki_ogolne": [
+    "Ceny pakietów TV S, M i L są podawane jako \"cena z internetem\"; pakiet XS jest w cenie abonamentu internetu, bez dekodera.",
+    "Dekoder musi być podłączony do internetu (kablem lub przez Wi-Fi), nie jest potrzebna antena.",
+    "Pakiety są stałe (XS, S, M, L; S/M/L także w wersji 4K), każdy wyższy zawiera niższy. Nie ma wyboru pojedynczych kanałów à la carte; rozszerzenia to pakiety dodatkowe.",
+    "Pakiety dodatkowe można dokupić do pakietów S, M i L.",
+    "Zestawy internet + TV w promocji zawierane są na 24 miesiące; dekoder i router w cenie abonamentu na czas umowy.",
+    "Multiroom (do 4 dekoderów) wymaga usług TV i internetu w Netii, w ramach jednej umowy.",
+    "Kanały 4K (Inultra, MyZen, Museum, Love Nature, TravelXP, Eleven Sports 1 4K) są dostępne tylko na urządzeniach 4K.",
+    "Netia GO jest dostępna w każdym pakiecie TV; liczba kanałów online zależy od pakietu."
+  ],
+  "faq": [
+    {
+      "pytanie": "Czy mogę mieć telewizję Netii bez internetu?",
+      "odpowiedz": "Według oficjalnych materiałów nie: pakiety S, M i L są w cenie \"z internetem\", a dekoder działa przez internet Netii. Multiroom i HBO Max też wymagają usług TV i internetu. Netia nie publikuje oferty samej telewizji.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "pytanie": "Jakie są pakiety telewizji?",
+      "odpowiedz": "Są cztery stałe pakiety: XS (35 kanałów, w cenie internetu, bez dekodera), S (95), M (120) i L (189). Każdy wyższy zawiera niższy. S, M i L są też w wersji 4K.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę sam wybrać kanały, które chcę?",
+      "odpowiedz": "Nie. Netia nie oferuje kanałów à la carte. Wybierasz pakiet S, M lub L i możesz dokupić pakiety tematyczne, np. CANAL+, HBO, Polsat Sport Premium, Eleven Sports, FilmBox, Cinemax, Dla dzieci.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Na ilu telewizorach mogę oglądać?",
+      "odpowiedz": "Z usługą Multiroom nawet na 4 telewizorach. Każdy dostaje osobny dekoder (HD lub 4K), wszystkie w tej samej sieci domowej. Na każdym są te same kanały i na każdym można oglądać coś innego. Multiroom jest płatną usługą dodatkową.",
+      "zrodla": [
+        "s7"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na telefonie albo poza domem?",
+      "odpowiedz": "Tak, w aplikacji Netia GO (Android, iOS, przeglądarka go.netia.pl, Smart TV). Kanały z pakietu można oglądać na 3 urządzeniach mobilnych jednocześnie, także poza domem. Nie wszystkie kanały pakietu są w Netia GO, np. w L jest ich 96.",
+      "zrodla": [
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy da się oglądać na Smart TV bez dekodera?",
+      "odpowiedz": "Tak, przez aplikację Netia GO ze sklepu Smart TV; pakiet XS jest opisany jako dostęp bez dekodera. Pełne pakiety S/M/L są sprzedawane z dekoderem. Netia nie podaje listy obsługiwanych marek telewizorów.",
+      "zrodla": [
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę nagrywać programy i cofać?",
+      "odpowiedz": "Tak, z Giganagrywarką: Basic 100 godzin nagrań na 30 dni, Maxi 1500 godzin na 120 dni. Cofanie do 2 godzin, catch-up do 7 dni wstecz na wybranych kanałach. Wg listy kanałów w M i L nagrywarka z 7-dniową historią jest bez dodatkowej opłaty, w S płatna.",
+      "zrodla": [
+        "s9",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Netflix?",
+      "odpowiedz": "Netia nie podaje na swoich stronach informacji o Netflixie (ani w pakiecie, ani jako aplikacji na dekoderze). W ofercie są natomiast HBO Max, Disney+, SkyShowtime, Amazon Prime i Apple TV.",
+      "zrodla": [
+        "s3",
+        "s10"
+      ]
+    },
+    {
+      "pytanie": "Czy jest HBO Max?",
+      "odpowiedz": "Tak, z pakietem dodatkowym HBO HD (kanały HBO, HBO 2, HBO 3 + aplikacja HBO Max). HBO Max jest też w zestawie Dla Kinomaniaka i w ofertach M 4K / L 4K z HBO Max.",
+      "zrodla": [
+        "s14",
+        "s5"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Canal+?",
+      "odpowiedz": "Tak, jako pakiety dodatkowe: CANAL+ SERIALE I FILMY (6 kanałów) albo CANAL+ ULTRA (20 kanałów, w tym CANAL+ Sport i CANAL+ Extra). Dokupuje się je do pakietu S, M lub L.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Gdzie obejrzę sport, np. Ligę Europy, F1, Ekstraklasę?",
+      "odpowiedz": "W pakietach S/M/L są Polsat Sport 1-3, TVP Sport, a od M Eurosport 1 i 2. Dodatkowo: Polsat Sport Premium (m.in. Liga Europy, Liga Konferencji), Eleven Sports (m.in. Formuła 1) i CANAL+ ULTRA z kanałami CANAL+ Sport. Konkretne prawa do lig (np. Ekstraklasy) trzeba sprawdzić u nadawcy.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "pytanie": "Czy są kanały dla dzieci?",
+      "odpowiedz": "Tak. W S są m.in. TVP ABC, Polsat JimJam, 4funKids; w M dochodzą Cartoon Network i Cartoonito; L ma pełen zestaw (Disney, Nickelodeon, MiniMini+, teleTOON+). Do S i M można dokupić pakiet Dla dzieci (13 kanałów).",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Jaki dekoder dostanę?",
+      "odpowiedz": "W ofertach internet + TV jest EVOBOX 4K, na czas umowy w cenie abonamentu. Dekoder łączy się z internetem kablem lub przez Wi-Fi. Opcjonalnie dostępny Soundbox 4K z wbudowanym głośnikiem.",
+      "zrodla": [
+        "s4",
+        "s11"
+      ]
+    },
+    {
+      "pytanie": "Czy potrzebuję anteny albo gniazdka kablówki?",
+      "odpowiedz": "Nie. Dekoder działa przez internet Netii (kablem lub Wi-Fi), nie potrzeba anteny ani osobnego abonamentu TV.",
+      "zrodla": [
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy są kanały w 4K?",
+      "odpowiedz": "Tak: Inultra, MyZen, Museum, Love Nature, TravelXP (od XS) oraz Eleven Sports 1 4K w dodatku Eleven Sports. Działają tylko na urządzeniach 4K, np. z dekoderem 4K.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Disney+ albo SkyShowtime?",
+      "odpowiedz": "Tak, w wybranych ofertach z internetem: Disney+ Standard (2 ekrany) i SkyShowtime Standard (2 streamy). Aplikacja Disney+ na dekoderze działa tylko na dekoderach 4K.",
+      "zrodla": [
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "pytanie": "Na jak długo jest umowa?",
+      "odpowiedz": "Zestawy internet + TV w promocji są na 24 miesiące.",
+      "zrodla": [
+        "s4",
+        "s6"
+      ]
+    }
+  ],
+  "do_sprawdzenia": [
+    "Czy telewizja Netii jest w ogóle sprzedawana bez internetu Netii (brak wprost wykluczenia w oficjalnych dokumentach; wszystkie oferty są z internetem).",
+    "Brak aktualnego (2026) regulaminu promocji / cennika ofert z TV - nie znaleziono dokumentów PDF na stronach ofert; strona netia.pl/pl/dokumenty zwraca błąd.",
+    "Technologie: strona /pl/telewizja wspomina \"telewizję kablową\" - nie potwierdzono, czy Netia oferuje gdzieś DVB-C (np. w przejętych sieciach kablowych) ani w których sieciach działa IPTV.",
+    "Liczby kanałów niespójne: XS 36 (strona) vs 35 (PDF), L 189 (strona) vs 188 (PDF); strona Dla Każdego podaje M = 118 kanałów, FAQ ~92/117/194, meta 77; nagłówki 217/244/247 kanałów w ofercie.",
+    "Liczba kanałów w Netia GO: strona kanałów S 29 / M 48 / L 96, strona Netia GO S 24 / M 46 / L 96; dla XS strona podaje 3, PDF 35.",
+    "Jakość kanałów (SD/HD): ustalona z nazw na netia.pl i z częściowo odczytanej listy PDF (plik jest obrazem bez warstwy tekstowej). Kanały bez dopisku HD oznaczone jako SD mogą być w HD, szczególnie Polsat Sport Extra 1-4, Canal+ Sport 3-7, Canal+ Extra, kanały Disney/Nickelodeon.",
+    "Przypis na dole PDF (warunki kanałów 4K w pakietach S 4K/M 4K/L 4K, okresy promocyjne) jest nieczytelny w dostępnej rozdzielczości.",
+    "Zawartość pakietów Dla Kinomaniaka (99 kanałów?), Dla Fanów Sportu (~100 kanałów?) i Na start - który pakiet bazowy S/M/L, brak jednoznacznej informacji.",
+    "Netflix: brak jakiejkolwiek informacji (ani aplikacji na dekoderze EVOBOX, ani oferty).",
+    "Aplikacja CANAL+ online przy pakietach CANAL+ - brak informacji.",
+    "Netia GO: lista obsługiwanych marek Smart TV, Android TV, limit zarejestrowanych urządzeń, catch-up/nagrania w aplikacji - nie opisane.",
+    "Funkcja oglądania od początku (start-over) - nie opisana.",
+    "Czy nagrania działają na dekoderach Multiroom - nie opisane.",
+    "Multiroom: limit 4 dekoderów ze strony; cennik 2024/2025 nie określa maksymalnej liczby; aktualny cennik Multiroom 2026 nie znaleziony.",
+    "Różnice nazw kanałów strona vs PDF: TV Okazje/TV Okazja, wPolsce.pl/wPolsce24, BBC News/BBC World News, Golf Channel Polska/Golf Zone.",
+    "Na stronie kanałów są też pakiety CANAL+ z oznaczeniem \"+6\" przy CANAL+ ULTRA - znaczenie niejasne.",
+    "Kategorie kanałów przypisane redakcyjnie (Netia nie publikuje podziału na kategorie)."
+  ]
+}
