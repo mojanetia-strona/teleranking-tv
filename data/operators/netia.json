@@ -2752,17 +2752,24 @@
   "streaming": [
     {
       "serwis": "Netflix",
-      "dostepnosc": "brak informacji",
-      "opis": "Oficjalne strony Netii (telewizja, pakiety, dekodery) nie wspominają o Netflixie: ani jako dodatek, ani jako aplikacja na dekoderze.",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora. Oficjalne strony Netii nie wspominają o Netflixie ani jako dodatku, ani jako aplikacji na dekoderze.",
+      "opis": "",
       "zrodla": [
         "s3",
-        "s10"
+        "s10",
+        "s4"
       ]
     },
     {
-      "serwis": "Max",
-      "dostepnosc": "jako płatny dodatek",
-      "opis": "HBO Max dostępny tylko z pakietem kanałów HBO HD (HBO, HBO 2, HBO 3). W cenie oferty \"Dla Kinomaniaka\" oraz ofert M 4K / L 4K z HBO Max. Do 4 urządzeń jednocześnie, 5 profili. Logowanie przez wybór operatora Netia (ID klienta + kod z SMS/e-mail).",
+      "serwis": "HBO Max",
+      "wariant": "Standard (dostęp bezterminowy) / Premium (dostęp na czas określony)",
+      "dostepnosc": "jako płatny dodatek | w cenie oferty Dla Kinomaniaka oraz Pakietów M 4K / L 4K z HBO Max",
+      "cena": "pakiet HBO HD z HBO Max od 25 zł/mies.; Pakiet M 4K z HBO Max (internet + 121 kanałów) od 95 zł/mies.; Pakiet L 4K z HBO Max (internet + 189 kanałów) od 125 zł/mies.; Dla Kinomaniaka (internet do 2 Gb/s + 99 kanałów + HBO HD z HBO Max) od 80 zł/mies.",
+      "zasady": "Tylko dla klientów z internetem i telewizją Netii, HBO Max wyłącznie razem z pakietem kanałów HBO HD (HBO, HBO 2, HBO 3). Przy dostępie na czas określony plan Premium, przy bezterminowym Standard. Aktywacja: w aplikacji HBO Max wybrać operatora Netia, przy pierwszym logowaniu ID klienta i kod autoryzacyjny z SMS/e-maila. Istniejące konto HBO Max można zachować (logowanie dotychczasowymi danymi). Do 4 urządzeń jednocześnie, 5 profili. Sposób rezygnacji nieopisany na stronie: przez Obsługę Klienta (801 802 803).",
+      "opis": "Aplikacja HBO Max: Google Play, App Store, wybrane Smart TV, Apple TV 4K, Chromecast, konsole, hbomax.com.",
       "zrodla": [
         "s14",
         "s5",
@@ -2771,8 +2778,11 @@
     },
     {
       "serwis": "Disney+",
-      "dostepnosc": "w cenie wybranych ofert internetowych / jako płatny dodatek na rachunku Netii",
-      "opis": "Plan Disney+ Standard (2 ekrany jednocześnie). Oferta \"Internet z Disney+\" - dostęp jest częścią usługi internetowej przez cały okres jej trwania. Opłata może być doliczana do rachunku Netii. Aplikacja Disney+ na dekoderze tylko na dekoderach 4K (Netia nie gwarantuje dostępności).",
+      "wariant": "Standard (bez reklam, Full HD, 2 ekrany)",
+      "dostepnosc": "w cenie oferty Internet z Disney+ | jako płatny dodatek do pakietu TV",
+      "cena": "",
+      "zasady": "Wymaga oferty internetowej Netii z Disney+ (Disney+ jest integralną częścią usługi internetowej; brak aktywacji nie obniża opłaty) albo dokupienia jako pakiet premium do TV. Opłata doliczana do rachunku Netii. Aktywacja: w ciągu 24 h e-mail/SMS z linkiem (ważny 30 dni) albo w Netia Online, zakładka Usługi Dodatkowe. Istniejące konto Disney+ można podpiąć (historia zostaje); subskrypcja kupiona bezpośrednio jest wstrzymywana, a kupiona przez Google/Apple trzeba anulować samemu. 2 ekrany jednocześnie, 10 urządzeń do pobrań, 7 profili. Aplikacja na dekoderach 4K bez gwarancji działania. Rezygnacja: przez Obsługę Klienta.",
+      "opis": "",
       "zrodla": [
         "s12",
         "s4"
@@ -2780,53 +2790,82 @@
     },
     {
       "serwis": "SkyShowtime",
+      "wariant": "Standard (Full HD, 2 ekrany, 6 profili)",
       "dostepnosc": "w cenie wybranych taryf internetowych",
-      "opis": "Plan Standard (Full HD, 2 streamy jednocześnie, 5 profili + dziecięcy). Wymaga pakietu z internetem Netii i umowy na 24 okresy rozliczeniowe. Aktywacja linkiem z e-maila/SMS.",
+      "cena": "w cenie wybranych taryf, bez dodatkowych opłat",
+      "zasady": "Wymaga zakupu oferty Netii z SkyShowtime (strona nie wymienia, które to taryfy). Aktywacja: e-mail/SMS powitalny z linkiem do rejestracji, potem aplikacja SkyShowtime (Google Play, App Store, Smart TV) lub skyshowtime.com. 2 ekrany jednocześnie, do 30 pobrań. Brak opisu podpięcia istniejącego konta i rezygnacji.",
+      "opis": "",
       "zrodla": [
         "s13"
       ]
     },
     {
       "serwis": "Amazon Prime Video",
+      "wariant": "Amazon Prime (z Prime Video)",
       "dostepnosc": "w cenie wybranych ofert (internet z Prime, internet + TV z Prime)",
-      "opis": "Aktywacja linkiem z e-maila/SMS w ciągu 24 h. Do 3 urządzeń jednocześnie. Obecny abonent Prime musi założyć nowe konto Amazon lub anulować subskrypcję kupioną bezpośrednio w Amazonie.",
+      "cena": "Pakiet z Amazon Prime (internet 1 Gb/s + 118 kanałów + Prime) 85 zł/mies.; Internet z Amazon Prime (internet 1 Gb/s + Prime) 70 zł/mies.; w obu 6 mies. abonamentu za 0 zł po rabatach",
+      "zasady": "Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł (internet) i 2 zł (TV); po 24 mies. abonament +10 zł; tylko sieć PON, HFC, ETTH. Aktywacja: w ciągu 24 h e-mail/SMS z linkiem do rejestracji. Klient, który ma już Prime, musi założyć nowe konto Amazon (inny e-mail) albo anulować subskrypcję kupioną w Amazonie. Jedno konto Prime na jeden numer MSISDN w Netii. Prime Video na 3 urządzeniach jednocześnie.",
+      "opis": "",
       "zrodla": [
         "s15"
       ]
     },
     {
       "serwis": "inny",
-      "dostepnosc": "w cenie wybranych ofert (internet + TV 118 kanałów lub sam internet)",
-      "opis": "Apple TV (dawniej Apple TV+): w pakietach z internetem 1 Gb/s, umowa 24 okresy rozliczeniowe. Subskrypcję można współdzielić z maks. 6 osobami. Nie wymaga urządzenia Apple.",
+      "wariant": "Apple TV",
+      "dostepnosc": "w cenie wybranych ofert (internet + TV lub sam internet)",
+      "cena": "Pakiet z Apple TV (internet 1 Gb/s + 118 kanałów + Apple TV) 100 zł/mies.; Internet z Apple TV (internet 1 Gb/s + Apple TV) 85 zł/mies.; w obu 6 mies. abonamentu za 0 zł po rabatach",
+      "zasady": "Umowa na 24 okresy rozliczeniowe (przypis na stronie). Aktywacja: w ciągu 24 h e-mail/SMS z linkiem, rejestracja konta Apple. Subskrypcję można współdzielić z maks. 6 osobami, nie wymaga urządzenia Apple. Brak opisu rezygnacji i ceny po promocji.",
+      "opis": "",
       "zrodla": [
         "s16"
       ]
     },
     {
-      "serwis": "Canal+ online",
-      "dostepnosc": "brak informacji",
-      "opis": "Netia sprzedaje kanały CANAL+ jako pakiety dodatkowe (CANAL+ SERIALE I FILMY, CANAL+ ULTRA), ale na oficjalnych stronach nie ma informacji o dostępie do aplikacji CANAL+ online.",
+      "serwis": "CANAL+ online",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora jako osobnego serwisu. Netia sprzedaje kanały CANAL+ jako pakiety dodatkowe TV (CANAL+ SERIALE I FILMY, CANAL+ ULTRA); czy dają dostęp do aplikacji CANAL+ online, oficjalne strony nie podają.",
+      "opis": "",
       "zrodla": [
         "s1"
       ]
     },
     {
       "serwis": "Eleven Sports",
-      "dostepnosc": "jako płatny dodatek",
-      "opis": "Pakiet Eleven Sports (5 kanałów, w tym 4K). W cenie oferty \"Dla Fanów Sportu\". W Netia GO dostępny też jako część Netia Premium Sport (Eleven Sports, Polsat Sport Premium, Motowizja) bez długotrwałych zobowiązań.",
+      "wariant": "",
+      "dostepnosc": "w cenie oferty Dla Fanów Sportu | jako płatny dodatek",
+      "cena": "w cenie oferty Dla Fanów Sportu (od 90 zł/mies., 3 mies. abonamentu za 0 zł po rabatach); w Netia GO pakiet Eleven Sports 10 zł/mies.",
+      "zasady": "Dla Fanów Sportu: umowa 24 mies., zawiera Eleven Sports, Polsat Sport Premium i Eurosport, dekoder 4K. Pakiet Eleven Sports: 5 kanałów (w tym 4K). W Netia GO dostępny też Netia Premium Sport (Eleven Sports, Polsat Sport Premium, Motowizja) bez długotrwałego zobowiązania. To kanały linearne, nie osobna aplikacja Eleven.",
+      "opis": "",
       "zrodla": [
-        "s1",
         "s6",
-        "s8"
+        "s8",
+        "s1"
       ]
     },
     {
       "serwis": "inny",
+      "wariant": "Netia GO",
       "dostepnosc": "w cenie pakietu (każdy pakiet TV)",
-      "opis": "Netia GO: własna aplikacja/serwis Netii z kanałami z pakietu na żywo, programami na życzenie i wypożyczalnią VOD. Dostęp bez względu na wybrany pakiet.",
+      "cena": "w cenie pakietu TV",
+      "zasady": "Aplikacja Netii z kanałami z pakietu na żywo, programami na życzenie i wypożyczalnią VOD. Do 3 urządzeń mobilnych jednocześnie, w domu i poza nim.",
+      "opis": "",
       "zrodla": [
         "s8",
         "s4"
+      ]
+    },
+    {
+      "serwis": "Polsat Box Go",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora.",
+      "opis": "",
+      "zrodla": [
+        "s3"
       ]
     }
   ],
@@ -3041,6 +3080,11 @@
     "Multiroom: limit 4 dekoderów ze strony; cennik 2024/2025 nie określa maksymalnej liczby; aktualny cennik Multiroom 2026 nie znaleziony.",
     "Różnice nazw kanałów strona vs PDF: TV Okazje/TV Okazja, wPolsce.pl/wPolsce24, BBC News/BBC World News, Golf Channel Polska/Golf Zone.",
     "Na stronie kanałów są też pakiety CANAL+ z oznaczeniem \"+6\" przy CANAL+ ULTRA - znaczenie niejasne.",
-    "Kategorie kanałów przypisane redakcyjnie (Netia nie publikuje podziału na kategorie)."
+    "Kategorie kanałów przypisane redakcyjnie (Netia nie publikuje podziału na kategorie).",
+    "Streaming: cena Disney+ w Netii (jako dodatek do TV i w ofercie Internet z Disney+) – strona netia.pl/pl/disney nie podaje kwot.",
+    "Streaming: które taryfy Netii zawierają SkyShowtime oraz czy można podpiąć istniejące konto SkyShowtime – brak informacji na stronie.",
+    "Streaming: cena HBO Max – strona /pl/max podaje 'od 25 zł/mies.', strona Netia GO 'HBO HD 20 zł'; nie wiadomo, czy to ta sama usługa; brak regulaminu/cennika PDF. Informacja o planie Premium dla dostępu bezterminowego do 31.01.2025 nieaktualna.",
+    "Streaming: ceny po 6-mies. promocji dla ofert z Amazon Prime i Apple TV oraz regulaminy tych promocji (strona mówi o PDF, ale nie linkuje).",
+    "Streaming: czy pakiety CANAL+ w Netii dają dostęp do aplikacji CANAL+ online."
   ]
 }

@@ -100,6 +100,20 @@
       "url": "https://www.orange.pl/view/regulaminy_cenniki",
       "typ": "strona",
       "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "st1",
+      "tytul": "Regulamin promocji Amazon Prime dla klientów Extra TV (od 25.05.2026)",
+      "url": "https://orange.binaries.pl/bw/20155/0/151908/6bdb070a-7613-4482-84be-a1d06591e074.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "st2",
+      "tytul": "Orange: Netflix z Orange (strona oferty)",
+      "url": "https://www.orange.pl/telewizja/netflix",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
     }
   ],
   "podsumowanie": "Orange sprzedaje telewizję wyłącznie jako dodatek do swojego internetu (światłowód, Internet mobilny dla domu 5G) lub pakietu Orange Love. Podstawą jest Start TV (47 kanałów), wliczony w cenę internetu, a rozszerzeniem osobno zamawiany Extra TV (łącznie 230 kanałów na światłowodzie) z Amazon Prime przy umowie na 24 miesiące. Do Extra TV można dobrać pakiety HBO, CANAL+ (Seriale i Filmy lub Super Sport) oraz Polsat Sport Premium. Oglądać można przez dekoder 4K (IPTV na światłowodzie) albo bez dekodera w aplikacji Orange TV (Android TV, Samsung Tizen) i Orange TV Go.",
@@ -2565,48 +2579,112 @@
   ],
   "streaming": [
     {
-      "serwis": "Amazon Prime Video",
-      "dostepnosc": "w cenie pakietu Extra TV (przy umowie na 24 miesiące, przez 24 miesiące)",
-      "opis": "Amazon Prime obejmuje Prime Video, darmowe dostawy na Amazon.pl i inne korzyści programu. Zasady w osobnym regulaminie promocji.",
+      "serwis": "Netflix",
+      "wariant": "Podstawowy (HD, 1 ekran) / Standard (Full HD, 2 ekrany) / Premium (4K, 4 ekrany)",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Podstawowy 37 zł/mies., Standard 55 zł/mies., Premium 75 zł/mies.; promocja: plan Podstawowy w prezencie przez 3 mies. przy światłowodzie (6 mies. w pakiecie Mini), Standard i Premium z dopłatą 18 zł / 38 zł mies. w promocji",
+      "zasady": "Do abonamentu komórkowego, internetu stacjonarnego (także w pakiecie) lub Orange Love; jeden Netflix na usługę. Przy internecie stacjonarnym i Orange Love zamówienie po 30 dniach od zawarcia umowy na internet. Promocja w prezencie tylko przy umowach na 24 mies. Usługa na czas nieokreślony, bez zobowiązania. Zamówienie i rezygnacja: Mój Orange, telefon, salon (zamówienie na odległość: 14 dni na odstąpienie). Aktywacja linkiem od Orange: można zalogować się do istniejącego konta Netflix albo założyć nowe; opłata na rachunku Orange. Netflix wyłącza się razem z usługą powiązaną. Brak planu z reklamami.",
+      "opis": "",
       "zrodla": [
+        "s6",
+        "st2",
+        "s10"
+      ]
+    },
+    {
+      "serwis": "HBO Max",
+      "wariant": "Plan Standardowy (Full HD, 2 urządzenia)",
+      "dostepnosc": "jako płatny dodatek (osobna usługa HBO Max z Orange albo Pakiet HBO z kanałami)",
+      "cena": "HBO Max z Orange: przy umowie 24 mies. 0 zł przez 2 mies., potem 39,99 zł/mies.; na czas nieokreślony 39,99 zł/mies. Pakiet HBO (kanały HBO + HBO Max) do Extra TV: te same kwoty (0 zł przez 2 mies., potem 39,99 zł/mies.)",
+      "zasady": "Usługa HBO Max: do internetu stacjonarnego do 300 Mb/s (umowy od 20.01.2025) lub Orange Love (od 17.03.2025). Pakiet HBO: wymaga aktywnego Extra TV. Wariant 24 mies. wymaga umowy powiązanej na 24 mies., po 24 mies. przedłuża się na czas nieokreślony; wcześniejsza rezygnacja z winy klienta = odszkodowanie do sumy opłat do końca umowy. Aktywacja: rejestracja przez link od Orange z założeniem konta; mając konto HBO Max można założyć drugie (stare zostaje na dotychczasowych zasadach) albo zrezygnować ze starego. Brak rejestracji nie zwalnia z opłat. Nie można mieć jednocześnie usługi HBO Max i Pakietu HBO. Rezygnacja: telefon lub salon. 2 urządzenia jednocześnie, do 30 pobrań.",
+      "opis": "",
+      "zrodla": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "CANAL+ online",
+      "wariant": "CANAL+ Seriale i Filmy / CANAL+ Super Sport",
+      "dostepnosc": "jako płatny dodatek (osobna usługa CANAL+ z Orange albo pakiety CANAL+ z kanałami do Extra TV)",
+      "cena": "Usługa CANAL+ z Orange: Seriale i Filmy 24,99 zł/mies. przez 24 mies., potem 29 zł (na czas nieokreślony 29 zł); Super Sport 64,99 zł/mies. przez 24 mies., potem 69 zł (na czas nieokreślony 69 zł). Pakiety CANAL+ do Extra TV: Seriale i Filmy 25 zł/mies. przez 24 mies., potem 29 zł; Super Sport 64,99 zł/mies., potem 69 zł",
+      "zasady": "Usługa CANAL+: do internetu do 300 Mb/s lub Orange Love; pakiety CANAL+: wymagają Extra TV (kanały CANAL+ tylko na dekoderze, nie w Orange TV Go). Umowa 24 mies. lub czas nieokreślony (zmiana planu tylko przy czasie nieokreślonym). Aktywacja przez link od Orange z założeniem konta; istniejące konto CANAL+ zostaje osobno, można je wypowiedzieć. Rezygnacja przed 24 mies. = odszkodowanie. Do 2 urządzeń jednocześnie. Nie można mieć jednocześnie usługi CANAL+ i pakietu CANAL+.",
+      "opis": "",
+      "zrodla": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "wariant": "Amazon Prime (Prime Video, darmowe dostawy Amazon.pl, Amazon Luna)",
+      "dostepnosc": "w cenie pakietu Extra TV (przy umowie na 24 mies.)",
+      "cena": "0 zł przez 24 mies. (w cenie Extra TV na 24 mies.); cena po 24 mies. nie podana w regulaminie",
+      "zasady": "Tylko przy umowie na Extra TV na 24 mies. (promocja od 25.05.2026 do odwołania), jeden dostęp na usługę Extra TV. Prime włącza się z Extra TV; trzeba zarejestrować się przez link od Orange. Można użyć istniejącego konta Amazon bez aktywnego Prime albo założyć nowe. Po 24 mies. dostęp trwa na dotychczasowych zasadach, chyba że Orange uprzedzi o końcu (min. miesiąc wcześniej). Rezygnacja z Extra TV wyłącza Prime.",
+      "opis": "Extra TV: 45 zł/mies. przy umowie 24 mies.",
+      "zrodla": [
+        "st1",
         "s3",
         "s10"
       ]
     },
     {
-      "serwis": "Netflix",
-      "dostepnosc": "jako płatny dodatek",
-      "opis": "Netflix z Orange w planach Podstawowy (HD, 1 urządzenie), Standard (Full HD, 2 urządzenia) i Premium (4K, 4 urządzenia), rozliczany na fakturze Orange. Można zamówić do internetu stacjonarnego, abonamentu komórkowego lub Orange Love; można podpiąć istniejące konto Netflix. Na stronie oferty promocja 3 miesiące w prezencie przy umowie 24 mies.",
-      "zrodla": [
-        "s6",
-        "s10"
-      ]
-    },
-    {
-      "serwis": "Max",
-      "dostepnosc": "jako płatny dodatek",
-      "opis": "HBO Max w planie Standardowym w ramach Pakietu HBO (z kanałami HBO) albo jako osobna usługa HBO Max z Orange (do internetu stacjonarnego lub Orange Love).",
-      "zrodla": [
-        "s4",
-        "s5"
-      ]
-    },
-    {
-      "serwis": "Canal+ online",
-      "dostepnosc": "jako płatny dodatek",
-      "opis": "Serwis CANAL+ Seriale i Filmy lub CANAL+ Super Sport w ramach pakietów CANAL+ (z kanałami) albo jako osobna usługa CANAL+ z Orange. Do 2 urządzeń jednocześnie.",
-      "zrodla": [
-        "s4",
-        "s5"
-      ]
-    },
-    {
       "serwis": "Eleven Sports",
+      "wariant": "",
       "dostepnosc": "w cenie pakietu Extra TV",
-      "opis": "Kanały Eleven Sports 1-4 (oraz Eleven Sports 1 4K na dekoderze) w Extra TV. To kanały linearne, nie osobna aplikacja.",
+      "cena": "w cenie Extra TV",
+      "zasady": "Kanały linearne Eleven Sports 1-4 (i Eleven Sports 1 4K na dekoderze) w Extra TV. Nie jest to aplikacja Eleven Sports.",
+      "opis": "",
       "zrodla": [
         "s1",
         "s10"
+      ]
+    },
+    {
+      "serwis": "Polsat Box Go",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora. Orange sprzedaje tylko pakiet kanałów Polsat Sport Premium do Extra TV (15 zł/mies. przez 24 mies., potem 20 zł).",
+      "opis": "",
+      "zrodla": [
+        "s4"
+      ]
+    },
+    {
+      "serwis": "Disney+",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora.",
+      "opis": "",
+      "zrodla": [
+        "s10",
+        "s9"
+      ]
+    },
+    {
+      "serwis": "SkyShowtime",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora.",
+      "opis": "",
+      "zrodla": [
+        "s10",
+        "s9"
+      ]
+    },
+    {
+      "serwis": "Player",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora.",
+      "opis": "",
+      "zrodla": [
+        "s10",
+        "s9"
       ]
     }
   ],
@@ -2829,6 +2907,8 @@
     "Brak informacji o telewizji satelitarnej i DVB-T w aktualnej ofercie Orange.",
     "Disney+, SkyShowtime, Polsat Box Go, Player: nie znaleziono oficjalnej oferty Orange (ani integracji w dekoderze).",
     "Strona Telewizja Orange wspomina akcję 'Dzień Klienta' (od 27 października ponad 30 odkodowanych kanałów) i sprzeczne informacje o odkodowaniu CANAL+ Domo / CANAL+ Kuchnia; nie ujęto jako stałej oferty.",
-    "Lista kanałów w aplikacji Orange TV na Smart TV (bez dekodera) może się różnić od listy IPTV; brak osobnego oficjalnego zestawienia."
+    "Lista kanałów w aplikacji Orange TV na Smart TV (bez dekodera) może się różnić od listy IPTV; brak osobnego oficjalnego zestawienia.",
+    "Streaming: cena Amazon Prime po 24 mies. promocji w Extra TV – regulamin promocji jej nie podaje.",
+    "Streaming: warunki promocji Netflix w prezencie (3 mies. przy światłowodzie / 6 mies. w pakiecie Mini) – brak osobnego regulaminu promocji; dopłaty 18/38 zł ze strony oferty."
   ]
 }

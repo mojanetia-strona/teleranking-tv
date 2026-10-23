@@ -156,6 +156,41 @@
       "url": "https://www.t-mobile.pl/d/pakiety/internet-abonament-telewizja",
       "typ": "strona",
       "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "st1",
+      "tytul": "Regulamin Netflix w T-Mobile, oferta standardowa (od 01.06.2026)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006807",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "st2",
+      "tytul": "Regulamin HBO Max w T-Mobile (od 28.10.2025)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006209",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "st3",
+      "tytul": "Regulamin CANAL+ Filmy i Seriale oraz CANAL+ Super Sport w T-Mobile",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006630",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "st4",
+      "tytul": "Regulamin promocji CANAL+ Super Sport 1m w T-Mobile (aktywacja do 31.07.2026)",
+      "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006705",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "st5",
+      "tytul": "T-Mobile: Serwisy rozrywkowe (Netflix, HBO Max, CANAL+)",
+      "url": "https://www.t-mobile.pl/rozrywka",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
     }
   ],
   "podsumowanie": "T-Mobile sprzedaje telewizję pod marką MagentaTV: to telewizja internetowa (OTT/IPTV) oglądana w aplikacji (Smart TV, telefon, tablet, przeglądarka) albo na dekoderze MagentaTV Box z Android TV. Od 18.08.2026 są trzy pakiety: bezterminowa „Telewizja dla każdego” (75 kanałów, dla klientów dowolnego operatora i dowolnego internetu) oraz płatne MIDI (170 kanałów) i MAXI (207 kanałów, z HBO, Eleven Sports i kanałami 4K) na 24 miesiące. Klienci światłowodu T-Mobile kupują TV w pakiecie z internetem (Magenta Dom), a w regulaminach tej oferty pakiety nazywają się S/M/L. Dodatki: CANAL+ SUPER SPORT, Eurosport 3 i 4, kanały na sztuki, Multiroom.",
@@ -2576,37 +2611,51 @@
   "streaming": [
     {
       "serwis": "Netflix",
+      "wariant": "Podstawowy (HD, 1 ekran) / Standardowy (Full HD, 2 ekrany) / Premium (4K, 4 ekrany)",
       "dostepnosc": "jako płatny dodatek",
-      "opis": "Osobna płatna subskrypcja Netflix rozliczana na fakturze T-Mobile, aktywowana w aplikacji Mój T-Mobile. Nie jest w cenie pakietów MagentaTV. Pilot dekodera MagentaTV Box ma dedykowany przycisk Netflix.",
+      "cena": "Podstawowy 37 zł/mies., Standardowy 55 zł/mies., Premium 75 zł/mies. (wg regulaminu od 01.06.2026); miesiąc aktywacji bez opłaty",
+      "zasady": "Dla konsumenta z aktywnym abonamentem głosowym T-Mobile (taryfa T) i aplikacją Mój T-Mobile; nie jest w cenie MagentaTV. Aktywacja: Mój T-Mobile > Usługi > Serwisy rozrywkowe > Netflix, link do rejestracji na e-mail. Istniejące konto Netflix można połączyć po aktywacji (inaczej Netflix dalej pobiera opłatę za stare konto). Bez zobowiązania, odnawiane co miesiąc; rezygnacja po pierwszym płatnym cyklu w aplikacji, pod 602 900 000 lub w salonie. Opłata na fakturze T-Mobile. Strona zapowiada zmianę ceny Netflix od 1.11.2026 (wymaga akceptacji klienta). Pilot MagentaTV Box ma przycisk Netflix.",
+      "opis": "",
       "zrodla": [
+        "st1",
         "s17",
         "s5"
       ]
     },
     {
-      "serwis": "Max",
+      "serwis": "HBO Max",
+      "wariant": "Premium w cenie planu Standardowego",
       "dostepnosc": "jako płatny dodatek",
-      "opis": "HBO Max jako osobny serwis aktywowany w Mój T-Mobile (klienci T-Mobile dostają plan Premium w cenie Standardowego). Nie jest w cenie pakietów MagentaTV. Linearne kanały HBO, HBO 2 i HBO 3 są w pakiecie MAXI. Aplikacja HBO Max wymieniona na stronie dekodera.",
+      "cena": "39,99 zł/mies.; niepełny pierwszy cykl bez opłaty",
+      "zasady": "Dla konsumenta z abonamentem głosowym T-Mobile i aplikacją Mój T-Mobile (bez Heyah); nie jest w cenie pakietów MagentaTV (kanały HBO linearne są w pakiecie MAXI). Aktywacja: Mój T-Mobile > Serwisy rozrywkowe, link rejestracyjny na e-mail. Istniejące konto HBO Max można połączyć po aktywacji. Bez zobowiązania, rezygnacja po pierwszym pełnym płatnym cyklu w aplikacji, pod 602 900 000 lub w salonie.",
+      "opis": "",
       "zrodla": [
+        "st2",
         "s18",
-        "s5",
         "s3"
       ]
     },
     {
-      "serwis": "Canal+ online",
+      "serwis": "CANAL+ online",
+      "wariant": "CANAL+ Seriale i Filmy (2 streamy) / CANAL+ Super Sport",
       "dostepnosc": "jako płatny dodatek",
-      "opis": "Serwis streamingowy CANAL+ (pakiety CANAL+ SERIALE I FILMY i CANAL+ SUPER SPORT) jako osobna subskrypcja rozliczana na fakturze T-Mobile. Niezależnie od tego jest dodatek telewizyjny CANAL+ SUPER SPORT do MagentaTV (kanały linearne). Aplikacja CANAL+ wymieniona na stronie dekodera.",
+      "cena": "Seriale i Filmy 29 zł/mies.; Super Sport 69 zł/mies. (promocja 35 zł za pierwszy cykl, aktywacja do 31.07.2026, zakończona); miesiąc aktywacji bez opłaty",
+      "zasady": "Dla abonenta T-Mobile z aplikacją Mój T-Mobile (bez Heyah). Aktywacja: Mój T-Mobile > Serwisy rozrywkowe > CANAL+, dalej rejestracja w CANAL+. Bez zobowiązania, rezygnacja po pierwszym płatnym cyklu (aplikacja, 602 900 000, salon). Osobno istnieje dodatek telewizyjny CANAL+ SUPER SPORT do MagentaTV (kanały linearne).",
+      "opis": "",
       "zrodla": [
+        "st3",
+        "st4",
         "s19",
-        "s12",
-        "s5"
+        "s12"
       ]
     },
     {
       "serwis": "Eleven Sports",
+      "wariant": "",
       "dostepnosc": "w cenie pakietu MAXI",
-      "opis": "Kanały linearne Eleven Sports 1-4 i Eleven Sports 1 4K w pakiecie MAXI (nie serwis streamingowy).",
+      "cena": "w cenie pakietu MAXI",
+      "zasady": "Kanały linearne Eleven Sports 1-4 i Eleven Sports 1 4K w pakiecie MAXI MagentaTV, nie aplikacja Eleven.",
+      "opis": "",
       "zrodla": [
         "s3",
         "s1"
@@ -2614,12 +2663,48 @@
     },
     {
       "serwis": "inny",
+      "wariant": "Wideo na żądanie MagentaTV",
       "dostepnosc": "w cenie pakietu MIDI i MAXI",
-      "opis": "Wideo na żądanie od T-Mobile (kolekcja VOD MagentaTV): w MIDI kolekcja VOD, w MAXI rozszerzona. Katalog zależy od pakietu i może się zmieniać.",
+      "cena": "w cenie pakietu MIDI / MAXI",
+      "zasady": "Kolekcja VOD w MIDI, rozszerzona w MAXI. Katalog może się zmieniać.",
+      "opis": "",
       "zrodla": [
         "s1",
         "s9",
         "s15"
+      ]
+    },
+    {
+      "serwis": "Disney+",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora.",
+      "opis": "",
+      "zrodla": [
+        "st5"
+      ]
+    },
+    {
+      "serwis": "SkyShowtime",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora.",
+      "opis": "",
+      "zrodla": [
+        "st5"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "wariant": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Nie ma w ofercie operatora.",
+      "opis": "",
+      "zrodla": [
+        "st5"
       ]
     }
   ],
@@ -2830,6 +2915,9 @@
     "Lista urządzeń dla aplikacji: prasa podaje też Apple TV i zapowiedź Hisense; oficjalnie potwierdzone tylko Google TV, Tizen, webOS, Android, iOS i przeglądarka.",
     "Czy nagrywanie i odtwarzanie nagrań działa na dodatkowym dekoderze Multiroom (pytanie jest w FAQ T-Mobile, ale bez odpowiedzi).",
     "Kanały Polsat Comedy Central Extra i TeenNick mają być w ofercie tylko do 31.12.2026 r.",
-    "Liczby kanałów z funkcjami: lista 18.08.2026 podaje nagrywanie 128, catch-up 189, time-shift 113; lista 1.07.2026: 116/158/134. Funkcje per kanał nie zostały wpisane do pliku."
+    "Liczby kanałów z funkcjami: lista 18.08.2026 podaje nagrywanie 128, catch-up 189, time-shift 113; lista 1.07.2026: 116/158/134. Funkcje per kanał nie zostały wpisane do pliku.",
+    "Streaming: nowa cena Netflix w T-Mobile od 1.11.2026 – strona zapowiada zmianę, kwoty nie podaje (strona pokazuje też starsze ceny 33/49/67 zł).",
+    "Streaming: czy klient z samą MagentaTV lub samym internetem (bez abonamentu głosowego) może kupić Netflix/HBO Max/CANAL+ przez T-Mobile – regulaminy wymagają abonamentu głosowego.",
+    "Streaming: aktualna promocja Netflix Premium w cenie Podstawowego 'nawet przez 3 miesiące' – brak regulaminu (strona wymienia regulamin Netflix Premium z Magenta Moments D_007_1006190, nie sprawdzono)."
   ]
 }
