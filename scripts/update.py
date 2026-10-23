@@ -62,6 +62,45 @@ B) Jeśli coś się zmieniło albo poprawiasz błędy: blok ```json z obiektem
 """
 
 
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+FULL_CHECK_DAYS = int(os.environ.get("FULL_CHECK_DAYS", "28"))
+
+
+def page_fingerprint(url):
+    """Skrót treści źródła (tekst strony/PDF). None, jeśli nie da się pobrać."""
+    import hashlib
+    import html as htmlmod
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "pl-PL,pl;q=0.9"})
+        with urllib.request.urlopen(req, timeout=25) as r:
+            raw = r.read(15_000_000)
+            ctype = r.headers.get("Content-Type", "")
+        if "pdf" in ctype or raw[:4] == b"%PDF":
+            import io
+            from pypdf import PdfReader
+            text = " ".join((p.extract_text() or "") for p in PdfReader(io.BytesIO(raw)).pages)
+        else:
+            t = raw.decode("utf-8", "ignore")
+            t = re.sub(r"(?is)<(script|style|noscript|svg|head)[^>]*>.*?</\1>", " ", t)
+            t = re.sub(r"(?s)<[^>]+>", " ", t)
+            text = htmlmod.unescape(t)
+        text = re.sub(r"\s+", " ", text).strip().lower()
+        if len(text) < 200:
+            return None
+        return hashlib.sha256(text.encode("utf-8")).hexdigest()[:16]
+    except Exception:
+        return None
+
+
+def sources_unchanged(old, prev):
+    """True, gdy wszystkie źródła dały się pobrać i ich treść się nie zmieniła od ostatniego sprawdzenia."""
+    urls = [z.get("url") for z in (old or {}).get("zrodla", []) if z.get("url")][:30]
+    now = {u: page_fingerprint(u) for u in urls}
+    got = {u: h for u, h in now.items() if h}
+    ok = bool(got) and bool(prev) and got == prev.get("hashe", {})
+    return ok, now
+
+
 def log(*a):
     print(*a, flush=True)
 
@@ -188,11 +227,30 @@ def main():
     report = {"data": TODAY, "operatorzy": [], "bledy": [], "bez_zmian": [], "koszt": {"input": 0, "output": 0, "searches": 0}}
     entry = {"data": TODAY, "operatorzy": []}
 
+    hpath = DATA / "zrodla-hashe.json"
+    hashes = json.loads(hpath.read_text(encoding="utf-8")) if hpath.exists() else {}
+    force = os.environ.get("FORCE", "").lower() in ("1", "true", "tak")
+
     for slug in slugs:
         path = OPS_DIR / f"{slug}.json"
         old = json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
         name = (old or {}).get("operator", slug)
         log(f"== {name} ==")
+        prev = hashes.get(slug, {})
+        unchanged, now_h = sources_unchanged(old, prev)
+        last_full = prev.get("pelne_sprawdzenie", "2000-01-01")
+        stale = (dt.date.today() - dt.date.fromisoformat(last_full)).days >= FULL_CHECK_DAYS
+        if os.environ.get("TYLKO_HASHE", "").lower() in ("1", "true", "tak"):
+            hashes[slug] = {"pelne_sprawdzenie": TODAY, "hashe": {u: h for u, h in now_h.items() if h}}
+            log(f"zapamiętano stan źródeł: {len(hashes[slug]['hashe'])}/{len(now_h)} stron")
+            report["bez_zmian"].append(name)
+            continue
+        if old and unchanged and not stale and not force:
+            log("źródła bez zmian, pomijam sprawdzanie przez AI")
+            old["sprawdzono"] = TODAY
+            path.write_text(json.dumps(old, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            report["bez_zmian"].append(name)
+            continue
         urls = "\n".join(f"- {z.get('url')}" for z in (old or {}).get("zrodla", []) if z.get("url"))
         user = (f"Operator: {name} (slug: {slug}).\n\nŹródła z poprzedniego sprawdzenia:\n{urls or '(brak, znajdź oficjalne)'}\n\n"
                 f"Obecne dane:\n```json\n{json.dumps(old, ensure_ascii=False) if old else '{}'}\n```\n\n"
@@ -205,6 +263,7 @@ def main():
             if stop == "max_tokens":
                 raise ValueError("Odpowiedź ucięta (max_tokens)")
             new, notes = parse_answer(text)
+            hashes[slug] = {"pelne_sprawdzenie": TODAY, "hashe": {u: h for u, h in now_h.items() if h}}
             if new is None:
                 old["sprawdzono"] = TODAY
                 path.write_text(json.dumps(old, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -225,6 +284,7 @@ def main():
             traceback.print_exc()
             report["bledy"].append(f"{name}: {e}")
 
+    hpath.write_text(json.dumps(hashes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     index["aktualizacja"] = TODAY
     (DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     cl_path = DATA / "changelog.json"
@@ -251,10 +311,8 @@ def main():
               "Apka: https://mojanetia-strona.github.io/teleranking-tv/"]
     report["tekst"] = "\n".join(lines)
     log(report["tekst"])
-    try:
-        send_report(report)
-    except Exception as e:
-        log(f"Nie udało się wysłać raportu: {e}")
+    # Make co poniedziałek o 9:00 czyta ten plik ze strony apki i wysyła maila
+    (DATA / "raport.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if report["bledy"] and len(report["bledy"]) == len(slugs):
         sys.exit(1)
 

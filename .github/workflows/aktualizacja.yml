@@ -9,6 +9,14 @@ on:
         description: "Tylko wybrani operatorzy (slugi po przecinku, np. netia,vectra). Puste = wszyscy."
         required: false
         default: ""
+      force:
+        description: "Sprawdź przez AI nawet jeśli strony operatorów się nie zmieniły (tak/nie)"
+        required: false
+        default: "nie"
+      tylko_hashe:
+        description: "Tylko zapamiętaj obecny stan stron operatorów, bez AI (tak/nie)"
+        required: false
+        default: "nie"
 
 permissions:
   contents: write
@@ -26,13 +34,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install "anthropic>=0.70"
+      - run: pip install "anthropic>=0.70" pypdf
       - name: Aktualizacja danych
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
           ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           ONLY: ${{ github.event.inputs.only }}
+          FORCE: ${{ github.event.inputs.force }}
+          TYLKO_HASHE: ${{ github.event.inputs.tylko_hashe }}
         run: python scripts/update.py
       - name: Zapis zmian
         if: always()
