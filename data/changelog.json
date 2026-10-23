@@ -3,6 +3,25 @@
     "data": "2026-10-23",
     "operatorzy": [
       {
+        "operator": "Netia",
+        "zmiany": [
+          "Streaming inny: w cenie pakietu (każdy pakiet TV) -> jako płatny dodatek (dla abonentów pakietu XS w Netia GO)",
+          "Streaming Eleven Sports: w cenie oferty Dla Fanów Sportu | jako płatny dodatek -> w cenie oferty Dla Fanów Sportu | jako płatny dodatek | w Netia GO jako Netia Premium Sport",
+          "Zmiana w opisie multiroomu",
+          "(opis AI) Dodano nowe źródło s17 (oficjalny komunikat prasowy Netii my.netia.pl z lipca 2026). Potwierdza, że pakiet TV XS (35 kanałów) jest dodawany bez opłat do każdej nowej usługi internetu na cały okres umowy i działa w aplikacji Netia GO.",
+          "(opis AI) Netia GO: uzupełniono listę urządzeń (Android TV, Apple TV, Samsung od 2019, Chromecast, AirPlay, dekodery EvoBox), 5 profili i 3 urządzenia jednocześnie. Zaktualizowano wpisy o Smart TV bez dekodera, technologię OTT i pakiet XS.",
+          "(opis AI) Streaming: dodano wpisy Netia Premium (20 zł/30 dni) i Netia Premium Sport (35 zł/30 dni, elastyczne pakiety w Netia GO dla abonentów XS). Zaktualizowano wpis Eleven Sports.",
+          "(opis AI) Streaming SkyShowtime: ze strony oferty dopisano warunki promocji „Wybierz rabat 3 miesiące”. Umowa na 24 okresy rozliczeniowe, rabaty 5 zł za e-fakturę i 5 zł za zgody (bez nich +10 zł), opłata aktywacyjna 79 zł za internet i 2 zł za TV, po 24 mies. abonament +10 zł.",
+          "(opis AI) Lista kanałów na netia.pl (XS 36, S 95, M 120, L 189 oraz pakiety dodatkowe) i PDF NETIA-757 z sierpnia 2026 są nadal aktualne. Nie znaleziono nowszego oficjalnego PDF-a z listą kanałów.",
+          "(opis AI) Dodano do „do_sprawdzenia”: okno otwarte CANAL+ 360 w podstawowych pakietach (wg portalu Telix z 7.10.2026, bez potwierdzenia na oficjalnych stronach), nowe liczby kanałów w zestawach z indeksu ofert, oraz komunikat o ofercie Internet + TV z Amazon Prime za 35 zł/mies. (28.08.2026) wobec cen na stronie Prime."
+        ]
+      }
+    ]
+  },
+  {
+    "data": "2026-10-23",
+    "operatorzy": [
+      {
         "operator": "Wszyscy",
         "zmiany": [
           "Pierwsze zebranie danych o ofercie TV 7 operatorów"

@@ -114,9 +114,16 @@
       "url": "https://www.netia.pl/pl/apple-tv-lp",
       "typ": "strona",
       "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s17",
+      "tytul": "Netia (biuro prasowe my.netia.pl): Telewizja w aplikacji gratis do internetu od Netii (komunikat z lipca 2026)",
+      "url": "https://my.netia.pl/pr/872655/telewizja-w-aplikacji-gratis-do-internetu-od-netii",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
     }
   ],
-  "podsumowanie": "Netia sprzedaje telewizję razem z internetem stacjonarnym (ceny pakietów TV podawane \"z internetem\"). Telewizja działa przez dekoder podłączony do internetu Netii (IPTV) oraz online w aplikacji Netia GO. Struktura to stałe pakiety XS (w cenie internetu, bez dekodera), S, M i L (każdy kolejny zawiera poprzedni), do których dokupuje się pakiety tematyczne (CANAL+, HBO, Polsat Sport Premium, Eleven Sports, FilmBox, Cinemax, Dla dzieci, ukraiński, dla dorosłych); brak kanałów à la carte. Na stronie sprzedawane są też gotowe zestawy internet + TV: Dla Każdego, Dla Kinomaniaka (z HBO Max) i Dla Fanów Sportu (z Eleven Sports i Polsat Sport Premium).",
+  "podsumowanie": "Netia sprzedaje telewizję razem z internetem stacjonarnym (ceny pakietów TV podawane \"z internetem\"). Telewizja działa przez dekoder podłączony do internetu Netii (IPTV) oraz online w aplikacji Netia GO. Struktura to stałe pakiety XS (w cenie internetu, bez dekodera, w aplikacji Netia GO), S, M i L (każdy kolejny zawiera poprzedni), do których dokupuje się pakiety tematyczne (CANAL+, HBO, Polsat Sport Premium, Eleven Sports, FilmBox, Cinemax, Dla dzieci, ukraiński, dla dorosłych); brak kanałów à la carte. Na stronie sprzedawane są też gotowe zestawy internet + TV: Dla Każdego, Dla Kinomaniaka (z HBO Max) i Dla Fanów Sportu (z Eleven Sports i Polsat Sport Premium).",
   "technologie": [
     {
       "nazwa": "IPTV",
@@ -128,10 +135,11 @@
     },
     {
       "nazwa": "OTT (aplikacja)",
-      "opis": "Netia GO: kanały z pakietu na żywo i treści na życzenie na smartfonie, tablecie, komputerze (go.netia.pl) i Smart TV. Pakiet XS dostępny bez dekodera.",
+      "opis": "Netia GO: kanały z pakietu na żywo i treści na życzenie w przeglądarce (go.netia.pl), na Android/iOS, telewizorach z Android TV i Apple TV, telewizorach Samsung z rocznika 2019 i nowszych oraz przez Chromecast/AirPlay i dekodery Netia EvoBox. Pakiet XS (35 kanałów) jest dostępny bez dekodera, w aplikacji.",
       "zrodla": [
         "s8",
-        "s1"
+        "s1",
+        "s17"
       ]
     }
   ],
@@ -143,11 +151,12 @@
       "liczba_kanalow": 35,
       "liczba_kanalow_hd": 15,
       "zawiera_pakiet": "",
-      "opis": "Najmniejszy pakiet, w cenie abonamentu internetowego, z dostępem bez dekodera (oglądanie online). Kanały ogólnopolskie TVP/Polsat/TV4, 16 oddziałów TVP 3, kanały lokalne i 5 kanałów 4K. Na netia.pl opisany jako 36 kanałów (Polsat wpisany dwukrotnie), w PDF jako 35 kanałów + 16 regionalnych TVP.",
-      "warunki": "W cenie abonamentu internetu Netii, bez dekodera. Kanały 4K (Inultra, MyZen, Museum, Love Nature, TravelXP) tylko na urządzeniach 4K.",
+      "opis": "Najmniejszy pakiet, w cenie abonamentu internetowego, z dostępem bez dekodera (oglądanie online w aplikacji Netia GO). Kanały ogólnopolskie TVP/Polsat/TV4, 16 oddziałów TVP 3, kanały lokalne i 5 kanałów 4K. Na netia.pl opisany jako 36 kanałów (Polsat wpisany dwukrotnie), w PDF i komunikacie prasowym jako 35 kanałów.",
+      "warunki": "Wg komunikatu Netii (od 1 lipca 2026) dodawany bez dodatkowych opłat do każdej nowej usługi dostępu do internetu na cały okres umowy; bez dekodera. Kanały 4K (Inultra, MyZen, Museum, Love Nature, TravelXP) tylko na urządzeniach 4K. Abonenci XS mogą w Netia GO dokupić elastyczne pakiety Netia Premium i Netia Premium Sport.",
       "zrodla": [
         "s1",
-        "s2"
+        "s2",
+        "s17"
       ]
     },
     {
@@ -2186,7 +2195,7 @@
       "kategoria": "filmy i seriale",
       "jakosc": "SD",
       "pakiety": [],
-      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra"
+      "uwagi": "dodatek: netia-canalplus-seriale-filmy; dodatek: netia-canalplus-ultra; wg portali branżowych w oknie otwartym także w niższych pakietach (nie potwierdzone na oficjalnych stronach)"
     },
     {
       "nazwa": "Canal+ Sport",
@@ -2793,7 +2802,7 @@
       "wariant": "Standard (Full HD, 2 ekrany, 6 profili)",
       "dostepnosc": "w cenie wybranych taryf internetowych",
       "cena": "w cenie wybranych taryf, bez dodatkowych opłat",
-      "zasady": "Wymaga zakupu oferty Netii z SkyShowtime (strona nie wymienia, które to taryfy). Aktywacja: e-mail/SMS powitalny z linkiem do rejestracji, potem aplikacja SkyShowtime (Google Play, App Store, Smart TV) lub skyshowtime.com. 2 ekrany jednocześnie, do 30 pobrań. Brak opisu podpięcia istniejącego konta i rezygnacji.",
+      "zasady": "Wymaga zakupu oferty Netii z SkyShowtime (strona nie wymienia, które to taryfy). Promocja „Wybierz rabat 3 miesiące (CU, PON, HFC, ETTH)” wg przypisu na stronie: umowa na czas określony 24 pełnych okresów rozliczeniowych, rabaty 5 zł za e-fakturę i 5 zł za zgody marketingowe (w razie rezygnacji lub niespełnienia warunków cena rośnie o 10 zł), opłata aktywacyjna 79 zł za internet i 2 zł za telewizję doliczana do pierwszej faktury, po 24 miesiącach abonament rośnie o 10 zł. Aktywacja: e-mail/SMS powitalny z linkiem do rejestracji, potem aplikacja SkyShowtime (Google Play, App Store, Smart TV) lub skyshowtime.com. 2 ekrany jednocześnie, do 30 pobrań. Brak opisu podpięcia istniejącego konta i rezygnacji.",
       "opis": "",
       "zrodla": [
         "s13"
@@ -2804,7 +2813,7 @@
       "wariant": "Amazon Prime (z Prime Video)",
       "dostepnosc": "w cenie wybranych ofert (internet z Prime, internet + TV z Prime)",
       "cena": "Pakiet z Amazon Prime (internet 1 Gb/s + 118 kanałów + Prime) 85 zł/mies.; Internet z Amazon Prime (internet 1 Gb/s + Prime) 70 zł/mies.; w obu 6 mies. abonamentu za 0 zł po rabatach",
-      "zasady": "Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł (internet) i 2 zł (TV); po 24 mies. abonament +10 zł; tylko sieć PON, HFC, ETTH. Aktywacja: w ciągu 24 h e-mail/SMS z linkiem do rejestracji. Klient, który ma już Prime, musi założyć nowe konto Amazon (inny e-mail) albo anulować subskrypcję kupioną w Amazonie. Jedno konto Prime na jeden numer MSISDN w Netii. Prime Video na 3 urządzeniach jednocześnie.",
+      "zasady": "Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł (internet) i 2 zł (TV); po 24 mies. abonament +10 zł; tylko sieć PON, HFC, ETTH. Aktywacja: w ciągu 24 h e-mail/SMS z linkiem do rejestracji. Klient, który ma już Prime, musi założyć nowe konto Amazon (inny e-mail) albo anulować subskrypcję kupioną w Amazonie. Jedno konto Prime na jeden numer MSISDN w Netii. Prime Video na 3 urządzeniach jednocześnie. Ceny z poprzedniego sprawdzenia, strony nie otwierano ponownie 23.10.2026 (patrz „do_sprawdzenia”).",
       "opis": "",
       "zrodla": [
         "s15"
@@ -2815,7 +2824,7 @@
       "wariant": "Apple TV",
       "dostepnosc": "w cenie wybranych ofert (internet + TV lub sam internet)",
       "cena": "Pakiet z Apple TV (internet 1 Gb/s + 118 kanałów + Apple TV) 100 zł/mies.; Internet z Apple TV (internet 1 Gb/s + Apple TV) 85 zł/mies.; w obu 6 mies. abonamentu za 0 zł po rabatach",
-      "zasady": "Umowa na 24 okresy rozliczeniowe (przypis na stronie). Aktywacja: w ciągu 24 h e-mail/SMS z linkiem, rejestracja konta Apple. Subskrypcję można współdzielić z maks. 6 osobami, nie wymaga urządzenia Apple. Brak opisu rezygnacji i ceny po promocji.",
+      "zasady": "Umowa na 24 okresy rozliczeniowe (przypis na stronie). Aktywacja: w ciągu 24 h e-mail/SMS z linkiem, rejestracja konta Apple. Subskrypcję można współdzielić z maks. 6 osobami, nie wymaga urządzenia Apple. Brak opisu rezygnacji i ceny po promocji. Ceny z poprzedniego sprawdzenia, strony nie otwierano ponownie 23.10.2026.",
       "opis": "",
       "zrodla": [
         "s16"
@@ -2835,26 +2844,50 @@
     {
       "serwis": "Eleven Sports",
       "wariant": "",
-      "dostepnosc": "w cenie oferty Dla Fanów Sportu | jako płatny dodatek",
-      "cena": "w cenie oferty Dla Fanów Sportu (od 90 zł/mies., 3 mies. abonamentu za 0 zł po rabatach); w Netia GO pakiet Eleven Sports 10 zł/mies.",
-      "zasady": "Dla Fanów Sportu: umowa 24 mies., zawiera Eleven Sports, Polsat Sport Premium i Eurosport, dekoder 4K. Pakiet Eleven Sports: 5 kanałów (w tym 4K). W Netia GO dostępny też Netia Premium Sport (Eleven Sports, Polsat Sport Premium, Motowizja) bez długotrwałego zobowiązania. To kanały linearne, nie osobna aplikacja Eleven.",
+      "dostepnosc": "w cenie oferty Dla Fanów Sportu | jako płatny dodatek | w Netia GO jako Netia Premium Sport",
+      "cena": "w cenie oferty Dla Fanów Sportu (od 90 zł/mies., 3 mies. abonamentu za 0 zł po rabatach); w Netia GO pakiet Eleven Sports 10 zł/mies. (wg strony Netia GO); Netia Premium Sport 35 zł/30 dni (wg komunikatu Netii)",
+      "zasady": "Dla Fanów Sportu: umowa 24 mies., zawiera Eleven Sports, Polsat Sport Premium i Eurosport, dekoder 4K. Pakiet Eleven Sports: 5 kanałów (w tym 4K). W Netia GO dostępny też Netia Premium Sport (Eleven Sports, Polsat Sport Premium, Motowizja) jako elastyczny pakiet odnawiany co 30 dni, dla abonentów m.in. pakietu XS. To kanały linearne, nie osobna aplikacja Eleven.",
       "opis": "",
       "zrodla": [
         "s6",
         "s8",
-        "s1"
+        "s1",
+        "s17"
       ]
     },
     {
       "serwis": "inny",
       "wariant": "Netia GO",
-      "dostepnosc": "w cenie pakietu (każdy pakiet TV)",
+      "dostepnosc": "w cenie pakietu (każdy pakiet TV, w tym XS)",
       "cena": "w cenie pakietu TV",
-      "zasady": "Aplikacja Netii z kanałami z pakietu na żywo, programami na życzenie i wypożyczalnią VOD. Do 3 urządzeń mobilnych jednocześnie, w domu i poza nim.",
+      "zasady": "Aplikacja Netii z kanałami z pakietu na żywo, programami na życzenie i wypożyczalnią VOD. Do 3 urządzeń jednocześnie, w domu i poza nim, 5 profili na konto. Logowanie danymi z netiaonline.pl. Działa w przeglądarce (go.netia.pl), na Android/iOS, telewizorach z Android TV i Apple TV, telewizorach Samsung od 2019 r., przez Chromecast/AirPlay oraz na dekoderach Netia EvoBox. Pakiet XS (35 kanałów) jest dodawany bez opłat do każdej nowej usługi internetu na cały okres umowy.",
       "opis": "",
       "zrodla": [
         "s8",
-        "s4"
+        "s4",
+        "s17"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "wariant": "Netia Premium (Netia GO, VOD)",
+      "dostepnosc": "jako płatny dodatek (dla abonentów pakietu XS w Netia GO)",
+      "cena": "20 zł/30 dni",
+      "zasady": "Elastyczny, miesięczny (odnawiany co 30 dni) pakiet VOD w Netia GO: katalog setek polskich i zagranicznych filmów, produkcji dla dzieci, kinowych hitów, klasyki, seriali i programów rozrywkowych. Dla abonentów pakietu TV XS; sposób rezygnacji i warunki odnowienia nie są opisane w komunikacie.",
+      "opis": "",
+      "zrodla": [
+        "s17"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "wariant": "Netia Premium Sport (Netia GO)",
+      "dostepnosc": "jako płatny dodatek (dla abonentów pakietu XS w Netia GO)",
+      "cena": "35 zł/30 dni",
+      "zasady": "Elastyczny pakiet odnawiany co 30 dni w Netia GO: Polsat Sport Premium (m.in. Liga Europy i Liga Konferencji UEFA, wybrane turnieje tenisowe), Eleven Sports (m.in. Formuła 1, 2 i 3, liga włoska, francuska, portugalska, wybrane mecze ligi hiszpańskiej, Puchar Niemiec) i Motowizja (WRC, ERC, NASCAR Cup). Dla abonentów pakietu TV XS; sposób rezygnacji nie jest opisany w komunikacie.",
+      "opis": "",
+      "zrodla": [
+        "s17"
       ]
     },
     {
@@ -2874,11 +2907,12 @@
     "max_odbiornikow": 4,
     "jak_dziala": "Każdy dodatkowy telewizor dostaje osobny dekoder Netii (Multiroom HD lub Multiroom 4K, w ofercie także Multiroom Soundbox 4K). Telewizory muszą być w tej samej sieci lokalnej. Usługa w ramach jednej umowy i jednej faktury, zamawiana przez konsultanta.",
     "co_na_kolejnych_tv": "Te same kanały co w umowie TV; dodatkowe dekodery mają te same funkcje co główny. Na każdym telewizorze można jednocześnie oglądać inny kanał.",
-    "uwagi": "Wymaga usługi TV + internet w Netii. Wg cennika z 2024/2025 Multiroom obejmuje warianty pakietów S/S4K, M/M4K, L/L4K. Działanie nagrań na dodatkowych dekoderach nie jest opisane.",
+    "uwagi": "Wymaga usługi TV + internet w Netii. Wg cennika z 2024/2025 Multiroom obejmuje warianty pakietów S/S4K, M/M4K, L/L4K. Działanie nagrań na dodatkowych dekoderach nie jest opisane. Wg Netii aplikacja Netia GO (3 urządzenia jednocześnie) może pełnić funkcję zbliżoną do multiroomu, ale tylko dla kanałów dostępnych w Netia GO.",
     "zrodla": [
       "s7",
       "s11",
-      "s3"
+      "s3",
+      "s17"
     ]
   },
   "sprzet_i_funkcje": {
@@ -2898,25 +2932,27 @@
     ],
     "aplikacja": {
       "nazwa": "Netia GO",
-      "urzadzenia": "smartfon i tablet (Google Play, App Store), komputer (przeglądarka go.netia.pl), Smart TV (sklep aplikacji telewizora), przesyłanie na TV przez Chromecast i AirPlay",
-      "ile_urzadzen_jednoczesnie": "kanały z pakietu na 3 urządzeniach mobilnych jednocześnie, w domu i poza domem",
-      "uwagi": "Logowanie danymi Netia Online. Profile dla domowników, pobieranie wybranych treści offline. Liczba kanałów w Netia GO zależy od pakietu: wg strony kanałów S 29, M 48, L 96 (strona Netia GO podaje S 24, M 46, L 96)."
+      "urzadzenia": "smartfon i tablet (Google Play, App Store), komputer (przeglądarka go.netia.pl), telewizory z Android TV i Apple TV, telewizory Samsung od 2019 r., przesyłanie na TV przez Chromecast i AirPlay, dekodery Netia EvoBox",
+      "ile_urzadzen_jednoczesnie": "kanały z pakietu na 3 urządzeniach jednocześnie, w domu i poza domem",
+      "uwagi": "Logowanie danymi Netia Online. Do 5 profili na konto, pobieranie wybranych treści offline. Liczba kanałów w Netia GO zależy od pakietu: wg strony kanałów S 29, M 48, L 96 (strona Netia GO podaje S 24, M 46, L 96)."
     },
-    "smart_tv_bez_dekodera": "Tak, przez aplikację Netia GO ze sklepu Smart TV (marki telewizorów nie są wymienione na netia.pl). Pakiet XS jest opisany jako dostęp bez dekodera. Pełne pakiety S/M/L na głównym telewizorze są sprzedawane z dekoderem.",
+    "smart_tv_bez_dekodera": "Tak, przez aplikację Netia GO na telewizorach z Android TV, Apple TV oraz telewizorach Samsung wyprodukowanych od 2019 r. (wg komunikatu Netii); także przez Chromecast/AirPlay. Pakiet XS jest opisany jako dostęp bez dekodera. Pełne pakiety S/M/L na głównym telewizorze są sprzedawane z dekoderem. Pełnej listy marek (np. LG) Netia nie podaje.",
     "nagrywanie": "Giganagrywarka (nagrywanie w chmurze na dekoderze Netia Player): Basic - 100 godzin, przechowywanie 30 dni; Maxi - 1500 godzin, przechowywanie 120 dni. Można nagrywać jednocześnie dowolnie wiele programów; zaplanowane nagrania działają też przy dekoderze odłączonym od prądu. W ofercie Dla Każdego Giganagrywarka Maxi bez opłat przez 3 miesiące. Wg PDF: nagrywarka z 7-dniową historią w M i L bez dodatkowej opłaty, w S płatna.",
     "cofanie_i_ogladanie_od_poczatku": "Timeshift: cofanie do 2 godzin wstecz na kanałach objętych Giganagrywarką. Catch-up: do 7 dni wstecz na wybranych kanałach. Funkcja oglądania od początku (start-over) nie jest opisana na netia.pl.",
-    "vod": "Netia GO: programy i seriale z kanałów z pakietu na życzenie bez dodatkowych opłat, wypożyczalnia filmów (opłata doliczana do rachunku), Netia Premium (setki filmów przez 30 dni za jedną opłatą).",
+    "vod": "Netia GO: programy i seriale z kanałów z pakietu na życzenie bez dodatkowych opłat, wypożyczalnia filmów (opłata doliczana do rachunku), Netia Premium (setki filmów, 20 zł/30 dni; wcześniej opisywane jako 30 dni za jedną opłatą).",
     "zrodla": [
       "s4",
       "s8",
       "s9",
       "s10",
       "s11",
-      "s2"
+      "s2",
+      "s17"
     ]
   },
   "warunki_ogolne": [
     "Ceny pakietów TV S, M i L są podawane jako \"cena z internetem\"; pakiet XS jest w cenie abonamentu internetu, bez dekodera.",
+    "Wg komunikatu Netii (lipiec 2026) pakiet TV XS (35 kanałów w aplikacji Netia GO) jest dodawany bez dodatkowych opłat do każdej nowej usługi internetu na cały okres umowy.",
     "Dekoder musi być podłączony do internetu (kablem lub przez Wi-Fi), nie jest potrzebna antena.",
     "Pakiety są stałe (XS, S, M, L; S/M/L także w wersji 4K), każdy wyższy zawiera niższy. Nie ma wyboru pojedynczych kanałów à la carte; rozszerzenia to pakiety dodatkowe.",
     "Pakiety dodatkowe można dokupić do pakietów S, M i L.",
@@ -2928,11 +2964,12 @@
   "faq": [
     {
       "pytanie": "Czy mogę mieć telewizję Netii bez internetu?",
-      "odpowiedz": "Według oficjalnych materiałów nie: pakiety S, M i L są w cenie \"z internetem\", a dekoder działa przez internet Netii. Multiroom i HBO Max też wymagają usług TV i internetu. Netia nie publikuje oferty samej telewizji.",
+      "odpowiedz": "Według oficjalnych materiałów nie: pakiety S, M i L są w cenie \"z internetem\", a dekoder działa przez internet Netii. Pakiet XS jest dodawany do usługi internetowej. Multiroom i HBO Max też wymagają usług TV i internetu. Netia nie publikuje oferty samej telewizji.",
       "zrodla": [
         "s1",
         "s4",
-        "s7"
+        "s7",
+        "s17"
       ]
     },
     {
@@ -2953,25 +2990,28 @@
     },
     {
       "pytanie": "Na ilu telewizorach mogę oglądać?",
-      "odpowiedz": "Z usługą Multiroom nawet na 4 telewizorach. Każdy dostaje osobny dekoder (HD lub 4K), wszystkie w tej samej sieci domowej. Na każdym są te same kanały i na każdym można oglądać coś innego. Multiroom jest płatną usługą dodatkową.",
+      "odpowiedz": "Z usługą Multiroom nawet na 4 telewizorach. Każdy dostaje osobny dekoder (HD lub 4K), wszystkie w tej samej sieci domowej. Na każdym są te same kanały i na każdym można oglądać coś innego. Multiroom jest płatną usługą dodatkową. Dodatkowo aplikacja Netia GO działa na 3 urządzeniach jednocześnie (tylko kanały dostępne w aplikacji).",
       "zrodla": [
-        "s7"
+        "s7",
+        "s17"
       ]
     },
     {
       "pytanie": "Czy mogę oglądać na telefonie albo poza domem?",
-      "odpowiedz": "Tak, w aplikacji Netia GO (Android, iOS, przeglądarka go.netia.pl, Smart TV). Kanały z pakietu można oglądać na 3 urządzeniach mobilnych jednocześnie, także poza domem. Nie wszystkie kanały pakietu są w Netia GO, np. w L jest ich 96.",
+      "odpowiedz": "Tak, w aplikacji Netia GO (Android, iOS, przeglądarka go.netia.pl, Smart TV). Kanały z pakietu można oglądać na 3 urządzeniach jednocześnie, także poza domem. Nie wszystkie kanały pakietu są w Netia GO, np. w L jest ich 96.",
       "zrodla": [
         "s8",
-        "s1"
+        "s1",
+        "s17"
       ]
     },
     {
       "pytanie": "Czy da się oglądać na Smart TV bez dekodera?",
-      "odpowiedz": "Tak, przez aplikację Netia GO ze sklepu Smart TV; pakiet XS jest opisany jako dostęp bez dekodera. Pełne pakiety S/M/L są sprzedawane z dekoderem. Netia nie podaje listy obsługiwanych marek telewizorów.",
+      "odpowiedz": "Tak, przez aplikację Netia GO: na telewizorach z Android TV, Apple TV i na Samsungach od 2019 r. (wg komunikatu Netii), także przez Chromecast/AirPlay. Pakiet XS jest opisany jako dostęp bez dekodera. Pełne pakiety S/M/L są sprzedawane z dekoderem. Pełnej listy marek (np. LG) Netia nie podaje, więc trzeba to sprawdzić.",
       "zrodla": [
         "s8",
-        "s1"
+        "s1",
+        "s17"
       ]
     },
     {
@@ -3012,7 +3052,8 @@
       "zrodla": [
         "s1",
         "s2",
-        "s6"
+        "s6",
+        "s17"
       ]
     },
     {
@@ -3048,7 +3089,7 @@
     },
     {
       "pytanie": "Czy jest Disney+ albo SkyShowtime?",
-      "odpowiedz": "Tak, w wybranych ofertach z internetem: Disney+ Standard (2 ekrany) i SkyShowtime Standard (2 streamy). Aplikacja Disney+ na dekoderze działa tylko na dekoderach 4K.",
+      "odpowiedz": "Tak, w wybranych ofertach z internetem: Disney+ Standard (2 ekrany) i SkyShowtime Standard (2 streamy). Oferta ze SkyShowtime jest na umowę na 24 okresy rozliczeniowe, z opłatą aktywacyjną. Aplikacja Disney+ na dekoderze działa tylko na dekoderach 4K.",
       "zrodla": [
         "s12",
         "s13"
@@ -3061,30 +3102,40 @@
         "s4",
         "s6"
       ]
+    },
+    {
+      "pytanie": "Co mam, jeśli mam tylko internet, a chcę trochę telewizji?",
+      "odpowiedz": "Do nowej usługi internetu Netia dodaje pakiet TV XS z 35 kanałami do oglądania w aplikacji Netia GO, bez opłat na cały okres umowy. W Netia GO można dokupić Netia Premium (VOD, 20 zł/30 dni) lub Netia Premium Sport (35 zł/30 dni).",
+      "zrodla": [
+        "s17"
+      ]
     }
   ],
   "do_sprawdzenia": [
     "Czy telewizja Netii jest w ogóle sprzedawana bez internetu Netii (brak wprost wykluczenia w oficjalnych dokumentach; wszystkie oferty są z internetem).",
     "Brak aktualnego (2026) regulaminu promocji / cennika ofert z TV - nie znaleziono dokumentów PDF na stronach ofert; strona netia.pl/pl/dokumenty zwraca błąd.",
     "Technologie: strona /pl/telewizja wspomina \"telewizję kablową\" - nie potwierdzono, czy Netia oferuje gdzieś DVB-C (np. w przejętych sieciach kablowych) ani w których sieciach działa IPTV.",
-    "Liczby kanałów niespójne: XS 36 (strona) vs 35 (PDF), L 189 (strona) vs 188 (PDF); strona Dla Każdego podaje M = 118 kanałów, FAQ ~92/117/194, meta 77; nagłówki 217/244/247 kanałów w ofercie.",
-    "Liczba kanałów w Netia GO: strona kanałów S 29 / M 48 / L 96, strona Netia GO S 24 / M 46 / L 96; dla XS strona podaje 3, PDF 35.",
-    "Jakość kanałów (SD/HD): ustalona z nazw na netia.pl i z częściowo odczytanej listy PDF (plik jest obrazem bez warstwy tekstowej). Kanały bez dopisku HD oznaczone jako SD mogą być w HD, szczególnie Polsat Sport Extra 1-4, Canal+ Sport 3-7, Canal+ Extra, kanały Disney/Nickelodeon.",
+    "Liczby kanałów niespójne: XS 36 (strona) vs 35 (PDF i komunikat prasowy), L 189 (strona) vs 188 (PDF); strona Dla Każdego podaje M = 118 kanałów, indeks ofert (/pakiety/internet-telewizja/elastyczna) podaje obecnie: Dla Każdego 82 kanały (46 HD), Dla Kinomaniaka 104 (65 HD), Dla Fanów Sportu 188 (119 HD) - nie zweryfikowano szczegółowo stron ofert; inne nagłówki 217/244/247 kanałów.",
+    "Liczba kanałów w Netia GO: strona kanałów S 29 / M 48 / L 96, strona Netia GO S 24 / M 46 / L 96 (ta strona wygląda na nieaktualną, m.in. Polsat Sport Premium 7 kanałów, ceny pakietów inne); dla XS strona kanałów oznacza 3 kanały w Netia GO, a komunikat prasowy Netii mówi o 35 kanałach XS w aplikacji.",
+    "Jakość kanałów (SD/HD): ustalona z nazw na netia.pl i z częściowo odczytanej listy PDF (plik jest obrazem bez warstwy tekstowej). Kanały bez dopisku HD oznaczone jako SD mogą być w HD, szczególnie Polsat Sport Extra 1-4, Canal+ Sport 3-7, Canal+ Extra, Eleven Sports 4 (na netia.pl bez dopisku HD), kanały Disney/Nickelodeon.",
     "Przypis na dole PDF (warunki kanałów 4K w pakietach S 4K/M 4K/L 4K, okresy promocyjne) jest nieczytelny w dostępnej rozdzielczości.",
-    "Zawartość pakietów Dla Kinomaniaka (99 kanałów?), Dla Fanów Sportu (~100 kanałów?) i Na start - który pakiet bazowy S/M/L, brak jednoznacznej informacji.",
+    "Zawartość pakietów Dla Kinomaniaka, Dla Fanów Sportu i Na start - który pakiet bazowy S/M/L, brak jednoznacznej informacji.",
     "Netflix: brak jakiejkolwiek informacji (ani aplikacji na dekoderze EVOBOX, ani oferty).",
     "Aplikacja CANAL+ online przy pakietach CANAL+ - brak informacji.",
-    "Netia GO: lista obsługiwanych marek Smart TV, Android TV, limit zarejestrowanych urządzeń, catch-up/nagrania w aplikacji - nie opisane.",
+    "Netia GO: pełna lista obsługiwanych marek Smart TV (komunikat wymienia Android TV, Apple TV, Samsung od 2019; LG itd. brak), limit zarejestrowanych urządzeń, catch-up/nagrania w aplikacji - nie opisane.",
     "Funkcja oglądania od początku (start-over) - nie opisana.",
     "Czy nagrania działają na dekoderach Multiroom - nie opisane.",
     "Multiroom: limit 4 dekoderów ze strony; cennik 2024/2025 nie określa maksymalnej liczby; aktualny cennik Multiroom 2026 nie znaleziony.",
     "Różnice nazw kanałów strona vs PDF: TV Okazje/TV Okazja, wPolsce.pl/wPolsce24, BBC News/BBC World News, Golf Channel Polska/Golf Zone.",
     "Na stronie kanałów są też pakiety CANAL+ z oznaczeniem \"+6\" przy CANAL+ ULTRA - znaczenie niejasne.",
     "Kategorie kanałów przypisane redakcyjnie (Netia nie publikuje podziału na kategorie).",
+    "Okno otwarte CANAL+ 360: portal Telix (7.10.2026) pisze, że CANAL+ 360 (EPG 42) jest dostępny bez opłat już w najniższych pakietach (Na Start w Elastycznej TV oraz S w pakietyzacji SML), bez daty końca. Nie potwierdzono tego na oficjalnych stronach Netii (strona kanałów pokazuje CANAL+ 360 tylko w dodatkach). Ten sam portal wspomina też o nazewnictwie ofert „Elastyczna TV” i „SML”, którego oficjalna strona kanałów nie używa - do wyjaśnienia z Netią.",
     "Streaming: cena Disney+ w Netii (jako dodatek do TV i w ofercie Internet z Disney+) – strona netia.pl/pl/disney nie podaje kwot.",
     "Streaming: które taryfy Netii zawierają SkyShowtime oraz czy można podpiąć istniejące konto SkyShowtime – brak informacji na stronie.",
     "Streaming: cena HBO Max – strona /pl/max podaje 'od 25 zł/mies.', strona Netia GO 'HBO HD 20 zł'; nie wiadomo, czy to ta sama usługa; brak regulaminu/cennika PDF. Informacja o planie Premium dla dostępu bezterminowego do 31.01.2025 nieaktualna.",
     "Streaming: ceny po 6-mies. promocji dla ofert z Amazon Prime i Apple TV oraz regulaminy tych promocji (strona mówi o PDF, ale nie linkuje).",
-    "Streaming: czy pakiety CANAL+ w Netii dają dostęp do aplikacji CANAL+ online."
+    "Streaming: biuro prasowe Netii (powiązane artykuły, 28.08.2026) informuje o kampanii oferty internet z TV i Amazon Prime za 35 zł miesięcznie; to inna kwota niż 85 zł w danych ze strony s15. Strony Amazon Prime i Apple TV nie zostały ponownie otwarte w tym sprawdzeniu (limit narzędzia), więc ceny wymagają weryfikacji.",
+    "Streaming: czy pakiety CANAL+ w Netii dają dostęp do aplikacji CANAL+ online.",
+    "Streaming: warunki rezygnacji i odnawiania pakietów Netia Premium / Premium Sport w Netia GO (komunikat prasowy podaje tylko cenę za 30 dni i skład)."
   ]
 }
