@@ -1,0 +1,1642 @@
+{
+  "operator": "Plus",
+  "slug": "plus",
+  "sprawdzono": "2026-10-23",
+  "zrodla": [
+    {
+      "id": "s1",
+      "tytul": "Cennik Usług Komunikacji Elektronicznej Telewizji „Telewizja dla Nowych Klientów” z 01.10.2026 (Polsat Box, pakiety S/M/L, listy kanałów § 6)",
+      "url": "https://www.polsatbox.pl/binaries/content/assets/polsatbox/regulaminy-i-cenniki/telewizja/cenniki/01.10.2026/715_cennik-pke_cennik-uslug-komunikacji-elektronicznej-telewizji-dla-nowych-klientow_01.10.26.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s2",
+      "tytul": "Cennik Usług Dodatkowych niebędących usługami KE przy zawarciu Umowy dla Nowych Klientów, 01.10.2026 (Polsat Box Go, streamingi)",
+      "url": "https://www.polsatbox.pl/binaries/content/assets/polsatbox/regulaminy-i-cenniki/telewizja/cenniki/01.10.2026/711_cennikuslugdodatkowychiufor_przyumowiepozyskanie_01.10.2026.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s3",
+      "tytul": "Polsat Box: Telewizja satelitarna i kablowa IPTV",
+      "url": "https://sklep.polsatbox.pl/telewizja-satelitarna",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s4",
+      "tytul": "Polsat Box: Telewizja internetowa (OTT) z dekoderem",
+      "url": "https://sklep.polsatbox.pl/telewizja-internetowa-ott",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s5",
+      "tytul": "Polsat Box: Telewizja kablowa IPTV (Światłowód Plusa, Netia, Orange)",
+      "url": "https://sklep.polsatbox.pl/iptv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s6",
+      "tytul": "Lista operatorów współpracujących z Cyfrowym Polsatem (IPTV), 26.02.2024",
+      "url": "https://www.polsatbox.pl/binaries/content/assets/polsatbox/regulaminy-i-cenniki/telewizja/pozostale-uslugi-i-pormocje/lista_operatorow_wspolpracujacych_z_cp.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s7",
+      "tytul": "Polsat Box: Multiroom HD",
+      "url": "https://sklep.polsatbox.pl/multiroom-hd",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s8",
+      "tytul": "Polsat Box: dekoder polsat box 4K lite",
+      "url": "https://sklep.polsatbox.pl/polsatbox-4k-lite",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s9",
+      "tytul": "Polsat Box: dekoder polsat soundbox 4K",
+      "url": "https://sklep.polsatbox.pl/soundbox4k",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s10",
+      "tytul": "Polsat Box: Telewizja na Twoich zasadach (CatchUP, reStart, nPVR)",
+      "url": "https://sklep.polsatbox.pl/tv-na-twoich-zasadach",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s11",
+      "tytul": "Polsat Box: Polsat Box Go dla klientów TV",
+      "url": "https://sklep.polsatbox.pl/polsatboxgo",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s12",
+      "tytul": "Plus: Polsat Box Go (pakiety Sport i Premium dla klientów Plus)",
+      "url": "https://www.plus.pl/uslugi/polsatboxgo",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s13",
+      "tytul": "Plus: zestawy streamingów (Stream 2/3/4/Trio)",
+      "url": "https://www.plus.pl/streaming",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s14",
+      "tytul": "Regulamin Programu „Usługi Łączone dla konsumentów 2” (wersja z 01.10.2026)",
+      "url": "https://api.plus.pl/file/regulations_lp/plus/uslugi-laczone/Regulamin_Usługi_Łączone_dla_konsumentów_2_(1).pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s15",
+      "tytul": "Plus: TV + światłowód (Usługi Łączone)",
+      "url": "https://www.plus.pl/kampania-tv-swiatlowod",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s16",
+      "tytul": "Plus: Światłowód",
+      "url": "https://www.plus.pl/swiatlowod",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s17",
+      "tytul": "Baza wiedzy Polsat Box: Telewizja internetowa OTT",
+      "url": "https://bok.polsatbox.pl/article/288",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s18",
+      "tytul": "Polsat Box: układ kanałów (linki do PDF układu kanałów 31.07.2026 dla satelity, OTT i IPTV)",
+      "url": "https://sklep.polsatbox.pl/noweepg",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s19",
+      "tytul": "Regulamin Dostępu Polsat Box Go Premium w wersji promocyjnej (Plus, 18.08.2026)",
+      "url": "https://www.plus.pl/binaries/content/assets/plus/regulaminy/180826-zmiany-regulaminow/uslugi-pbg/regulamin-dostepu-polsat-box-go-premium-w-wersji-promocyjnej.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s20",
+      "tytul": "Polsat Box: Usługi łączone TV + Internet + Abonament",
+      "url": "https://sklep.polsatbox.pl/uslugilaczone",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s21",
+      "tytul": "Regulamin Promocji „Telewizja internetowa dla stałych abonentów” z 01.08.2025 (ARCHIWALNY, tylko nazwy pakietów OTT)",
+      "url": "https://www.polsatbox.pl/uploaded-files/reg-repo/regulamin-promocji-telewizja-internetowa-dla-stalych-abonentow.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s22",
+      "tytul": "Ulotka Polsat Box / Plus (stan na 08.04.2025, ARCHIWALNA, technologie dekoderów)",
+      "url": "https://api.plus.pl/file/files/file/ulotka_dth.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    }
+  ],
+  "podsumowanie": "Plus (Polkomtel) nie ma własnej telewizji: TV sprzedaje Cyfrowy Polsat pod marką Polsat Box (ta sama grupa Polsat Plus), na osobnej umowie. Plus łączy ją ze swoim światłowodem, abonamentem lub internetem 5G/LTE w programie Usługi Łączone (oferty M/L, rabat od drugiej usługi). Klient Światłowodu Plusa odbiera Polsat Box jako kablową IPTV bez anteny. Do wyboru jest też satelita albo telewizja internetowa OTT na łączu dowolnego dostawcy. Pakiety podstawowe (satelita/IPTV) to S (35), M (49) i L (71 kanałów gwarantowanych), wszystkie z Polsat Box Go w cenie, a do tego Multiroom, nPVR i dodatki (HBO, SkyShowtime, Eleven, Polsat Sport Premium, Disney+ i in.).",
+  "technologie": [
+    {
+      "nazwa": "satelita",
+      "opis": "Telewizja satelitarna Polsat Box (pakiety S/M/L), wymaga instalacji antenowej. Działa niezależnie od internetu (internet potrzebny do CatchUP/nPVR).",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "nazwa": "IPTV",
+      "opis": "Telewizja kablowa IPTV Polsat Box (te same pakiety S/M/L) przez stacjonarny internet: Światłowód Plusa, Netia, Orange i wybrani lokalni ISP; min. 8 Mb/s na dekoder dla HD, 25 Mb/s dla 4K. Bez anteny, dekoder po kablu lub Wi-Fi. Na dekoderach DUO można przełączać satelita/IPTV (tylko w ofercie satelitarnej).",
+      "zrodla": [
+        "s1",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "nazwa": "OTT (aplikacja)",
+      "opis": "Telewizja internetowa (OTT) Polsat Box z dekoderem – działa na internecie od dowolnego dostawcy (także mobilnym), min. 8 Mb/s (HD) / 25 Mb/s (4K). Oferty „Telewizja Praktyczna” (24 mies.) i „Telewizja Elastyczna” (bez stałego zobowiązania na pakiet). Pakiety OTT mają inne nazwy (w regulaminie Usług Łączonych: Pakiet Komfortowy, Pakiet Bogaty). Do tego Polsat Box Go jako sama aplikacja.",
+      "zrodla": [
+        "s4",
+        "s14",
+        "s17"
+      ]
+    }
+  ],
+  "pakiety": [
+    {
+      "id": "plus-s",
+      "nazwa": "Pakiet S",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 35,
+      "liczba_kanalow_hd": 24,
+      "zawiera_pakiet": "",
+      "opis": "Najmniejszy pakiet podstawowy Polsat Box (satelita / kablowa IPTV): główne kanały TVP, Polsat, TVN, TV 4, TV Puls, kanały tematyczne Grupy Polsat, Polsat Sport 1/2/3 i TVP Sport. Liczba 35 kanałów to skład gwarantowany wg cennika; w reklamach Polsat Box podaje wyższe liczby, bo wlicza kanały promocyjne/niegwarantowane.",
+      "warunki": "Umowa z Cyfrowym Polsatem na 24 miesiące; odbiór przez satelitę albo kablową IPTV (np. na Światłowodzie Plusa). Pakietu podstawowego nie można zmienić w trakcie umowy. Do pakietu S dostępny promocyjny dodatek Mini M.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "plus-m",
+      "nazwa": "Pakiet M",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 49,
+      "liczba_kanalow_hd": 36,
+      "zawiera_pakiet": "plus-s",
+      "opis": "Pakiet S + 14 kanałów: Discovery, TLC, ID, HGTV, Food Network, Eurosport 1 i 2, TVN 24, TVN 24 BiŚ, TVN Style, TVN Turbo, TVN Fabuła, TV Republika, TVP Seriale. Dla rodziny, która chce kanałów TVN i Eurosportu.",
+      "warunki": "Umowa na 24 miesiące; satelita lub kablowa IPTV. Przez 24 miesiące bezpłatnie pakiet Cinemax. Promocyjny dodatek Mini L. W Usługach Łączonych Plus to „Oferta M” (Telewizja Satelitarna/IPTV z Pakietem M).",
+      "zrodla": [
+        "s1",
+        "s14"
+      ]
+    },
+    {
+      "id": "plus-l",
+      "nazwa": "Pakiet L",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 71,
+      "liczba_kanalow_hd": 50,
+      "zawiera_pakiet": "plus-m",
+      "opis": "Pakiet M + 22 kanały: AXN (4), BBC (5), History/History2, Comedy Central, Paramount Network, MTV, Kino Polska, FILMBOX+ One, Romance TV, Warner TV oraz kanały dziecięce Nickelodeon, Nick Jr., Nicktoons, Cartoonito.",
+      "warunki": "Umowa na 24 miesiące; satelita lub kablowa IPTV. Przez 24 miesiące bezpłatnie Cinemax i Sport Max (Eleven Sports 1-4, Polsat Sport Premium 1-2). W Usługach Łączonych Plus to „Oferta L”.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s14"
+      ]
+    }
+  ],
+  "kanaly": [
+    {
+      "nazwa": "Disco Polo Music",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "Eska TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Fokus TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Nowa TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polo TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Café",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Crime&Investigation",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Doku",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Jim Jam",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "Polsat Music",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat News 2",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "Polsat News",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Play",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "Polsat Sport Fight",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Sport 1",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "Polsat Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "Super Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat News Polityka",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV 4",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV 6",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TV Puls",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVN",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "TVP ABC",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "TVP 3",
+      "kategoria": "regionalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; w układzie kanałów występują regionalne wersje TVP 3 (s18)"
+    },
+    {
+      "nazwa": "TVP Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "TVP Kultura",
+      "kategoria": "inne",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "TVP Rozrywka",
+      "kategoria": "ogólne",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "TVP Sport",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-s",
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Discovery Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "Eurosport 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "Eurosport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "Food Network",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "HGTV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "ID",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TLC",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TV Republika",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TVN 24 Biznes i Świat",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TVN 24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TVN Fabuła",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TVN Style",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TVN Turbo",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "TVP Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-m",
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie S dostępny w promocyjnym dodatku: plus-mini-m"
+    },
+    {
+      "nazwa": "AXN Black",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "AXN",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "AXN Spin",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "AXN White",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "BBC Brit",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "BBC CBeebies",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "BBC Earth",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "BBC First",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "BBC Lifestyle",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Comedy Central",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "History",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "History2",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Kino Polska",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "FILMBOX+ One",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "MTV Polska",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Nick Jr.",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Nickelodeon",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Nicktoons",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Paramount Network Polska",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Romance TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "przy pakiecie M dostępny w promocyjnym dodatku: plus-mini-l"
+    },
+    {
+      "nazwa": "Cartoonito",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia"
+    },
+    {
+      "nazwa": "Warner TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "plus-l"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "HBO",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-hbo"
+    },
+    {
+      "nazwa": "HBO 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-hbo"
+    },
+    {
+      "nazwa": "HBO 3",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-hbo"
+    },
+    {
+      "nazwa": "Cinemax",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-cinemax (bezpłatnie przez 24 mies. przy pakiecie M i L)"
+    },
+    {
+      "nazwa": "Cinemax 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-cinemax (bezpłatnie przez 24 mies. przy pakiecie M i L)"
+    },
+    {
+      "nazwa": "SkyShowtime 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-skyshowtime"
+    },
+    {
+      "nazwa": "SkyShowtime 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-skyshowtime"
+    },
+    {
+      "nazwa": "FILMBOX+ Action",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ Festival",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ Emotion",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-filmbox"
+    },
+    {
+      "nazwa": "FILMBOX+ Hits",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-filmbox"
+    },
+    {
+      "nazwa": "Eleven Sports 1",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-eleven-sports; dodatek: plus-sport-max"
+    },
+    {
+      "nazwa": "Eleven Sports 2",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-eleven-sports; dodatek: plus-sport-max"
+    },
+    {
+      "nazwa": "Eleven Sports 3",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-eleven-sports; dodatek: plus-sport-max"
+    },
+    {
+      "nazwa": "Eleven Sports 4",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-sport-max"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 1",
+      "kategoria": "sportowe",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-polsat-sport-premium; dodatek: plus-sport-max; w pakiecie Sport Max opisany jako Polsat Sport Premium 1 Super HD"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "w cenniku jako „Super HD”; dodatek: plus-polsat-sport-premium; dodatek: plus-sport-max"
+    },
+    {
+      "nazwa": "Brazzers TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-rozrywka"
+    },
+    {
+      "nazwa": "Hustler",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-rozrywka"
+    },
+    {
+      "nazwa": "Private TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-rozrywka"
+    },
+    {
+      "nazwa": "Redlight",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: plus-rozrywka"
+    },
+    {
+      "nazwa": "Dorcel TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-rozrywka"
+    },
+    {
+      "nazwa": "Blue Hustler",
+      "kategoria": "dla dorosłych",
+      "jakosc": "SD",
+      "pakiety": [],
+      "uwagi": "w cenniku Polsat Box (s1) bez oznaczenia HD; faktyczna jakość do potwierdzenia; dodatek: plus-rozrywka"
+    }
+  ],
+  "dodatki": [
+    {
+      "id": "plus-mini-m",
+      "nazwa": "Mini M (promocyjny)",
+      "rodzaj": "inny",
+      "zawartosc": "14 kanałów, czyli różnica między pakietem S a M (TVN 24, Discovery, Eurosport 1/2 itd.).",
+      "kanaly": [
+        "Discovery Channel HD",
+        "Eurosport 1 HD",
+        "Eurosport 2 HD",
+        "Food Network HD",
+        "HGTV HD",
+        "ID HD",
+        "TLC HD",
+        "TV Republika",
+        "TVN 24 Biznes i Świat HD",
+        "TVN 24 HD",
+        "TVN Fabuła HD",
+        "TVN Style HD",
+        "TVN Turbo HD",
+        "TVP Seriale"
+      ],
+      "warunki": "Pakiet promocyjny dostępny wyłącznie z pakietem S; okres wskazany w umowie, potem dezaktywuje się automatycznie.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "plus-mini-l",
+      "nazwa": "Mini L (promocyjny)",
+      "rodzaj": "inny",
+      "zawartosc": "20 kanałów z pakietu L (AXN, BBC, History, Nickelodeon, MTV i in.).",
+      "kanaly": [
+        "AXN Black",
+        "AXN HD",
+        "AXN Spin HD",
+        "AXN White",
+        "BBC Brit HD",
+        "BBC CBeebies",
+        "BBC Earth HD",
+        "BBC First HD",
+        "BBC Lifestyle HD",
+        "Comedy Central HD",
+        "History HD",
+        "History2 HD",
+        "Kino Polska HD",
+        "FILMBOX+ One",
+        "MTV Polska HD",
+        "Nick Jr.",
+        "Nickelodeon",
+        "Nicktoons HD",
+        "Paramount Network Polska",
+        "Romance TV HD"
+      ],
+      "warunki": "Pakiet promocyjny dostępny wyłącznie z pakietem M; okres wskazany w umowie, potem dezaktywuje się automatycznie.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "plus-cinemax",
+      "nazwa": "Cinemax",
+      "rodzaj": "filmowy",
+      "zawartosc": "2 kanały filmowe.",
+      "kanaly": [
+        "Cinemax",
+        "Cinemax 2"
+      ],
+      "warunki": "Bezpłatny przez 24 miesiące przy pakiecie M i L (aktywowany automatycznie, potem dezaktywowany); można też zamówić w trakcie umowy.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "plus-sport-max",
+      "nazwa": "Sport Max",
+      "rodzaj": "sport",
+      "zawartosc": "6 kanałów sportowych: Eleven Sports 1-4 i Polsat Sport Premium 1-2 (Super HD).",
+      "kanaly": [
+        "Eleven Sports 1",
+        "Eleven Sports 2",
+        "Eleven Sports 3",
+        "Eleven Sports 4",
+        "Polsat Sport Premium 1",
+        "Polsat Sport Premium 2"
+      ],
+      "warunki": "Bezpłatny wyłącznie przy pakiecie L przez 24 miesiące, potem dezaktywowany.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "plus-eleven-sports",
+      "nazwa": "Eleven Sports",
+      "rodzaj": "sport",
+      "zawartosc": "Eleven Sports 1, 2, 3.",
+      "kanaly": [
+        "Eleven Sports 1",
+        "Eleven Sports 2",
+        "Eleven Sports 3"
+      ],
+      "warunki": "Zamawiany w trakcie umowy (najwcześniej dzień po zawarciu), tylko przy pakiecie S lub M; minimum jeden okres rozliczeniowy.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "plus-polsat-sport-premium",
+      "nazwa": "Polsat Sport Premium",
+      "rodzaj": "sport",
+      "zawartosc": "Polsat Sport Premium 1 i 2.",
+      "kanaly": [
+        "Polsat Sport Premium 1",
+        "Polsat Sport Premium 2"
+      ],
+      "warunki": "Zamawiany w trakcie umowy, tylko przy pakiecie S lub M. W telewizji internetowej OTT pakiet opisany jako 6 kanałów + 4 serwisy PPV.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "plus-hbo",
+      "nazwa": "HBO (z HBO Max)",
+      "rodzaj": "premium",
+      "zawartosc": "3 kanały HBO + serwis HBO Max (bez dodatkowej opłaty za HBO Max w trakcie korzystania z pakietu).",
+      "kanaly": [
+        "HBO",
+        "HBO 2",
+        "HBO 3"
+      ],
+      "warunki": "Przy zawarciu umowy lub w trakcie. Wg strony Polsat Box do 24. miesiąca HBO Max Premium, od 25. miesiąca Standard; cennik usług dodatkowych mówi o wariancie Standard.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "plus-skyshowtime",
+      "nazwa": "SkyShowtime – kanały i serwis",
+      "rodzaj": "filmowy",
+      "zawartosc": "Kanały SkyShowtime 1 i 2 + serwis SkyShowtime (plan Standard).",
+      "kanaly": [
+        "SkyShowtime 1",
+        "SkyShowtime 2"
+      ],
+      "warunki": "Przy zawarciu umowy lub w trakcie.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "plus-filmbox",
+      "nazwa": "FilmBox",
+      "rodzaj": "filmowy",
+      "zawartosc": "5 kanałów FILMBOX+.",
+      "kanaly": [
+        "FILMBOX+ Action",
+        "FILMBOX+ Festival",
+        "FILMBOX+ Emotion",
+        "FILMBOX+ Comedy",
+        "FILMBOX+ Hits"
+      ],
+      "warunki": "Przy zawarciu umowy lub w trakcie.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "plus-rozrywka",
+      "nazwa": "Rozrywka (tylko dla dorosłych)",
+      "rodzaj": "erotyczny",
+      "zawartosc": "6 kanałów dla dorosłych, chronionych kodem PIN.",
+      "kanaly": [
+        "Brazzers TV",
+        "Hustler",
+        "Private TV",
+        "Redlight",
+        "Dorcel TV",
+        "Blue Hustler"
+      ],
+      "warunki": "Przy zawarciu umowy lub w trakcie.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "plus-ott-pakiety-dodatkowe",
+      "nazwa": "Pakiety dodatkowe telewizji internetowej OTT",
+      "rodzaj": "inny",
+      "zawartosc": "W ofercie telewizji internetowej (OTT) dokupowane przez dekoder na 30 dni: Filmy i Seriale (17 kanałów), Pakiet SPORT (15), Pakiet Eleven Sports (5), Pakiet Polsat Sport Premium (6 + 4 serwisy PPV), Pakiet Dzieci (8), miniKomfortowy (17), miniBogaty (49), midiBogaty (70), FilmBox (5), Rozrywka (6).",
+      "kanaly": [],
+      "warunki": "Tylko telewizja internetowa OTT; składy kanałów tych pakietów nie są opublikowane na stronie oferty.",
+      "zrodla": [
+        "s4"
+      ]
+    }
+  ],
+  "streaming": [
+    {
+      "serwis": "Polsat Box Go",
+      "dostepnosc": "w cenie pakietu TV (zakres kanałów i VOD zależy od pakietu)",
+      "opis": "Klient TV Polsat Box ogląda wybrane kanały i materiały w Polsat Box Go (aplikacja na telefon, tablet, Smart TV, przeglądarka polsatboxgo.pl) bez dopłaty; usługi nie można wyłączyć w trakcie umowy. Klienci Plus (komórka, 5G/LTE, światłowód) mogą też osobno kupić Polsat Box Go Sport (46 kanałów) lub Premium (ponad 170 kanałów).",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "serwis": "Disney+",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Plan Standard; w Polsat Box osobno lub w zestawie Stream 3 / Promocja 2 z 4; w Plus w zestawach Stream Trio/Stream 2/Stream 4.",
+      "zrodla": [
+        "s2",
+        "s13"
+      ]
+    },
+    {
+      "serwis": "Max",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "HBO Max razem z pakietem kanałów HBO (Polsat Box) albo w zestawach streamingowych Plus (plan Standard).",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s13"
+      ]
+    },
+    {
+      "serwis": "SkyShowtime",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Kanały SkyShowtime 1 i 2 + serwis (plan Standard) w Polsat Box; w Plus w zestawach Stream 3/2/4.",
+      "zrodla": [
+        "s2",
+        "s13"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Amazon Prime w zestawach Stream 3 (Polsat Box i Plus) i Stream Trio (Plus); na soundboxie aplikacja Prime Video z Google Play.",
+      "zrodla": [
+        "s2",
+        "s9",
+        "s13"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Apple TV: w zestawach Stream 3 i Promocja 2 z 4 (Polsat Box) oraz Stream Trio/Stream 3 (Plus).",
+      "zrodla": [
+        "s2",
+        "s13"
+      ]
+    },
+    {
+      "serwis": "Netflix",
+      "dostepnosc": "brak",
+      "opis": "Netflix nie występuje w ofercie Polsat Box ani w zestawach Plus. Strona polsat soundbox 4K podaje, że Netflix nie jest na nim obsługiwany.",
+      "zrodla": [
+        "s2",
+        "s9",
+        "s13"
+      ]
+    },
+    {
+      "serwis": "Canal+ online",
+      "dostepnosc": "brak",
+      "opis": "Canal+ nie występuje w cennikach ani na stronach oferty Polsat Box/Plus.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "multiroom": {
+    "dostepny": true,
+    "max_odbiornikow": 4,
+    "jak_dziala": "Multiroom HD: 1, 2 lub 3 dodatkowe dekodery (EVOBOX LITE, polsat box 4K lite, polsat box 4K) na jednej umowie, łącznie do 4 telewizorów. Nowe dekodery aktywują się automatycznie przez router (dekoder dodatkowy musi być w tej samej sieci Wi-Fi co podstawowy) i wymagają cyklicznej aktywacji.",
+    "co_na_kolejnych_tv": "Te same kanały co na dekoderze podstawowym (wykupione pakiety), każdy telewizor może oglądać inny kanał jednocześnie. Limity nPVR i CatchUP są wspólne dla wszystkich dekoderów; nPVR nagrywa tylko z dekodera podstawowego.",
+    "uwagi": "Multiroom wybiera się wyłącznie przy zawarciu umowy razem z pakietem podstawowym; nie można go dodać, zmienić ani wyłączyć w trakcie umowy. Tylko w obrębie jednego gospodarstwa domowego. Dodatkowo kanały na 3 urządzeniach mobilnych w Polsat Box Go (opis z oferty OTT).",
+    "zrodla": [
+      "s1",
+      "s7",
+      "s10",
+      "s4"
+    ]
+  },
+  "sprzet_i_funkcje": {
+    "dekodery": [
+      {
+        "nazwa": "polsat box 4K lite",
+        "opis": "Mały dekoder 4K z pilotem Bluetooth, wyszukiwanie głosowe, Wi-Fi; nagrywanie w chmurze (nPVR), CatchUP, reStart, timeshift; aplikacja Polsat Box Go, Disney+. Działa w telewizji satelitarnej (funkcja DUO satelita/IPTV) i internetowej OTT; może być dekoderem Multiroom."
+      },
+      {
+        "nazwa": "polsat box 4K",
+        "opis": "Dekoder 4K z pilotem Bluetooth, obsługa dysku do nagrywania, nPVR, CatchUP; satelita, IPTV i internet; może być dekoderem Multiroom."
+      },
+      {
+        "nazwa": "polsat soundbox 4K",
+        "opis": "Dekoder 4K z Android TV (Google Play, Asystent Google), wbudowane głośniki strojone przez Bang & Olufsen z Dolby Atmos, Chromecast built-in, Wi-Fi 6, HDR10; preinstalowane Polsat Box Go i YouTube; Disney+, HBO Max, Apple TV, Prime Video z Google Play; Netflix nieobsługiwany. Wymaga konta Google."
+      },
+      {
+        "nazwa": "EVOBOX (LITE, PVR, HD, IP, STREAM) / moduł CAM",
+        "opis": "Starsze dekodery nadal wymieniane w cenniku/stronach (EVOBOX STREAM dla telewizji OTT, z tunerem DVB-T)."
+      }
+    ],
+    "aplikacja": {
+      "nazwa": "Polsat Box Go",
+      "urzadzenia": "telefon i tablet (iOS, Android, HarmonyOS, Amazon Fire OS), Smart TV z aplikacją, przeglądarka polsatboxgo.pl, dekodery Polsat Box; Chromecast i AirPlay",
+      "ile_urzadzen_jednoczesnie": "W ofercie telewizji internetowej OTT: dekoder + do 3 urządzeń mobilnych jednocześnie; dla satelity/IPTV limitu nie potwierdzono",
+      "uwagi": "Do 5 profili użytkowników. Serwis działa na terenie Polski. Liczba kanałów mobilnie zależy od pakietu TV."
+    },
+    "smart_tv_bez_dekodera": "Telewizji Polsat Box (pakiety S/M/L) nie sprzedaje się bez dekodera. Bez dekodera można oglądać tylko w Polsat Box Go (aplikacja na Smart TV podłączonym do internetu, wg regulaminu PBG; konkretne marki TV nie są wymienione na stronie) – w zakresie kanałów dostępnych online dla danego pakietu lub w osobnych pakietach Polsat Box Go Sport/Premium.",
+    "nagrywanie": "nPVR (nagrywanie w chmurze) w dwóch wariantach: Start – 100 godzin, przechowywanie 30 dni; Max – 1000 godzin, przechowywanie 120 dni (można zamówić w trakcie umowy). Do 4 programów jednocześnie, tylko z dekodera podstawowego, na wybranych kanałach (osobna lista PDF). Wymaga dekodera polsat box 4K / 4K lite / soundbox 4K / EVOBOX HD, PVR, LITE, IP i internetu. polsat box 4K obsługuje też dysk.",
+    "cofanie_i_ogladanie_od_poczatku": "CatchUP – wybrane programy do 7 dni po emisji (promocyjnie w pakietach S, M, L na cały okres umowy); reStart – oglądanie od początku do 3 godzin; zatrzymywanie i przewijanie do 3 godzin. Wymaga podłączenia dekodera do internetu, dotyczy wybranych kanałów i audycji.",
+    "vod": "Biblioteka VOD w Polsat Box Go (katalogi online w cenie, zakres zależny od pakietu) oraz płatna wypożyczalnia VOD w dekoderze.",
+    "zrodla": [
+      "s1",
+      "s4",
+      "s8",
+      "s9",
+      "s10",
+      "s11",
+      "s17",
+      "s19"
+    ]
+  },
+  "warunki_ogolne": [
+    "Plus (Polkomtel) nie świadczy usługi telewizji sam: telewizję sprzedaje Cyfrowy Polsat S.A. pod marką Polsat Box, na osobnej umowie (Grupa Polsat Plus).",
+    "Telewizję można połączyć z usługami Plus (światłowód, abonament, internet 5G/LTE) w programie „Usługi Łączone dla konsumentów 2” – minimum 2 umowy, rabaty na drugą i kolejne usługi, oferty M lub L (wszystkie usługi w zestawie tego samego typu). Program trwa do 03.11.2026.",
+    "W Usługach Łączonych TV to: Telewizja Satelitarna lub IPTV z Pakietem M/L albo Telewizja Internetowa z Pakietem Komfortowym/Bogatym.",
+    "Klient Światłowodu Plusa może odbierać Polsat Box w technologii kablowej IPTV (bez anteny satelitarnej) – Plus jest na liście operatorów współpracujących.",
+    "Telewizja Polsat Box (satelita/IPTV) jest też dostępna bez internetu Plus (satelita) i bez kupowania czegokolwiek w Plus.",
+    "Umowa na pakiet podstawowy (S/M/L) zawierana na 24 miesiące; pakietu podstawowego nie można zmienić w trakcie umowy.",
+    "Telewizja internetowa OTT: oferta Praktyczna (24 mies.) lub Elastyczna (bez stałego zobowiązania na pakiet), na internecie dowolnego dostawcy.",
+    "Składy pakietów S/M/L wg cennika z 01.10.2026 są takie same w satelicie i IPTV; liczby kanałów w reklamach są wyższe, bo obejmują kanały promocyjne, niegwarantowane i dodatki na 24 miesiące (Sport Max, Cinemax).",
+    "Kanały promocyjne (TVP 1, TVP 2, TVP 3, Polsat, TVN, TV 4, TV Puls) mogą zostać zmienione lub wycofane bez zmiany umowy.",
+    "Multiroom tylko przy zawarciu umowy; nie da się go dokupić później.",
+    "Dodatki Eleven Sports i Polsat Sport Premium zamawia się w trakcie umowy (przy pakiecie S lub M); przy L są w Sport Max przez 24 mies.",
+    "Oferta i cenniki Polsat Box obowiązują od 01.10.2026 do 03.11.2026 (potem możliwe zmiany)."
+  ],
+  "faq": [
+    {
+      "pytanie": "Czy telewizję kupuję w Plusie czy w Polsat Box?",
+      "odpowiedz": "Telewizję świadczy Cyfrowy Polsat pod marką Polsat Box, na osobnej umowie. Plus łączy ją ze swoimi usługami w programie Usługi Łączone, gdzie przy 2 lub więcej umowach dostajesz rabaty.",
+      "zrodla": [
+        "s14",
+        "s15"
+      ]
+    },
+    {
+      "pytanie": "Mam światłowód Plusa – czy potrzebuję anteny satelitarnej?",
+      "odpowiedz": "Nie. Na Światłowodzie Plusa Polsat Box działa jako telewizja kablowa IPTV: dekoder podłączasz kablem lub przez Wi-Fi. Potrzeba min. 8 Mb/s na dekoder (HD) lub 25 Mb/s (4K).",
+      "zrodla": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę mieć telewizję bez internetu z Plusa?",
+      "odpowiedz": "Tak. Polsat Box można odbierać z satelity (z anteną), przez IPTV u Netii, Orange lub wybranych lokalnych ISP, albo jako telewizję internetową OTT na łączu dowolnego dostawcy.",
+      "zrodla": [
+        "s3",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "pytanie": "Jakie są pakiety i ile mają kanałów?",
+      "odpowiedz": "Satelita/IPTV: Pakiet S – 35 kanałów, M – 49, L – 71 (skład gwarantowany wg cennika). Każdy wyższy zawiera niższy. Reklamy podają więcej kanałów, bo liczą kanały promocyjne i dodatki na 24 miesiące.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy są kanały TVN i TVN 24?",
+      "odpowiedz": "TVN jest już w Pakiecie S. TVN 24, TVN 24 BiŚ, TVN Style, TVN Turbo i TVN Fabuła są od Pakietu M (do S w promocyjnym Mini M).",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Jakie kanały sportowe dostanę?",
+      "odpowiedz": "S: Polsat Sport 1/2/3, Polsat Sport Fight, TVP Sport. M dodaje Eurosport 1 i 2. L ma przez 24 miesiące bezpłatnie Sport Max (Eleven Sports 1–4, Polsat Sport Premium 1–2). Przy S i M Eleven Sports i Polsat Sport Premium można dokupić w trakcie umowy.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Canal+?",
+      "odpowiedz": "Nie. W ofercie Polsat Box nie ma kanałów ani serwisu Canal+. Kanały premium to HBO (z HBO Max), Cinemax, SkyShowtime i FilmBox.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę mieć Netflixa w dekoderze?",
+      "odpowiedz": "Netflix nie jest w ofercie. Strona polsat soundbox 4K podaje wprost, że Netflix na nim nie działa. W ofercie są natomiast Disney+, HBO Max, SkyShowtime, Amazon Prime i Apple TV.",
+      "zrodla": [
+        "s9",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na drugim i trzecim telewizorze?",
+      "odpowiedz": "Tak, w ramach Multiroom HD: do 3 dodatkowych dekoderów, czyli łącznie do 4 telewizorów z tymi samymi kanałami. Multiroom trzeba wybrać przy podpisaniu umowy, bo później nie da się go dodać.",
+      "zrodla": [
+        "s1",
+        "s7"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na telefonie lub w aplikacji na telewizorze bez dekodera?",
+      "odpowiedz": "Tak, w Polsat Box Go (telefon, tablet, Smart TV z aplikacją, przeglądarka). Jest w cenie pakietu, ale z ograniczoną liczbą kanałów, zależną od pakietu. W telewizji internetowej: dekoder + do 3 urządzeń mobilnych jednocześnie. Działa tylko w Polsce.",
+      "zrodla": [
+        "s4",
+        "s11",
+        "s19"
+      ]
+    },
+    {
+      "pytanie": "Czy da się nagrywać programy?",
+      "odpowiedz": "Tak, w chmurze (nPVR): Start – 100 h, nagrania trzymane 30 dni; Max – 1000 h i 120 dni. Działa na wybranych kanałach, do 4 nagrań naraz, z dekodera podstawowego. polsat box 4K obsługuje też dysk.",
+      "zrodla": [
+        "s1",
+        "s10",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę cofnąć program albo obejrzeć coś, co już leciało?",
+      "odpowiedz": "Tak. CatchUP to do 7 dni wstecz, oglądanie od początku do 3 h, pauza i przewijanie do 3 h, dla wybranych programów. Wymaga dekodera podłączonego do internetu. W S, M i L jest promocyjnie na cały okres umowy.",
+      "zrodla": [
+        "s10",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Jaki dostanę dekoder?",
+      "odpowiedz": "Obecnie polsat box 4K lite, polsat box 4K lub polsat soundbox 4K (Android TV, głośniki Dolby Atmos, Chromecast). Wszystkie obsługują 4K.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "pytanie": "Na jak długo jest umowa i czy mogę zmienić pakiet?",
+      "odpowiedz": "Pakiet podstawowy S/M/L to umowa na 24 miesiące, bez możliwości zmiany pakietu podstawowego w trakcie. Dodatki (np. HBO, Eleven) można zamawiać i wyłączać w trakcie. Telewizja internetowa ma też ofertę Elastyczną bez stałego zobowiązania na pakiet.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy telewizja internetowa działa na internecie mobilnym lub 5G?",
+      "odpowiedz": "Telewizja internetowa OTT działa na internecie od dowolnego dostawcy, także mobilnym, przy min. 8 Mb/s (HD) lub 25 Mb/s (4K) na dekoder. Wersja IPTV wymaga stacjonarnego łącza współpracującego operatora (np. Światłowód Plusa).",
+      "zrodla": [
+        "s4",
+        "s17",
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy są kanały w 4K?",
+      "odpowiedz": "Tak, dekodery 4K odbierają kanały 4K/UHD (np. Eleven Sports 4K) zależnie od pakietu. Potrzeba min. 25 Mb/s na dekoder przy odbiorze przez internet. W cenniku pakietów S/M/L żaden kanał nie jest oznaczony jako 4K.",
+      "zrodla": [
+        "s3",
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy mam HBO Max w pakiecie?",
+      "odpowiedz": "Nie w podstawowym. HBO Max jest razem z płatnym pakietem kanałów HBO (3 kanały) albo w zestawach streamingowych Plus/Polsat Box.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s13"
+      ]
+    },
+    {
+      "pytanie": "Czy są bajki dla dzieci?",
+      "odpowiedz": "S: Polsat Jim Jam i TVP ABC. L dodaje Nickelodeon, Nick Jr., Nicktoons, Cartoonito i BBC CBeebies. W telewizji internetowej jest też dodatkowy Pakiet Dzieci (8 kanałów).",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "do_sprawdzenia": [
+    "Pełne składy kanałów pakietów telewizji internetowej OTT (Pakiet Komfortowy, Bogaty, ewentualnie Wygodny) w ofercie z października 2026 – strona OTT nie publikuje składów, aktualny cennik OTT nie był dostępny; ostatnie potwierdzone składy pochodzą z regulaminu z 08.2025 (s21), więc nie wpisano ich jako aktualnych.",
+    "Składy dodatków OTT: Filmy i Seriale (17), Pakiet SPORT (15), Pakiet Dzieci (8), miniKomfortowy (17), miniBogaty (49), midiBogaty (70), Eleven Sports (5), Polsat Sport Premium (6 + 4 PPV).",
+    "Jakość kanałów bez dopisku HD w cenniku (np. Polsat Sport 1/2/3, TVP 3, TVP ABC, Polsat News 2, Eleven Sports 1-4) – oznaczono jako SD, a w układzie kanałów część z nich może występować w HD.",
+    "Które kanały i ile z każdego pakietu S/M/L jest dostępnych w Polsat Box Go (stara ulotka z 04.2025 podawała np. S: 57/35 online – dane nieaktualne).",
+    "Limit jednoczesnych urządzeń w Polsat Box Go dla klientów satelity/IPTV (dla OTT: 3 urządzenia mobilne).",
+    "Lista kanałów 4K i kanałów promocyjnych/niegwarantowanych wliczanych w „ponad 130 / 160 kanałów” w reklamach.",
+    "Długość promocyjnych pakietów Mini M i Mini L (wg cennika określona w umowie).",
+    "Dokładne przypisanie modeli dekoderów do pakietów (tabela § 5.1 cennika nieczytelna dla polsat box 4K lite i soundbox) oraz czy soundbox działa w IPTV/satelicie (ulotka z 2025: tylko internet).",
+    "Pełna lista kanałów z CatchUP/reStart i nPVR (osobny PDF nPVR na polsatbox.pl).",
+    "Szczegóły „Telewizji Elastycznej” OTT (okres, pakiety).",
+    "Czy przy zamówieniu przez Plus (Usługi Łączone) oferowana jest telewizja S (regulamin wymienia tylko oferty M i L)."
+  ]
+}
