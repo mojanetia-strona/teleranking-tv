@@ -170,11 +170,13 @@
   const svKey = (s) => { const k = String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/\(.*?\)/g, "").replace(/[^a-z0-9+]/g, ""); return SV[k] || k; };
   const ORDER = ["netflix", "hbomax", "disney+", "skyshowtime", "amazonprimevideo", "canal+", "polsatboxgo", "player", "eleven", "viaplay"];
 
+  const nmOf = (s) => (/^inny$/i.test(String(s.serwis || "").trim()) && s.wariant ? s.wariant : s.serwis);
   function viewStreaming(slug) {
     const groups = new Map();
     S.ops.forEach((o) => arr(o.streaming).forEach((s) => {
-      const k = svKey(s.serwis); if (!k) return;
-      if (!groups.has(k)) groups.set(k, { nazwa: s.serwis, items: [] });
+      const nm = /^inny$/i.test(String(s.serwis || "").trim()) && s.wariant ? s.wariant : s.serwis;
+      const k = svKey(nm); if (!k) return;
+      if (!groups.has(k)) groups.set(k, { nazwa: nm, items: [] });
       groups.get(k).items.push({ o, s });
     }));
     const keys = [...groups.keys()].sort((a, b) => ((ORDER.indexOf(a) + 1 || 99) - (ORDER.indexOf(b) + 1 || 99)) || a.localeCompare(b));
@@ -193,7 +195,7 @@
             <div class="sv-op">${esc(o.operator)}</div>
             <div class="sv-body">
               ${none ? '<span class="muted">nie ma w ofercie</span>' : `<div class="sv-price">${esc(s.cena || "cena do sprawdzenia")}</div>`}
-              ${s.wariant ? `<div class="small"><b>Wariant:</b> ${esc(s.wariant)}</div>` : ""}
+              ${s.wariant && s.wariant !== nmOf(s) ? `<div class="small"><b>Wariant:</b> ${esc(s.wariant)}</div>` : ""}
               ${!none && s.dostepnosc ? `<div class="small muted">${esc(s.dostepnosc)}</div>` : ""}
               ${s.zasady && !none ? `<details class="rules"><summary>Zasady i warunki</summary><p class="small">${esc(s.zasady)}</p><div class="small muted">${src(o, s.zrodla)}</div></details>` : ""}
               ${none && s.zasady ? `<div class="small muted">${esc(s.zasady)}</div>` : ""}
