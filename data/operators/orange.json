@@ -1,0 +1,2834 @@
+{
+  "operator": "Orange",
+  "slug": "orange",
+  "sprawdzono": "2026-10-23",
+  "zrodla": [
+    {
+      "id": "s1",
+      "tytul": "Lista kanałów TV ze światłowodem (IPTV), aktualna na 01.09.2026 (PDF)",
+      "url": "https://www.orange.pl/medias/omni/lp/b2c/tv/tv_mobilna/Lista-kana%C5%82%C3%B3w-TV-w-technologii-IPTV.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s2",
+      "tytul": "Informacje na temat oferty Start TV (oferta od 07.09.2026)",
+      "url": "https://orange.binaries.pl/bw/20155/0/137210/c48e80df-d753-47f5-807c-a3f73fad7872.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s3",
+      "tytul": "Informacje na temat oferty Extra TV (oferta od 07.09.2026)",
+      "url": "https://orange.binaries.pl/bw/20155/0/137201/8b3fa2fc-1c17-4d14-b94a-9258919dc270.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s4",
+      "tytul": "Informacje na temat oferty pakietów TV: HBO, CANAL+, Polsat Sport Premium (od 25.05.2026)",
+      "url": "https://orange.binaries.pl/bw/20155/0/142720/c1d1e4a4-ff25-4da1-8390-6267af3cb8ec.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s5",
+      "tytul": "Regulamin usług HBO Max i CANAL+ z Orange (od 25.05.2026)",
+      "url": "https://orange.binaries.pl/bw/20155/0/142718/38892604-69f1-49ed-83ce-9f4ca451fd24.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s6",
+      "tytul": "Regulamin usługi Netflix z Orange (od 25.05.2026)",
+      "url": "https://orange.binaries.pl/bw/20155/0/116118/0dfde672-fb46-429d-94c3-643a58051ac9.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s7",
+      "tytul": "Zasady korzystania z Multinagrywarki",
+      "url": "https://orange.binaries.pl/bw//20155/0/48422/fc9ab3ac-466f-47d5-8a3b-a7a182532139",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s8",
+      "tytul": "Regulamin świadczenia multimedialnych usług Orange (umowy od 25.05.2026)",
+      "url": "https://orange.binaries.pl/bw//20155/0/10641/cd494de1-de1e-4cca-857a-43b3fc3c360e.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s9",
+      "tytul": "Telewizja Orange (strona oferty)",
+      "url": "https://www.orange.pl/telewizja/telewizja-orange",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s10",
+      "tytul": "Orange Światłowód z TV (strona oferty)",
+      "url": "https://www.orange.pl/swiatlowod-z-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s11",
+      "tytul": "Poradnik Orange: Pakiety Telewizji od Orange w 2026 (aktualizacja 25.05.2026)",
+      "url": "https://www.orange.pl/poradnik/orange-tv-pakiety-dopasowane-do-twoich-potrzeb/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s12",
+      "tytul": "Poradnik Orange: Dekoder Orange TV (aktualizacja 25.05.2026)",
+      "url": "https://www.orange.pl/poradnik/dekoder-orange-tv-czego-potrzebujesz-aby-korzystac-z-telewizji-orange/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s13",
+      "tytul": "Poradnik Orange: Telewizja od Orange, wszystko co warto wiedzieć (aktualizacja 13.03.2026)",
+      "url": "https://www.orange.pl/poradnik/telewizja-w-orange-wszystko-co-warto-wiedziec/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s14",
+      "tytul": "Orange: Regulaminy i cenniki (lista dokumentów TV)",
+      "url": "https://www.orange.pl/view/regulaminy_cenniki",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    }
+  ],
+  "podsumowanie": "Orange sprzedaje telewizję wyłącznie jako dodatek do swojego internetu (światłowód, Internet mobilny dla domu 5G) lub pakietu Orange Love. Podstawą jest Start TV (47 kanałów), wliczony w cenę internetu, a rozszerzeniem osobno zamawiany Extra TV (łącznie 230 kanałów na światłowodzie) z Amazon Prime przy umowie na 24 miesiące. Do Extra TV można dobrać pakiety HBO, CANAL+ (Seriale i Filmy lub Super Sport) oraz Polsat Sport Premium. Oglądać można przez dekoder 4K (IPTV na światłowodzie) albo bez dekodera w aplikacji Orange TV (Android TV, Samsung Tizen) i Orange TV Go.",
+  "technologie": [
+    {
+      "nazwa": "IPTV",
+      "opis": "Telewizja przez dekoder podłączony do modemu Orange Światłowód. Lista kanałów IPTV ze światłowodem to pełna oferta 230 kanałów (Start TV + Extra TV).",
+      "zrodla": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "nazwa": "OTT (aplikacja)",
+      "opis": "Aplikacja Orange TV na telewizorach z Android TV 10+ lub Tizen 6.5+ (albo przez przystawkę z Android TV 10+), aplikacja Orange TV Go na telefon/tablet i serwis tvgo.orange.pl w przeglądarce. Start TV działa w formie streamingu przez internet, w Polsce i krajach EOG.",
+      "zrodla": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "nazwa": "OTT (Internet mobilny dla domu 5G)",
+      "opis": "Przy Internecie mobilnym dla domu telewizja (Start TV, Extra TV) jest oglądana w aplikacji Orange TV na telewizorze i w Orange TV Go, bez dekodera. Liczba kanałów może być mniejsza niż na światłowodzie. Regulamin zaleca 5G przy routerze w sieci mobilnej.",
+      "zrodla": [
+        "s3",
+        "s8",
+        "s9"
+      ]
+    }
+  ],
+  "pakiety": [
+    {
+      "id": "orange-start-tv",
+      "nazwa": "Start TV",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 47,
+      "liczba_kanalow_hd": 45,
+      "zawiera_pakiet": null,
+      "opis": "Podstawowa telewizja Orange: główne kanały ogólnopolskie (TVP, TVN, Polsat, TV4, TV Puls), regionalne TVP3, kanały muzyczne i kilka tematycznych. Dla klientów, którzy chcą mieć podstawowe kanały bez dopłaty do internetu.",
+      "warunki": "W cenie umowy na Orange Światłowód lub Internet mobilny dla domu (5G). Umowa na czas nieokreślony. Gwarantowanych umową jest 11 kanałów (TVP 1, TVP 2, TVN, Polsat, TV4, TV Puls, Puls 2, TVP 3, WP, Zoom TV, Stopklatka TV), pozostałe są niegwarantowane. Lista w PDF ma 48 pozycji, bo TVP3 jest liczone razem z 16 wersjami regionalnymi.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "id": "orange-extra-tv",
+      "nazwa": "Extra TV",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 230,
+      "liczba_kanalow_hd": 205,
+      "zawiera_pakiet": "orange-start-tv",
+      "opis": "Rozszerzenie Start TV do 230 kanałów: informacyjne (TVN24, Polsat News), sport (Eurosport, Polsat Sport, Eleven Sports), filmy i seriale, dokumentalne (Discovery, National Geographic, BBC Earth), dziecięce (Disney, Cartoon Network) i muzyczne. Przy umowie na 24 miesiące Amazon Prime przez 24 miesiące bez dodatkowej opłaty.",
+      "warunki": "Osobna umowa (24 miesiące lub czas nieokreślony), przypisana do usługi internetowej Orange, Internetu mobilnego dla domu, pakietu Orange Love lub Start TV. Można dokupić w trakcie umowy. Rezygnacja z usługi powiązanej kończy Extra TV. Przy Internecie mobilnym dla domu lub Start TV (bez internetu stacjonarnego) liczba kanałów może być mniejsza, a 10 kanałów działa w aplikacjach tylko w sieci Orange. 29 kanałów jest gwarantowanych umową.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s9",
+        "s10",
+        "s11"
+      ]
+    }
+  ],
+  "kanaly": [
+    {
+      "nazwa": "TVP 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 1; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "TVP 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 2; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "TVN",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 3; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 5; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "TV4",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 6; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "TV Puls",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 7; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "TV Puls 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 8; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "TVP3",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 25; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "WP",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 35; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "Zoom TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 36; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "TVC",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 58; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVS",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 62; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TV Regio",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 63; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Tele5",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 64; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polonia1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 65; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Stopklatka TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 225; dostępny w Orange TV Go; kanał gwarantowany umową Start TV"
+    },
+    {
+      "nazwa": "Antena TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 248; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "SHORT TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 252; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Show TV",
+      "kategoria": "lifestyle",
+      "jakosc": "4K",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 346; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Home TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 355; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "4FUN KIDS",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 562; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Junior Music",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 564; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music Box Polska",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 662; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Nuta Gold",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 666; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "4FUN.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 676; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "4FUN DANCE",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 677; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Stars.TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 681; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Power TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 682; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Mixtape",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 688; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Nuta TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 689; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "France 24 EN",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 786; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "France 24 FR",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 787; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Białystok",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 901; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Bydgoszcz",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 902; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Gdańsk",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 903; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Gorzów Wielkopolski",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 904; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Katowice",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 905; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Kielce",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 906; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Kraków",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 907; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Lublin",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 908; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Łódź",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 909; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Olsztyn",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 910; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Opole",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 911; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Poznań",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 912; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Rzeszów",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 913; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Szczecin",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 914; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Warszawa",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 915; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP3 Wrocław",
+      "kategoria": "regionalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-start-tv",
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 916; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVN 7",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 4; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "TTV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 9; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "TVP Polonia",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 10; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Super Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 11; niedostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "TVP HD",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 14; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TV 6",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 13; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Kabaret TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 21; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVN24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 22; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "TVN24 BiS",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 23; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "TVP Info",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 24; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Wydarzenia 24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 26; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat News Polityka",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 27; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TV Republika",
+      "kategoria": "informacyjne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 28; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat News",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 29; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Biznes 24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 30; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat News 2",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 31; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "wPolsce24.pl",
+      "kategoria": "informacyjne",
+      "jakosc": "4K",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 32; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Nowa TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 33; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Metro TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 34; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "Zero",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 45; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Newsmax Polska",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 46; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eurosport 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 111; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "Eurosport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 112; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "TVP Sport",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 113; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Polsat Sport 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 114; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Polsat Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 115; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 116; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Sport Fight",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 117; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "CANAL+ Sport 5",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 118; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Eleven Sports 1 4K",
+      "kategoria": "sportowe",
+      "jakosc": "4K",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 119; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eleven Sports 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 120; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eleven Sports 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 121; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eleven Sports 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 122; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eleven Sports 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 123; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Extreme Channel",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 124; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "FightBox",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 127; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Motowizja",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 128; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "E-sport",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 129; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Golf Zone",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 131; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "Polsat Games",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 132; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Gametoon",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 130; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVN Fabuła",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 222; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 223; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "TVP Kultura",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 224; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Kino Polska",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 226; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "Ale kino+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 231; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "BBC First",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 232; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "FILMBOX+ One",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 233; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "AMC",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 234; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Warner TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 235; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "FX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 236; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "FX Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 237; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "FilMax",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 238; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 243; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Romance TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 244; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Epic Drama",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 246; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "Filmax Cafe",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 247; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Novelas+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 249; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Viast True Crime",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 251; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 253; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 254; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Novela TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 256; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Water Planet",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 257; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "CTV - DLA CIEBIE",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 258; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Film 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 259; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVC Super",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 260; niedostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "FILMBOX+ Emotion",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 288; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "FILMBOX+ Hits",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 289; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "FILMBOX+ Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 290; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "FILMBOX+ Action",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 291; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "FILMBOX+ Arthouse",
+      "kategoria": "filmy i seriale",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 293; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "TVN Style",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 333; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "TVN Turbo",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 334; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "HGTV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 335; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "TVP Rozrywka",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 337; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "TLC",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 338; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "CANAL+ Domo",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 339; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "CANAL+ Kuchnia",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 340; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Food Network",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 341; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "BBC Brit",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 342; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "MyZen 4K",
+      "kategoria": "lifestyle",
+      "jakosc": "4K",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 343; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVC Reality",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 344; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "BBC Lifestyle",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 345; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Play",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 347; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Polsat Cafe",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 348; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Polsat Reality",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 349; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat X",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 350; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TBN Polska",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 352; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP Kobieta",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 353; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Studiomed TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 354; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Rodzina",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 356; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Active Family",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 357; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "EWTN",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 358; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TV Okazje",
+      "kategoria": "lifestyle",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 359; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Remonty TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 362; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "Fashion TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 360; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Xtreme TV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 363; dostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "Ultra TV 4K",
+      "kategoria": "lifestyle",
+      "jakosc": "4K",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 364; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Discovery Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 400; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "ID",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 401; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "National Geographic",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 444; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 445; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Fokus TV",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 446; niedostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Love Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 448; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Planete+",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 447; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Discovery Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 450; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Discovery Life",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 451; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Discovery Science",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 452; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "DTX",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 453; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "Animal Planet",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 454; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Nat Geo Wild",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 456; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Nat Geo People",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 457; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Doku",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 458; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "BBC Earth",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 459; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Viasat History",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 460; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "History",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 461; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "History 2",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 462; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "CI Polsat",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 463; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Viasat Explore",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 464; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Viasat Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 465; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP Dokument",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 466; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Travel Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 467; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP Nauka",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 468; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Adventure",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 470; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Pogoda24.TV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 471; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TV Trwam",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 477; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP ABC",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 555; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Mini Mini+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 556; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Disney Junior",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 557; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Baby TV",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 559; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "BBC CBeebies",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 560; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Cartoonito",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 561; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Fix & Foxi",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 563; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Junior Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 565; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Disney Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 567; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Disney XD",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 568; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Cartoon Network",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 569; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV"
+    },
+    {
+      "nazwa": "Top Kids",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 570; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "teleTOON+",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 571; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Alfa TVP",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 572; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Polsat Jim Jam",
+      "kategoria": "dla dzieci",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 573; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Pixel TV",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 576; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "RiC.today",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 577; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "English Club TV",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 578; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TinyTeen",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 579; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "LangLab",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 580; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "LingoToons",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 581; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music Box Classic",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 663; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music Box Dance",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 664; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music Box Hits",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 665; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eska TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 668; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Polo TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 669; dostępny w Orange TV Go; kanał gwarantowany umową Extra TV; przy Start TV lub Internecie mobilnym dla domu w aplikacjach tylko w sieci Orange"
+    },
+    {
+      "nazwa": "Music Live",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 670; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music Club",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 671; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music 90s",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 672; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music Hits",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 673; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music 00'",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 674; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Music 80s",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 675; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eska Rock TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 679; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Kino Polska Muzyka",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 680; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "VOX Music TV",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 683; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Eska TV Extra",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 684; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Polsat Music",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 685; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Disco Polo Music",
+      "kategoria": "muzyczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 686; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Szlagier TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 690; niedostępny w Orange TV Go; tylko dla umów zawieranych od 25.05.2026"
+    },
+    {
+      "nazwa": "EuroNews",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 778; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "CNBC Europe",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 779; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Bloomberg",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 780; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "CNN",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 781; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Sky News",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 782; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVP World",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 783; w Orange TV Go tylko w domowej sieci (internet stacjonarny Orange)"
+    },
+    {
+      "nazwa": "Current Time TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 784; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "DW",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 785; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Espreso TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 788; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "24 horas",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 789; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Euronews Polski",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 790; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Daystar",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 796; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TV5 Monde",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 797; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "TVE International",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 798; niedostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "1+1 International",
+      "kategoria": "zagraniczne",
+      "jakosc": "SD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 799; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "Arirang TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "orange-extra-tv"
+      ],
+      "uwagi": "nr na dekoderze: 800; dostępny w Orange TV Go"
+    },
+    {
+      "nazwa": "CANAL+ 4K Ultra HD",
+      "kategoria": "lifestyle",
+      "jakosc": "4K",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 276; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany umową pakietu; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Premium",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 277; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany umową pakietu; dodatek: orange-canalplus-super-sport, orange-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 278; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany umową pakietu; dodatek: orange-canalplus-super-sport, orange-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ 360",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 279; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); dodatek: orange-canalplus-super-sport, orange-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 280; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); dodatek: orange-canalplus-super-sport, orange-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Seriale",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 281; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany umową pakietu; dodatek: orange-canalplus-super-sport, orange-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Dokument",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 284; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany umową pakietu; dodatek: orange-canalplus-super-sport, orange-canalplus-seriale-filmy"
+    },
+    {
+      "nazwa": "CANAL+ Sport",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 282; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany umową pakietu; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 283; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany umową pakietu; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 285; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany do 30.06.2027; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Sport 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 286; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany do 30.06.2027; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Now",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 287; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 138; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany do 30.06.2027; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 139; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany do 30.06.2027; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 140; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany do 30.06.2027; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 141; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); kanał gwarantowany do 30.06.2027; dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 5",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 142; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 6",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 143; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "CANAL+ Extra 7",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 144; tylko na dekoderze (pakiety CANAL+ nie działają w aplikacjach Orange TV / Orange TV Go); dodatek: orange-canalplus-super-sport"
+    },
+    {
+      "nazwa": "HBO",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 266; dostępny w Orange TV Go; kanał gwarantowany umową pakietu; dodatek: orange-hbo"
+    },
+    {
+      "nazwa": "HBO 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 267; dostępny w Orange TV Go; kanał gwarantowany umową pakietu; dodatek: orange-hbo"
+    },
+    {
+      "nazwa": "HBO 3",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 268; dostępny w Orange TV Go; kanał gwarantowany umową pakietu; dodatek: orange-hbo"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 166; dostępny w Orange TV Go; kanał gwarantowany umową pakietu; operator podaje standard Super HD; dodatek: orange-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 167; dostępny w Orange TV Go; kanał gwarantowany umową pakietu; operator podaje standard Super HD; dodatek: orange-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 168; niedostępny w Orange TV Go; operator podaje standard Super HD; dodatek: orange-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 2",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 169; niedostępny w Orange TV Go; operator podaje standard Super HD; dodatek: orange-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 3",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 170; niedostępny w Orange TV Go; operator podaje standard Super HD; dodatek: orange-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 4",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "nr na dekoderze: 171; niedostępny w Orange TV Go; operator podaje standard Super HD; dodatek: orange-polsat-sport-premium"
+    }
+  ],
+  "dodatki": [
+    {
+      "id": "orange-hbo",
+      "nazwa": "Pakiet HBO",
+      "rodzaj": "filmowy",
+      "zawartosc": "Kanały HBO, HBO 2, HBO 3 oraz serwis HBO Max w planie Standardowym (2 urządzenia jednocześnie, Full HD, pobieranie offline).",
+      "kanaly": [
+        "HBO",
+        "HBO 2",
+        "HBO 3"
+      ],
+      "warunki": "Wymaga aktywnej usługi Extra TV powiązanej z internetem stacjonarnym lub Orange Love. Umowa na 24 miesiące (przy Extra TV na 24 mies.) lub na czas nieokreślony. Działa na dekoderze, w aplikacji Orange TV, tvgo.orange.pl i Orange TV Go. Nie można mieć jednocześnie Pakietu HBO i osobnej usługi HBO Max na tej samej usłudze Extra TV.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "orange-canalplus-seriale-filmy",
+      "nazwa": "Pakiet CANAL+ Seriale i Filmy",
+      "rodzaj": "premium",
+      "zawartosc": "Kanały filmowo-serialowe CANAL+ i serwis streamingowy CANAL+ Seriale i Filmy (do 2 urządzeń jednocześnie).",
+      "kanaly": [
+        "CANAL+ Premium",
+        "CANAL+ Film",
+        "CANAL+ 360",
+        "CANAL+ 1",
+        "CANAL+ Seriale",
+        "CANAL+ Dokument"
+      ],
+      "warunki": "Wymaga Extra TV powiązanej z internetem stacjonarnym lub Orange Love. Kanały oglądane tylko przez dekoder (nie w aplikacjach Orange TV / Orange TV Go). Gwarantowane: CANAL+ Premium, Film, Dokument, Seriale. Nie łączy się z Pakietem CANAL+ Super Sport ani z osobną usługą CANAL+; zmiana na Super Sport wymaga nowej umowy.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "orange-canalplus-super-sport",
+      "nazwa": "Pakiet CANAL+ Super Sport",
+      "rodzaj": "sport",
+      "zawartosc": "Wszystkie kanały CANAL+ Seriale i Filmy plus kanały sportowe CANAL+ (Sport 1-4, Extra 1-7, 4K Ultra HD, Now) oraz serwis CANAL+ Super Sport (do 2 urządzeń jednocześnie).",
+      "kanaly": [
+        "CANAL+ 4K Ultra HD",
+        "CANAL+ Premium",
+        "CANAL+ Film",
+        "CANAL+ 360",
+        "CANAL+ 1",
+        "CANAL+ Seriale",
+        "CANAL+ Dokument",
+        "CANAL+ Sport",
+        "CANAL+ Sport 2",
+        "CANAL+ Sport 3",
+        "CANAL+ Sport 4",
+        "CANAL+ Now",
+        "CANAL+ Extra 1",
+        "CANAL+ Extra 2",
+        "CANAL+ Extra 3",
+        "CANAL+ Extra 4",
+        "CANAL+ Extra 5",
+        "CANAL+ Extra 6",
+        "CANAL+ Extra 7"
+      ],
+      "warunki": "Wymaga Extra TV powiązanej z internetem stacjonarnym lub Orange Love. Kanały tylko przez dekoder. Gwarantowane: CANAL+ Premium, Film, Dokument, Seriale, Sport, Sport 2, 4K Ultra HD; do 30.06.2027 także Sport 3, Sport 4, Extra 1-4. Nie łączy się z Pakietem CANAL+ Seriale i Filmy ani z osobną usługą CANAL+.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "orange-polsat-sport-premium",
+      "nazwa": "Pakiet Polsat Sport Premium",
+      "rodzaj": "sport",
+      "zawartosc": "Kanały Polsat Sport Premium 1 i 2 (gwarantowane) oraz Polsat Sport Extra 1-4, w standardzie Super HD. Bez serwisu streamingowego.",
+      "kanaly": [
+        "Polsat Sport Premium 1",
+        "Polsat Sport Premium 2",
+        "Polsat Sport Extra 1",
+        "Polsat Sport Extra 2",
+        "Polsat Sport Extra 3",
+        "Polsat Sport Extra 4"
+      ],
+      "warunki": "Wymaga Extra TV powiązanej z internetem stacjonarnym lub Orange Love. Na dekoderze i w aplikacjach; Polsat Sport Extra 1-4 nie są dostępne w Orange TV Go.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "streaming": [
+    {
+      "serwis": "Amazon Prime Video",
+      "dostepnosc": "w cenie pakietu Extra TV (przy umowie na 24 miesiące, przez 24 miesiące)",
+      "opis": "Amazon Prime obejmuje Prime Video, darmowe dostawy na Amazon.pl i inne korzyści programu. Zasady w osobnym regulaminie promocji.",
+      "zrodla": [
+        "s3",
+        "s10"
+      ]
+    },
+    {
+      "serwis": "Netflix",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Netflix z Orange w planach Podstawowy (HD, 1 urządzenie), Standard (Full HD, 2 urządzenia) i Premium (4K, 4 urządzenia), rozliczany na fakturze Orange. Można zamówić do internetu stacjonarnego, abonamentu komórkowego lub Orange Love; można podpiąć istniejące konto Netflix. Na stronie oferty promocja 3 miesiące w prezencie przy umowie 24 mies.",
+      "zrodla": [
+        "s6",
+        "s10"
+      ]
+    },
+    {
+      "serwis": "Max",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "HBO Max w planie Standardowym w ramach Pakietu HBO (z kanałami HBO) albo jako osobna usługa HBO Max z Orange (do internetu stacjonarnego lub Orange Love).",
+      "zrodla": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "serwis": "Canal+ online",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Serwis CANAL+ Seriale i Filmy lub CANAL+ Super Sport w ramach pakietów CANAL+ (z kanałami) albo jako osobna usługa CANAL+ z Orange. Do 2 urządzeń jednocześnie.",
+      "zrodla": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "dostepnosc": "w cenie pakietu Extra TV",
+      "opis": "Kanały Eleven Sports 1-4 (oraz Eleven Sports 1 4K na dekoderze) w Extra TV. To kanały linearne, nie osobna aplikacja.",
+      "zrodla": [
+        "s1",
+        "s10"
+      ]
+    }
+  ],
+  "multiroom": {
+    "dostepny": true,
+    "max_odbiornikow": 4,
+    "jak_dziala": "Dodatkowy dekoder 4K na kolejnym telewizorze, płatny osobno (opłata za Multiroom i za wypożyczenie dekodera). Alternatywnie każdy telewizor z aplikacją Orange TV i urządzenia z Orange TV Go (do 3 jednocześnie).",
+    "co_na_kolejnych_tv": "Te same kanały co na głównym dekoderze, każdy domownik może oglądać inny program.",
+    "uwagi": "Do 4 telewizorów przy ofercie Orange Światłowód (poradnik Orange). Multiroom wymaga dekodera 4K. W aplikacjach Orange TV / TV Go dany kanał można oglądać tylko na jednym urządzeniu naraz.",
+    "zrodla": [
+      "s12",
+      "s13",
+      "s10",
+      "s3"
+    ]
+  },
+  "sprzet_i_funkcje": {
+    "dekodery": [
+      {
+        "nazwa": "4K Multi",
+        "opis": "Dekoder 4K, obsługuje Wi-Fi 6 przy Multiroomie, Android TV z aplikacjami Google Play (wg poradnika Orange). Wypożyczany odpłatnie."
+      },
+      {
+        "nazwa": "4K Duo",
+        "opis": "Dekoder 4K wymieniany na stronie oferty. Szczegóły modelu niepotwierdzone."
+      },
+      {
+        "nazwa": "4K Stream",
+        "opis": "Dekoder 4K wymieniany na stronie oferty. Szczegóły modelu niepotwierdzone."
+      }
+    ],
+    "aplikacja": {
+      "nazwa": "Orange TV (telewizor) / Orange TV Go (telefon, tablet, przeglądarka)",
+      "urzadzenia": "Smart TV z Android TV 10+ lub Tizen 6.5+ (Samsung), przystawki z Android TV 10+, telefony i tablety iOS/Android, komputer przez tvgo.orange.pl",
+      "ile_urzadzen_jednoczesnie": "3 (dany kanał tylko na jednym urządzeniu naraz)",
+      "uwagi": "Urządzenie można zmieniać 2 razy w miesiącu; każda przeglądarka to osobne urządzenie. Działa w Polsce i EOG. Nie wszystkie kanały są w Orange TV Go (część tylko w domowej sieci Orange, część tylko na dekoderze, np. CANAL+). Przy internecie stacjonarnym dostęp poza domem nie jest gwarantowany."
+    },
+    "smart_tv_bez_dekodera": "Tak. Aplikacja Orange TV na telewizorach z Android TV 10+ lub Tizen 6.5+ (Samsung). Inne telewizory przez przystawkę (TV stick) z Android TV 10+. Przy Internecie mobilnym dla domu i Start TV to podstawowy sposób oglądania. Pakiety CANAL+ działają tylko na dekoderze.",
+    "nagrywanie": "Multinagrywarka w chmurze (nPVR): nagrywanie audycji dowolnej długości, nagrania dostępne 30 dni (wg zasad usługi), odtwarzanie na dekoderze i w Orange TV Go. Włączana automatycznie dla umów Światłowód ze Start TV od 20.01.2025 i Orange Love ze Start TV od 17.03.2025. Nie każdą audycję można nagrać (zależy od praw nadawcy).",
+    "cofanie_i_ogladanie_od_poczatku": "StartOver (oglądanie trwającej audycji od początku), CatchUp (programy z poprzednich dni, liczba dni zależy od kanału, np. 2 lub 7 dni), pauza i przewijanie na żywo. Dostępność zależy od praw do danego kanału.",
+    "vod": "Wypożyczalnia Orange VOD (wypożyczony film dostępny 48 godzin) oraz serwisy streamingowe: Amazon Prime w Extra TV, Netflix, HBO Max, CANAL+ jako dodatki.",
+    "zrodla": [
+      "s2",
+      "s3",
+      "s7",
+      "s8",
+      "s9",
+      "s10",
+      "s12",
+      "s13"
+    ]
+  },
+  "warunki_ogolne": [
+    "Telewizji Orange nie da się kupić bez usługi Orange: Start TV jest w cenie światłowodu lub Internetu mobilnego dla domu, Extra TV wymaga usługi internetowej, Orange Love lub Start TV.",
+    "Start TV: umowa na czas nieokreślony, w cenie internetu.",
+    "Extra TV: umowa na 24 miesiące (z Amazon Prime) lub na czas nieokreślony; umowa 24-miesięczna przechodzi potem automatycznie na czas nieokreślony.",
+    "Pakiety HBO, CANAL+ i Polsat Sport Premium wymagają Extra TV powiązanej z internetem stacjonarnym lub Orange Love.",
+    "Pełna oferta 230 kanałów dotyczy światłowodu. Przy Internecie mobilnym dla domu lub samym Start TV kanałów może być mniej, część kanałów działa tylko w sieci Orange.",
+    "Kanały oznaczone na liście jako nowe (np. FILMBOX+ Emotion, Golf Zone, Szlagier TV) są tylko dla umów zawartych od 25.05.2026.",
+    "Kanały TVP (np. TVP Info, TVP Sport, TVP Seriale) w Orange TV Go działają tylko w domowej sieci Orange.",
+    "Kanały poza listą gwarantowaną mogą zostać wycofane; umowa gwarantuje 11 kanałów w Start TV i 29 w Extra TV.",
+    "Telewizję można oglądać tylko w lokalu, do którego klient ma tytuł prawny (nie w miejscach publicznych), w aplikacjach także w krajach EOG.",
+    "Minimalna prędkość internetu: 10 Mb/s dla HD, 30 Mb/s dla 4K (regulamin).",
+    "Wypożyczony dekoder trzeba zwrócić w ciągu 14 dni od zakończenia umowy, inaczej Orange nalicza opłatę z cennika."
+  ],
+  "faq": [
+    {
+      "pytanie": "Czy mogę mieć telewizję Orange bez internetu Orange?",
+      "odpowiedz": "Nie. Start TV jest dodawany do światłowodu lub Internetu mobilnego dla domu, a Extra TV i pakiety premium wymagają usługi internetowej Orange, Orange Love lub Start TV.",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s4",
+        "s9"
+      ]
+    },
+    {
+      "pytanie": "Ile kanałów mam w podstawie, a ile w Extra TV?",
+      "odpowiedz": "Start TV to 47 kanałów w cenie internetu. Start TV + Extra TV na światłowodzie daje 230 kanałów. Przy Internecie mobilnym dla domu kanałów jest mniej.",
+      "zrodla": [
+        "s1",
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "pytanie": "Czy w Start TV są TVN24 i Polsat News?",
+      "odpowiedz": "Nie. TVN24, TVN24 BiS i Polsat News są dopiero w Extra TV. W Start TV są m.in. TVP 1, TVP 2, TVN, Polsat, TV4, TV Puls, TVP3 i Stopklatka TV.",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy muszę mieć dekoder?",
+      "odpowiedz": "Nie zawsze. Można oglądać w aplikacji Orange TV na telewizorze z Android TV 10+ lub Tizen 6.5+ (Samsung) albo przez przystawkę z Android TV. Dekoder jest potrzebny do pakietów CANAL+ i do Multiroomu na dekoderach.",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na kilku telewizorach?",
+      "odpowiedz": "Tak. Multiroom na dodatkowym dekoderze 4K pozwala oglądać na maksymalnie 4 telewizorach (płatny dodatkowo). W aplikacjach Orange TV / Orange TV Go można oglądać na 3 urządzeniach jednocześnie, ale ten sam kanał tylko na jednym.",
+      "zrodla": [
+        "s12",
+        "s13",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na telefonie i poza domem?",
+      "odpowiedz": "Tak, w aplikacji Orange TV Go i na tvgo.orange.pl, w Polsce i krajach EOG, na 3 urządzeniach naraz. Część kanałów (np. TVP Info, TVP Sport) działa tylko w domowej sieci Orange, a niektóre (np. CANAL+) tylko na dekoderze.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Netflix w pakiecie?",
+      "odpowiedz": "Netflix nie jest w cenie TV. To płatny dodatek rozliczany na fakturze Orange (plany Podstawowy, Standard, Premium); można podpiąć swoje istniejące konto. Na stronie oferty promocja: 3 miesiące w prezencie przy umowie na 24 miesiące.",
+      "zrodla": [
+        "s6",
+        "s10"
+      ]
+    },
+    {
+      "pytanie": "Co z Amazon Prime?",
+      "odpowiedz": "Amazon Prime (z Prime Video) jest w cenie Extra TV przez 24 miesiące, jeśli Extra TV zawierasz na 24 miesiące.",
+      "zrodla": [
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę mieć CANAL+ i Ligę Mistrzów / sport CANAL+?",
+      "odpowiedz": "Tak, jako Pakiet CANAL+ Super Sport dokupiony do Extra TV (kanały CANAL+ Sport, Extra 1-7 i serwis CANAL+ Super Sport). Kanały CANAL+ działają tylko na dekoderze. Konkretne transmisje zależą od praw CANAL+.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy jest Polsat Sport i Eleven Sports?",
+      "odpowiedz": "W Extra TV są Polsat Sport 1, 2, 3, Polsat Sport Fight, Eleven Sports 1-4 i Eurosport 1 i 2. Polsat Sport Premium 1 i 2 (oraz Extra 1-4) to osobny płatny pakiet do Extra TV.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy jest HBO / HBO Max?",
+      "odpowiedz": "Tak, jako Pakiet HBO do Extra TV: kanały HBO, HBO 2, HBO 3 i HBO Max w planie Standardowym. Można też wziąć samą usługę HBO Max z Orange.",
+      "zrodla": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę nagrywać programy?",
+      "odpowiedz": "Tak, Multinagrywarka w chmurze nagrywa audycje dowolnej długości, nagrania są dostępne przez 30 dni na dekoderze i w Orange TV Go. Dla nowych umów ze Start TV włącza się automatycznie. Nie każdą audycję można nagrać.",
+      "zrodla": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę cofnąć program albo obejrzeć coś z wczoraj?",
+      "odpowiedz": "Tak. StartOver pozwala obejrzeć trwającą audycję od początku, a CatchUp programy z poprzednich dni (zależnie od kanału, np. 2 lub 7 dni wstecz).",
+      "zrodla": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "pytanie": "Czy jest jakość 4K?",
+      "odpowiedz": "Tak, dekodery Orange są 4K, a na liście są kanały 4K, np. Show TV (Start TV), Eleven Sports 1 4K, wPolsce24.pl, Love Nature, Ultra TV 4K (Extra TV) i CANAL+ 4K Ultra HD (pakiet CANAL+ Super Sport). Do 4K potrzeba min. 30 Mb/s.",
+      "zrodla": [
+        "s1",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "pytanie": "Na jak długo jest umowa na telewizję?",
+      "odpowiedz": "Start TV na czas nieokreślony. Extra TV na 24 miesiące (wtedy Amazon Prime) lub na czas nieokreślony. Pakiety premium na 24 miesiące (przy Extra TV na 24 mies.) lub na czas nieokreślony.",
+      "zrodla": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę dokupić Extra TV albo pakiet później?",
+      "odpowiedz": "Tak. Extra TV można zamówić razem z internetem albo w dowolnym momencie trwania umowy, a pakiety premium w trakcie trwania Extra TV.",
+      "zrodla": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Mam 5G (Internet mobilny dla domu), czy będę mieć te same kanały?",
+      "odpowiedz": "Nie w pełni. Przy Internecie mobilnym dla domu oglądasz w aplikacji Orange TV / Orange TV Go, a liczba kanałów może być mniejsza niż na światłowodzie. Pakiety HBO, CANAL+ i Polsat Sport Premium wymagają Extra TV z internetem stacjonarnym lub Orange Love.",
+      "zrodla": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "do_sprawdzenia": [
+    "Dokładna liczba kanałów Extra TV przy Internecie mobilnym dla domu (5G): strona Telewizja Orange podaje 179 kanałów, starszy komunikat prasowy (03.2025) 128. Brak aktualnej listy kanałów dla 5G.",
+    "Dokument 'Informacje na temat oferty Extra TV' mówi o usłudze internetowej 'o prędkości do 300 Mb/s' jako warunku. Nie jest jasne, czy przy szybszym światłowodzie Extra TV wiąże się przez Start TV; do potwierdzenia u operatora.",
+    "Okres przechowywania nagrań Multinagrywarki: zasady usługi (od 2019) mówią 30 dni, poradnik Orange o dekoderze 7 dni od emisji.",
+    "Modele dekoderów 4K Duo i 4K Stream: wymienione na stronie oferty, brak oficjalnej specyfikacji (Android TV, Wi-Fi, dysk).",
+    "Maksymalna liczba odbiorników w Multiroomie (4) pochodzi z poradnika Orange, nie z regulaminu; brak aktualnego cennika/regulaminu Multiroomu.",
+    "Na liście kanałów przy części pozycji jest znacznik 'kanał niegwarantowany'; w pliku zaznaczono tylko kanały gwarantowane wg dokumentów ofertowych.",
+    "Liczby kanałów: operator podaje 47 (Start TV) i 230 (Start + Extra). PDF z listą kanałów (01.09.2026) ma 48 pozycji w Start TV (TVP3 ogólne + 16 regionalnych) i 181 w Extra TV, razem 229. Pole liczba_kanalow_hd liczone z PDF (HD + 4K).",
+    "Brak informacji o telewizji satelitarnej i DVB-T w aktualnej ofercie Orange.",
+    "Disney+, SkyShowtime, Polsat Box Go, Player: nie znaleziono oficjalnej oferty Orange (ani integracji w dekoderze).",
+    "Strona Telewizja Orange wspomina akcję 'Dzień Klienta' (od 27 października ponad 30 odkodowanych kanałów) i sprzeczne informacje o odkodowaniu CANAL+ Domo / CANAL+ Kuchnia; nie ujęto jako stałej oferty.",
+    "Lista kanałów w aplikacji Orange TV na Smart TV (bez dekodera) może się różnić od listy IPTV; brak osobnego oficjalnego zestawienia."
+  ]
+}
