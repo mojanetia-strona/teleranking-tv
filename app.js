@@ -191,9 +191,9 @@
             <div class="sv-body">
               ${none ? '<span class="muted">nie ma w ofercie</span>' : `<div class="sv-price">${esc(s.cena || "cena do sprawdzenia")}</div>`}
               ${s.wariant ? `<div class="small"><b>Wariant:</b> ${esc(s.wariant)}</div>` : ""}
-              ${!none && s.dostepnosc ? `<div class="small"><b>Dostępność:</b> ${esc(s.dostepnosc)}</div>` : ""}
-              ${s.zasady ? `<div class="small">${esc(s.zasady)}</div>` : ""}
-              <div class="small muted">${src(o, s.zrodla)}</div>
+              ${!none && s.dostepnosc ? `<div class="small muted">${esc(s.dostepnosc)}</div>` : ""}
+              ${s.zasady && !none ? `<details class="rules"><summary>Zasady i warunki</summary><p class="small">${esc(s.zasady)}</p><div class="small muted">${src(o, s.zrodla)}</div></details>` : ""}
+              ${none && s.zasady ? `<div class="small muted">${esc(s.zasady)}</div>` : ""}
             </div></div>`;
         }).join("")}</div>`;
       }).join("");

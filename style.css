@@ -144,3 +144,7 @@ ul{padding-left:18px;margin:6px 0}
 .sv-body{display:flex;flex-direction:column;gap:3px}
 .sv-price{font-weight:700;color:var(--green-dark);font-size:15.5px}
 @media (max-width:640px){.pk-lbl{width:100%}.tiles{grid-template-columns:1fr 1fr}.row,.sv-row{grid-template-columns:1fr;gap:2px}.search.sm{max-width:none}}
+details.rules{border:0;padding:0;margin:4px 0 0;background:none;box-shadow:none}
+details.rules summary{font-weight:600;font-size:13px;color:var(--blue)}
+details.rules summary::before{width:18px;height:18px;font-size:12px}
+details.rules p{margin:6px 0}
