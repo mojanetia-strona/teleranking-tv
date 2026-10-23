@@ -108,7 +108,7 @@
         <input class="search sm" id="q" placeholder="Szukaj w tym pakiecie…">
       </div>
       <div class="tiles" id="tiles"></div>
-      <div class="facts">
+      <div class="facts" onclick="var d=event.target.closest('.facts > div');if(d)d.classList.toggle('open')">
         <div><b>Multiroom</b><span>${m.dostepny === false ? "niedostępny" : esc([m.max_odbiornikow ? `do ${m.max_odbiornikow} TV` : "", m.jak_dziala].filter(Boolean).join(", ") || "brak danych")}</span></div>
         <div><b>Aplikacja</b><span>${esc([a.nazwa, a.urzadzenia].filter(Boolean).join(": ") || "brak danych")}</span></div>
         <div><b>Nagrywanie i cofanie</b><span>${esc([f.nagrywanie, f.cofanie_i_ogladanie_od_poczatku].filter(Boolean).join(" · ") || "brak danych")}</span></div>
