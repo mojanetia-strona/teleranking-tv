@@ -155,6 +155,8 @@
         if (!r) body = '<span class="muted">brak danych o pakietach</span>';
         else {
           body = `<b>${esc(r.pak.nazwa)}</b>` + (r.adds.length ? ` + ${r.adds.map((d) => `<span class="tag add">dodatek</span> ${esc(d.nazwa)}`).join(" + ")}` : "");
+          const cond = r.adds.filter((d) => d.warunki).map((d) => `${esc(d.nazwa)}: ${esc(d.warunki)}`);
+          if (cond.length) body += `<br><span class="muted small">Warunki dodatku: ${cond.join(" · ")}</span>`;
           if (r.missing.length) body += `<br><span class="no">Brak:</span> ${r.missing.map((k) => esc(S.channels.get(k).nazwa)).join(", ")}`;
         }
         return `<div class="card${r && !r.missing.length ? " best" : ""}"><div class="op-head"><h3><a href="#/operator/${o.slug}">${esc(o.operator)}</a></h3></div>${body}</div>`;
