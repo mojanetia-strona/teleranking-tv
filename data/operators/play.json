@@ -1,0 +1,3973 @@
+{
+  "operator": "Play",
+  "slug": "play",
+  "sprawdzono": "2026-10-23",
+  "zrodla": [
+    {
+      "id": "s1",
+      "tytul": "Telewizja Play: oferta Telewizja Start, MAX Premium, Nowej Generacji, listy kanałów i pakietów (okna \"Lista kanałów\"), FAQ",
+      "url": "https://www.play.pl/oferta/play-telewizja",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s2",
+      "tytul": "Internet + Telewizja (światłowód z Telewizją MAX lub Nowej Generacji)",
+      "url": "https://www.play.pl/oferta/play-internet-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s3",
+      "tytul": "Telewizja PLAY NOW (w abonamencie komórkowym), lista kanałów",
+      "url": "https://www.play.pl/oferta/play-telewizja/play-now",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s4",
+      "tytul": "Przewodnik po telewizji Play (PDF, wersja 05.2026)",
+      "url": "https://media-play.pl/binaries/content/documents/administration/repositories/file-docs/b2c/instrukcje/telewizja/przewodnik-telewizja",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s5",
+      "tytul": "Pomoc: Jak zarządzać kanałami w telewizji Play (sieć kablowa: dekodery DMC/Mediabox/CI+, odkodowane kanały, wykazy programów)",
+      "url": "https://www.play.pl/pomoc/wsparcie-techniczne/telewizja/zarzadzanie-kanalami",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s6",
+      "tytul": "Wykaz Programów Gwarantowanych Pakietu Start (PDF, od 09.02.2026)",
+      "url": "https://media-play.pl/binaries/content/documents/administration/repositories/file-docs/cenniki-i-regulaminy/inne-regulaminy/aum/uslugi/telewizja/wykaz-programow-pakietu-start",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s7",
+      "tytul": "Wykaz Programów Gwarantowanych Pakietu Select (PDF, od 12.06.2026)",
+      "url": "https://media-play.pl/binaries/content/documents/administration/repositories/file-docs/cenniki-i-regulaminy/inne-regulaminy/aum/uslugi/telewizja/wykaz-programow-pakietu-select",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s8",
+      "tytul": "Wykaz Programów Gwarantowanych Pakietów Max Premium i Max Premium Plus (PDF, od 12.06.2026)",
+      "url": "https://media-play.pl/binaries/content/documents/administration/repositories/file-docs/cenniki-i-regulaminy/inne-regulaminy/aum/uslugi/telewizja/wykaz-programow-pakietow-max-premium-i-max-premium-plus",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s9",
+      "tytul": "Wykaz Programów Gwarantowanych Pakietów Max i Max Plus (PDF, od 12.06.2026)",
+      "url": "https://media-play.pl/binaries/content/documents/administration/repositories/file-docs/cenniki-i-regulaminy/inne-regulaminy/aum/uslugi/telewizja/wykaz-programow-pakietow-max-i-max-plus",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "s10",
+      "tytul": "Play Expert: Nowy pakiet Ukraina w ofercie telewizyjnej Play (20.03.2026)",
+      "url": "https://www.play.pl/play-expert/newsy/nowy-pakiet-ukraina-w-ofercie-telewizyjnej-play",
+      "typ": "strona",
+      "sprawdzono": "2026-10-23"
+    }
+  ],
+  "podsumowanie": "Play sprzedaje telewizję internetową z dekoderem Play BOX TV w trzech wariantach: Telewizja Start (do 71 kanałów), Telewizja MAX / MAX Premium (do 217/229 kanałów, MAX Premium z Filmbox, SkyShowtime, Eleven Sports i Eurosport w cenie) oraz Telewizja Nowej Generacji (ok. 100 kanałów + 45 punktów miesięcznie na serwisy streamingowe i pakiety). TV można kupić samodzielnie (na łączu innego operatora, z ograniczeniem części kanałów) lub z światłowodem Play. Osobno działa PLAY NOW (aplikacja, 66 kanałów w abonamentach komórkowych) oraz dla dotychczasowych klientów telewizja kablowa DVB-C po UPC (pakiety Start, Select, Max, Max Premium).",
+  "technologie": [
+    {
+      "nazwa": "IPTV/OTT z dekoderem (telewizja internetowa Play)",
+      "opis": "Główna linia sprzedażowa: Telewizja Start, MAX, MAX Premium i Nowej Generacji. Wszystkie kanały przez internet, bez kabla antenowego; działa na łączu dowolnego operatora (stacjonarnym lub mobilnym), ale część kanałów jest dostępna tylko z internetem od Play. Można korzystać w całym EOG.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "nazwa": "OTT (aplikacja PLAY NOW)",
+      "opis": "Telewizja w aplikacji i na playnow.pl: dla klientów TV jako dodatkowe ekrany (do 3 jednocześnie) oraz jako samodzielna usługa PLAY NOW w wybranych abonamentach komórkowych.",
+      "zrodla": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "nazwa": "DVB-C (kablówka)",
+      "opis": "Telewizja kablowa w dawnej sieci UPC Polska dla Abonentów Usług multimedialnych: pakiety Start, Select, Max, Max Plus, Max Premium, Max Premium Plus, dekodery DMC, Mediabox, moduł CI+ 4K. Wykazy programów aktualizowane w 2026 r. Na stronach ofertowych play.pl nie ma oferty kablowej dla nowych klientów.",
+      "zrodla": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    }
+  ],
+  "pakiety": [
+    {
+      "id": "play-start",
+      "nazwa": "Telewizja Start",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 71,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Najmniejsza oferta telewizji internetowej Play: kanały ogólnodostępne (w tym wszystkie oddziały TVP 3), tematyczne TVP i kilkadziesiąt kanałów niegwarantowanych. Dla klienta, który chce tanio podstawowe kanały na dekoderze.",
+      "warunki": "Oferta dla nowych klientów telewizji, umowa na 24 miesiące, dekoder TV BOX w zestawie. Telewizja internetowa: działa na łączu dowolnego operatora, ale część kanałów (oznaczonych w liście) wymaga internetu od Play.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-tng",
+      "nazwa": "Telewizja Nowej Generacji",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 100,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Pakiet ok. 100 kanałów w stałym abonamencie plus 45 punktów miesięcznie do wymiany na serwisy streamingowe (Netflix, HBO Max, SkyShowtime, Amazon Prime, Viaplay) lub pakiety kanałów (np. CANAL+, Polsat Sport Premium, Eleven Sports). Dla klienta, który chce co miesiąc zmieniać, co ogląda.",
+      "warunki": "Umowa na 24 miesiące, dekoder Play BOX TV. Punkty przepadają z końcem okresu rozliczeniowego, nie przechodzą na kolejny miesiąc. Brakujące punkty można dokupić w odnawialnych pakietach 10, 20, 40 lub 80 pkt. W ofercie z internetem (s2) serwisy i pakiety dodatkowe w TNG od 35 pkt miesięcznie.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "play-max",
+      "nazwa": "Telewizja MAX",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": 217,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "play-start",
+      "opis": "Duży pakiet ponad 200 kanałów sprzedawany w ofercie Internet + Telewizja (światłowód Play). Zawiera pakiet Eurosport. Pakiety premium (Filmbox, SkyShowtime, Eleven Sports, CANAL+ itd.) dokupuje się na dekoderze.",
+      "warunki": "Na play.pl oferowana w pakiecie ze światłowodem Play (\"do 217 kanałów\"), umowa 24 miesiące, dla nowych klientów światłowodu i telewizji, na wybranych obszarach. Promocyjnie Eleven Sports w cenie przez 12 miesięcy. Lista kanałów na stronie liczy ok. 220 pozycji (BBC Player wymieniony 3 razy), operator komunikuje \"do 217\".",
+      "zrodla": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "id": "play-max-premium",
+      "nazwa": "Telewizja MAX Premium",
+      "rodzaj": "premium",
+      "liczba_kanalow": 229,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "play-max",
+      "opis": "Najszersza oferta telewizji internetowej Play: wszystkie kanały Telewizji MAX plus pakiety premium w cenie: SkyShowtime (kanały SkyShowtime 1 i 2), FilmBox (5 kanałów), Eleven Sports (5 kanałów, w tym Eleven Sports 1 4K) i pakiet Eurosport.",
+      "warunki": "Sprzedawana samodzielnie (bez obowiązku internetu Play), umowa 24 miesiące, dekoder Play BOX TV. Część kanałów dostępna tylko z internetem od Play.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-now",
+      "nazwa": "PLAY NOW (telewizja w abonamencie komórkowym)",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": 66,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Telewizja w aplikacji i na playnow.pl, dodawana w wybranych abonamentach komórkowych Play. Bez dekodera: smartfon, tablet, komputer, Smart TV (Android TV/Google TV, Samsung Tizen, LG webOS, Apple TV), Chromecast.",
+      "warunki": "Dostępna w wybranych ofertach abonamentowych Play (sprawdzenie w Play24, na umowie lub na czacie). Operator podaje 66 kanałów (w tym niegwarantowane); lista na stronie zawiera 64 pozycje. Płatne pakiety dodatkowe włącza się i wyłącza w dowolnym momencie. Transmisja w sieci Play nie zużywa pakietu GB.",
+      "zrodla": [
+        "s3"
+      ]
+    },
+    {
+      "id": "play-kablowa-start",
+      "nazwa": "Pakiet Start (sieć kablowa, dawne UPC)",
+      "rodzaj": "podstawowy",
+      "liczba_kanalow": null,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": null,
+      "opis": "Pakiet telewizji kablowej dla Abonentów Usług multimedialnych (sieć po UPC Polska). Wykaz programów gwarantowanych obejmuje 13 kanałów; pełna lista z kanałami niegwarantowanymi jest w numeracji dekodera.",
+      "warunki": "Usługa w sieci kablowej (DVB-C) z dekoderem DMC, Mediabox lub modułem CI+ 4K. Na obecnych stronach ofertowych Play nie jest sprzedawana nowym klientom (patrz do_sprawdzenia).",
+      "zrodla": [
+        "s6",
+        "s5"
+      ]
+    },
+    {
+      "id": "play-kablowa-select",
+      "nazwa": "Pakiet Select (sieć kablowa, dawne UPC)",
+      "rodzaj": "rozszerzony",
+      "liczba_kanalow": null,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "play-kablowa-start",
+      "opis": "Pakiet telewizji kablowej dla Abonentów Usług multimedialnych. Wykaz programów gwarantowanych: 37 kanałów (m.in. TVN 24, Eurosport 1, Discovery, Polsat Sport 1-3, BBC Brit).",
+      "warunki": "Jak pakiet Start (sieć kablowa).",
+      "zrodla": [
+        "s7",
+        "s5"
+      ]
+    },
+    {
+      "id": "play-kablowa-max-premium",
+      "nazwa": "Max / Max Plus / Max Premium / Max Premium Plus (sieć kablowa, dawne UPC)",
+      "rodzaj": "premium",
+      "liczba_kanalow": null,
+      "liczba_kanalow_hd": null,
+      "zawiera_pakiet": "play-kablowa-select",
+      "opis": "Większe pakiety telewizji kablowej dla Abonentów Usług multimedialnych. Wspólny wykaz programów gwarantowanych dla Max Premium i Max Premium Plus (m.in. Cinemax, FILMBOX+, Polsat Seriale, BBC First, CBeebies).",
+      "warunki": "Jak pakiet Start (sieć kablowa). Wykaz nie rozdziela kanałów między warianty; część pozycji w PDF ma tylko logo (bez nazwy w tekście), więc lista w pliku jest niepełna.",
+      "zrodla": [
+        "s8",
+        "s9",
+        "s5"
+      ]
+    }
+  ],
+  "kanaly": [
+    {
+      "nazwa": "TVP 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVP 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVN",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVN 7",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TV 4",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TV Puls",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVP 3 Warszawa",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TTV",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Metro",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Puls 2",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TV 6",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Fokus TV",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Nowa TV",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Super Polsat",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "WP",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Zoom TV",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Trwam",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Antena",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVS",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVC",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polonia 1",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Tele 5",
+      "kategoria": "ogólne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVP 3 Białystok",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Bydgoszcz",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Gdańsk",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Gorzów Wielkopolski",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Katowice",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Kielce",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Kraków",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Łódź",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Lublin",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Olsztyn",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Opole",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Poznań",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Rzeszów",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Szczecin",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVP 3 Wrocław",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); kanał ogólnodostępny (również w naziemnej telewizji cyfrowej); regionalny oddział TVP 3; na liście kanałów wymienione są wszystkie 16 oddziałów"
+    },
+    {
+      "nazwa": "TVN Fabuła",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Stopklatka",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Short TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVP Polonia",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP Rozrywka",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP Info",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "DW ENG",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "France 24",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Current Time",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Sky News",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Belsat",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP World",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVP Kobieta",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP Kultura",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "Show TV",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Home TV",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Active Family",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVP Sport",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP Dokument",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP Nauka",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "Eska TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "4 fun TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Mixtape",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Power TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Nuta TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Stars TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polo TV",
+      "kategoria": "muzyczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVP ABC",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "Alfa TVP",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "4Fun Kids",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Junior Music",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-start",
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TBN Polska",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "FX",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "FX Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Paramount Network",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); na liście MAX występuje jako Paramount Channel, na liście Telewizji Nowej Generacji jako Paramount Network"
+    },
+    {
+      "nazwa": "Comedy Central",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat Comedy Central Extra",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Warner TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "AXN",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "AXN Black",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Kino TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Kabaret TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVN 24",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TVN 24 BiŚ",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "CNN",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVN Style",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "HGTV",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "TLC",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Discovery Life",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "BBC Lifestyle",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Food Network",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Studiomed",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVN Turbo",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Eurosport 1",
+      "kategoria": "sportowe",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "CANAL+ Sport 5",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Gametoon",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "National Geographic",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Nat Geo Wild",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Nat Geo People",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Discovery",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "DTX",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "History",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat History",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Viasat Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Viasat True Crime",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Travel Channel",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "ID",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "4 fun TV dance",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Music Box",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Kino Polska Muzyka",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Nuta Gold",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "MiniMini+",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Disney Junior",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Cartoon Network",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Nickelodeon",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Disney Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Disney XD",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-tng",
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat Rodzina",
+      "kategoria": "ogólne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Paramount Channel",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); na liście MAX występuje jako Paramount Channel, na liście Telewizji Nowej Generacji jako Paramount Network"
+    },
+    {
+      "nazwa": "Ale kino+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "AMC",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "AXN Spin",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "AXN White",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "AXN Now",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Film 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Kino Polska",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Epic Drama",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Sundance TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "BBC First",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC Player",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); na liście MAX/MAX Premium wymieniony w trzech kategoriach (filmy, lifestyle, dokumenty)"
+    },
+    {
+      "nazwa": "13 Ulica",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "SciFi",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TeenNick",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Romance TV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Novelas+",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVP",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny wyłącznie przez internet od Play"
+    },
+    {
+      "nazwa": "TVP Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "CTV Dla Ciebie",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Bollywood",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVC Super",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Filmax Cafe",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat News",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat News 2",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Wydarzenia 24",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "wPolsce",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-now",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Republika",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Biznes 24",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "News 24",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat News Polityka",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "WTK",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "BBC News",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Bloomberg Television",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Euronews",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "TVT",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Echo24",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-now"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Dla Ciebie TV",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Telewizja Bolesławiec",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Lubuska TV Horyzont",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Euronews Polski",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Arirang",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Newsmax Polska",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat Cafe",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "CANAL+ Kuchnia",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "CANAL+ Domo",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "E!",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "MTV",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Funbox",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat Play",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play); jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "BBC Brit",
+      "kategoria": "lifestyle",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "MyZen 4K",
+      "kategoria": "lifestyle",
+      "jakosc": "4K",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Stargaze",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Adventure",
+      "kategoria": "lifestyle",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Eurosport 2",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dodatek: play-eurosport"
+    },
+    {
+      "nazwa": "Eurosport 3",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dodatek: play-eurosport"
+    },
+    {
+      "nazwa": "Eurosport 4",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dodatek: play-eurosport"
+    },
+    {
+      "nazwa": "Polsat Sport 1",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Sport Fight",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Games",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Motowizja",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Extreme Channel",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "FightBox",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Golf Zone",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Discovery Science",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Animal Planet",
+      "kategoria": "dokumentalne",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "History 2",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Planete+",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat Viasat Explore",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC Earth",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Inultra",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Discovery Historia",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Polsat Doku",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Crime Investigation",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ultra TV 4K",
+      "kategoria": "dokumentalne",
+      "jakosc": "4K",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Docubox",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Love Nature",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat X",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Reality",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Eska TV Extra",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Polsat Music",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Clubbing TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Eska Rock TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Disco Polo Music",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Music VOX TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dostępny tylko z internetem od Play (z pakietem Polsat OTT także bez internetu Play)"
+    },
+    {
+      "nazwa": "Mezzo",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Mezzo Live",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Szlagier TV",
+      "kategoria": "muzyczne",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Nick Jr.",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "CBeebies",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Cartoonito",
+      "kategoria": "dla dzieci",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-max",
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Baby TV",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Duck TV",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Polsat JimJam",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Nicktoons",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Teletoon+",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Da Vinci",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Top Kids",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Junior Channel",
+      "kategoria": "dla dzieci",
+      "jakosc": "",
+      "pakiety": [
+        "play-max",
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy)"
+    },
+    {
+      "nazwa": "Filmbox Premium",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Extra",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Arthouse",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Family",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-filmbox"
+    },
+    {
+      "nazwa": "Filmbox Action",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dodatek: play-filmbox"
+    },
+    {
+      "nazwa": "SkyShowtime 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-skyshowtime"
+    },
+    {
+      "nazwa": "SkyShowtime 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-skyshowtime"
+    },
+    {
+      "nazwa": "Eleven Sports 1",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-eleven"
+    },
+    {
+      "nazwa": "Eleven Sports 1 4K",
+      "kategoria": "sportowe",
+      "jakosc": "4K",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dodatek: play-eleven"
+    },
+    {
+      "nazwa": "Eleven Sports 2",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "dodatek: play-eleven"
+    },
+    {
+      "nazwa": "Eleven Sports 3",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dodatek: play-eleven"
+    },
+    {
+      "nazwa": "Eleven Sports 4",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [
+        "play-max-premium"
+      ],
+      "uwagi": "kanał niegwarantowany (Play może go wycofać bez zmiany umowy); dodatek: play-eleven"
+    },
+    {
+      "nazwa": "CANAL+ Premium",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ 1",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Film",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Family",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Dokument",
+      "kategoria": "dokumentalne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Sport",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Sport 2",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Sport 3",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ Sport 4",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "CANAL+ NOW",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-canalplus"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 1",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Premium 2",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 1",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 2",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 3",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Polsat Sport Extra 4",
+      "kategoria": "sportowe",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-polsat-sport-premium"
+    },
+    {
+      "nazwa": "Cinemax",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dodatek: play-cinemax; jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "Cinemax 2",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "dodatek: play-cinemax; jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "1+1 International",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Film UA Drama",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Dacha TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Kus Kus",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "36,6 TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Star Cinema",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Rybalka TV",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Freedom",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Dim",
+      "kategoria": "zagraniczne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-ukraina"
+    },
+    {
+      "nazwa": "Dorcel TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Dorcel XXX",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Penthouse Gold",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Brazzers TV Europe",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "RK TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "U BANG",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Babes TV",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Desire",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "True Amateurs",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Pure Babes",
+      "kategoria": "dla dorosłych",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Erox",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "Eroxxx",
+      "kategoria": "dla dorosłych",
+      "jakosc": "HD",
+      "pakiety": [],
+      "uwagi": "dodatek: play-relax"
+    },
+    {
+      "nazwa": "WELT",
+      "kategoria": "informacyjne",
+      "jakosc": "",
+      "pakiety": [],
+      "uwagi": "dodatek: play-info"
+    },
+    {
+      "nazwa": "TVP 3",
+      "kategoria": "regionalne",
+      "jakosc": "",
+      "pakiety": [
+        "play-kablowa-start",
+        "play-kablowa-select",
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FILMBOX+ Emotion",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "FILMBOX+ Hits",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    },
+    {
+      "nazwa": "FILMBOX+ Comedy",
+      "kategoria": "filmy i seriale",
+      "jakosc": "",
+      "pakiety": [
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "FILMBOX+ Festival",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "play-kablowa-max-premium"
+      ],
+      "uwagi": "jakość HD potwierdzona w wykazie dla sieci kablowej"
+    }
+  ],
+  "dodatki": [
+    {
+      "id": "play-canalplus",
+      "nazwa": "Pakiet CANAL+",
+      "rodzaj": "premium",
+      "zawartosc": "11 kanałów CANAL+ (filmy, seriale, sport). Kanały i treści niegwarantowane, dostępne wyłącznie przez internet od Play. W TNG: 50 pkt/mies.",
+      "kanaly": [
+        "CANAL+ Premium",
+        "CANAL+ 1",
+        "CANAL+ Seriale",
+        "CANAL+ Film",
+        "CANAL+ Family",
+        "CANAL+ Dokument",
+        "CANAL+ Sport",
+        "CANAL+ Sport 2",
+        "CANAL+ Sport 3",
+        "CANAL+ Sport 4",
+        "CANAL+ NOW"
+      ],
+      "warunki": "Telewizja Nowej Generacji: za punkty. MAX: dokupienie na dekoderze (sekcja Pakiety).",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-canalplus-seriale-filmy",
+      "nazwa": "Pakiet CANAL+ Seriale i Filmy",
+      "rodzaj": "filmowy",
+      "zawartosc": "6 kanałów CANAL+ bez sportu. W TNG: 25 pkt/mies.",
+      "kanaly": [
+        "CANAL+ Premium",
+        "CANAL+ 1",
+        "CANAL+ Seriale",
+        "CANAL+ Film",
+        "CANAL+ Family",
+        "CANAL+ Dokument"
+      ],
+      "warunki": "Niegwarantowany, wyłącznie przez internet od Play.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-polsat-sport-premium",
+      "nazwa": "Pakiet Polsat Sport Premium",
+      "rodzaj": "sport",
+      "zawartosc": "Polsat Sport Premium 1 i 2 oraz Polsat Sport Extra 1-4 (Liga Mistrzów UEFA i in. wg oferty Polsatu). W TNG: 15 pkt/mies.",
+      "kanaly": [
+        "Polsat Sport Premium 1",
+        "Polsat Sport Premium 2",
+        "Polsat Sport Extra 1",
+        "Polsat Sport Extra 2",
+        "Polsat Sport Extra 3",
+        "Polsat Sport Extra 4"
+      ],
+      "warunki": "Kanały Extra niegwarantowane. W PLAY NOW dostępny jako płatny pakiet bez zobowiązań.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "play-eleven",
+      "nazwa": "Pakiet ELEVEN SPORTS",
+      "rodzaj": "sport",
+      "zawartosc": "Eleven Sports 1, 1 4K, 2, 3, 4. W TNG: 15 pkt/mies.",
+      "kanaly": [
+        "Eleven Sports 1",
+        "Eleven Sports 1 4K",
+        "Eleven Sports 2",
+        "Eleven Sports 3",
+        "Eleven Sports 4"
+      ],
+      "warunki": "W cenie Telewizji MAX Premium. W ofercie Internet + Telewizja MAX promocyjnie w cenie przez 12 miesięcy.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "play-sport-max",
+      "nazwa": "Pakiet SPORT MAX",
+      "rodzaj": "sport",
+      "zawartosc": "Polsat Sport Premium (6 kanałów) + Eleven Sports (5 kanałów). W TNG: 25 pkt/mies.",
+      "kanaly": [
+        "Polsat Sport Premium 1",
+        "Polsat Sport Premium 2",
+        "Polsat Sport Extra 1",
+        "Polsat Sport Extra 2",
+        "Polsat Sport Extra 3",
+        "Polsat Sport Extra 4",
+        "Eleven Sports 1",
+        "Eleven Sports 1 4K",
+        "Eleven Sports 2",
+        "Eleven Sports 3",
+        "Eleven Sports 4"
+      ],
+      "warunki": "Telewizja Nowej Generacji: za punkty.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-eurosport",
+      "nazwa": "Pakiet Eurosport",
+      "rodzaj": "sport",
+      "zawartosc": "Eurosport 2, 3, 4. W TNG: 10 pkt/mies.",
+      "kanaly": [
+        "Eurosport 2",
+        "Eurosport 3",
+        "Eurosport 4"
+      ],
+      "warunki": "W cenie Telewizji MAX i MAX Premium.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "play-film-sport",
+      "nazwa": "Pakiet Film i Sport",
+      "rodzaj": "premium",
+      "zawartosc": "SkyShowtime 1 i 2 + Eleven Sports (5 kanałów). W TNG: 35 pkt/mies.",
+      "kanaly": [
+        "SkyShowtime 1",
+        "SkyShowtime 2",
+        "Eleven Sports 1",
+        "Eleven Sports 1 4K",
+        "Eleven Sports 2",
+        "Eleven Sports 3",
+        "Eleven Sports 4"
+      ],
+      "warunki": "Telewizja Nowej Generacji: za punkty.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-skyshowtime",
+      "nazwa": "Pakiet SkyShowtime",
+      "rodzaj": "filmowy",
+      "zawartosc": "Kanały SkyShowtime 1 i 2. W TNG: 25/30 pkt/mies.",
+      "kanaly": [
+        "SkyShowtime 1",
+        "SkyShowtime 2"
+      ],
+      "warunki": "W cenie Telewizji MAX Premium.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-filmbox",
+      "nazwa": "Pakiet FilmBox",
+      "rodzaj": "filmowy",
+      "zawartosc": "Filmbox Premium, Extra, Arthouse, Family, Action. W TNG: 10 pkt/mies.",
+      "kanaly": [
+        "Filmbox Premium",
+        "Filmbox Extra",
+        "Filmbox Arthouse",
+        "Filmbox Family",
+        "Filmbox Action"
+      ],
+      "warunki": "W cenie Telewizji MAX Premium.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-cinemax",
+      "nazwa": "Pakiet Cinemax",
+      "rodzaj": "filmowy",
+      "zawartosc": "Cinemax, Cinemax 2. W TNG: 5 pkt/mies.",
+      "kanaly": [
+        "Cinemax",
+        "Cinemax 2"
+      ],
+      "warunki": "Telewizja Nowej Generacji: za punkty; w MAX do dokupienia na dekoderze.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-filmy-seriale",
+      "nazwa": "Pakiet Filmy i seriale",
+      "rodzaj": "filmowy",
+      "zawartosc": "19 kanałów: AMC, Sundance TV, BBC First, BBC Player, Ale kino+, Novelas+, AXN White, AXN Spin, AXN Now, Epic Drama, 13 Ulica, SciFi, Kino Polska, Romance TV, TeenNick, CTV Dla Ciebie, TVC Super, Bollywood, Filmax Cafe. W TNG: 10 pkt/mies.",
+      "kanaly": [
+        "AMC",
+        "Sundance TV",
+        "BBC First",
+        "BBC Player",
+        "Ale kino+",
+        "Novelas+",
+        "AXN White",
+        "AXN Spin",
+        "AXN Now",
+        "Epic Drama",
+        "13 Ulica",
+        "SciFi",
+        "Kino Polska",
+        "Romance TV",
+        "TeenNick",
+        "CTV Dla Ciebie",
+        "TVC Super",
+        "Bollywood",
+        "Filmax Cafe"
+      ],
+      "warunki": "Dodatek do Telewizji Nowej Generacji (kanały te są w MAX).",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-sport",
+      "nazwa": "Pakiet Sport",
+      "rodzaj": "sport",
+      "zawartosc": "13 kanałów: Eurosport 2-4, TVP Sport, Motowizja, Extreme, FightBox, Polsat Sport 1, 2, 3, Polsat Sport Fight, Polsat Games, Golf Zone. W TNG: 15 pkt/mies.",
+      "kanaly": [
+        "Eurosport 2",
+        "Eurosport 3",
+        "Eurosport 4",
+        "TVP Sport",
+        "Motowizja",
+        "Extreme Channel",
+        "FightBox",
+        "Polsat Sport 1",
+        "Polsat Sport 2",
+        "Polsat Sport Fight",
+        "Polsat Sport 3",
+        "Polsat Games",
+        "Golf Zone"
+      ],
+      "warunki": "Dodatek do Telewizji Nowej Generacji. Kanały Polsat Sport tylko z internetem od Play (lub w pakiecie Polsat OTT), TVP Sport wyłącznie przez internet od Play.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-polsat-ott",
+      "nazwa": "Pakiet Polsat / Polsat OTT",
+      "rodzaj": "inny",
+      "zawartosc": "30 kanałów grupy Polsat i Eska (m.in. Super Polsat, Polsat 2, Polsat News, Polsat Film, Polsat Seriale, Polsat Sport 1-3, Polsat Sport Fight, Polsat Games, Polsat Rodzina, TV 6, Nowa TV, Fokus TV, Polsat Music, Eska TV). W TNG: 10 / 20 pkt/mies. (wariant Polsat / Polsat OTT).",
+      "kanaly": [
+        "Super Polsat",
+        "Polsat 2",
+        "Polsat News",
+        "Polsat News 2",
+        "Polsat News Polityka",
+        "Polsat Play",
+        "Polsat Cafe",
+        "Polsat Doku",
+        "Polsat Film",
+        "Polsat Film 2",
+        "Polsat Seriale",
+        "Polsat Games",
+        "Polsat Rodzina",
+        "Polsat Sport 1",
+        "Polsat Sport 2",
+        "Polsat Sport Fight",
+        "Polsat Sport 3",
+        "Polsat X",
+        "Polsat Reality",
+        "TV 6",
+        "Wydarzenia 24",
+        "Nowa TV",
+        "Fokus TV",
+        "Polsat Music",
+        "Disco Polo Music",
+        "Polo TV",
+        "Eska TV",
+        "Eska TV Extra",
+        "Eska Rock TV",
+        "Music VOX TV"
+      ],
+      "warunki": "Wariant Polsat OTT pozwala oglądać kanały Polsatu bez internetu od Play (przypis na liście kanałów).",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-info",
+      "nazwa": "Pakiet Info",
+      "rodzaj": "inny",
+      "zawartosc": "17 kanałów informacyjnych (News 24, Biznes 24, wPolsce, WTK, BBC News, Euronews, Bloomberg Television, Republika, WELT, TVT, Echo24, Dla Ciebie TV, Telewizja Bolesławiec, Lubuska TV Horyzont, Euronews Polski, Arirang, Newsmax Polska). W TNG: 5 pkt/mies.",
+      "kanaly": [
+        "News 24",
+        "Biznes 24",
+        "wPolsce",
+        "WTK",
+        "BBC News",
+        "Euronews",
+        "Bloomberg Television",
+        "Republika",
+        "WELT",
+        "TVT",
+        "Echo24",
+        "Dla Ciebie TV",
+        "Telewizja Bolesławiec",
+        "Lubuska TV Horyzont",
+        "Euronews Polski",
+        "Arirang",
+        "Newsmax Polska"
+      ],
+      "warunki": "Dodatek do Telewizji Nowej Generacji.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-kids",
+      "nazwa": "Pakiet Kids",
+      "rodzaj": "dziecięcy",
+      "zawartosc": "11 kanałów: Nick Jr., Nicktoons, Teletoon+, Cartoonito, CBeebies, Polsat JimJam, Duck TV, Baby TV, Da Vinci, Top Kids, Junior Channel. W TNG: 5 pkt/mies.",
+      "kanaly": [
+        "Nick Jr.",
+        "Nicktoons",
+        "Teletoon+",
+        "Cartoonito",
+        "CBeebies",
+        "Polsat JimJam",
+        "Duck TV",
+        "Baby TV",
+        "Da Vinci",
+        "Top Kids",
+        "Junior Channel"
+      ],
+      "warunki": "Dodatek do Telewizji Nowej Generacji.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-lifestyle",
+      "nazwa": "Pakiet Lifestyle",
+      "rodzaj": "inny",
+      "zawartosc": "14 kanałów: BBC Brit, BBC Player, CANAL+ Domo, CANAL+ Kuchnia, E!, MTV, Clubbing TV, Funbox, MyZen 4K, Adventure, Mezzo, Mezzo Live, Szlagier TV, Stargaze. W TNG: 5 pkt/mies.",
+      "kanaly": [
+        "BBC Brit",
+        "BBC Player",
+        "CANAL+ Domo",
+        "CANAL+ Kuchnia",
+        "E!",
+        "MTV",
+        "Clubbing TV",
+        "Funbox",
+        "MyZen 4K",
+        "Adventure",
+        "Mezzo",
+        "Mezzo Live",
+        "Szlagier TV",
+        "Stargaze"
+      ],
+      "warunki": "Dodatek do Telewizji Nowej Generacji.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-dokumenty",
+      "nazwa": "Pakiet Dokumenty",
+      "rodzaj": "inny",
+      "zawartosc": "13 kanałów: Polsat Crime Investigation, History 2, BBC Earth, BBC Player, Planete+, Polsat Viasat Explore, Animal Planet, Discovery Historia, Discovery Science, Inultra, Ultra TV 4K, Docubox, Love Nature 4K. W TNG: 5 pkt/mies.",
+      "kanaly": [
+        "Polsat Crime Investigation",
+        "History 2",
+        "BBC Earth",
+        "BBC Player",
+        "Planete+",
+        "Polsat Viasat Explore",
+        "Animal Planet",
+        "Discovery Historia",
+        "Discovery Science",
+        "Inultra",
+        "Ultra TV 4K",
+        "Docubox",
+        "Love Nature"
+      ],
+      "warunki": "Dodatek do Telewizji Nowej Generacji.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-tvp",
+      "nazwa": "Pakiet TVP",
+      "rodzaj": "inny",
+      "zawartosc": "12 kanałów tematycznych TVP: TVP Rozrywka, Kobieta, Kultura, HD, Polonia, Seriale, Historia, Dokument, Nauka, Sport, ABC, Belsat. W TNG: 5 pkt/mies.",
+      "kanaly": [
+        "TVP Rozrywka",
+        "TVP Kobieta",
+        "TVP Kultura",
+        "TVP HD",
+        "TVP Polonia",
+        "TVP Seriale",
+        "TVP Historia",
+        "TVP Dokument",
+        "TVP Nauka",
+        "TVP Sport",
+        "TVP ABC",
+        "Belsat"
+      ],
+      "warunki": "Dodatek do Telewizji Nowej Generacji; kanały tylko przez internet od Play.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "id": "play-ukraina",
+      "nazwa": "Pakiet Ukraina",
+      "rodzaj": "inny",
+      "zawartosc": "9 kanałów ukraińskich. W TNG: 20 pkt/mies.; dostępny też w Telewizji MAX jako płatny dodatek.",
+      "kanaly": [
+        "1+1 International",
+        "Film UA Drama",
+        "Dacha TV",
+        "Kus Kus",
+        "36,6 TV",
+        "Star Cinema",
+        "Rybalka TV",
+        "Freedom",
+        "Dim"
+      ],
+      "warunki": "W marcu 2026 Play podawał 10 kanałów (m.in. Kvartal TV, Star Family, Xsport+); obecna lista na play.pl ma 9 pozycji (m.in. Freedom, Dim).",
+      "zrodla": [
+        "s1",
+        "s10"
+      ]
+    },
+    {
+      "id": "play-relax",
+      "nazwa": "Pakiet RelaX",
+      "rodzaj": "erotyczny",
+      "zawartosc": "12 kanałów dla dorosłych (Dorcel TV, Dorcel XXX, Penthouse Gold, Brazzers TV Europe i in.). W TNG: 20 pkt/mies.",
+      "kanaly": [
+        "Dorcel TV",
+        "Dorcel XXX",
+        "Penthouse Gold",
+        "Brazzers TV Europe",
+        "RK TV",
+        "U BANG",
+        "Babes TV",
+        "Desire",
+        "True Amateurs",
+        "Pure Babes",
+        "Erox",
+        "Eroxxx"
+      ],
+      "warunki": "Dostęp chroniony PIN-em (kontrola rodzicielska).",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "streaming": [
+    {
+      "serwis": "Netflix",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "TNG: za punkty (Podstawowy 35, Standardowy 50, Premium 65 pkt). Telewizja MAX i PLAY NOW: aktywacja na dekoderze w sekcji Pakiety, płatnie (promocja -50% przez 3 mies. dla klientów MAX). Przycisk Netflix na pilocie.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "Max",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "HBO Max w TNG za punkty (Podstawowy 25, Standardowy 35, Premium 40 pkt); w PLAY NOW jako płatny, niegwarantowany dodatek. Przycisk Max na pilocie.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "Disney+",
+      "dostepnosc": "integracja w dekoderze (logowanie własnym kontem)",
+      "opis": "Aplikacja Disney+ do pobrania na dekoderze Play BOX TV (Android TV, Google Play). Brak Disney+ w punktach ani pakietach.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "Canal+ online",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Pakiet CANAL+ (kanały + CANAL+ NOW) w TNG za 50 pkt; w PLAY NOW aktywacja w sekcji Pakiety na TV BOX. Przycisk CANAL+ Online na pilocie.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Amazon Prime w TNG za 15 pkt; w PLAY NOW płatny (aktywacja na numerze telefonu Play). Przycisk Prime Video na pilocie.",
+      "zrodla": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "serwis": "SkyShowtime",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "W TNG: SkyShowtime Standard z reklamami 25 pkt, Standard 30 pkt. W Telewizji MAX Premium pakiet SkyShowtime (kanały SkyShowtime 1 i 2) w cenie.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Viaplay",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Viaplay Filmy i Seriale w TNG za 15 pkt; w PLAY NOW Viaplay Total aktywowany w Play24.",
+      "zrodla": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "dostepnosc": "w cenie pakietu play-max-premium",
+      "opis": "Pakiet ELEVEN SPORTS (5 kanałów) w cenie MAX Premium, promocyjnie przez 12 mies. w ofercie Internet + Telewizja MAX; w TNG 15 pkt.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "serwis": "Player",
+      "dostepnosc": "brak",
+      "opis": "Play wymienia Player wśród serwisów \"w zależności od pakietu\", ale Player nie występuje na liście serwisów i pakietów za punkty ani w żadnym pakiecie. Do potwierdzenia.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "serwis": "inny",
+      "dostepnosc": "jako płatny dodatek",
+      "opis": "Kabaret GO w TNG za 15 pkt; YouTube jako aplikacja na dekoderze (przycisk na pilocie); Kino Play: wypożyczalnia filmów płatnych za pojedynczy tytuł.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s3"
+      ]
+    }
+  ],
+  "multiroom": {
+    "dostepny": true,
+    "max_odbiornikow": 4,
+    "jak_dziala": "Usługa Telewizja Multiroom: dodatkowy Dekoder Play (użyczony) na kolejnym telewizorze, dodawany w koszyku lub do istniejącej usługi. Maksymalnie 3 Telewizje Multiroom na konto abonenckie (główny + 3 dodatkowe). Niezależnie od tego aplikacja PLAY NOW na 3 urządzeniach jednocześnie.",
+    "co_na_kolejnych_tv": "Na dodatkowym telewizorze dostęp do telewizji, serwisów streamingowych i pakietów kanałów; można oglądać różne programy jednocześnie.",
+    "uwagi": "Multiroom dostępny dla Telewizji MAX, Telewizji Nowej Generacji i Usługi TV. W sieci kablowej (pakiety Start, Select, Max, Max Premium) odkodowane kanały cyfrowe można bezpłatnie oglądać na drugim telewizorze z tunerem DVB-C MPEG-4 bez dekodera.",
+    "zrodla": [
+      "s1",
+      "s5"
+    ]
+  },
+  "sprzet_i_funkcje": {
+    "dekodery": [
+      {
+        "nazwa": "Play BOX TV",
+        "opis": "Dekoder 4K z Android TV i sklepem Google Play, wbudowany Chromecast, łączność Ethernet lub Wi-Fi; ma wejście na kabel antenowy lub od telewizji kablowej. W zestawie z Telewizją MAX Premium, MAX i Nowej Generacji."
+      },
+      {
+        "nazwa": "TV BOX",
+        "opis": "Dekoder w ofercie Telewizja Start; szczegółowej specyfikacji nie potwierdzono."
+      },
+      {
+        "nazwa": "DMC, Mediabox, Moduł CI+ 4K",
+        "opis": "Urządzenia dla abonentów telewizji kablowej (dawne UPC); osobna numeracja kanałów dla DMC (od 06.07.2026) i Mediabox/CI+ 4K (od 12.06.2026)."
+      }
+    ],
+    "aplikacja": {
+      "nazwa": "PLAY NOW (aplikacja i playnow.pl)",
+      "urzadzenia": "smartfony i tablety Android/iOS, przeglądarka (playnow.pl), Smart TV z Android TV/Google TV, Samsung Tizen, LG webOS, Apple TV, Chromecast/Google Cast",
+      "ile_urzadzen_jednoczesnie": "3",
+      "uwagi": "Logowanie Numerem Usługi z umowy i potwierdzenie na numerze do zarządzania usługą. Poza domem nie są dostępne kanały telewizji naziemnej i kablowej. Działa w całym EOG."
+    },
+    "smart_tv_bez_dekodera": "Tak, w PLAY NOW: aplikacja na Smart TV z Android TV/Google TV, Samsung Tizen, LG webOS i Apple TV (bez dekodera). Abonament TV (MAX/TNG/Start) jest sprzedawany z dekoderem; aplikacja PLAY NOW na kolejnych ekranach w ramach limitu 3 urządzeń. Kablówka: odkodowane kanały na TV z tunerem DVB-C.",
+    "nagrywanie": "Nagrywarka w chmurze (nPVR), wspólna dla profili i dostępna na wszystkich urządzeniach; limit godzin widoczny w zakładce Nagrania, dodatkowe godziny można dokupić. Nagrania przechowywane do pół roku (PLAY NOW: 180 dni). Niektórych kanałów/programów nie można nagrywać ze względu na licencje.",
+    "cofanie_i_ogladanie_od_poczatku": "Catch-up: wybrane programy do 7 dni po emisji (program TV 7 dni wstecz i 7 dni naprzód). Oglądanie od początku dla programów oznaczonych jako restartowalne. Pauza i przewijanie na żywo na wybranych kanałach.",
+    "vod": "Biblioteka Wideo (filmy, seriale, programy na żądanie) oraz Kino Play (dawniej Wypożyczalnia) z płatnym wypożyczaniem filmów. Do 5 profili, w tym dziecięce; PIN na zakupy i treści dla dorosłych.",
+    "zrodla": [
+      "s1",
+      "s3",
+      "s4",
+      "s5"
+    ]
+  },
+  "warunki_ogolne": [
+    "Play sprzedaje telewizję samodzielnie (Telewizja Start, MAX Premium, Nowej Generacji): nie trzeba mieć internetu od Play, ale część kanałów działa tylko z internetem Play (oznaczenia na liście kanałów).",
+    "Telewizja MAX (do 217 kanałów) jest na play.pl sprzedawana w pakiecie ze światłowodem Play (Internet + Telewizja); w tej ofercie można też wybrać Telewizję Nowej Generacji.",
+    "Umowy na 24 miesiące, oferty dla nowych klientów telewizji; jednorazowa opłata aktywacyjna.",
+    "Rabaty: dla klientów wybranych abonamentów komórkowych Play, za e-fakturę i terminowe płatności, za zgody marketingowe; jedna umowa daje jeden rabat. Po okresie zobowiązania cena rośnie.",
+    "Oferta Internet + Telewizja dostępna na wybranych obszarach (sprawdzenie adresu); możliwe dopłaty dla domów jednorodzinnych i za łącze na wybranych obszarach.",
+    "Telewizja Nowej Generacji: stała pula 45 pkt/mies.; punkty nie przechodzą na kolejny okres; wybór serwisów zmieniany raz w miesiącu; po rezygnacji z serwisu punkty wracają od kolejnego okresu rozliczeniowego.",
+    "Kanały oznaczone jako niegwarantowane Play może wycofać bez zmiany umowy (dotyczy dużej części kanałów tematycznych i serwisów SVOD).",
+    "Kanały TVP tematyczne (Pakiet TVP, TVP Sport, TVP Kultura itd.) i CANAL+ są dostępne wyłącznie przez internet od Play.",
+    "Kanały Polsatu (Polsat Sport 1-3, Polsat Film, Polsat Cafe itd.) tylko z internetem od Play; z pakietem Polsat OTT także na łączu innego operatora.",
+    "Klienci sieci kablowej (dawne UPC) mają osobne pakiety Start/Select/Max/Max Premium (DVB-C) i inne wykazy kanałów niż telewizja internetowa.",
+    "PLAY NOW (w abonamencie komórkowym) nie zużywa pakietu GB w sieci Play; pakiety dodatkowe bez zobowiązań.",
+    "Na wszystkich listach są wymienione wszystkie 16 oddziałów TVP 3."
+  ],
+  "faq": [
+    {
+      "pytanie": "Czy muszę mieć internet z Play, żeby mieć telewizję Play?",
+      "odpowiedz": "Nie. Telewizję Start, MAX Premium i Nowej Generacji można kupić osobno i podłączyć do internetu innego operatora (najlepiej kablem Ethernet). Część kanałów (m.in. Polsat, TVP tematyczne, CANAL+) działa jednak tylko z internetem od Play. Telewizja MAX (do 217 kanałów) jest sprzedawana w pakiecie ze światłowodem Play.",
+      "zrodla": [
+        "s1",
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czym się różni Telewizja MAX od Telewizji Nowej Generacji?",
+      "odpowiedz": "MAX to stała, duża paczka ponad 200 kanałów (MAX Premium do 229 z Filmbox, SkyShowtime, Eleven Sports i Eurosport w cenie). Nowa Generacja to ok. 100 kanałów plus 45 punktów co miesiąc do wymiany na Netflix, HBO Max, CANAL+, sport itp. Wybór zmieniasz raz w miesiącu.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Ile kanałów jest w poszczególnych ofertach?",
+      "odpowiedz": "Telewizja Start: do 71, Nowej Generacji: do 100 (+45 pkt), Telewizja MAX z internetem: do 217, MAX Premium: do 229, PLAY NOW w abonamencie komórkowym: 66 (w tym niegwarantowane).",
+      "zrodla": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na drugim telewizorze?",
+      "odpowiedz": "Tak. Usługa Telewizja Multiroom daje dodatkowy dekoder Play z dostępem do kanałów, serwisów i pakietów. Na jedno konto można dobrać maksymalnie 3 Multiroomy. Dodatkowo aplikacja PLAY NOW działa na 3 urządzeniach jednocześnie.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać na Smart TV bez dekodera?",
+      "odpowiedz": "W ramach aplikacji PLAY NOW tak: jest na Smart TV z Android TV/Google TV, Samsung (Tizen), LG (webOS) i Apple TV, można też przesyłać obraz przez Chromecast. Oferty Telewizja Start/MAX/TNG są sprzedawane z dekoderem.",
+      "zrodla": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę oglądać poza domem, na telefonie?",
+      "odpowiedz": "Tak, w aplikacji PLAY NOW (Android, iOS) i na playnow.pl, na 3 urządzeniach jednocześnie, w całym EOG. Poza dekoderem nie są dostępne kanały telewizji naziemnej i kablowej. Logujesz się Numerem Usługi z umowy.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy w telewizji Play jest Netflix?",
+      "odpowiedz": "Tak, jako dodatek. W Telewizji Nowej Generacji za punkty (Podstawowy 35, Standardowy 50, Premium 65 pkt), w Telewizji MAX dokupujesz go na dekoderze. Na pilocie jest przycisk Netflix.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy jest CANAL+?",
+      "odpowiedz": "Tak, jako płatny dodatek: Pakiet CANAL+ (11 kanałów z CANAL+ Sport, 50 pkt w TNG) lub CANAL+ Seriale i Filmy (6 kanałów, 25 pkt). Działa tylko z internetem od Play. W MAX dokupujesz w sekcji Pakiety na dekoderze.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Jakie są kanały sportowe? Czy jest Polsat Sport Premium i Eleven?",
+      "odpowiedz": "W MAX są m.in. Eurosport 1-4, Polsat Sport 1-3, Polsat Sport Fight, TVP Sport, CANAL+ Sport 5, Motowizja, Extreme, FightBox, Golf Zone. Eleven Sports (5 kanałów, w tym 4K) jest w cenie MAX Premium, a w ofercie z internetem promocyjnie przez 12 mies. Polsat Sport Premium (6 kanałów) to dodatek, a w TNG pakiet SPORT MAX łączy Polsat Sport Premium i Eleven.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę nagrywać programy?",
+      "odpowiedz": "Tak, nagrywarka działa w chmurze, nagrania są dostępne na wszystkich urządzeniach do pół roku. Limit godzin sprawdzisz w zakładce Nagrania i możesz go powiększyć. Niektórych programów nie da się nagrać z powodu licencji.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Przegapiłem program, czy mogę go obejrzeć później?",
+      "odpowiedz": "Tak, wybrane programy do 7 dni po emisji (w programie TV cofasz się do 7 dni). Trwające programy oznaczone jako restartowalne obejrzysz od początku, możesz też pauzować i cofać na wybranych kanałach.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Jaki dostanę dekoder?",
+      "odpowiedz": "Do MAX, MAX Premium i Nowej Generacji dekoder Play BOX TV: 4K, Android TV ze sklepem Google Play, wbudowany Chromecast, Wi-Fi lub kabel. Do Telewizji Start dekoder TV BOX.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy mogę zainstalować na dekoderze Disney+, YouTube czy inne aplikacje?",
+      "odpowiedz": "Tak, Play BOX TV ma Android TV i sklep Google Play (po zalogowaniu kontem Google). Disney+ pobierasz i logujesz się własnym kontem; na pilocie są przyciski Max, Prime Video, Netflix, CANAL+ Online i YouTube.",
+      "zrodla": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Co się dzieje z niewykorzystanymi punktami w Telewizji Nowej Generacji?",
+      "odpowiedz": "Przepadają z końcem okresu rozliczeniowego, nie przechodzą na kolejny miesiąc. Jeśli brakuje punktów, dokupisz odnawialny pakiet 10, 20, 40 lub 80 pkt w panelu na dekoderze.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "pytanie": "Na jak długo jest umowa?",
+      "odpowiedz": "Wszystkie obecne oferty telewizji (Start, MAX Premium, Nowej Generacji, Internet + Telewizja) mają okres zobowiązania 24 miesiące i jednorazową opłatę aktywacyjną.",
+      "zrodla": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "pytanie": "Mam telewizję kablową po UPC. Co z kanałami?",
+      "odpowiedz": "Abonenci sieci kablowej mają osobne pakiety (Start, Select, Max, Max Premium) i dekodery DMC, Mediabox lub moduł CI+ 4K. Aktualne wykazy kanałów i numeracja są w Pomocy Play. Z pakietami Start, Select, Max, Max Premium można bezpłatnie oglądać odkodowane kanały na drugim telewizorze z tunerem DVB-C (MPEG-4).",
+      "zrodla": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "pytanie": "Czy jest kontrola rodzicielska?",
+      "odpowiedz": "Tak. Można założyć do 5 profili, w tym dziecięce z uproszczonym interfejsem, a PIN blokuje wypożyczenia i treści dla dorosłych.",
+      "zrodla": [
+        "s4"
+      ]
+    },
+    {
+      "pytanie": "Czy są kanały ukraińskie?",
+      "odpowiedz": "Tak, Pakiet Ukraina (9 kanałów, m.in. 1+1 International, Film UA Drama, Kus Kus) jest dostępny jako dodatek: w TNG za 20 pkt, w Telewizji MAX płatnie.",
+      "zrodla": [
+        "s1",
+        "s10"
+      ]
+    }
+  ],
+  "do_sprawdzenia": [
+    "Status sprzedaży telewizji kablowej (DVB-C, dawne UPC) nowym klientom w 2026 r.: strony ofertowe play.pl jej nie pokazują, a wykazy programów są aktualne (2026). Nie wiadomo, czy można ją jeszcze zamówić.",
+    "Jakość obrazu (SD/HD) kanałów w telewizji internetowej: listy kanałów na play.pl nie podają jakości. Pole \"jakosc\" uzupełniono tylko dla kanałów 4K i kanałów oznaczonych HD w wykazach dla sieci kablowej; pozostałe puste.",
+    "Liczba kanałów HD w każdym pakiecie: brak danych w oficjalnych źródłach.",
+    "Rozbieżności liczb: MAX Premium lista ok. 232 pozycje vs komunikowane 229; MAX ok. 220 vs 217; PLAY NOW 64 pozycje vs 66. Możliwe liczenie pakietów lub duplikatów (BBC Player 3 razy).",
+    "Dokładny podział kanałów między warianty kablowe Max, Max Plus, Max Premium i Max Premium Plus: PDF-y zawierają wspólne listy, a część pozycji to same logotypy (bez nazwy w tekście). PDF \"Max i Max Plus\" przy odczycie zwracał treść zatytułowaną jak \"Max Premium i Max Premium Plus\".",
+    "Pełna lista kanałów w sieci kablowej (kanały niegwarantowane i numeracja dekoderów DMC/Mediabox): w PDF-ach numeracji, których nie udało się odczytać (linki bez adresu URL w kodzie strony).",
+    "Dekoder TV BOX w ofercie Telewizja Start: model i funkcje (4K, nagrywanie, Android TV) niepotwierdzone.",
+    "Serwis Player: Play wymienia go wśród serwisów dostępnych \"w zależności od pakietu\", ale nie ma go na liście za punkty ani w pakietach.",
+    "Pakiet SkyShowtime w TNG (25/30 pkt): na liście pokazane kanały SkyShowtime 1 i 2, a progi punktów odpowiadają planom serwisu SkyShowtime (z reklamami / Standard). Nie wiadomo, czy to kanały, serwis, czy oba.",
+    "Pakiet Ukraina: lista na play.pl ma błędne podpisy (w danych strony pojawiają się nazwy kanałów erotycznych przy logotypach 36,6 TV i Star Cinema); skład przyjęto wg logotypów. W marcu 2026 Play podawał 10 kanałów.",
+    "Paramount Channel (lista MAX) vs Paramount Network (lista TNG): nie wiadomo, czy to ten sam kanał.",
+    "Znaczenie przypisu \"3\" na liście kanałów Telewizji Nowej Generacji (lista bez legendy); w pliku pominięto tę flagę dla kanałów z listy TNG.",
+    "Limit godzin nagrywarki w chmurze dla poszczególnych ofert: nie podano liczby.",
+    "Ceny dodatków w Telewizji MAX (poza punktami TNG) i to, które z dodatków TNG są dostępne do dokupienia w MAX: strona mówi tylko, że dodatki w MAX dokupuje się na dekoderze.",
+    "Czy Multiroom jest dostępny w ofercie Telewizja Start i w telewizji kablowej (poza odkodowanymi kanałami na drugim TV)."
+  ]
+}

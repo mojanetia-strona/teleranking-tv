@@ -8,19 +8,36 @@
   // ---------- pomocnicze ----------
   const esc = (v) => String(v == null ? "" : v).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const arr = (v) => (Array.isArray(v) ? v : v ? [v] : []);
-  const norm = (n) =>
-    String(n || "")
+  // różne zapisy tego samego kanału u różnych operatorów -> jeden klucz
+  const ALIAS = {
+    tvnsiedem: "tvn7", tvn24biznesiswiat: "tvn24bis", telewizjarepublika: "republika", newsmaxpolska: "newsmax",
+    wpolscepl: "wpolsce24", wpolsce24pl: "wpolsce24", wpolsce: "wpolsce24", discovery: "discoverychannel",
+    hbo1: "hbo", cinemax1: "cinemax", nationalgeographicchannel: "nationalgeographic", scifi: "scifiuniversal",
+    sundance: "sundancetv", e: "eentertainment", dwtv: "dw", dwenglish: "dw", dweng: "dw", deutschewelledw: "dw",
+    france24ang: "france24en", france24english: "france24en", france24eng: "france24en",
+    france24fra: "france24fr", france24french: "france24fr", france24franc: "france24fr",
+    euronewspolski: "euronewspl", arirangtv: "arirang", studiomedtv: "studiomed", currenttimetv: "currenttime",
+    belsattv: "belsat", espresotv: "espreso", ewtnpolska: "ewtn", dachatv: "dacha", "366tv": "366",
+    ginxesportstv: "ginx", hustlertv: "hustler", redlighttv: "redlight", brazzerstv: "brazzers", brazzerstveurope: "brazzers",
+    bloombergtelevision: "bloomberg", "canal+4kultra": "canal+4k", polsatviasatexplorer: "polsatviasatexplore",
+    paramountnetworkpolska: "paramountnetwork", viasttruecrime: "viasattruecrime", mtv: "mtvpolska",
+    funboxu: "funboxuhd", privatetv: "private",
+  };
+  const norm = (n) => {
+    const k = String(n || "")
       .toLowerCase()
       .normalize("NFD").replace(/[̀-ͯ]/g, "")
       .replace(/ł/g, "l")
-      .replace(/\b(uhd|fhd|hd|sd|4k|8k)\b/g, " ")
+      .replace(/\b(fhd|hd|sd)\b/g, " ")
       .replace(/[^a-z0-9+]/g, "");
+    return ALIAS[k] || k;
+  };
   const yes = (v) => (v === true ? '<span class="ok">tak</span>' : v === false ? '<span class="no">nie</span>' : esc(v || "brak danych"));
   const qual = (q) => {
     q = String(q || "").toUpperCase();
     if (q.includes("4K") || q.includes("UHD")) return '<span class="tag k4">4K</span>';
     if (q.includes("HD")) return '<span class="tag hd">HD</span>';
-    return q ? `<span class="tag">${esc(q)}</span>` : "";
+    return q === "SD" ? '<span class="tag">SD</span>' : "";
   };
   const fetchJson = (u) => fetch(u + "?v=" + Date.now()).then((r) => (r.ok ? r.json() : Promise.reject(u)));
 
