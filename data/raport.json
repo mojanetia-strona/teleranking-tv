@@ -1,0 +1,21 @@
+{
+  "data": "2026-10-23",
+  "operatorzy": [],
+  "bledy": [],
+  "bez_zmian": [
+    "Netia",
+    "T-Mobile",
+    "Orange",
+    "Play",
+    "Plus",
+    "Vectra",
+    "INEA"
+  ],
+  "koszt": {
+    "input": 0,
+    "output": 0,
+    "searches": 0,
+    "usd_orientacyjnie": 0.0
+  },
+  "tekst": "Aktualizacja bazy TV: 2026-10-23\n\nBez zmian: Netia, T-Mobile, Orange, Play, Plus, Vectra, INEA\n\nKoszt orientacyjny: ~0.0 USD\nApka: https://mojanetia-strona.github.io/teleranking-tv/"
+}
