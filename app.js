@@ -53,6 +53,8 @@
       Object.entries(raw).forEach(([k, v]) => { const n = norm(k); if (n && !S.logos[n]) S.logos[n] = v; });
     } catch (e) { /* bez logotypów */ }
     try { S.changelog = await fetchJson("data/changelog.json"); } catch (e) { S.changelog = []; }
+    S.svLogos = {};
+    try { const sl = await fetchJson("data/streaming-logos.json"); Object.entries(sl).forEach(([k, v]) => { S.svLogos[svKey(k)] = v; }); } catch (e) { /* bez logotypów */ }
     S.ops.forEach((o) => {
       S.bySlug[o.slug] = o;
       o._pak = {}; arr(o.pakiety).forEach((p, i) => { p._i = i; o._pak[p.id] = p; });
@@ -184,7 +186,8 @@
         const g = groups.get(k);
         const items = g.items.filter((x) => !slug || x.o.slug === slug);
         if (!items.length) return "";
-        return `<div class="card sv"><h3>${esc(g.nazwa)}</h3>${items.map(({ o, s }) => {
+        const lu = S.svLogos[k];
+        return `<div class="card sv"><div class="sv-head"><span class="sv-lg">${lu ? `<img src="${esc(lu)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</span><h3>${esc(g.nazwa)}</h3></div>${items.map(({ o, s }) => {
           const none = /^brak/i.test(s.dostepnosc || "");
           return `<div class="sv-row${none ? " none" : ""}">
             <div class="sv-op">${esc(o.operator)}</div>

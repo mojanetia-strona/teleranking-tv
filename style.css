@@ -153,3 +153,8 @@ details.rules p{margin:6px 0}
 .facts > div.open span{display:block}
 .facts > div::after{content:"więcej";font-size:12px;color:var(--blue);font-weight:600}
 .facts > div.open::after{content:"mniej"}
+.sv-head{display:flex;align-items:center;gap:14px;margin-bottom:6px}
+.sv-head h3{margin:0}
+.sv-lg{width:96px;height:48px;flex:none;border-radius:10px;background:var(--navy);display:grid;place-items:center;overflow:hidden}
+.sv-lg img{max-width:80px;max-height:32px;object-fit:contain}
+.sv-lg:empty::after{content:"▶";color:#fff;font-size:18px}
