@@ -495,7 +495,7 @@
   Widget.prototype.renderStreaming = function () {
     var self = this;
     var ORDER = ["netflix", "hbomax", "disneyplus", "skyshowtime", "amazonprimevideo", "canalplusonline", "polsatboxgo", "appletv", "elevensports", "player", "viaplay", "filmboxplus"];
-    var TYP = { w_cenie: [0, "W cenie", "ok"], platny: [1, "Płatny dodatek", "paid"], konto: [2, "Własne konto", "own"] };
+    var TYP = { w_cenie: [0, "W cenie pakietu", "ok"], zestaw: [1, "W ofercie łączonej", "set"], platny: [2, "Płatny dodatek", "paid"], konto: [3, "Własne konto", "own"] };
     var groups = {};
     this.ops.forEach(function (o) {
       o.streaming.forEach(function (s) {
@@ -518,8 +518,8 @@
         : '<span class="trtv-slogo trtv-slogo--txt ' + (cls || "") + '">' + esc(initials(groups[k].n)) + "</span>";
     };
     var inc = g.on.filter(function (x) { return x.s.typ === "w_cenie"; }).map(function (x) { return x.o.nazwa; });
-    var summary = inc.length ? "W cenie pakietu lub oferty u: " + inc.join(", ") + "." :
-      (g.on.length ? "Żaden operator nie daje go w cenie, ale możesz go dokupić." : "Żaden z operatorów nie sprzedaje tego serwisu.");
+    var summary = inc.length ? "Bez dopłaty w pakiecie u: " + inc.join(", ") + "." :
+      (g.on.length ? "Żaden operator nie daje go bez dopłaty. Poniżej, gdzie i za ile możesz go mieć." : "Żaden z operatorów nie sprzedaje tego serwisu.");
 
     this.$panel.innerHTML =
       '<p class="trtv-hint">Wybierz serwis, a pokażemy, u którego operatora jest w cenie, a u którego za dopłatą.</p>' +
