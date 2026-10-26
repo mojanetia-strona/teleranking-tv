@@ -64,14 +64,14 @@
 /* popularne */
 .trtv-pop { margin: 18px 0 0; }
 .trtv-pop-lbl { display: block; font-size: 14px; font-weight: 600; color: var(--ink); margin-bottom: 10px; }
-.trtv-pop-list { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: thin; scroll-snap-type: x proximity; }
-.trtv .trtv-popbtn { flex: none; scroll-snap-align: start; display: flex; flex-direction: column; align-items: center; gap: 6px; width: 104px; padding: 10px 6px 9px; background: #fff; border: 1.5px solid var(--line); border-radius: 12px; font-size: 12.5px; font-weight: 600; line-height: 1.25; color: var(--ink); text-align: center; transition: border-color .15s, background .15s; }
+.trtv-pop-list { display: grid; grid-template-rows: repeat(2, auto); grid-auto-flow: column; grid-auto-columns: 104px; gap: 8px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: thin; scroll-snap-type: x proximity; }
+.trtv .trtv-popbtn { scroll-snap-align: start; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; gap: 6px; width: 100%; height: 100%; padding: 10px 6px 9px; background: #fff; border: 1.5px solid var(--line); border-radius: 12px; font-size: 12.5px; font-weight: 600; line-height: 1.25; color: var(--ink); text-align: center; transition: border-color .15s, background .15s; }
 .trtv .trtv-popbtn .trtv-logo { border: 0; }
 .trtv .trtv-popbtn:hover { border-color: var(--green); }
 .trtv .trtv-popbtn[aria-pressed="true"] { border-color: var(--green); background: var(--mint); box-shadow: inset 0 0 0 1px var(--green); }
 .trtv .trtv-popbtn[aria-pressed="true"]::after { content: "Dodany"; font-size: 11px; color: var(--green); font-weight: 700; }
 
-@media (min-width: 900px) { .trtv-pop-list { flex-wrap: wrap; overflow: visible; } }
+@media (min-width: 900px) { .trtv-pop-list { grid-auto-flow: row; grid-template-rows: none; grid-template-columns: repeat(6, minmax(0, 1fr)); overflow: visible; padding-bottom: 0; } }
 
 /* moje kanały */
 .trtv-my { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 14px; margin-top: 20px; padding: 14px 16px; background: var(--mint); border-radius: 14px; }
@@ -216,7 +216,7 @@
 @media (max-width: 760px) {
 	.trtv-body { padding: 22px 16px 18px; border-radius: 16px; border-left: 0; border-right: 0; }
 	.trtv .trtv-input { height: 54px; font-size: 16px; }
-	.trtv .trtv-popbtn { width: 92px; }
+	.trtv-pop-list { grid-auto-columns: 96px; }
 	.trtv-my { display: block; padding: 12px; }
 	.trtv-my-lbl { display: block; margin-bottom: 8px; }
 	.trtv .trtv-clear { margin-top: 6px; }
