@@ -3231,7 +3231,10 @@
         "s14",
         "s10",
         "st3"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie Superoferty",
+      "uwaga": "internet + 129 kanałów za 94,99 zł/mies."
     },
     {
       "serwis": "HBO Max",
@@ -3245,7 +3248,10 @@
         "st1",
         "s14",
         "s3"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 29,99 zł/mies.",
+      "uwaga": "w Superofercie 6 mies. za 0 zł"
     },
     {
       "serwis": "Disney+",
@@ -3257,7 +3263,10 @@
       "zrodla": [
         "s14",
         "s10"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie Superoferty z Disney+",
+      "uwaga": "internet + 129 kanałów za 94,99 zł/mies."
     },
     {
       "serwis": "CANAL+ online",
@@ -3269,7 +3278,10 @@
       "zrodla": [
         "s13",
         "s14"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 29 zł/mies.",
+      "uwaga": "Seriale i Filmy 29 zł, Super Sport 69 zł"
     },
     {
       "serwis": "Eleven Sports",
@@ -3282,7 +3294,10 @@
         "s9",
         "st1",
         "s14"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "30,18 zł/mies.",
+      "uwaga": "w Superofercie 6 mies. za 0 zł"
     },
     {
       "serwis": "Amazon Prime Video",
@@ -3293,7 +3308,10 @@
       "opis": "",
       "zrodla": [
         "s11"
-      ]
+      ],
+      "typ": "konto",
+      "krotko": "Własne konto",
+      "uwaga": "aplikacja na dekoderze, subskrypcja poza Vectrą"
     },
     {
       "serwis": "Viaplay",
@@ -3304,7 +3322,10 @@
       "opis": "",
       "zrodla": [
         "s11"
-      ]
+      ],
+      "typ": "konto",
+      "krotko": "Własne konto",
+      "uwaga": "aplikacja na dekoderze, subskrypcja poza Vectrą"
     },
     {
       "serwis": "SkyShowtime",
@@ -3315,7 +3336,10 @@
       "opis": "",
       "zrodla": [
         "s14"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Polsat Box Go",
@@ -3326,7 +3350,10 @@
       "opis": "",
       "zrodla": [
         "s9"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "inny",
@@ -3339,7 +3366,10 @@
         "s11",
         "s9",
         "s17"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "Filmbox 15,04 zł/mies.",
+      "uwaga": ""
     }
   ],
   "multiroom": {

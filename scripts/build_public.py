@@ -174,6 +174,7 @@ def main():
             streaming.append({
                 "key": svkey(serwis), "l": 1 if (OUT / "logos" / f"s-{svkey(serwis)}.webp").exists() else 0, "serwis": serwis, "wariant": "" if serwis == s.get("wariant") else (s.get("wariant") or ""),
                 "dostepny": not re.match(r"^\s*brak", s.get("dostepnosc") or "", re.I),
+                "typ": s.get("typ") or "", "krotko": s.get("krotko") or "", "uwaga": s.get("uwaga") or "",
                 "dostepnosc": s.get("dostepnosc") or "", "cena": s.get("cena") or "", "zasady": s.get("zasady") or "", "zrodlo": u,
             })
         m = d.get("multiroom") or {}

@@ -2651,7 +2651,10 @@
         "st1",
         "s17",
         "s5"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 37 zł/mies.",
+      "uwaga": "miesiąc aktywacji bez opłat"
     },
     {
       "serwis": "HBO Max",
@@ -2663,7 +2666,10 @@
       "zrodla": [
         "st2",
         "s18"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "39,99 zł/mies.",
+      "uwaga": "plan Premium w cenie Standardowego"
     },
     {
       "serwis": "CANAL+ online",
@@ -2677,7 +2683,10 @@
         "st4",
         "s19",
         "s12"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 29 zł/mies.",
+      "uwaga": "Seriale i Filmy 29 zł, Super Sport 69 zł"
     },
     {
       "serwis": "Eleven Sports",
@@ -2688,7 +2697,10 @@
       "opis": "",
       "zrodla": [
         "s1"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie pakietu MAXI",
+      "uwaga": ""
     },
     {
       "serwis": "inny",
@@ -2701,7 +2713,10 @@
         "s1",
         "s9",
         "s15"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie MIDI i MAXI",
+      "uwaga": ""
     },
     {
       "serwis": "Disney+",
@@ -2712,7 +2727,10 @@
       "opis": "",
       "zrodla": [
         "st5"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "SkyShowtime",
@@ -2723,7 +2741,10 @@
       "opis": "",
       "zrodla": [
         "st5"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Amazon Prime Video",
@@ -2734,7 +2755,10 @@
       "opis": "",
       "zrodla": [
         "st5"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     }
   ],
   "multiroom": {

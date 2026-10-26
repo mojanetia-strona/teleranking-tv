@@ -3387,7 +3387,10 @@
         "s16",
         "s19",
         "s3"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "35 zł/mies.",
+      "uwaga": "przez 12 mies., potem 40 zł; z internetem HIWAY 4K pierwsze 6 mies. 0 zł"
     },
     {
       "serwis": "CANAL+ online",
@@ -3400,7 +3403,10 @@
         "s6",
         "s15",
         "s19"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 25 zł/mies.",
+      "uwaga": "Seriale i Filmy 25 zł, Super Sport 65 zł przez 12 mies."
     },
     {
       "serwis": "inny",
@@ -3413,7 +3419,10 @@
         "s6",
         "s17",
         "s19"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "10 zł/mies.",
+      "uwaga": "przez 12 mies., potem 15 zł"
     },
     {
       "serwis": "inny",
@@ -3425,7 +3434,10 @@
       "zrodla": [
         "s2",
         "s18"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "Bez opłat",
+      "uwaga": "aplikacja na dekoderze"
     },
     {
       "serwis": "Netflix",
@@ -3437,7 +3449,10 @@
       "zrodla": [
         "s2",
         "s3"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Disney+",
@@ -3449,7 +3464,10 @@
       "zrodla": [
         "s2",
         "s3"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "SkyShowtime",
@@ -3461,7 +3479,10 @@
       "zrodla": [
         "s2",
         "s3"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Amazon Prime Video",
@@ -3473,7 +3494,10 @@
       "zrodla": [
         "s2",
         "s3"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Polsat Box Go",
@@ -3485,7 +3509,10 @@
       "zrodla": [
         "s2",
         "s3"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Eleven Sports",
@@ -3496,7 +3523,10 @@
       "opis": "",
       "zrodla": [
         "s6"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     }
   ],
   "multiroom": {

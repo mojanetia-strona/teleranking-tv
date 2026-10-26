@@ -1355,7 +1355,10 @@
         "s12",
         "s2",
         "s3"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie telewizji Polsat Box",
+      "uwaga": "w Plusie od 25 zł/mies. w promocji"
     },
     {
       "serwis": "Disney+",
@@ -1369,7 +1372,10 @@
         "s13",
         "st2",
         "s9"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "25 zł/mies.",
+      "uwaga": "1. miesiąc 0 zł; w zestawach Stream taniej"
     },
     {
       "serwis": "HBO Max",
@@ -1383,7 +1389,10 @@
         "s2",
         "s13",
         "st2"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "34,99 zł/mies.",
+      "uwaga": "pakiet HBO z kanałami; w Promocji 2 z 4 20 zł/mies."
     },
     {
       "serwis": "SkyShowtime",
@@ -1397,7 +1406,10 @@
         "s1",
         "s13",
         "st1"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "25 zł/mies.",
+      "uwaga": "przy nowej umowie, 1. miesiąc 0 zł"
     },
     {
       "serwis": "Amazon Prime Video",
@@ -1411,7 +1423,10 @@
         "s13",
         "st1",
         "s9"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "30 zł/mies. w zestawie",
+      "uwaga": "tylko w zestawach Stream 3 i Stream Trio"
     },
     {
       "serwis": "inny",
@@ -1424,7 +1439,10 @@
         "s2",
         "s13",
         "st1"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "25 zł/mies.",
+      "uwaga": "1. miesiąc 0 zł; w zestawach Stream taniej"
     },
     {
       "serwis": "Eleven Sports",
@@ -1435,7 +1453,10 @@
       "opis": "",
       "zrodla": [
         "s1"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "20 zł/mies.",
+      "uwaga": "w pakiecie L w cenie"
     },
     {
       "serwis": "Netflix",
@@ -1447,7 +1468,10 @@
       "zrodla": [
         "s9",
         "s2"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "CANAL+ online",
@@ -1459,7 +1483,10 @@
       "zrodla": [
         "s1",
         "s2"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Player",
@@ -1470,7 +1497,10 @@
       "opis": "",
       "zrodla": [
         "s2"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Viaplay",
@@ -1481,7 +1511,10 @@
       "opis": "",
       "zrodla": [
         "s2"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     }
   ],
   "multiroom": {

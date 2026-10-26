@@ -3668,7 +3668,10 @@
         "s3",
         "s1",
         "s4"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 29 zł/mies.",
+      "uwaga": "w PLAY NOW; w Telewizji Nowej Generacji za punkty"
     },
     {
       "serwis": "HBO Max",
@@ -3681,7 +3684,10 @@
         "s3",
         "s1",
         "s4"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 30 zł/mies.",
+      "uwaga": "w PLAY NOW; w Telewizji Nowej Generacji za punkty"
     },
     {
       "serwis": "CANAL+ online",
@@ -3694,7 +3700,10 @@
         "s3",
         "s1",
         "s4"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "49 zł/mies.",
+      "uwaga": "w PLAY NOW; w Telewizji Nowej Generacji 50 pkt"
     },
     {
       "serwis": "Amazon Prime Video",
@@ -3707,7 +3716,10 @@
         "s3",
         "s1",
         "s4"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "15,50 zł/mies.",
+      "uwaga": "albo 69 zł za rok; w Telewizji Nowej Generacji 15 pkt"
     },
     {
       "serwis": "SkyShowtime",
@@ -3718,7 +3730,10 @@
       "opis": "",
       "zrodla": [
         "s1"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie Telewizji MAX Premium",
+      "uwaga": "w Telewizji Nowej Generacji od 25 pkt"
     },
     {
       "serwis": "Viaplay",
@@ -3730,7 +3745,10 @@
       "zrodla": [
         "s1",
         "s3"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "15 pkt w Telewizji Nowej Generacji",
+      "uwaga": "w PLAY NOW cenę potwierdzi konsultant"
     },
     {
       "serwis": "Eleven Sports",
@@ -3743,7 +3761,10 @@
         "s1",
         "s2",
         "s3"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie Telewizji MAX Premium",
+      "uwaga": "w ofercie Internet + MAX przez 12 mies.; w TNG 15 pkt"
     },
     {
       "serwis": "Disney+",
@@ -3755,7 +3776,10 @@
       "zrodla": [
         "s1",
         "s4"
-      ]
+      ],
+      "typ": "konto",
+      "krotko": "Własne konto",
+      "uwaga": "aplikacja na dekoderze, subskrypcja poza Play"
     },
     {
       "serwis": "Player",
@@ -3766,7 +3790,10 @@
       "opis": "",
       "zrodla": [
         "s1"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Polsat Box Go",
@@ -3777,7 +3804,10 @@
       "opis": "",
       "zrodla": [
         "s3"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "inny",
@@ -3789,7 +3819,10 @@
       "zrodla": [
         "s1",
         "s4"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "Kabaret GO 15 pkt",
+      "uwaga": "YouTube bez opłat"
     }
   ],
   "multiroom": {

@@ -2770,7 +2770,10 @@
         "s3",
         "s10",
         "s4"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "HBO Max",
@@ -2783,7 +2786,10 @@
         "s14",
         "s5",
         "s1"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 25 zł/mies.",
+      "uwaga": "pakiet HBO HD; w cenie ofert Dla Kinomaniaka, M 4K i L 4K"
     },
     {
       "serwis": "Disney+",
@@ -2795,7 +2801,10 @@
       "zrodla": [
         "s12",
         "s4"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W ofercie Internet z Disney+",
+      "uwaga": "cenę potwierdzi konsultant"
     },
     {
       "serwis": "SkyShowtime",
@@ -2806,7 +2815,10 @@
       "opis": "",
       "zrodla": [
         "s13"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie wybranych taryf",
+      "uwaga": "bez dodatkowych opłat"
     },
     {
       "serwis": "Amazon Prime Video",
@@ -2817,7 +2829,10 @@
       "opis": "",
       "zrodla": [
         "s15"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "Oferta z Prime od 70 zł/mies.",
+      "uwaga": "internet 1 Gb/s + Prime 70 zł, z telewizją 85 zł; 6 mies. za 0 zł"
     },
     {
       "serwis": "inny",
@@ -2828,7 +2843,10 @@
       "opis": "",
       "zrodla": [
         "s16"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "Oferta z Apple TV od 85 zł/mies.",
+      "uwaga": "internet 1 Gb/s + Apple TV 85 zł, z telewizją 100 zł; 6 mies. za 0 zł"
     },
     {
       "serwis": "CANAL+ online",
@@ -2839,7 +2857,10 @@
       "opis": "",
       "zrodla": [
         "s1"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Eleven Sports",
@@ -2853,7 +2874,10 @@
         "s8",
         "s1",
         "s17"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W ofercie Dla Fanów Sportu",
+      "uwaga": "od 90 zł/mies. z internetem; w Netia GO 10 zł/mies."
     },
     {
       "serwis": "inny",
@@ -2866,7 +2890,10 @@
         "s8",
         "s4",
         "s17"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie pakietu TV",
+      "uwaga": ""
     },
     {
       "serwis": "inny",
@@ -2877,7 +2904,10 @@
       "opis": "",
       "zrodla": [
         "s17"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "20 zł/30 dni",
+      "uwaga": "dla pakietu XS"
     },
     {
       "serwis": "inny",
@@ -2888,7 +2918,10 @@
       "opis": "",
       "zrodla": [
         "s17"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "35 zł/30 dni",
+      "uwaga": "dla pakietu XS"
     },
     {
       "serwis": "Polsat Box Go",
@@ -2899,7 +2932,10 @@
       "opis": "",
       "zrodla": [
         "s3"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     }
   ],
   "multiroom": {

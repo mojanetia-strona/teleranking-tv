@@ -2589,7 +2589,10 @@
         "s6",
         "st2",
         "s10"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 37 zł/mies.",
+      "uwaga": "plan Podstawowy 3 mies. gratis przy światłowodzie"
     },
     {
       "serwis": "HBO Max",
@@ -2601,7 +2604,10 @@
       "zrodla": [
         "s5",
         "s4"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "39,99 zł/mies.",
+      "uwaga": "przy umowie na 24 mies. pierwsze 2 mies. 0 zł"
     },
     {
       "serwis": "CANAL+ online",
@@ -2613,7 +2619,10 @@
       "zrodla": [
         "s5",
         "s4"
-      ]
+      ],
+      "typ": "platny",
+      "krotko": "od 24,99 zł/mies.",
+      "uwaga": "Seriale i Filmy 24,99 zł, Super Sport 64,99 zł przez 24 mies."
     },
     {
       "serwis": "Amazon Prime Video",
@@ -2626,7 +2635,10 @@
         "st1",
         "s3",
         "s10"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie Extra TV",
+      "uwaga": "przez 24 mies. przy umowie na 24 mies."
     },
     {
       "serwis": "Eleven Sports",
@@ -2638,7 +2650,10 @@
       "zrodla": [
         "s1",
         "s10"
-      ]
+      ],
+      "typ": "w_cenie",
+      "krotko": "W cenie Extra TV",
+      "uwaga": ""
     },
     {
       "serwis": "Polsat Box Go",
@@ -2649,7 +2664,10 @@
       "opis": "",
       "zrodla": [
         "s4"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Disney+",
@@ -2661,7 +2679,10 @@
       "zrodla": [
         "s10",
         "s9"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "SkyShowtime",
@@ -2673,7 +2694,10 @@
       "zrodla": [
         "s10",
         "s9"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     },
     {
       "serwis": "Player",
@@ -2685,7 +2709,10 @@
       "zrodla": [
         "s10",
         "s9"
-      ]
+      ],
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": ""
     }
   ],
   "multiroom": {

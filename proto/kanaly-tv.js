@@ -491,37 +491,57 @@
 
   Widget.prototype.renderStreaming = function () {
     var self = this;
-    var ORDER = ["netflix", "hbomax", "disneyplus", "skyshowtime", "amazonprimevideo", "canalplusonline", "polsatboxgo", "player", "elevensports", "viaplay", "appletv", "filmboxplus"];
+    var ORDER = ["netflix", "hbomax", "disneyplus", "skyshowtime", "amazonprimevideo", "canalplusonline", "polsatboxgo", "appletv", "elevensports", "player", "viaplay", "filmboxplus"];
+    var TYP = { w_cenie: [0, "W cenie", "ok"], platny: [1, "Płatny dodatek", "paid"], konto: [2, "Własne konto", "own"] };
     var groups = {};
     this.ops.forEach(function (o) {
       o.streaming.forEach(function (s) {
-        if (ORDER.indexOf(s.key) < 0) return; // usługi własne operatorów pomijamy
-        (groups[s.key] = groups[s.key] || { n: s.serwis, l: s.l, on: [], off: [] })[s.dostepny ? "on" : "off"].push({ o: o, s: s });
-        if (s.l) groups[s.key].l = 1;
+        if (ORDER.indexOf(s.key) < 0) return;
+        var g = groups[s.key] = groups[s.key] || { n: s.serwis, l: 0, on: [], off: [] };
+        if (s.l) g.l = 1;
+        if (!s.dostepny || s.typ === "brak") { if (g.off.indexOf(o.nazwa) < 0) g.off.push(o.nazwa); }
+        else g.on.push({ o: o, s: s });
       });
     });
     var keys = ORDER.filter(function (k) { return groups[k]; });
-    this.$panel.innerHTML = '<p class="trtv-hint">Gdzie dostaniesz serwis w pakiecie albo taniej. Ceny według cenników operatorów, warunki rozwiniesz pod ceną.</p>' +
-      '<div class="trtv-st">' + keys.map(function (k) {
-        var g = groups[k];
-        g.on.sort(function (a, b) { return self.ord(a.o.slug) - self.ord(b.o.slug); });
-        return '<section class="trtv-stc">' +
-          '<div class="trtv-stc-top">' + (g.l ? '<span class="trtv-slogo"><img src="' + esc(self.cfg.logos + "s-" + k + ".webp") + '" alt="" loading="lazy" decoding="async"></span>' : "") +
-          '<h3 class="trtv-h3">' + esc(g.n) + "</h3></div>" +
-          (g.on.length ? '<ul class="trtv-stl">' + g.on.map(function (x) {
-            var s = x.s;
-            var parts = String(s.cena || "").split(/;\s*/).filter(Boolean);
-            var head = parts.shift() || "Cena u operatora";
-            var more = parts.length ? "<p><b>Inne warianty:</b> " + esc(parts.join("; ")) + "</p>" : "";
-            return "<li>" + '<span class="trtv-stl-op">' + esc(x.o.nazwa) + "</span>" +
-              '<div class="trtv-stl-body"><p class="trtv-price">' + esc(head) + "</p>" +
-              (more || s.zasady ? '<details><summary>' + (more ? "Więcej cen i warunki" : "Warunki") + "</summary>" + more + (s.zasady ? "<p>" + esc(s.zasady) + "</p>" : "") +
-                (s.zrodlo ? '<a href="' + esc(s.zrodlo) + '" target="_blank" rel="noopener nofollow">Źródło: strona operatora</a>' : "") + "</details>" : "") +
-              "</div></li>";
-          }).join("") + "</ul>" : '<p class="trtv-hint">Żaden z operatorów nie sprzedaje tego serwisu.</p>') +
-          (g.off.length ? '<p class="trtv-stoff">Nie ma w ofercie: ' + g.off.map(function (x) { return esc(x.o.nazwa); }).join(", ") + "</p>" : "") +
-          "</section>";
-      }).join("") + "</div>";
+    if (!this.svc || keys.indexOf(this.svc) < 0) this.svc = keys[0];
+    var g = groups[this.svc];
+    g.on.sort(function (a, b) {
+      var ta = (TYP[a.s.typ] || [1])[0], tb = (TYP[b.s.typ] || [1])[0];
+      return ta - tb || self.ord(a.o.slug) - self.ord(b.o.slug);
+    });
+    var logo = function (k, cls) {
+      return groups[k].l ? '<span class="trtv-slogo ' + (cls || "") + '"><img src="' + esc(self.cfg.logos + "s-" + k + ".webp") + '" alt="" decoding="async"></span>'
+        : '<span class="trtv-slogo trtv-slogo--txt ' + (cls || "") + '">' + esc(initials(groups[k].n)) + "</span>";
+    };
+    var inc = g.on.filter(function (x) { return x.s.typ === "w_cenie"; }).map(function (x) { return x.o.nazwa; });
+    var summary = inc.length ? "W cenie pakietu lub oferty u: " + inc.join(", ") + "." :
+      (g.on.length ? "Żaden operator nie daje go w cenie, ale możesz go dokupić." : "Żaden z operatorów nie sprzedaje tego serwisu.");
+
+    this.$panel.innerHTML =
+      '<p class="trtv-hint">Wybierz serwis, a pokażemy, u którego operatora jest w cenie, a u którego za dopłatą.</p>' +
+      '<div class="trtv-svpick" role="group" aria-label="Serwis streamingowy">' + keys.map(function (k) {
+        return '<button type="button" class="trtv-svbtn" data-svc="' + esc(k) + '" aria-pressed="' + (k === self.svc) + '">' + logo(k) + "<span>" + esc(groups[k].n) + "</span></button>";
+      }).join("") + "</div>" +
+      '<section class="trtv-svbox">' +
+        '<div class="trtv-svhead">' + logo(this.svc, "trtv-slogo--lg") + '<div><h3 class="trtv-h3">' + esc(g.n) + '</h3><p class="trtv-svsum">' + esc(summary) + "</p></div></div>" +
+        (g.on.length ? '<ul class="trtv-svlist">' + g.on.map(function (x) {
+          var s = x.s, t = TYP[s.typ] || TYP.platny;
+          var det = [s.wariant ? "<p><b>Warianty:</b> " + esc(s.wariant) + "</p>" : "", s.cena ? "<p><b>Ceny:</b> " + esc(s.cena) + "</p>" : "",
+            s.zasady ? "<p><b>Zasady:</b> " + esc(s.zasady) + "</p>" : "",
+            s.zrodlo ? '<p><a href="' + esc(s.zrodlo) + '" target="_blank" rel="noopener nofollow">Źródło: strona operatora</a></p>' : ""].join("");
+          return '<li class="trtv-svrow trtv-svrow--' + t[2] + '">' +
+            '<div class="trtv-svop">' + self.opLogo(x.o) + '<span class="trtv-badge trtv-badge--' + t[2] + '">' + t[1] + "</span></div>" +
+            '<div class="trtv-svmain"><p class="trtv-svprice">' + esc(s.krotko || s.cena || "Cenę potwierdzi konsultant") + "</p>" +
+              (s.uwaga ? '<p class="trtv-svnote">' + esc(s.uwaga) + "</p>" : "") +
+              (det ? '<details class="trtv-svdet"><summary>Szczegóły i warunki</summary>' + det + "</details>" : "") +
+            "</div></li>";
+        }).join("") + "</ul>" : "") +
+        (g.off.length ? '<p class="trtv-stoff">Nie ma w ofercie: ' + esc(g.off.join(", ")) + "</p>" : "") +
+      "</section>";
+    this.$panel.querySelectorAll("[data-svc]").forEach(function (b) {
+      b.addEventListener("click", function () { self.svc = b.getAttribute("data-svc"); track("tv_streaming", { serwis: self.svc }); self.renderStreaming(); self.fixImgs(self.$panel); });
+    });
     this.tone(this.$panel);
   };
 
