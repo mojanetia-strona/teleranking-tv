@@ -56,7 +56,7 @@ Każdy pakiet, dodatek i sekcja ma pole "zrodla" z identyfikatorami źródeł z 
       "serwis": "Netflix | HBO Max | Disney+ | CANAL+ online | Polsat Box Go | SkyShowtime | Player | Amazon Prime Video | Eleven Sports | Viaplay | inny",
       "wariant": "np. Netflix Standard z reklamami / Podstawowy / Premium; puste jeśli brak wariantów",
       "dostepnosc": "w cenie pakietu X | jako płatny dodatek | integracja w dekoderze (logowanie własnym kontem) | brak",
-      "typ": "w_cenie | platny | konto | brak  (w_cenie = w pakiecie/ofercie operatora; konto = tylko aplikacja z własną subskrypcją)",
+      "typ": "w_cenie | zestaw | platny | konto | brak  (w_cenie = BEZ DOPŁATY w standardowym pakiecie, który klient i tak kupuje; zestaw = tylko w specjalnej ofercie łączonej, np. 'Internet z Apple TV za 85 zł' – to NIE jest w cenie; platny = płatny dodatek; konto = operator nie sprzedaje, jest tylko aplikacja na dekoderze z własną subskrypcją)",
       "krotko": "NAJWAŻNIEJSZA informacja dla klienta, max 35 znaków, np. 'od 37 zł/mies.', 'W cenie Extra TV', 'Własne konto'",
       "uwaga": "jedno krótkie zdanie, max 80 znaków, np. 'przez 12 mies., potem 40 zł'",
       "cena": "DOKŁADNIE jak w cenniku/regulaminie, np. '0 zł przez 6 mies., potem 29,99 zł/mies.' albo 'w cenie pakietu L'; puste, jeśli nie da się potwierdzić",
