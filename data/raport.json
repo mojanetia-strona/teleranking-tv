@@ -1,21 +1,22 @@
 {
-  "data": "2026-10-23",
+  "data": "2026-10-26",
   "operatorzy": [],
-  "bledy": [],
+  "bledy": [
+    "INEA: Brak bloku JSON i brak BEZ_ZMIAN w odpowiedzi"
+  ],
   "bez_zmian": [
     "Netia",
     "T-Mobile",
     "Orange",
     "Play",
     "Plus",
-    "Vectra",
-    "INEA"
+    "Vectra"
   ],
   "koszt": {
-    "input": 0,
-    "output": 0,
-    "searches": 0,
-    "usd_orientacyjnie": 0.0
+    "input": 2579455,
+    "output": 14209,
+    "searches": 5,
+    "usd_orientacyjnie": 5.35
   },
-  "tekst": "Aktualizacja bazy TV: 2026-10-23\n\nBez zmian: Netia, T-Mobile, Orange, Play, Plus, Vectra, INEA\n\nKoszt orientacyjny: ~0.0 USD\nApka: https://mojanetia-strona.github.io/teleranking-tv/"
+  "tekst": "Aktualizacja bazy TV: 2026-10-26\n\nBez zmian: Netia, T-Mobile, Orange, Play, Plus, Vectra\n\nBŁĘDY (dane tych operatorów zostały bez zmian):\n  - INEA: Brak bloku JSON i brak BEZ_ZMIAN w odpowiedzi\n\nKoszt orientacyjny: ~5.35 USD\nApka: https://mojanetia-strona.github.io/teleranking-tv/"
 }

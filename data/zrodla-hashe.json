@@ -21,14 +21,14 @@
     }
   },
   "t-mobile": {
-    "pelne_sprawdzenie": "2026-10-23",
+    "pelne_sprawdzenie": "2026-10-26",
     "hashe": {
       "https://www.t-mobile.pl/MagentaTV": "2ef50219d74ab352",
       "https://www.t-mobile.pl/sklep/oferta/magentatv?tariffId=tv4e_M_3x0_24m_offe": "89c3a8b5864ef1a9",
       "https://teletropiciel.pl/t-mobile/MagentaTV.pdf": "f304367d5b34d75a",
       "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6a43d2c4a249e9b64c6e8d48/attachments/a62015a9760b4227bc3a86e7aa6e4baa": "b953e99b79d9e09b",
       "https://www.t-mobile.pl/MagentaTV/dekoder-tv-box": "5b646b69a638abc8",
-      "https://www.t-mobile.pl/multiroom": "924dbb5468166a30",
+      "https://www.t-mobile.pl/multiroom": "052b21f8b301fba4",
       "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1003337": "f614392bcda59a61",
       "https://www.t-mobile.pl/blog/magentatv-telewizja-w-nowoczesnym-wydaniu-poznaj-szczegoly-i-wybierz-pakiet-dla-siebie": "a134b383f7c30f40",
       "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6aa0866e14af16e52c48f6d7/attachments/7c0ce84388764f80819f72d0dafcc7ed": "39a5b6c0d8c87bd5",
@@ -42,7 +42,7 @@
       "https://www.t-mobile.pl/rozrywka/netflix": "9134cb5b033f24c2",
       "https://www.t-mobile.pl/rozrywka/hbo_max": "5a81d7b0a6cc29a9",
       "https://www.t-mobile.pl/rozrywka/canalplus": "5cb9213b8fd6ef87",
-      "https://pap-mediaroom.pl/biznes-i-finanse/t-mobile-otworzyl-dostep-do-magenta-tv-dla-wszystkich": "5903861525686b6b",
+      "https://pap-mediaroom.pl/biznes-i-finanse/t-mobile-otworzyl-dostep-do-magenta-tv-dla-wszystkich": "249d7d0375353a44",
       "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6a83fa99d2feb7c941a6d8fb/attachments/bc3de6eaca5844f78c2041ff92b15aec": "e5b046e5f1b8373b",
       "https://www.t-mobile.pl/d/pakiety/internet-abonament-telewizja": "17684e2679bbae91",
       "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006807": "62f1f20e352d2f5d",
@@ -53,8 +53,9 @@
     }
   },
   "orange": {
-    "pelne_sprawdzenie": "2026-10-23",
+    "pelne_sprawdzenie": "2026-10-26",
     "hashe": {
+      "https://www.orange.pl/medias/omni/lp/b2c/tv/tv_mobilna/Lista-kana%C5%82%C3%B3w-TV-w-technologii-IPTV.pdf": "814cca5157fabf19",
       "https://orange.binaries.pl/bw/20155/0/137210/c48e80df-d753-47f5-807c-a3f73fad7872.pdf": "c0ffa71195f5a54c",
       "https://orange.binaries.pl/bw/20155/0/137201/8b3fa2fc-1c17-4d14-b94a-9258919dc270.pdf": "b9322d1340d21b6a",
       "https://orange.binaries.pl/bw/20155/0/142720/c1d1e4a4-ff25-4da1-8390-6267af3cb8ec.pdf": "428e03714303bcdd",
@@ -62,7 +63,14 @@
       "https://orange.binaries.pl/bw/20155/0/116118/0dfde672-fb46-429d-94c3-643a58051ac9.pdf": "9accf1c2bf29d383",
       "https://orange.binaries.pl/bw//20155/0/48422/fc9ab3ac-466f-47d5-8a3b-a7a182532139": "4ab1c3e73d846455",
       "https://orange.binaries.pl/bw//20155/0/10641/cd494de1-de1e-4cca-857a-43b3fc3c360e.pdf": "2b3e513103ea2115",
-      "https://orange.binaries.pl/bw/20155/0/151908/6bdb070a-7613-4482-84be-a1d06591e074.pdf": "1d7f8da7a30f16fe"
+      "https://www.orange.pl/telewizja/telewizja-orange": "6639ffc8a44a10bd",
+      "https://www.orange.pl/swiatlowod-z-tv": "7315224003a3a553",
+      "https://www.orange.pl/poradnik/orange-tv-pakiety-dopasowane-do-twoich-potrzeb/": "761164686edeb71b",
+      "https://www.orange.pl/poradnik/dekoder-orange-tv-czego-potrzebujesz-aby-korzystac-z-telewizji-orange/": "68f3bc1f1c5f9dcb",
+      "https://www.orange.pl/poradnik/telewizja-w-orange-wszystko-co-warto-wiedziec/": "431cc1af0d65203e",
+      "https://www.orange.pl/view/regulaminy_cenniki": "d3ce9ce0f2653eb1",
+      "https://orange.binaries.pl/bw/20155/0/151908/6bdb070a-7613-4482-84be-a1d06591e074.pdf": "1d7f8da7a30f16fe",
+      "https://www.orange.pl/telewizja/netflix": "9f9e73b769c387ae"
     }
   },
   "play": {
