@@ -4,6 +4,13 @@
   "sprawdzono": "2026-10-26",
   "zrodla": [
     {
+      "id": "s_tm_lista",
+      "tytul": "Pakiety telewizyjne - lista kanałów (t-mobile.pl, tabela pakietów)",
+      "url": "https://www.t-mobile.pl/MagentaTV/pakiety-telewizyjne-lista-kanalow",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
       "id": "s1",
       "tytul": "Strona MagentaTV (T-Mobile)",
       "url": "https://www.t-mobile.pl/MagentaTV",
@@ -15,13 +22,6 @@
       "tytul": "Sklep T-Mobile: pakiety MagentaTV",
       "url": "https://www.t-mobile.pl/sklep/oferta/magentatv?tariffId=tv4e_M_3x0_24m_offe",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
-    },
-    {
-      "id": "s3",
-      "tytul": "Lista programów MagentaTV, stan na 18.08.2026 (pakiety Telewizja dla każdego / MIDI / MAXI). Dokument T-Mobile; oficjalnego adresu na t-mobile.pl nie udało się odnaleźć, użyto kopii pliku",
-      "url": "https://teletropiciel.pl/t-mobile/MagentaTV.pdf",
-      "typ": "pdf",
       "sprawdzono": "2026-10-23"
     },
     {
@@ -200,7 +200,6 @@
       "opis": "Aplikacja MagentaTV na Smart TV, smartfonie, tablecie i komputerze oraz strona magentatv.pl. Według listy kanałów z 18.08.2026 wszystkie kanały działają przez internet od dowolnego dostawcy. Działa we wszystkich trzech pakietach.",
       "zrodla": [
         "s1",
-        "s3",
         "s8",
         "s20"
       ]
@@ -228,9 +227,9 @@
       "opis": "Darmowy po rabatach pakiet 75 kanałów (15 gwarantowanych, 60 niegwarantowanych): główne kanały TVP, Polsat, TVN, TVN Siedem, TV4, TV Puls, regionalne TVP 3 i kanały tematyczne. Oglądanie w aplikacji MagentaTV, nagrywanie 20 h, oglądanie do 7 dni wstecz, 5 urządzeń (3 jednocześnie).",
       "warunki": "Umowa bezterminowa. Dla klientów wszystkich sieci, bez potrzeby internetu T-Mobile. Wymaga rejestracji (nowymoj.t-mobile.pl/tv), zgód marketingowych i obsługi elektronicznej (od tego zależą rabaty). Dekoder za dopłatą. Możliwość dokupienia pojedynczych kanałów.",
       "zrodla": [
+        "s_tm_lista",
         "s1",
         "s2",
-        "s3",
         "s8",
         "s20"
       ]
@@ -245,9 +244,9 @@
       "opis": "170 kanałów (45 gwarantowanych, 125 niegwarantowanych): dodatkowo m.in. TVN24, Polsat 2, Polsat Sport 1-3, Eurosport 1 i 2, kanały Discovery, National Geographic, Disney Channel, AXN, Polsat Film. Nagrywanie 100 h, oglądanie do 7 dni wstecz, kolekcja VOD, 5 urządzeń (3 jednocześnie).",
       "warunki": "Umowa na 24 miesiące. Działa przez internet od dowolnego dostawcy. Klienci światłowodu T-Mobile mają w ofercie pakietowej dekoder w cenie.",
       "zrodla": [
+        "s_tm_lista",
         "s1",
         "s2",
-        "s3",
         "s15",
         "s20"
       ]
@@ -262,9 +261,9 @@
       "opis": "207 kanałów (51 gwarantowanych, 156 niegwarantowanych): wszystko z MIDI plus HBO 1-3, Eleven Sports 1-4 (w tym Eleven Sports 1 4K), CANAL+ Sport 5, AXN Black/Spin/White, AMC, Epic Drama, Viasat, kanały 4K (Filmax 4K, Love Nature 4K, TravelXP 4K, Museum 4K, Ultra TV 4K i inne). Nagrywanie 100 h, oglądanie do 7 dni wstecz, rozszerzona kolekcja VOD, 5 urządzeń (3 jednocześnie), dekoder w cenie.",
       "warunki": "Umowa na 24 miesiące (czas określony). Działa przez internet od dowolnego dostawcy.",
       "zrodla": [
+        "s_tm_lista",
         "s1",
         "s2",
-        "s3",
         "s15",
         "s22",
         "s20"
@@ -1099,6 +1098,7 @@
       "kategoria": "filmy i seriale",
       "jakosc": "HD",
       "pakiety": [
+        "tmobile-midi",
         "tmobile-maxi"
       ],
       "uwagi": "nr 132; kanał niegwarantowany"
@@ -1954,7 +1954,6 @@
       "kategoria": "dokumentalne",
       "jakosc": "HD",
       "pakiety": [
-        "tmobile-dla-kazdego",
         "tmobile-midi",
         "tmobile-maxi"
       ],
@@ -1965,7 +1964,6 @@
       "kategoria": "dokumentalne",
       "jakosc": "HD",
       "pakiety": [
-        "tmobile-dla-kazdego",
         "tmobile-midi",
         "tmobile-maxi"
       ],
@@ -1986,21 +1984,15 @@
       "nazwa": "ViDoc TV",
       "kategoria": "dokumentalne",
       "jakosc": "HD",
-      "pakiety": [
-        "tmobile-dla-kazdego",
-        "tmobile-midi",
-        "tmobile-maxi"
-      ],
-      "uwagi": "nr 532; kanał niegwarantowany"
+      "pakiety": [],
+      "uwagi": "brak na oficjalnej liście kanałów t-mobile.pl (26.10.2026)"
     },
     {
       "nazwa": "ViDoc TV 4K",
       "kategoria": "dokumentalne",
       "jakosc": "4K",
-      "pakiety": [
-        "tmobile-maxi"
-      ],
-      "uwagi": "nr 533; kanał niegwarantowany"
+      "pakiety": [],
+      "uwagi": "brak na oficjalnej liście kanałów t-mobile.pl (26.10.2026)"
     },
     {
       "nazwa": "Eska TV",
@@ -2517,6 +2509,46 @@
       "jakosc": "HD",
       "pakiety": [],
       "uwagi": "dodatek: tmobile-eurosport"
+    },
+    {
+      "nazwa": "ShortTV",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "ShortTV 4K",
+      "kategoria": "filmy i seriale",
+      "jakosc": "4K",
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "BBC News",
+      "kategoria": "informacyjne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Euronews FR",
+      "kategoria": "zagraniczne",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": ""
     }
   ],
   "dodatki": [
@@ -2589,8 +2621,7 @@
       ],
       "warunki": "Tylko do pakietu Telewizja dla każdego; opłata miesięczna za każdy kanał.",
       "zrodla": [
-        "s1",
-        "s3"
+        "s1"
       ]
     },
     {
@@ -2631,8 +2662,7 @@
       "opis": "",
       "zrodla": [
         "st2",
-        "s18",
-        "s3"
+        "s18"
       ]
     },
     {
@@ -2657,7 +2687,6 @@
       "zasady": "Kanały linearne Eleven Sports 1-4 i Eleven Sports 1 4K w pakiecie MAXI MagentaTV, nie aplikacja Eleven.",
       "opis": "",
       "zrodla": [
-        "s3",
         "s1"
       ]
     },
@@ -2740,7 +2769,6 @@
     "zrodla": [
       "s1",
       "s2",
-      "s3",
       "s5",
       "s8",
       "s9",
@@ -2765,7 +2793,6 @@
       "odpowiedz": "Nie. Pakiety Telewizja dla każdego, MIDI i MAXI działają przez internet od dowolnego dostawcy. Wyjątek to oferta pakietowa dla klientów światłowodu T-Mobile (Magenta Dom), w której TV jest powiązana z umową na internet T-Mobile.",
       "zrodla": [
         "s1",
-        "s3",
         "s9",
         "s20"
       ]
@@ -2817,23 +2844,20 @@
       "pytanie": "Czy mogę nagrywać programy?",
       "odpowiedz": "Tak, w chmurze: 20 h w Telewizji dla każdego, 100 h w MIDI i MAXI, nagrania trzymane do 180 dni. Nie na każdym kanale; na wielu kanałach TVP i Polsatu nagrywanie jest niedostępne.",
       "zrodla": [
-        "s2",
-        "s3"
+        "s2"
       ]
     },
     {
       "pytanie": "Czy mogę obejrzeć program, który już się skończył?",
       "odpowiedz": "Tak, catch-up do 7 dni wstecz na większości kanałów (na TVN, TVN Siedem, Metro i TTV 2 dni). Dodatkowo time-shift: pauza i przewijanie na części kanałów.",
       "zrodla": [
-        "s2",
-        "s3"
+        "s2"
       ]
     },
     {
       "pytanie": "Czy jest Polsat Sport i Eleven Sports?",
       "odpowiedz": "Polsat Sport 1, 2, 3 i Polsat Sport Fight są od pakietu MIDI. Eleven Sports 1-4 i Eleven Sports 1 4K są tylko w MAXI. Eurosport 1 i 2 od MIDI, Eurosport 3 i 4 jako płatny dodatek.",
       "zrodla": [
-        "s3",
         "s13"
       ]
     },
@@ -2850,7 +2874,6 @@
       "pytanie": "Czy jest HBO?",
       "odpowiedz": "Kanały HBO, HBO 2 i HBO 3 są w pakiecie MAXI. Serwis HBO Max można dodatkowo zamówić przez T-Mobile jako osobną subskrypcję.",
       "zrodla": [
-        "s3",
         "s18"
       ]
     },
@@ -2865,15 +2888,12 @@
     {
       "pytanie": "Czy jest TVN24 i Polsat?",
       "odpowiedz": "Polsat jest już w Telewizji dla każdego. TVN24, TVN24 BiS i Polsat News są od pakietu MIDI.",
-      "zrodla": [
-        "s3"
-      ]
+      "zrodla": []
     },
     {
       "pytanie": "Czy są kanały w 4K?",
       "odpowiedz": "Tak, w pakiecie MAXI (m.in. Eleven Sports 1 4K, Filmax 4K, Love Nature 4K, TravelXP 4K, Museum 4K, Ultra TV 4K, Fashion TV 4K). Dekoder MagentaTV Box obsługuje 4K HDR. CANAL+ 4K jest w dodatku CANAL+ SUPER SPORT.",
       "zrodla": [
-        "s3",
         "s5",
         "s4"
       ]
@@ -2898,13 +2918,11 @@
       "pytanie": "Czy mogę dokupić pojedyncze kanały?",
       "odpowiedz": "Tak, do pakietu Telewizja dla każdego można dokupić wybrane kanały na sztuki (np. FX Comedy, BBC First, Eleven Sports 4, CANAL+ Sport 5, National Geographic Wild).",
       "zrodla": [
-        "s1",
-        "s3"
+        "s1"
       ]
     }
   ],
   "do_sprawdzenia": [
-    "Lista kanałów z 18.08.2026 (Telewizja dla każdego / MIDI / MAXI) pochodzi z kopii dokumentu T-Mobile na teletropiciel.pl; nie udało się znaleźć jej oficjalnego adresu na t-mobile.pl (strona MagentaTV ma przycisk „Zobacz kanały” bez linku). Oficjalny PDF podlinkowany ze strony dekodera to starsza lista z 1.07.2026 z pakietami S/M/L.",
     "Liczby z listy z 18.08.2026 nie zgadzają się dokładnie z marketingiem: dla Telewizji dla każdego wychodzi 77 unikalnych kanałów (78 pozycji z TVP 3 Warszawa podwójnie) zamiast 75, dla MIDI 168/169 pozycji zamiast 170, MAXI 206 unikalnych/207 pozycji. Kanały gwarantowane w tabeli: 16/45/54 zamiast 15/45/51. Pole „gwarantowany” w uwagach kanałów trzeba zweryfikować na oficjalnej liście.",
     "Mapowanie pakietów S/M/L (regulaminy dla klientów światłowodu, lista z 1.07.2026) na Telewizję dla każdego / MIDI / MAXI nie jest potwierdzone wprost. Konfigurator na stronie światłowodu pokazuje też pakiet M z 85 kanałami.",
     "Multiroom: regulamin oferty z 09.09.2026 i 16 podaje dostępność w S, M i L, a regulaminy z 18.08.2026 i 22.10.2026 tylko w Midi i Maxi. Nie wiadomo, czy Multiroom można dokupić do Telewizji dla każdego.",
@@ -2918,6 +2936,7 @@
     "Liczby kanałów z funkcjami: lista 18.08.2026 podaje nagrywanie 128, catch-up 189, time-shift 113; lista 1.07.2026: 116/158/134. Funkcje per kanał nie zostały wpisane do pliku.",
     "Streaming: nowa cena Netflix w T-Mobile od 1.11.2026 – strona zapowiada zmianę, kwoty nie podaje (strona pokazuje też starsze ceny 33/49/67 zł).",
     "Streaming: czy klient z samą MagentaTV lub samym internetem (bez abonamentu głosowego) może kupić Netflix/HBO Max/CANAL+ przez T-Mobile – regulaminy wymagają abonamentu głosowego.",
-    "Streaming: aktualna promocja Netflix Premium w cenie Podstawowego 'nawet przez 3 miesiące' – brak regulaminu (strona wymienia regulamin Netflix Premium z Magenta Moments D_007_1006190, nie sprawdzono)."
+    "Streaming: aktualna promocja Netflix Premium w cenie Podstawowego 'nawet przez 3 miesiące' – brak regulaminu (strona wymienia regulamin Netflix Premium z Magenta Moments D_007_1006190, nie sprawdzono).",
+    "Oficjalna tabela na t-mobile.pl ma 61/157/194 pozycji wobec reklamowanych 75/170/207; różnica to głównie 16 regionalnych TVP3 (liczonych przez T-Mobile osobno). ViDoc TV nie występuje w tabeli."
   ]
 }
