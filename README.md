@@ -2,7 +2,7 @@
 
 Wewnętrzne narzędzie teleranking.pl: kanały, pakiety, dodatki, streamingi, multiroom i odpowiedzi na pytania klientów o telewizję u operatorów (Netia, T-Mobile, Orange, Play, Plus, Vectra, INEA).
 
-Apka: https://mojanetia-strona.github.io/teleranking-tv/
+Apka: https://kanaly.teleranking.pl/
 
 ## Jak to działa
 

@@ -308,7 +308,7 @@ def main():
         lines.append("BŁĘDY (dane tych operatorów zostały bez zmian):")
         lines += [f"  - {b}" for b in report["bledy"]]
     lines += ["", f"Koszt orientacyjny: ~{report['koszt']['usd_orientacyjnie']} USD",
-              "Apka: https://mojanetia-strona.github.io/teleranking-tv/"]
+              "Apka: https://kanaly.teleranking.pl/"]
     report["tekst"] = "\n".join(lines)
     log(report["tekst"])
     # Make co poniedziałek o 9:00 czyta ten plik ze strony apki i wysyła maila
