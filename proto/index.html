@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Porównywarka kanałów TV (prototyp)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="kanaly-tv.css?v=1">
+<style>
+  body { margin: 0; background: #F4F8F7; }
+  .proto-top { background: #006D5B; color: #fff; font: 600 13px/1.4 Inter, sans-serif; padding: 8px 16px; text-align: center; }
+  .proto-wrap { padding: 32px 16px 80px; }
+  @media (max-width: 760px) { .proto-wrap { padding: 16px 0 80px; } }
+</style>
+</head>
+<body>
+<div class="proto-top">Prototyp porównywarki kanałów TV dla teleranking.pl (podgląd, nie jest to strona publiczna)</div>
+<div class="proto-wrap">
+  <div class="trtv" data-src="../public/tv.json" data-logos="../public/logos/" data-cta="https://teleranking.pl/"
+    data-op-logos='{"netia":"https://teleranking.pl/wp-content/uploads/2026/08/1-1.png","inea":"https://teleranking.pl/wp-content/uploads/2026/08/2-1.png","orange":"https://teleranking.pl/wp-content/uploads/2026/08/3-1.png","vectra":"https://teleranking.pl/wp-content/uploads/2026/08/4-1.png","play":"https://teleranking.pl/wp-content/uploads/2026/08/5-1.png","plus":"https://teleranking.pl/wp-content/uploads/2026/08/6-1.png","t-mobile":"https://teleranking.pl/wp-content/uploads/2026/08/7-1.png"}'>
+    <div class="trtv-body"><h2 class="trtv-title">Jakie kanały chcesz oglądać?</h2><p class="trtv-loading">Wczytujemy listę kanałów…</p></div>
+  </div>
+</div>
+<script src="kanaly-tv.js?v=1"></script>
+</body>
+</html>
