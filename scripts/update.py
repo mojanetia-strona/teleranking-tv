@@ -46,6 +46,7 @@ Zasady (bezwzględne):
 - Nie zgaduj. Czego nie da się potwierdzić w oficjalnym źródle, nie wpisuj jako faktu, tylko dodaj do "do_sprawdzenia".
 - Nie usuwaj danych tylko dlatego, że nie udało się otworzyć źródła. Usuwasz kanał/pakiet/dodatek wyłącznie wtedy,
   gdy aktualne oficjalne źródło pokazuje, że go już nie ma. Jeśli źródło jest niedostępne, zostaw dane i dopisz to do "do_sprawdzenia".
+- Pozycje z polem "potwierdzil" sprawdził człowiek (np. handlowiec operatora). Nie zmieniaj ich, chyba że oficjalne źródło wprost temu przeczy; wtedy opisz to w "zmiany".
 - Bez cen pakietów TV. WYJĄTEK: w sekcji "streaming" podawaj aktualne ceny i zasady (promocje, okres, warunki).
 - Oszczędzaj: czytaj tylko źródła potrzebne do weryfikacji (najpierw lista kanałów i strona streamingów), nie czytaj wielu podobnych stron. Jeśli główne źródła się nie zmieniły, odpowiedz BEZ_ZMIAN.
 - Najpierw sprawdź źródła z obecnych danych (lista URL w wiadomości), potem poszukaj nowszych wersji (np. nowy PDF z listą kanałów).

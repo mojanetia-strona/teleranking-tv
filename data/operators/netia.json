@@ -2851,18 +2851,19 @@
     },
     {
       "serwis": "HBO Max",
-      "typ": "zestaw",
-      "krotko": "W pakiecie Dla Kinomaniaka",
-      "uwaga": "tylko z pakietem kanałów HBO HD i internetem Netii; Kinomaniak ok. 25 zł droższy",
-      "dostepnosc": "w ofercie łączonej",
+      "typ": "platny",
+      "krotko": "Pakiet HBO od 25 zł/mies.",
+      "uwaga": "dodatek do każdego pakietu TV Netii; jest też w ofercie Dla Kinomaniaka",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Dla Kinomaniaka 1 Gb/s + 123 kanały: 105 zł/mies. od 7. mies. (3 mies. 0 zł po rabatach, mies. 4-6: 25 zł); 1 Gb/s + 192 kanały: 135 zł/mies. od 7. mies. (mies. 4-6: 25 zł); Dla Kinomaniaka „już od 80 zł miesięcznie” (wolniejszy internet); strona /max: „HBO Max już od 25 zł/mies.”, Pakiet M 4K z HBO Max od 95 zł/mies., Pakiet L 4K z HBO Max od 125 zł/mies.",
-      "zasady": "W kartach Dla Kinomaniaka: „HBO HD + HBO Max Standardowy” (plan Standard). Dla porównania Dla Każdego 1 Gb/s + 120 kanałów kosztuje 80 zł, czyli HBO realnie podnosi cenę o ok. 25 zł (zgadza się z „od 25 zł/mies.”). HBO Max wyłącznie z pakietem kanałów HBO HD, dla abonentów z internetem i TV Netii. Aktywacja: w aplikacji HBO Max wybrać operatora Netia, ID klienta i kod autoryzacyjny z SMS/e-maila. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). W Netia GO (bez dekodera) pakiet HBO HD 20 zł/mies. Czy 25 zł/mies. można dokupić do Dla Każdego jako osobny dodatek, strona nie mówi wprost.",
+      "zasady": "W kartach Dla Kinomaniaka: „HBO HD + HBO Max Standardowy” (plan Standard). Dla porównania Dla Każdego 1 Gb/s + 120 kanałów kosztuje 80 zł, czyli HBO realnie podnosi cenę o ok. 25 zł (zgadza się z „od 25 zł/mies.”). HBO Max wyłącznie z pakietem kanałów HBO HD, dla abonentów z internetem i TV Netii. Aktywacja: w aplikacji HBO Max wybrać operatora Netia, ID klienta i kod autoryzacyjny z SMS/e-maila. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). W Netia GO (bez dekodera) pakiet HBO HD 20 zł/mies. Czy 25 zł/mies. można dokupić do Dla Każdego jako osobny dodatek, strona nie mówi wprost. Pakiet HBO (kanały HBO + HBO Max) można dokupić do zwykłego pakietu TV, nie tylko w ofercie Dla Kinomaniaka (potwierdzone przez handlowca Netii 26.10.2026).",
       "zrodla": [
         "sv2",
         "s14",
         "s14",
         "sv3"
-      ]
+      ],
+      "potwierdzil": "handlowiec Netii 2026-10-26"
     },
     {
       "serwis": "Disney+",
@@ -2926,17 +2927,18 @@
     },
     {
       "serwis": "CANAL+ online",
-      "typ": "zestaw",
-      "krotko": "Pakiet z CANAL+ ULTRA 150 zł",
-      "uwaga": "pakiet kanałów CANAL+ ULTRA w ofercie TV; aplikacja CANAL+ niepotwierdzona",
-      "dostepnosc": "w ofercie łączonej",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
       "cena": "Dla Każdego „OFERTA Z CANAL+” 1 Gb/s + 115 kanałów z CANAL+ ULTRA: 150 zł/mies. od 7. mies. (3 mies. 0 zł po rabatach, mies. 4-6: 80 zł). Dla Fanów Sportu z CANAL+ ULTRA 1 Gb/s + 151 kanałów: 180 zł/mies. od 7. mies. (mies. 4-6: 100 zł). Strona /canal-plus: Internet 600 Mb/s + 139 kanałów, 150 zł/mies., 3 mies. 0 zł po rabatach.",
-      "zasady": "Netia sprzedaje CANAL+ jako pakiet kanałów CANAL+ ULTRA w ofertach z TV (nowa oferta sportowa od 17.08.2026: Premier League, Liga Mistrzów, Ekstraklasa). Żadna oficjalna strona nie mówi, czy pakiet daje dostęp do aplikacji CANAL+ online. Samego CANAL+ online Netia nie sprzedaje. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). (część informacji niepotwierdzona w oficjalnych źródłach)",
+      "zasady": "Pakiet CANAL+ ULTRA to tylko kanały w telewizji Netii, bez aplikacji CANAL+ online (potwierdzone przez handlowca Netii 26.10.2026).",
       "zrodla": [
         "sv3",
         "sv9",
         "sv10"
-      ]
+      ],
+      "potwierdzil": "handlowiec Netii 2026-10-26"
     },
     {
       "serwis": "Polsat Box Go",
@@ -3236,12 +3238,9 @@
     "Streaming: cena HBO Max – strona /pl/max podaje 'od 25 zł/mies.', strona Netia GO 'HBO HD 20 zł'; nie wiadomo, czy to ta sama usługa; brak regulaminu/cennika PDF. Informacja o planie Premium dla dostępu bezterminowego do 31.01.2025 nieaktualna.",
     "Streaming: ceny po 6-mies. promocji dla ofert z Amazon Prime i Apple TV oraz regulaminy tych promocji (strona mówi o PDF, ale nie linkuje).",
     "Streaming: biuro prasowe Netii (powiązane artykuły, 28.08.2026) informuje o kampanii oferty internet z TV i Amazon Prime za 35 zł miesięcznie; to inna kwota niż 85 zł w danych ze strony s15. Strony Amazon Prime i Apple TV nie zostały ponownie otwarte w tym sprawdzeniu (limit narzędzia), więc ceny wymagają weryfikacji.",
-    "Streaming: czy pakiety CANAL+ w Netii dają dostęp do aplikacji CANAL+ online.",
     "Streaming: warunki rezygnacji i odnawiania pakietów Netia Premium / Premium Sport w Netia GO (komunikat prasowy podaje tylko cenę za 30 dni i skład).",
     "Streaming: Apple TV, SkyShowtime, Disney+ i Amazon Prime to oferty łączone (zestaw), nie „w cenie”: dopłata vs ten sam internet to ok. +20 zł (Apple, Sky), +25 zł (Disney+), +5 zł (Prime).",
     "Streaming: Strona /skyshowtime pisze „w cenie wybranych taryf, bez dodatkowych opłat”, ale konfigurator pokazuje +20 zł. Klientowi mówić cenę całej oferty.",
-    "Streaming: HBO Max: czy pakiet HBO HD (od 25 zł) da się dokupić do Dla Każdego / istniejącej usługi i ile dokładnie kosztuje, potwierdzić u konsultanta.",
-    "Streaming: CANAL+ ULTRA: zapytać, czy daje login do aplikacji CANAL+ online.",
     "Streaming: Netflix, Player, Polsat Box Go, Viaplay, FilmBox+: zapytać, czy na dekoderze EVOBOX 4K są te aplikacje (wtedy typ „konto”).",
     "Streaming: Ceny z konfiguratora netia.pl bez adresu (oferta „dotyczy mieszkań”, dla domów jednorodzinnych inna); pod konkretnym adresem mogą się różnić.",
     "Streaming: Strona Prime/Apple TV podaje pakiet z TV 118 kanałów, a konfigurator pokazuje 95/120 kanałów: do sprawdzenia, która wersja jest aktualna.",
