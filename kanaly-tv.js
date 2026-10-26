@@ -47,7 +47,7 @@
     this.cfg = {
       src: root.getAttribute("data-src"),
       logos: (root.getAttribute("data-logos") || "").replace(/\/?$/, "/"),
-      cta: root.getAttribute("data-cta") || "/",
+      cta: root.hasAttribute("data-cta") ? root.getAttribute("data-cta") : "/",
       ctaLabel: root.getAttribute("data-cta-label") || "Sprawdź pod swoim adresem",
       opLogos: {},
     };
@@ -91,6 +91,9 @@
       var q = new URLSearchParams(location.search).get("kanaly");
       if (q) q.split(",").forEach(function (k) { if (self.K[k] && self.sel.indexOf(k) < 0) self.sel.push(k); });
     } catch (e) { /* stary przeglądarka */ }
+    var h = (location.hash || "").replace(/^#\/?/, "").split("/");
+    if (h[0] === "pakiety") this.tab = "pakiety";
+    else if (h[0] === "streaming") this.tab = "streaming";
     this.renderShell();
     this.renderAll();
   };
@@ -445,7 +448,7 @@
           '<span class="trtv-res-n">' + esc(m.pkg.liczba) + " " + plural(m.pkg.liczba, "kanał", "kanały", "kanałów") + " w pakiecie</span></div>" +
         verdict + strip(r) +
         '<div class="trtv-res-act">' +
-          (big ? '<a class="trtv-btn trtv-btn--cta trtv-cta" data-op="' + esc(o.slug) + '" href="' + esc(self.ctaHref(o)) + '">' + esc(self.cfg.ctaLabel) + "</a>" : "") +
+          (big && self.cfg.cta ? '<a class="trtv-btn trtv-btn--cta trtv-cta" data-op="' + esc(o.slug) + '" href="' + esc(self.ctaHref(o)) + '">' + esc(self.cfg.ctaLabel) + "</a>" : "") +
           '<button type="button" class="trtv-btn trtv-btn--ghost" data-open="' + esc(o.slug + "|" + L.id + "|" + m.pkg.id) + '">Zobacz kanały w pakiecie</button>' +
         "</div></article>";
     }
@@ -561,6 +564,19 @@
     });
   };
 
+  // Multiroom i aplikacja: krótko, pełny opis po kliknięciu
+  Widget.prototype.facts = function (o) {
+    var m = o.multiroom || {}, a = o.aplikacja || {}, out = [];
+    if (m.dostepny === false) out.push(["Multiroom", "niedostępny", ""]);
+    else if (m.max || m.opis) out.push(["Multiroom", m.max ? "do " + m.max + " telewizorów" : "dostępny", m.opis]);
+    if (a.nazwa) out.push(["Aplikacja", a.nazwa, a.urzadzenia]);
+    if (!out.length) return "";
+    return '<div class="trtv-facts">' + out.map(function (f) {
+      return f[2] ? '<details><summary><b>' + esc(f[0]) + ":</b> " + esc(f[1]) + "</summary><p>" + esc(f[2]) + "</p></details>"
+        : "<p><b>" + esc(f[0]) + ":</b> " + esc(f[1]) + "</p>";
+    }).join("") + "</div>";
+  };
+
   /* ---------- okno pakietu ---------- */
   Widget.prototype.openPkg = function (slug, lineId, pid, cat, only, q) {
     var self = this;
@@ -605,6 +621,7 @@
       tabs +
       '<h3 class="trtv-dlg-t" id="trtv-dlg-t-' + uid + '">' + esc(p.nazwa) + '<span> ' + (isAdd ? list.length : p.liczba) + " " + plural(isAdd ? list.length : p.liczba, "kanał", "kanały", "kanałów") + "</span></h3>" +
       (isAdd && p.warunki ? '<p class="trtv-hint">' + esc(p.warunki) + "</p>" : "") +
+      this.facts(o) +
       '<div class="trtv-dlg-tools">' +
         '<input type="search" class="trtv-input trtv-input--sm" placeholder="Szukaj w pakiecie" aria-label="Szukaj w pakiecie" value="' + esc(q || "") + '">' +
         (prev && !isAdd ? '<label class="trtv-only"><input type="checkbox"' + (only ? " checked" : "") + "> Tylko nowe względem " + esc(prev.nazwa) + "</label>" : "") +
@@ -613,7 +630,7 @@
         catList.map(function (c) { return '<button type="button" data-c="' + esc(c) + '" aria-pressed="' + (c === cat) + '">' + esc(c) + " <b>" + cats[c] + "</b></button>"; }).join("") + "</div>" +
       '<div class="trtv-dlg-list">' + (grouped || '<p class="trtv-hint">Brak kanałów dla tego filtra.</p>') + "</div>" +
       '<div class="trtv-dlg-foot"><span>Lista według ' + (o.zrodlo ? '<a href="' + esc(o.zrodlo) + '" target="_blank" rel="noopener nofollow">oficjalnej strony operatora</a>' : "operatora") + ", stan na " + esc(dataPL(o.stan_na)) + "</span>" +
-        '<a class="trtv-btn trtv-btn--cta trtv-cta" data-op="' + esc(o.slug) + '" href="' + esc(this.ctaHref(o)) + '">' + esc(this.cfg.ctaLabel) + "</a></div>";
+        (this.cfg.cta ? '<a class="trtv-btn trtv-btn--cta trtv-cta" data-op="' + esc(o.slug) + '" href="' + esc(this.ctaHref(o)) + '">' + esc(this.cfg.ctaLabel) + "</a>" : "") + "</div>";
 
     var inner = this.$dlg.querySelector(".trtv-dlg-in");
     var keepFocus = document.activeElement && inner.contains(document.activeElement) && document.activeElement.type === "search";

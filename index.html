@@ -6,22 +6,24 @@
 <meta name="robots" content="noindex, nofollow">
 <title>TeleRanking TV - baza wiedzy</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=9">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="kanaly-tv.css?v=3">
+<style>
+  body { margin: 0; background: #F4F8F7; }
+  .tr-in { padding: 24px 16px 80px; }
+  .tr-foot { max-width: 1180px; margin: 14px auto 0; font: 13px/1.5 Inter, sans-serif; color: #7A8584; }
+  .tr-foot a { color: #136B5D; }
+  @media (max-width: 760px) { .tr-in { padding: 0 0 80px; } .tr-foot { padding: 0 16px; } }
+</style>
 </head>
 <body>
-<header class="top">
-  <div class="wrap top-in">
-    <a class="logo" href="#/pakiety"><span class="logo-mark">TR</span><span>TeleRanking <b>TV</b></span></a>
-    <nav class="nav" id="nav">
-      <a href="#/pakiety" data-v="pakiety">Kanały w pakietach</a>
-      <a href="#/szukaj" data-v="szukaj">Czy jest kanał?</a>
-      <a href="#/streaming" data-v="streaming">Streaming</a>
-    </nav>
+<div class="tr-in">
+  <div class="trtv" data-src="public/tv.json" data-logos="public/logos/" data-cta=""
+    data-op-logos='{"netia":"https://teleranking.pl/wp-content/uploads/2026/08/1-1.png","inea":"https://teleranking.pl/wp-content/uploads/2026/08/2-1.png","orange":"https://teleranking.pl/wp-content/uploads/2026/08/3-1.png","vectra":"https://teleranking.pl/wp-content/uploads/2026/08/4-1.png","play":"https://teleranking.pl/wp-content/uploads/2026/08/5-1.png","plus":"https://teleranking.pl/wp-content/uploads/2026/08/6-1.png","t-mobile":"https://teleranking.pl/wp-content/uploads/2026/08/7-1.png"}'>
+    <div class="trtv-body"><h2 class="trtv-title">Jakie kanały chcesz oglądać?</h2><p class="trtv-loading">Wczytujemy listę kanałów…</p></div>
   </div>
-</header>
-<main class="wrap" id="app"><p class="muted">Ładowanie danych…</p></main>
-<footer class="wrap foot" id="foot"></footer>
-<script src="app.js?v=9"></script>
+  <p class="tr-foot">Wersja wewnętrzna (bez przycisków dla klienta). Ta sama porównywarka działa na teleranking.pl. Pełne dane źródłowe i historia zmian: <a href="data/changelog.json">changelog</a>.</p>
+</div>
+<script src="kanaly-tv.js?v=3"></script>
 </body>
 </html>

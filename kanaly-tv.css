@@ -232,6 +232,12 @@
 .trtv-dlg-add summary { cursor: pointer; font-size: 14px; font-weight: 600; color: var(--green); margin-bottom: 8px; }
 .trtv .trtv-dlg-t { font-family: var(--head); font-size: 26px; font-weight: 800; color: var(--ink); margin: 18px 0 10px; line-height: 1.2; }
 .trtv .trtv-dlg-t span { font-family: var(--body); font-size: 16px; font-weight: 500; color: var(--mute); }
+.trtv-facts { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0 0 12px; font-size: 14px; }
+.trtv-facts p { margin: 0; }
+.trtv-facts details { max-width: 520px; }
+.trtv-facts summary { cursor: pointer; }
+.trtv-facts summary b, .trtv-facts p b { color: var(--ink); }
+.trtv-facts details p { margin: 6px 0 0; color: var(--txt); }
 .trtv-dlg-tools { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 12px; }
 .trtv .trtv-input--sm { height: 46px; max-width: 320px; padding: 0 14px; font-size: 15px; }
 .trtv-only { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 600; color: var(--ink); cursor: pointer; }
