@@ -1,0 +1,43 @@
+name: Dane publiczne (porównywarka na teleranking.pl)
+
+# Buduje public/tv.json i logotypy dla porównywarki kanałów na teleranking.pl.
+# Uruchamia się po każdej zmianie danych (w tym po cotygodniowej aktualizacji) albo ręcznie.
+on:
+  push:
+    branches: [main]
+    paths: ['data/**', 'scripts/build_public.py', 'scripts/fetch_logos.py']
+  workflow_run:
+    workflows: ["Cotygodniowa aktualizacja bazy TV"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dane-publiczne
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow cairosvg
+      - name: Budowanie danych
+        run: |
+          python scripts/build_public.py
+          python scripts/fetch_logos.py
+          python scripts/build_public.py
+      - name: Zapis
+        run: |
+          git config user.name "teleranking-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public
+          git diff --cached --quiet || (git commit -m "Dane publiczne porównywarki $(date +%F)" && (git push || (git pull --rebase && git push)))
