@@ -142,6 +142,97 @@
       "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202609161313196aaa79cf660d7/regulamin-promocji-wl26-spec-cpss-es-maj-1-0.pdf",
       "typ": "regulamin",
       "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "sv1",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/oferta/11436/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv2",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/oferta/11733/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv3",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/hbo-max",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv4",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/disney-plus",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv5",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/oferta/12239/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv6",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202607151419356a577ad72e2cc/rg26-regulamin-szczegolowy-swiadczenia-uslugi-disney-v-1-1.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv7",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/canal-plus",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv8",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/oferta/11509/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv9",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/player",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv10",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/oferta/10369/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv11",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv12",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/wiecej-rozrywki",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv13",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.vectra.pl/filmbox-plus",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
     }
   ],
   "podsumowanie": "Vectra sprzedaje telewizję w dwóch liniach: telewizja cyfrowa w sieci kablowej (pakiety Stalowy 37, Srebrny 72, Złoty 128, Platynowy 167, Super Film & Sport 191 kanałów) oraz telewizja internetowa TV Smart z dekoderem Android TV (pakiety 41/81/125 kanałów). Pakiety są kumulatywne, w aktualnej ofercie Srebrny i wyższe mają HBO z biblioteką HBO Max. TV można kupić samodzielnie lub w pakiecie z internetem (Superpakiety ze streamingiem: Netflix, Disney+, HBO Max, CANAL+). Każdy klient TV ma bezpłatną aplikację TV Smart GO (3 ekrany jednocześnie).",
@@ -3221,155 +3312,162 @@
   "streaming": [
     {
       "serwis": "Netflix",
-      "wariant": "Podstawowy",
-      "dostepnosc": "w cenie wybranych Superpakietów internet+TV | integracja w dekoderze (logowanie własnym kontem)",
-      "cena": "w cenie Superoferty (internet do 600 Mb/s + 129 kanałów, 94,99 zł/mies. przez 12 mies., bez zobowiązania) na czas umowy; w ofercie dla nowych klientów (internet do 300 Mb/s + 129 kanałów, umowa 23 mies.) plan Podstawowy w cenie, 3 mies. w prezencie",
-      "zasady": "Oferty dla nowych klientów, ceny z rabatami 15 zł (zgody marketingowe -10 zł, e-faktura -5 zł), modem 4,99 zł/mies., aktywacja 9,99 zł. Aktywacja Netflix: link e-mail od Netflix, Strefa Klienta (Usługi i oferty) albo aplikacja Netflix na dekoderze TV Smart 4K BOX / 4730 CD/CDX z powiązaniem z abonamentem Vectry. Netflix doliczany do rachunku Vectry. Usługa wg osobnego Regulaminu Usługi Netflix. Aplikacja Netflix preinstalowana na Vectra 4K BOX / 4K BOX PVR, można zalogować się własnym kontem.",
-      "opis": "",
+      "typ": "zestaw",
+      "krotko": "Zestaw z internetem+TV 94,99 zł",
+      "uwaga": "Tylko w ofertach Internet+TV (129 kanałów) z Netflix; ceny z rabatami 15 zł",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "SUPEROFERTA Internet do 600 Mb/s + 129 kanałów TV + Netflix Plan podstawowy: 94,99 zł/mies. od 1 do 12 miesiąca (z rabatami 15 zł), bez zobowiązania. Oferta 'Netflix przez 3 mies. w prezencie': Internet do 300 Mb/s + 129 kanałów + Netflix Plan podstawowy: 61,99 zł/mies. od 1 do 3 miesiąca, 94,99 zł/mies. od 4 do 23 miesiąca, zobowiązanie 23 mies. Do tego modem 4,99 zł/mies., aktywacja 9,99 zł.",
+      "zasady": "To oferta łączona (pakiet 600 Mb/s + 129 kanałów kosztuje tyle samo w wariantach z Netflix, z Disney+ albo z HBO+Eleven), nie dodatek do każdego pakietu TV. Netflix 'w pakiecie na czas trwania umowy'. Ceny z rabatami -10 zł za zgody marketingowe i -5 zł za e-fakturę. Abonament za usługę główną rośnie o 10 zł po okresie zobowiązania/podstawowym i co 12 mies. Obecni klienci: 'Dokup Netflix w Strefie Klienta', ale cena samodzielnego Netflixa nie jest podana na stronie. Aktywacja: link od Netflixa, Strefa Klienta albo aplikacja Netflix na TV Smart 4K BOX / 4730 CD/CDX. Netflix preinstalowany też na Vectra 4K BOX/PVR (logowanie własnym kontem).",
       "zrodla": [
         "st2",
-        "s14",
-        "s10",
-        "st3"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W cenie Superoferty",
-      "uwaga": "internet + 129 kanałów za 94,99 zł/mies."
+        "sv1",
+        "st2",
+        "st2"
+      ]
     },
     {
       "serwis": "HBO Max",
-      "wariant": "Podstawowy / Standardowy / Premium",
-      "dostepnosc": "jako płatny dodatek | w cenie pakietów Srebrny, Złoty, Platynowy, Super Film & Sport i wybranych Superpakietów",
-      "cena": "Pakiet HBO (kanały + HBO Max): Podstawowy 29,99 zł, Standardowy 39,99 zł, Premium 49,99 zł/mies.; samo HBO Max (internet): te same ceny; aktywacja 10 zł. Superoferta: HBO Max Standardowy 0 zł przez 6 mies., potem wyłączany",
-      "zasady": "Kanały HBO, HBO 2, HBO 3 + biblioteka HBO Max. W Superofercie (promocja 01.10–02.11.2026) HBO Standardowy bezpłatnie przez 6 pierwszych okresów rozliczeniowych, potem automatycznie dezaktywowany (bez opłat). Aplikacja HBO Max na dekoderach TV Smart 4K BOX.",
-      "opis": "",
+      "typ": "w_cenie",
+      "krotko": "W cenie pakietów TV 72/128/167 kan.",
+      "uwaga": "HBO Standardowy w pakietach TV; osobno od 39,99 zł/mies.",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "Telewizja (23 mies.) z HBO Standardowy: 72 kanały 35,00 zł (mies. 1-6), potem 44,99 zł; 128 kanałów 35,00 zł, potem 64,99 zł; 167 kanałów 35,00 zł, potem 74,99 zł (aktywacja 9,99 zł). Dodatek do telewizji: HBO + HBO Max Standardowy 39,99 zł/mies., HBO + HBO Max Premium 49,99 zł/mies., aktywacja 5 zł, bez zobowiązania. Cennik: Pakiet HBO Podstawowy 29,99 zł; HBO Max (internet) Podstawowy 29,99 / Standardowy 39,99 / Premium 49,99 zł. Zestawy z internetem z HBO Max Standardowy: 300 Mb/s 35,00 zł (1. mies.), potem 59,99 zł (2-12); 600 Mb/s 35,00 zł, potem 74,99 zł; Internet 1 Gb/s + 168 kanałów 70,00 zł, potem 144,99 zł.",
+      "zasady": "Pakiety telewizji 72/128/167 kanałów mają w zawartości 'HBO Standardowy' (kanały HBO, HBO 2, HBO 3 + biblioteka HBO Max); pakiety 37 i 191 kanałów go nie mają. Strona nie mówi, czy HBO jest na cały okres umowy. W Superofertach Internet+TV HBO Standardowy jest prezentem na 6 mies. za 0 zł, potem wyłączany. Wariant Podstawowy jest w cenniku, ale na stronie HBO nie ma go jako dodatku do kupienia.",
       "zrodla": [
-        "s9",
-        "st1",
-        "s14",
-        "s3"
-      ],
-      "typ": "platny",
-      "krotko": "od 29,99 zł/mies.",
-      "uwaga": "w Superofercie 6 mies. za 0 zł"
+        "sv2",
+        "sv3",
+        "sv3",
+        "sv1"
+      ]
     },
     {
       "serwis": "Disney+",
-      "wariant": "Standard",
-      "dostepnosc": "w cenie wybranych Superpakietów internet+TV | integracja w dekoderze",
-      "cena": "w cenie Superoferty z Disney+ (internet do 600 Mb/s + 129 kanałów, 94,99 zł/mies. przez 12 mies.)",
-      "zasady": "Oferta dla nowych klientów, bez okresu zobowiązania; w pakiecie też HBO Max i Eleven 0 zł przez 6 mies. Aplikacja Disney+ preinstalowana na Vectra 4K BOX/PVR. Brak opisu aktywacji i podpięcia istniejącego konta.",
-      "opis": "",
+      "typ": "zestaw",
+      "krotko": "Zestaw 94,99 zł lub 34,99 zł osobno",
+      "uwaga": "Superoferta 600 Mb/s+129 kan. z Disney+; dodatek dla klientów Vectry 34,99 zł",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "SUPEROFERTA Internet do 600 Mb/s + 129 kanałów TV + Disney+ Standardowy: 94,99 zł/mies. od 1 do 12 miesiąca (z rabatami 15 zł), modem 4,99 zł/mies., aktywacja 9,99 zł, bez zobowiązania. Usługa dodatkowa Disney+ Standard: 34,99 zł/mies., aktywacja 0 zł, bez zobowiązania. Dopłata do Disney+ Premium 25,00 zł (regulamin).",
+      "zasady": "Oferta łączona: ten sam pakiet 600/129 za 94,99 zł występuje z Netflix albo z Disney+ do wyboru. Dodatek 34,99 zł dla abonentów z umową na usługi podstawowe Vectry (wymaga internetu, TV nie jest wymagana). Aktywacja przez Strefę Klienta, istniejące konto Disney+ można połączyć (chyba że jest w ofercie innego operatora). Rezygnacja z końcem okresu rozliczeniowego, konto Disney+ zostaje. Aplikacja preinstalowana na Vectra 4K BOX/PVR i TV Smart 4K BOX.",
       "zrodla": [
-        "s14",
-        "s10"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W cenie Superoferty z Disney+",
-      "uwaga": "internet + 129 kanałów za 94,99 zł/mies."
-    },
-    {
-      "serwis": "CANAL+ online",
-      "wariant": "CANAL+ Seriale i Filmy / CANAL+ Super Sport",
-      "dostepnosc": "w cenie pakietu CANAL+ Seriale i Filmy / CANAL+ Super Sport | w cenie oferty Dla fanów sportu",
-      "cena": "Dla obecnych klientów: Seriale i Filmy 29 zł/mies., Super Sport 69 zł/mies., aktywacja 10 zł, bez zobowiązania; oferta Dla fanów sportu (internet 300 Mb/s + 72 kanały + Super Sport) 79,99 zł/mies. przez 6 mies., potem 114,99 zł/mies.; internet + TV 129 kanałów: 3 mies. CANAL+ w prezencie",
-      "zasady": "Abonenci pakietów CANAL+ mają dostęp do serwisu CANAL+ (osobny regulamin CANAL+ online). Dokupienie w Strefie Klienta. Kanał CANAL+ 4K wymaga dekodera TV Smart 4K BOX. Brak opisu logowania istniejącym kontem i liczby urządzeń.",
-      "opis": "",
-      "zrodla": [
-        "s13",
-        "s14"
-      ],
-      "typ": "platny",
-      "krotko": "od 29 zł/mies.",
-      "uwaga": "Seriale i Filmy 29 zł, Super Sport 69 zł"
-    },
-    {
-      "serwis": "Eleven Sports",
-      "wariant": "",
-      "dostepnosc": "jako płatny dodatek | prezent w wybranych ofertach",
-      "cena": "Pakiet ELEVEN (TV) 30,18 zł/mies.; Eleven Online 30,18 zł/mies.; aktywacja 10 zł; w Superofercie 0 zł przez 6 mies., potem wyłączany",
-      "zasady": "5 kanałów Eleven Sports, w tym Eleven Sports 1 4K. Eleven Online w TV Smart GO.",
-      "opis": "",
-      "zrodla": [
-        "s9",
-        "st1",
-        "s14"
-      ],
-      "typ": "platny",
-      "krotko": "30,18 zł/mies.",
-      "uwaga": "w Superofercie 6 mies. za 0 zł"
-    },
-    {
-      "serwis": "Amazon Prime Video",
-      "wariant": "",
-      "dostepnosc": "integracja w dekoderze (logowanie własnym kontem)",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora. Aplikacja Prime Video dostępna na dekoderze TV Smart 4K BOX (Android TV) – logowanie własnym, płatnym kontem.",
-      "opis": "",
-      "zrodla": [
-        "s11"
-      ],
-      "typ": "konto",
-      "krotko": "Własne konto",
-      "uwaga": "aplikacja na dekoderze, subskrypcja poza Vectrą"
-    },
-    {
-      "serwis": "Viaplay",
-      "wariant": "",
-      "dostepnosc": "integracja w dekoderze (logowanie własnym kontem)",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora. Aplikacja wymieniona wśród aplikacji dekodera TV Smart 4K BOX – logowanie własnym kontem.",
-      "opis": "",
-      "zrodla": [
-        "s11"
-      ],
-      "typ": "konto",
-      "krotko": "Własne konto",
-      "uwaga": "aplikacja na dekoderze, subskrypcja poza Vectrą"
+        "sv4",
+        "sv5",
+        "sv6"
+      ]
     },
     {
       "serwis": "SkyShowtime",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora.",
-      "opis": "",
-      "zrodla": [
-        "s14"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Vectra nie oferuje tego serwisu (brak na vectra.pl). Dekoder TV Smart 4K BOX to Android TV z Google Play, w tabeli 'Serwisy streamingowe: Wszystkie', ale aplikacja nie jest wymieniona z nazwy. Dekodery Vectra 4K BOX / PVR nie pozwalają instalować aplikacji. ",
+      "zrodla": [
+        "s10"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Vectra nie oferuje tego serwisu (brak na vectra.pl). Dekoder TV Smart 4K BOX to Android TV z Google Play, w tabeli 'Serwisy streamingowe: Wszystkie', ale aplikacja nie jest wymieniona z nazwy. Dekodery Vectra 4K BOX / PVR nie pozwalają instalować aplikacji. ",
+      "zrodla": [
+        "s10"
+      ]
+    },
+    {
+      "serwis": "Apple TV",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Vectra nie oferuje tego serwisu (brak na vectra.pl). Dekoder TV Smart 4K BOX to Android TV z Google Play, w tabeli 'Serwisy streamingowe: Wszystkie', ale aplikacja nie jest wymieniona z nazwy. Dekodery Vectra 4K BOX / PVR nie pozwalają instalować aplikacji. ",
+      "zrodla": [
+        "s10"
+      ]
+    },
+    {
+      "serwis": "CANAL+ online",
+      "typ": "platny",
+      "krotko": "od 29 zł/mies.",
+      "uwaga": "Pakiet CANAL+ w TV daje dostęp do CANAL+ online; aktywacja 10 zł",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Dodatek do telewizji: CANAL+ Seriale i Filmy 29,00 zł/mies., CANAL+ Super Sport 69,00 zł/mies., aktywacja 10 zł, bez zobowiązania. Cennik (ceny standardowe): Seriale i Filmy 49,00 zł, Super Sport 99,00 zł. Zestawy: Internet 600 Mb/s + 129 kanałów + Seriale i Filmy 69,99 zł (mies. 1-3), potem 94,99 zł (4-23), zobowiązanie 23 mies. ('3 miesiące Canal+ w prezencie'); Internet 300 Mb/s + 72 kanały + Super Sport 79,99 zł (1-6), potem 114,99 zł (7-12), bez zobowiązania; Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł (1-12).",
+      "zasady": "Abonenci pakietów CANAL+ mogą korzystać z treści CANAL+ online. Regulamin promocji Premium wymienia też CANAL+ Online Seriale i Filmy / Super Sport jako usługę dodatkową dla klientów z samym internetem, ale cen online na stronie nie ma. Kanał 4K wymaga TV Smart 4K BOX. Ceny 29/69 zł to promocja (cennik 49/99 zł), regulamin promocji wskazuje okres zobowiązania z Informacji Przedumownych.",
+      "zrodla": [
+        "sv7",
+        "sv7",
+        "sv8",
+        "s9"
+      ]
     },
     {
       "serwis": "Polsat Box Go",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora. Vectra sprzedaje pojedyncze kanały Polsat Sport 1 (7,99 zł) i Polsat Sport 2 (4,99 zł) jako dodatki.",
-      "opis": "",
-      "zrodla": [
-        "s9"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak Polsat Box Go w ofercie Vectry. Cennik zawiera pojedyncze kanały Polsat (np. Polsat Sport 1 7,99 zł, Polsat Sport 2 4,99 zł). Aplikacja na TV Smart 4K BOX (Google Play) nie jest wymieniona z nazwy.",
+      "zrodla": [
+        "s10",
+        "s9"
+      ]
     },
     {
-      "serwis": "inny",
-      "wariant": "FILMBOX+ Stream, Blacknut, VOD",
-      "dostepnosc": "jako płatny dodatek",
-      "cena": "Pakiet FILMBOX 15,04 zł/mies.; pozostałe – ceny nie zweryfikowane",
-      "zasady": "FILMBOX+ Stream, Blacknut (gry w chmurze), VOD: FilmKlub, VODusie, Kino na życzenie. YouTube i Tidal jako aplikacje na TV Smart 4K BOX.",
-      "opis": "",
-      "zrodla": [
-        "s11",
-        "s9",
-        "s17"
-      ],
+      "serwis": "Player",
       "typ": "platny",
-      "krotko": "Filmbox 15,04 zł/mies.",
-      "uwaga": ""
+      "krotko": "Płatność przez rachunek Vectry",
+      "uwaga": "Cena nie podana na vectra.pl; aktywacja w Strefie Klienta",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Brak ceny na stronie vectra.pl/player.",
+      "zasady": "Opłatę za Player można doliczyć do rachunku Vectry, płatność pobierana automatycznie. Jedno konto, 5 profili, 2 urządzenia jednocześnie; pakiet LIVE TV ponad 20 kanałów. Aktywacja przez Strefę Klienta (ebok). (część informacji niepotwierdzona w oficjalnych źródłach)",
+      "zrodla": [
+        "sv9"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "typ": "platny",
+      "krotko": "19,99 zł/mies.",
+      "uwaga": "Dodatek do TV, aktywacja 10 zł; w Superofertach 6 mies. gratis",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Dodatek do telewizji Eleven Sports: 19,99 zł/mies., aktywacja 10 zł, bez zobowiązania. Cennik (ceny standardowe): Pakiet ELEVEN 30,18 zł, Eleven Online 30,18 zł, aktywacja 10 zł. Zestaw Internet 600 Mb/s + 129 kanałów + HBO Standardowy + Eleven Sports: 94,99 zł/mies. (mies. 1-11).",
+      "zasady": "5 kanałów Eleven Sports (w tym Eleven Sports 1 4K). W Superofertach Internet+TV Eleven 'w prezencie na 6 miesięcy za 0 zł/mies., potem ulega wyłączeniu'. Eleven Online jako usługa dodatkowa dla klientów z internetem jest w regulaminie promocji, ale cena online nie jest na stronie. Cena 19,99 zł to promocja, cennik 30,18 zł.",
+      "zrodla": [
+        "sv10",
+        "sv11",
+        "s9"
+      ]
+    },
+    {
+      "serwis": "Viaplay",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Viaplay nie występuje na vectra.pl (ani w ofercie, ani na liście aplikacji dekoderów). Poprzednie dane ('aplikacja na TV Smart 4K BOX') nie mają potwierdzenia w źródłach operatora.",
+      "zrodla": [
+        "sv12"
+      ]
+    },
+    {
+      "serwis": "FilmBox+",
+      "typ": "platny",
+      "krotko": "14,99 zł/mies.",
+      "uwaga": "FILMBOX+ Stream, aktywacja 10 zł, bez zobowiązania",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Pakiet FILMBOX+ Stream: 14,99 zł/mies. (dodatek do telewizji i usługa dodatkowa), aktywacja 10 zł, bez zobowiązania. Cennik: Pakiet FILMBOX 15,04 zł.",
+      "zasady": "Dostęp do serwisu streamingowego z wybranymi kanałami FilmBox, 15 kanałów na żywo, 3 urządzenia jednocześnie. Dostępny jako dodatek do TV oraz jako usługa dodatkowa (np. do internetu).",
+      "zrodla": [
+        "sv13",
+        "sv13"
+      ]
     }
   ],
   "multiroom": {
@@ -3611,6 +3709,15 @@
     "Strony vectra.pl nie dało się pobrać bezpośrednio (blokada), treści czytane przez pośredni fetch - warto zweryfikować w przeglądarce.",
     "Streaming: ceny CANAL+ niespójne – strona canal-plus-tv: Seriale i Filmy 29 zł, Super Sport 69 zł; cennik CN02 v1.44 (05.2026): 49 zł i 99 zł. Przyjęto stronę (nowsza).",
     "Streaming: cena Disney+ jako osobnej usługi w Vectrze i zasady aktywacji/istniejącego konta – strona vectra.pl/disney niedostępna, cennik nie wymienia Disney+.",
-    "Streaming: Regulamin Usługi Netflix Vectry (cena planów Standard/Premium jako dodatku, rezygnacja) – nie odnaleziono PDF; ceny ofert z Netflix z odczytu strony (kwoty trudne do odczytania, 94 vs 99 zł)."
+    "Streaming: Regulamin Usługi Netflix Vectry (cena planów Standard/Premium jako dodatku, rezygnacja) – nie odnaleziono PDF; ceny ofert z Netflix z odczytu strony (kwoty trudne do odczytania, 94 vs 99 zł).",
+    "Streaming: Netflix i Disney+ to NIE 'w cenie': są tylko w ofertach łączonych Internet+TV 129 kanałów (ten sam pakiet za 94,99 zł z Netflix, z Disney+ albo z HBO+Eleven). Zmienić typ na 'zestaw'.",
+    "Streaming: Cena samodzielnego Netflixa dla obecnych klientów ('Dokup w Strefie Klienta') nie jest podana na stronie, zapytać konsultanta.",
+    "Streaming: HBO Standardowy jest w zawartości pakietów TV 72/128/167 kanałów, ale strona nie mówi, czy na cały okres umowy. Potwierdzić u konsultanta.",
+    "Streaming: Na stronie HBO nie ma dodatku 'Podstawowy' ani 'samego HBO Max do internetu' z cenami; są tylko w cenniku (29,99/39,99/49,99). Na stronie: TV-dodatek Standardowy 39,99 i Premium 49,99, aktywacja 5 zł (nie 10 zł).",
+    "Streaming: Eleven: obecnie 19,99 zł/mies. (nie 30,18; 30,18 zł to cena cennikowa). CANAL+ 29/69 zł to ceny promocyjne (cennik 49/99 zł); regulamin promocji Premium na stronie ma daty do 30.09.2026, a ceny wciąż wiszą, zapytać czy jest zobowiązanie.",
+    "Streaming: Oferta 11434 (600 Mb/s + 129 kan. + HBO + Eleven, 94,99 zł): strona pokazuje zobowiązanie 11 mies., a podpięty regulamin mówi 23 mies. Niejasne.",
+    "Streaming: Viaplay, Prime Video, SkyShowtime, Apple TV, Polsat Box Go: brak w ofercie Vectry. TV Smart 4K BOX ma Google Play ('Serwisy streamingowe: Wszystkie'), ale konkretne aplikacje nie są wymienione. Vectra 4K BOX nie pozwala instalować aplikacji.",
+    "Streaming: Player: Vectra umożliwia płatność przez rachunek, ale bez ceny na stronie.",
+    "Streaming: Superoferty z prezentami HBO/Eleven obowiązują 01.10-02.11.2026, po tej dacie zweryfikować ponownie."
   ]
 }

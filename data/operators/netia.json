@@ -121,6 +121,83 @@
       "url": "https://my.netia.pl/pr/872655/telewizja-w-aplikacji-gratis-do-internetu-od-netii",
       "typ": "strona",
       "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "sv1",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/internet?czas=24",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv2",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/pakiety/internet-telewizja/dla-kinomaniaka?predkosc=1000&oferta=dla_kin",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv3",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/pakiety/internet-telewizja/dla-kazdego?predkosc=1000&oferta=dla_kaz",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv4",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/internet-z-disney?czas=24&dobierz=disney",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv5",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/telewizja-z-disney?oferta=dla_kaz&dobierz=disney",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv6",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/internet?czas=24&dobierz=sky",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv7",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/internet?czas=24&dobierz=apple",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv8",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/internet?czas=24&dobierz=prime",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv9",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/canal-plus",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv10",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/lp-canal-plus",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv11",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.netia.pl/pl/pakiety/internet-telewizja/dla-fanow-sportu?predkosc=1000&oferta=dla_fan",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
     }
   ],
   "podsumowanie": "Netia sprzedaje telewizję razem z internetem stacjonarnym (ceny pakietów TV podawane \"z internetem\"). Telewizja działa przez dekoder podłączony do internetu Netii (IPTV) oraz online w aplikacji Netia GO. Struktura to stałe pakiety XS (w cenie internetu, bez dekodera, w aplikacji Netia GO), S, M i L (każdy kolejny zawiera poprzedni), do których dokupuje się pakiety tematyczne (CANAL+, HBO, Polsat Sport Premium, Eleven Sports, FilmBox, Cinemax, Dla dzieci, ukraiński, dla dorosłych); brak kanałów à la carte. Na stronie sprzedawane są też gotowe zestawy internet + TV: Dla Każdego, Dla Kinomaniaka (z HBO Max) i Dla Fanów Sportu (z Eleven Sports i Polsat Sport Premium).",
@@ -2761,181 +2838,169 @@
   "streaming": [
     {
       "serwis": "Netflix",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora. Oficjalne strony Netii nie wspominają o Netflixie ani jako dodatku, ani jako aplikacji na dekoderze.",
-      "opis": "",
-      "zrodla": [
-        "s3",
-        "s10",
-        "s4"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Netflix nie występuje w menu streamingów, w filtrze „Dobierz do pakietu” ani na stronie Netia GO. Oficjalne strony nie mówią, czy na dekoderze EVOBOX 4K jest aplikacja Netflix (więc ani „brak”, ani „konto” nie jest w 100% potwierdzone).",
+      "zrodla": [
+        "s1",
+        "sv1"
+      ]
     },
     {
       "serwis": "HBO Max",
-      "wariant": "Standard (dostęp bezterminowy) / Premium (dostęp na czas określony)",
-      "dostepnosc": "jako płatny dodatek | w cenie oferty Dla Kinomaniaka oraz Pakietów M 4K / L 4K z HBO Max",
-      "cena": "pakiet HBO HD z HBO Max od 25 zł/mies.; Pakiet M 4K z HBO Max (internet + 121 kanałów) od 95 zł/mies.; Pakiet L 4K z HBO Max (internet + 189 kanałów) od 125 zł/mies.; Dla Kinomaniaka (internet do 2 Gb/s + 99 kanałów + HBO HD z HBO Max) od 80 zł/mies.",
-      "zasady": "Tylko dla klientów z internetem i telewizją Netii, HBO Max wyłącznie razem z pakietem kanałów HBO HD (HBO, HBO 2, HBO 3). Przy dostępie na czas określony plan Premium, przy bezterminowym Standard. Aktywacja: w aplikacji HBO Max wybrać operatora Netia, przy pierwszym logowaniu ID klienta i kod autoryzacyjny z SMS/e-maila. Istniejące konto HBO Max można zachować (logowanie dotychczasowymi danymi). Do 4 urządzeń jednocześnie, 5 profili. Sposób rezygnacji nieopisany na stronie: przez Obsługę Klienta (801 802 803).",
-      "opis": "Aplikacja HBO Max: Google Play, App Store, wybrane Smart TV, Apple TV 4K, Chromecast, konsole, hbomax.com.",
+      "typ": "zestaw",
+      "krotko": "W pakiecie Dla Kinomaniaka",
+      "uwaga": "tylko z pakietem kanałów HBO HD i internetem Netii; Kinomaniak ok. 25 zł droższy",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "Dla Kinomaniaka 1 Gb/s + 123 kanały: 105 zł/mies. od 7. mies. (3 mies. 0 zł po rabatach, mies. 4-6: 25 zł); 1 Gb/s + 192 kanały: 135 zł/mies. od 7. mies. (mies. 4-6: 25 zł); Dla Kinomaniaka „już od 80 zł miesięcznie” (wolniejszy internet); strona /max: „HBO Max już od 25 zł/mies.”, Pakiet M 4K z HBO Max od 95 zł/mies., Pakiet L 4K z HBO Max od 125 zł/mies.",
+      "zasady": "W kartach Dla Kinomaniaka: „HBO HD + HBO Max Standardowy” (plan Standard). Dla porównania Dla Każdego 1 Gb/s + 120 kanałów kosztuje 80 zł, czyli HBO realnie podnosi cenę o ok. 25 zł (zgadza się z „od 25 zł/mies.”). HBO Max wyłącznie z pakietem kanałów HBO HD, dla abonentów z internetem i TV Netii. Aktywacja: w aplikacji HBO Max wybrać operatora Netia, ID klienta i kod autoryzacyjny z SMS/e-maila. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). W Netia GO (bez dekodera) pakiet HBO HD 20 zł/mies. Czy 25 zł/mies. można dokupić do Dla Każdego jako osobny dodatek, strona nie mówi wprost.",
       "zrodla": [
+        "sv2",
         "s14",
-        "s5",
-        "s1"
-      ],
-      "typ": "platny",
-      "krotko": "od 25 zł/mies.",
-      "uwaga": "pakiet HBO HD; w cenie ofert Dla Kinomaniaka, M 4K i L 4K"
+        "s14",
+        "sv3"
+      ]
     },
     {
       "serwis": "Disney+",
-      "wariant": "Standard (bez reklam, Full HD, 2 ekrany)",
-      "dostepnosc": "w cenie oferty Internet z Disney+ | jako płatny dodatek do pakietu TV",
-      "cena": "",
-      "zasady": "Wymaga oferty internetowej Netii z Disney+ (Disney+ jest integralną częścią usługi internetowej; brak aktywacji nie obniża opłaty) albo dokupienia jako pakiet premium do TV. Opłata doliczana do rachunku Netii. Aktywacja: w ciągu 24 h e-mail/SMS z linkiem (ważny 30 dni) albo w Netia Online, zakładka Usługi Dodatkowe. Istniejące konto Disney+ można podpiąć (historia zostaje); subskrypcja kupiona bezpośrednio jest wstrzymywana, a kupiona przez Google/Apple trzeba anulować samemu. 2 ekrany jednocześnie, 10 urządzeń do pobrań, 7 profili. Aplikacja na dekoderach 4K bez gwarancji działania. Rezygnacja: przez Obsługę Klienta.",
-      "opis": "",
+      "typ": "zestaw",
+      "krotko": "Internet z Disney+ od 90 zł",
+      "uwaga": "Disney+ to ok. +25 zł do ceny; 6 mies. 0 zł po rabatach, umowa 24 mies.",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "Internet stacjonarny z Disney+ 1 Gb/s: 90 zł/mies. od 7. mies. (6 mies. 0 zł po rabatach), bez Disney+ 65 zł. Z TV (1 Gb/s): 95 kanałów z Disney+ 95 zł (bez: 70 zł), 120 kanałów z Disney+ 105 zł (bez: 80 zł), 189 kanałów z Disney+ 135 zł; wszystkie od 7. mies., 6 mies. 0 zł po rabatach.",
+      "zasady": "Plan Standard. Disney+ jest „integralną częścią usługi internetowej przez cały okres jej trwania”; brak aktywacji nie obniża opłaty. Aktywacja: wiadomość powitalna w ciągu 24 h, link ważny 30 dni. Rezygnacja: przez Obsługę Klienta. Netia nie gwarantuje aplikacji Disney+ na dekoderach. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). Osobnej ceny „dodatku Disney+” strona nie podaje; różnicę ok. 25 zł wyliczono z porównania ofert.",
       "zrodla": [
-        "s12",
-        "s4"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W ofercie Internet z Disney+",
-      "uwaga": "cenę potwierdzi konsultant"
+        "sv4",
+        "sv5",
+        "sv1",
+        "s12"
+      ]
     },
     {
       "serwis": "SkyShowtime",
-      "wariant": "Standard (Full HD, 2 ekrany, 6 profili)",
-      "dostepnosc": "w cenie wybranych taryf internetowych",
-      "cena": "w cenie wybranych taryf, bez dodatkowych opłat",
-      "zasady": "Wymaga zakupu oferty Netii z SkyShowtime (strona nie wymienia, które to taryfy). Promocja „Wybierz rabat 3 miesiące (CU, PON, HFC, ETTH)” wg przypisu na stronie: umowa na czas określony 24 pełnych okresów rozliczeniowych, rabaty 5 zł za e-fakturę i 5 zł za zgody marketingowe (w razie rezygnacji lub niespełnienia warunków cena rośnie o 10 zł), opłata aktywacyjna 79 zł za internet i 2 zł za telewizję doliczana do pierwszej faktury, po 24 miesiącach abonament rośnie o 10 zł. Aktywacja: e-mail/SMS powitalny z linkiem do rejestracji, potem aplikacja SkyShowtime (Google Play, App Store, Smart TV) lub skyshowtime.com. 2 ekrany jednocześnie, do 30 pobrań. Brak opisu podpięcia istniejącego konta i rezygnacji.",
-      "opis": "",
+      "typ": "zestaw",
+      "krotko": "Internet ze SkyShowtime od 50 zł",
+      "uwaga": "NIE jest bez dopłaty: ok. +20 zł względem samego internetu; umowa 24 mies.",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "Internet ze SkyShowtime: 300 Mb/s 50 zł/mies.; 1 Gb/s 85 zł/mies. od 7. mies. (6 mies. 0 zł); 2 Gb/s 100 zł/mies. od 7. mies. (6 mies. 0 zł); 600 Mb/s 75 zł/mies. od 4. mies. (3 mies. 0 zł); 150 Mb/s 60 zł/mies. od 2. mies. (1 mies. 0 zł). Ten sam internet bez SkyShowtime: 30 / 65 / 80 / 55 / 40 zł.",
+      "zasady": "Plan Standard (Full HD, 2 streamy, 30 pobrań, 6 profili). Strona /skyshowtime pisze „w cenie wybranych taryf, bez dodatkowych opłat”, ale taryfy ze SkyShowtime są o 20 zł droższe od tych samych bez niego. Aktywacja: e-mail/SMS powitalny z linkiem. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON).",
       "zrodla": [
+        "sv6",
+        "sv6",
+        "s13",
         "s13"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W cenie wybranych taryf",
-      "uwaga": "bez dodatkowych opłat"
+      ]
     },
     {
       "serwis": "Amazon Prime Video",
-      "wariant": "Amazon Prime (z Prime Video)",
-      "dostepnosc": "w cenie wybranych ofert (internet z Prime, internet + TV z Prime)",
-      "cena": "Pakiet z Amazon Prime (internet 1 Gb/s + 118 kanałów + Prime) 85 zł/mies.; Internet z Amazon Prime (internet 1 Gb/s + Prime) 70 zł/mies.; w obu 6 mies. abonamentu za 0 zł po rabatach",
-      "zasady": "Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł (internet) i 2 zł (TV); po 24 mies. abonament +10 zł; tylko sieć PON, HFC, ETTH. Aktywacja: w ciągu 24 h e-mail/SMS z linkiem do rejestracji. Klient, który ma już Prime, musi założyć nowe konto Amazon (inny e-mail) albo anulować subskrypcję kupioną w Amazonie. Jedno konto Prime na jeden numer MSISDN w Netii. Prime Video na 3 urządzeniach jednocześnie. Ceny z poprzedniego sprawdzenia, strony nie otwierano ponownie 23.10.2026 (patrz „do_sprawdzenia”).",
-      "opis": "",
+      "typ": "zestaw",
+      "krotko": "Internet z Prime od 35 zł",
+      "uwaga": "tylko ok. +5 zł względem samego internetu; jedno konto Prime na numer w Netii",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "Internet stacjonarny z Amazon Prime: 300 Mb/s 35 zł/mies.; 1 Gb/s 70 zł/mies. od 7. mies. (6 mies. 0 zł po rabatach); 2 Gb/s 85 zł/mies. od 7. mies. (6 mies. 0 zł); 600 Mb/s 60 zł/mies. od 4. mies. (3 mies. 0 zł); 150 Mb/s 45 zł/mies. od 2. mies. (1 mies. 0 zł). Strona Prime: „Pakiet z Amazon Prime” (1 Gb/s + 118 kanałów + Prime) 85 zł/mies., 6 mies. 0 zł po rabatach.",
+      "zasady": "Pełny Amazon Prime (Prime Video do 3 urządzeń, 4K, dostawy, gry). Aktywacja: mail/SMS w ciągu 24 h z linkiem do rejestracji. Kto ma już Prime: nowe konto na inny e-mail albo anulowanie subskrypcji w Amazonie. Jedno konto Prime na jeden numer MSISDN w Netii. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON).",
       "zrodla": [
+        "sv8",
+        "sv8",
+        "s15",
         "s15"
-      ],
-      "typ": "w_cenie",
-      "krotko": "Oferta z Prime od 70 zł/mies.",
-      "uwaga": "internet 1 Gb/s + Prime 70 zł, z telewizją 85 zł; 6 mies. za 0 zł"
+      ]
     },
     {
-      "serwis": "inny",
-      "wariant": "Apple TV",
-      "dostepnosc": "w cenie wybranych ofert (internet + TV lub sam internet)",
-      "cena": "Pakiet z Apple TV (internet 1 Gb/s + 118 kanałów + Apple TV) 100 zł/mies.; Internet z Apple TV (internet 1 Gb/s + Apple TV) 85 zł/mies.; w obu 6 mies. abonamentu za 0 zł po rabatach",
-      "zasady": "Umowa na 24 okresy rozliczeniowe (przypis na stronie). Aktywacja: w ciągu 24 h e-mail/SMS z linkiem, rejestracja konta Apple. Subskrypcję można współdzielić z maks. 6 osobami, nie wymaga urządzenia Apple. Brak opisu rezygnacji i ceny po promocji. Ceny z poprzedniego sprawdzenia, strony nie otwierano ponownie 23.10.2026.",
-      "opis": "",
+      "serwis": "Apple TV",
+      "typ": "zestaw",
+      "krotko": "Internet z Apple TV od 50 zł",
+      "uwaga": "osobna oferta łączona, ok. +20 zł względem samego internetu; umowa 24 mies.",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "Internet stacjonarny z Apple TV: 300 Mb/s 50 zł/mies.; 1 Gb/s 85 zł/mies. od 7. mies. (6 mies. 0 zł po rabatach); 2 Gb/s 100 zł/mies. od 7. mies. (6 mies. 0 zł); 600 Mb/s 75 zł/mies. od 4. mies. (3 mies. 0 zł); 150 Mb/s 60 zł/mies. od 2. mies. (1 mies. 0 zł). Strona Apple TV: „Pakiet z Apple TV” (1 Gb/s + 118 kanałów + Apple TV) 100 zł/mies., 6 mies. 0 zł po rabatach.",
+      "zasady": "Apple TV tylko w specjalnych ofertach łączonych, nie w cenie standardowego internetu/TV. Aktywacja: mail/SMS w ciągu 24 h, rejestracja konta Apple. Subskrypcję może współdzielić do 6 osób. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). Rezygnacji z samego Apple TV strona nie opisuje.",
       "zrodla": [
+        "sv7",
+        "sv7",
+        "s16",
         "s16"
-      ],
-      "typ": "w_cenie",
-      "krotko": "Oferta z Apple TV od 85 zł/mies.",
-      "uwaga": "internet 1 Gb/s + Apple TV 85 zł, z telewizją 100 zł; 6 mies. za 0 zł"
+      ]
     },
     {
       "serwis": "CANAL+ online",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora jako osobnego serwisu. Netia sprzedaje kanały CANAL+ jako pakiety dodatkowe TV (CANAL+ SERIALE I FILMY, CANAL+ ULTRA); czy dają dostęp do aplikacji CANAL+ online, oficjalne strony nie podają.",
-      "opis": "",
+      "typ": "zestaw",
+      "krotko": "Pakiet z CANAL+ ULTRA 150 zł",
+      "uwaga": "pakiet kanałów CANAL+ ULTRA w ofercie TV; aplikacja CANAL+ niepotwierdzona",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "Dla Każdego „OFERTA Z CANAL+” 1 Gb/s + 115 kanałów z CANAL+ ULTRA: 150 zł/mies. od 7. mies. (3 mies. 0 zł po rabatach, mies. 4-6: 80 zł). Dla Fanów Sportu z CANAL+ ULTRA 1 Gb/s + 151 kanałów: 180 zł/mies. od 7. mies. (mies. 4-6: 100 zł). Strona /canal-plus: Internet 600 Mb/s + 139 kanałów, 150 zł/mies., 3 mies. 0 zł po rabatach.",
+      "zasady": "Netia sprzedaje CANAL+ jako pakiet kanałów CANAL+ ULTRA w ofertach z TV (nowa oferta sportowa od 17.08.2026: Premier League, Liga Mistrzów, Ekstraklasa). Żadna oficjalna strona nie mówi, czy pakiet daje dostęp do aplikacji CANAL+ online. Samego CANAL+ online Netia nie sprzedaje. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). (część informacji niepotwierdzona w oficjalnych źródłach)",
       "zrodla": [
-        "s1"
-      ],
-      "typ": "brak",
-      "krotko": "",
-      "uwaga": ""
-    },
-    {
-      "serwis": "Eleven Sports",
-      "wariant": "",
-      "dostepnosc": "w cenie oferty Dla Fanów Sportu | jako płatny dodatek | w Netia GO jako Netia Premium Sport",
-      "cena": "w cenie oferty Dla Fanów Sportu (od 90 zł/mies., 3 mies. abonamentu za 0 zł po rabatach); w Netia GO pakiet Eleven Sports 10 zł/mies. (wg strony Netia GO); Netia Premium Sport 35 zł/30 dni (wg komunikatu Netii)",
-      "zasady": "Dla Fanów Sportu: umowa 24 mies., zawiera Eleven Sports, Polsat Sport Premium i Eurosport, dekoder 4K. Pakiet Eleven Sports: 5 kanałów (w tym 4K). W Netia GO dostępny też Netia Premium Sport (Eleven Sports, Polsat Sport Premium, Motowizja) jako elastyczny pakiet odnawiany co 30 dni, dla abonentów m.in. pakietu XS. To kanały linearne, nie osobna aplikacja Eleven.",
-      "opis": "",
-      "zrodla": [
-        "s6",
-        "s8",
-        "s1",
-        "s17"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W ofercie Dla Fanów Sportu",
-      "uwaga": "od 90 zł/mies. z internetem; w Netia GO 10 zł/mies."
-    },
-    {
-      "serwis": "inny",
-      "wariant": "Netia GO",
-      "dostepnosc": "w cenie pakietu (każdy pakiet TV, w tym XS)",
-      "cena": "w cenie pakietu TV",
-      "zasady": "Aplikacja Netii z kanałami z pakietu na żywo, programami na życzenie i wypożyczalnią VOD. Do 3 urządzeń jednocześnie, w domu i poza nim, 5 profili na konto. Logowanie danymi z netiaonline.pl. Działa w przeglądarce (go.netia.pl), na Android/iOS, telewizorach z Android TV i Apple TV, telewizorach Samsung od 2019 r., przez Chromecast/AirPlay oraz na dekoderach Netia EvoBox. Pakiet XS (35 kanałów) jest dodawany bez opłat do każdej nowej usługi internetu na cały okres umowy.",
-      "opis": "",
-      "zrodla": [
-        "s8",
-        "s4",
-        "s17"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W cenie pakietu TV",
-      "uwaga": ""
-    },
-    {
-      "serwis": "inny",
-      "wariant": "Netia Premium (Netia GO, VOD)",
-      "dostepnosc": "jako płatny dodatek (dla abonentów pakietu XS w Netia GO)",
-      "cena": "20 zł/30 dni",
-      "zasady": "Elastyczny, miesięczny (odnawiany co 30 dni) pakiet VOD w Netia GO: katalog setek polskich i zagranicznych filmów, produkcji dla dzieci, kinowych hitów, klasyki, seriali i programów rozrywkowych. Dla abonentów pakietu TV XS; sposób rezygnacji i warunki odnowienia nie są opisane w komunikacie.",
-      "opis": "",
-      "zrodla": [
-        "s17"
-      ],
-      "typ": "platny",
-      "krotko": "20 zł/30 dni",
-      "uwaga": "dla pakietu XS"
-    },
-    {
-      "serwis": "inny",
-      "wariant": "Netia Premium Sport (Netia GO)",
-      "dostepnosc": "jako płatny dodatek (dla abonentów pakietu XS w Netia GO)",
-      "cena": "35 zł/30 dni",
-      "zasady": "Elastyczny pakiet odnawiany co 30 dni w Netia GO: Polsat Sport Premium (m.in. Liga Europy i Liga Konferencji UEFA, wybrane turnieje tenisowe), Eleven Sports (m.in. Formuła 1, 2 i 3, liga włoska, francuska, portugalska, wybrane mecze ligi hiszpańskiej, Puchar Niemiec) i Motowizja (WRC, ERC, NASCAR Cup). Dla abonentów pakietu TV XS; sposób rezygnacji nie jest opisany w komunikacie.",
-      "opis": "",
-      "zrodla": [
-        "s17"
-      ],
-      "typ": "platny",
-      "krotko": "35 zł/30 dni",
-      "uwaga": "dla pakietu XS"
+        "sv3",
+        "sv9",
+        "sv10"
+      ]
     },
     {
       "serwis": "Polsat Box Go",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora.",
-      "opis": "",
-      "zrodla": [
-        "s3"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Polsat Box Go nie występuje w menu streamingów, w filtrze „Dobierz do pakietu” ani na stronie Netia GO. Oficjalne strony nie mówią o aplikacji Polsat Box Go na dekoderze EVOBOX 4K.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Player",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Player nie występuje w menu streamingów, w filtrze „Dobierz do pakietu” ani na stronie Netia GO. Oficjalne strony nie mówią o aplikacji Player na dekoderze EVOBOX 4K.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Viaplay",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Viaplay nie występuje w menu streamingów, w filtrze „Dobierz do pakietu” ani na stronie Netia GO. Oficjalne strony nie mówią o aplikacji Viaplay na dekoderze EVOBOX 4K.",
+      "zrodla": [
+        "s1"
+      ]
+    },
+    {
+      "serwis": "FilmBox+",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "Pakiet kanałów FilmBox w Netia GO: 10 zł/mies. (to nie jest FilmBox+); kanał Filmbox One w Pakiecie L.",
+      "zasady": "Serwisu streamingowego FilmBox+ oficjalne strony Netii nie wymieniają. Czy pakiet kanałów FilmBox daje dostęp do FilmBox+, strony nie podają.",
+      "zrodla": [
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "typ": "zestaw",
+      "krotko": "W pakiecie Dla Fanów Sportu",
+      "uwaga": "kanały Eleven w TV Netii (nie aplikacja); pakiet od 90 zł/mies. z internetem",
+      "dostepnosc": "w ofercie łączonej",
+      "cena": "Dla Fanów Sportu „Już od 90 zł miesięcznie”; 1 Gb/s + 131 kanałów: 100 zł/mies. od 7. mies. (3 mies. 0 zł po rabatach, mies. 4-6: 20 zł); 1 Gb/s + 200 kanałów: 130 zł/mies. od 7. mies. W Netia GO: pakiet Eleven Sports 10 zł/mies.; Premium Sport (Eleven, Polsat Sport Premium, Motowizja) bez długotrwałych zobowiązań, ceny strona nie pokazuje.",
+      "zasady": "Dla Fanów Sportu: umowa 24 mies., dekoder 4K, Eleven Sports, Polsat Sport Premium i Eurosport w cenie. To kanały linearne (także w Netia GO), nie konto w aplikacji Eleven/Viaplay. Dla porównania Dla Każdego 1 Gb/s + 120 kanałów: 80 zł. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON).",
+      "zrodla": [
+        "sv11",
+        "sv11",
+        "s8",
+        "s8"
+      ]
     }
   ],
   "multiroom": {
@@ -3172,6 +3237,14 @@
     "Streaming: ceny po 6-mies. promocji dla ofert z Amazon Prime i Apple TV oraz regulaminy tych promocji (strona mówi o PDF, ale nie linkuje).",
     "Streaming: biuro prasowe Netii (powiązane artykuły, 28.08.2026) informuje o kampanii oferty internet z TV i Amazon Prime za 35 zł miesięcznie; to inna kwota niż 85 zł w danych ze strony s15. Strony Amazon Prime i Apple TV nie zostały ponownie otwarte w tym sprawdzeniu (limit narzędzia), więc ceny wymagają weryfikacji.",
     "Streaming: czy pakiety CANAL+ w Netii dają dostęp do aplikacji CANAL+ online.",
-    "Streaming: warunki rezygnacji i odnawiania pakietów Netia Premium / Premium Sport w Netia GO (komunikat prasowy podaje tylko cenę za 30 dni i skład)."
+    "Streaming: warunki rezygnacji i odnawiania pakietów Netia Premium / Premium Sport w Netia GO (komunikat prasowy podaje tylko cenę za 30 dni i skład).",
+    "Streaming: Apple TV, SkyShowtime, Disney+ i Amazon Prime to oferty łączone (zestaw), nie „w cenie”: dopłata vs ten sam internet to ok. +20 zł (Apple, Sky), +25 zł (Disney+), +5 zł (Prime).",
+    "Streaming: Strona /skyshowtime pisze „w cenie wybranych taryf, bez dodatkowych opłat”, ale konfigurator pokazuje +20 zł. Klientowi mówić cenę całej oferty.",
+    "Streaming: HBO Max: czy pakiet HBO HD (od 25 zł) da się dokupić do Dla Każdego / istniejącej usługi i ile dokładnie kosztuje, potwierdzić u konsultanta.",
+    "Streaming: CANAL+ ULTRA: zapytać, czy daje login do aplikacji CANAL+ online.",
+    "Streaming: Netflix, Player, Polsat Box Go, Viaplay, FilmBox+: zapytać, czy na dekoderze EVOBOX 4K są te aplikacje (wtedy typ „konto”).",
+    "Streaming: Ceny z konfiguratora netia.pl bez adresu (oferta „dotyczy mieszkań”, dla domów jednorodzinnych inna); pod konkretnym adresem mogą się różnić.",
+    "Streaming: Strona Prime/Apple TV podaje pakiet z TV 118 kanałów, a konfigurator pokazuje 95/120 kanałów: do sprawdzenia, która wersja jest aktualna.",
+    "Streaming: Ceny Netia Premium (VOD) i Premium Sport w Netia GO nie są dziś widoczne na stronie (stare dane: 20 zł i 35 zł / 30 dni z komunikatu)."
   ]
 }

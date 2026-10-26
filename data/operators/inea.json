@@ -156,6 +156,20 @@
       "url": "https://www.inea.pl/pomoc/dokumenty?category=Cenniki%20i%20regulaminy",
       "typ": "strona",
       "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "sv1",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.inea.pl/sites/default/files/2026-07/DIGITAL_CENNIK_USLUG_TELEWIZYJNYCH_(GPON)_2026-07-08.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv2",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.inea.pl/sites/default/files/2026-08/Kanaly%20premium%206M%2011.0%202026-06-02.pdf",
+      "typ": "pdf",
+      "sprawdzono": "2026-10-26"
     }
   ],
   "podsumowanie": "INEA sprzedaje telewizję HIWAY wyłącznie w pakiecie z internetem światłowodowym (GPON), na sieci Fiberhost i Światłowód Inwestycje; dekoder łączy się z routerem po Wi-Fi i obsługuje 4K. Podstawą jest START+REGIO (72 kanały), rozszerzany o CLASSIC (+65) lub EXTRA (+121) i paczki tematyczne bez zobowiązań, a premium (CANAL+, HBO Max, Cinemax, FILMBOX) na 12 miesięcy. W starszej sieci kablowej HFC obowiązują osobne pakiety BASIC/ECONOMY/SELECT.",
@@ -3376,157 +3390,167 @@
   ],
   "streaming": [
     {
-      "serwis": "HBO Max",
-      "wariant": "Premium (Full HD/4K, 4 urządzenia)",
-      "dostepnosc": "w cenie pakietu HBO + HBO MAX (TV) | jako płatny dodatek HBO MAX (sam internet)",
-      "cena": "Pakiet HBO + HBO MAX (TV) lub HBO MAX (sam internet): 35 zł/mies. przez 12 mies., od 13. mies. 40 zł/mies. (promocja Kanały PREMIUM 11.0); przy internecie 300/600/1000 Mb/s z HIWAY 4K: 0 zł przez 6 mies., 35 zł w mies. 7–12, potem 40 zł/mies.",
-      "zasady": "Wymaga utrzymania usługi TV lub internetu INEA przez czas promocji; okres lojalnościowy 12 mies., wcześniejsza rezygnacja = opłata wyrównawcza (maks. 420 zł). Wg cennika GPON pakiet HBO wymaga CLASSIC/EXTRA (do potwierdzenia). Zamówienie przez infolinię, aplikację INEA lub przy zakupie. Aktywacja: hbomax.com > utwórz konto > operator INEA, login IDK, hasło jak w moja.inea.pl. 4 urządzenia jednocześnie, do 100 pobrań. Brak opisu podpięcia istniejącego konta.",
-      "opis": "",
-      "zrodla": [
-        "s6",
-        "s16",
-        "s19",
-        "s3"
-      ],
-      "typ": "platny",
-      "krotko": "35 zł/mies.",
-      "uwaga": "przez 12 mies., potem 40 zł; z internetem HIWAY 4K pierwsze 6 mies. 0 zł"
-    },
-    {
-      "serwis": "CANAL+ online",
-      "wariant": "CANAL+ SERIALE I FILMY / CANAL+ SUPER SPORT",
-      "dostepnosc": "w cenie pakietu CANAL+ SUPER SPORT lub CANAL+ SERIALE I FILMY (TV) | jako płatny dodatek CANAL+ ONLINE (sam internet)",
-      "cena": "Seriale i Filmy: 25 zł/mies. przez 12 mies., potem 30 zł/mies.; Super Sport: 65 zł/mies. przez 12 mies., potem 70 zł/mies. (TV i sam internet); przy internecie 300/600/1000 Mb/s z HIWAY 4K: 0 zł przez 6 mies., potem 25 zł / 65 zł w mies. 7–12, dalej 30 zł / 70 zł",
-      "zasady": "Okres lojalnościowy 12 mies., opłata wyrównawcza maks. 300 zł (Seriale i Filmy) / 780 zł (Super Sport). Super Sport z TV tylko w pakietach HIWAY i START w GPON. Aktywacja: dodanie pakietu (aplikacja INEA, infolinia, zakup online), link rejestracyjny e-mailem, formularz na stronie CANAL+. 2 urządzenia jednocześnie (przeglądarka, iOS, Android, Android TV, Tizen, webOS, Apple TV, Chromecast). Działa w UE. Brak opisu podpięcia istniejącego konta.",
-      "opis": "",
-      "zrodla": [
-        "s6",
-        "s15",
-        "s19"
-      ],
-      "typ": "platny",
-      "krotko": "od 25 zł/mies.",
-      "uwaga": "Seriale i Filmy 25 zł, Super Sport 65 zł przez 12 mies."
-    },
-    {
-      "serwis": "inny",
-      "wariant": "FILMBOX+ Stream",
-      "dostepnosc": "w cenie pakietu FILMBOX & FILMBOX+ | jako płatny dodatek FILMBOX+ (sam internet)",
-      "cena": "10 zł/mies. przez 12 mies., potem 15 zł/mies.; w ofercie Pół roku za FREE 0 zł przez 6 mies.",
-      "zasady": "Okres lojalnościowy 12 mies. (opłata wyrównawcza maks. 120 zł). Filmy, seriale i kanały na żywo w aplikacji, 3 urządzenia jednocześnie.",
-      "opis": "",
-      "zrodla": [
-        "s6",
-        "s17",
-        "s19"
-      ],
-      "typ": "platny",
-      "krotko": "10 zł/mies.",
-      "uwaga": "przez 12 mies., potem 15 zł"
-    },
-    {
-      "serwis": "inny",
-      "wariant": "YouTube",
-      "dostepnosc": "integracja w dekoderze",
-      "cena": "bez opłat",
-      "zasady": "YouTube dostępny na dekoderze HIWAY, także w 4K.",
-      "opis": "",
-      "zrodla": [
-        "s2",
-        "s18"
-      ],
-      "typ": "w_cenie",
-      "krotko": "Bez opłat",
-      "uwaga": "aplikacja na dekoderze"
-    },
-    {
       "serwis": "Netflix",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora (brak też informacji o aplikacji na dekoderze HIWAY).",
-      "opis": "",
-      "zrodla": [
-        "s2",
-        "s3"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
+    },
+    {
+      "serwis": "HBO Max",
+      "typ": "platny",
+      "krotko": "35 zł/mies. (12 mies.)",
+      "uwaga": "Potem 40 zł; z nowym internetem 300-1000 + HIWAY 4K pierwsze 6 mies. 0 zł",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Pakiet HBO + HBO MAX (TV) lub HBO MAX (sam internet), promocja Kanały premium 11.0: 35 zł/mies. w mies. 1-12, 40 zł od 13. mies. (maks. opłata wyrównawcza 420 zł). Promocja Kanały premium 6M 11.0: 0 zł w mies. 1-6, 35 zł w mies. 7-12, 40 zł od 13. mies. (maks. opłata wyrównawcza 210 zł). Bez zobowiązań (Kanały premium bez zobowiązań 11.0): 40 zł/mies. Cena standardowa z cennika GPON: 79,90 zł/mies. Zestaw CINEMANIAC (EXTRA, FILM, FILMBOX & FILMBOX+, HBO + HBO MAX, Cinemax HD): 85 zł/mies., umowa na czas nieoznaczony.",
+      "zasady": "Promocje 12 mies. = umowa na czas oznaczony, Okres Lojalnościowy 12 mies., trzeba utrzymać usługę TV lub internetu stacjonarnego. 0 zł przez 6 mies. wg strony tylko razem z Internetem 300/600/1000 Mb/s i telewizją HIWAY 4K (sam regulamin 6M nie wymienia prędkości). Dostępne do internetu lub internetu z TV. Zamówienie: infolinia, aplikacja INEA lub przy zakupie internetu. Aktywacja: hbomax.com > Zaloguj się > utwórz konto > operator INEA, login IDK, hasło jak do moja.inea.pl. Pakiet TV daje też kanały HBO, HBO2, HBO3.",
+      "zrodla": [
+        "s6",
+        "s6",
+        "sv2",
+        "s16"
+      ]
     },
     {
       "serwis": "Disney+",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora.",
-      "opis": "",
-      "zrodla": [
-        "s2",
-        "s3"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
     },
     {
       "serwis": "SkyShowtime",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora.",
-      "opis": "",
-      "zrodla": [
-        "s2",
-        "s3"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
     },
     {
       "serwis": "Amazon Prime Video",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora.",
-      "opis": "",
-      "zrodla": [
-        "s2",
-        "s3"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
+    },
+    {
+      "serwis": "Apple TV",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
+    },
+    {
+      "serwis": "CANAL+ online",
+      "typ": "platny",
+      "krotko": "od 25 zł/mies. (12 mies.)",
+      "uwaga": "Seriale i Filmy 25 zł, Super Sport 65 zł; potem 30/70 zł",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Promocja Kanały premium 11.0 (TV z kanałami lub sam serwis do internetu): CANAL+ SERIALE I FILMY 25 zł w mies. 1-12, 30 zł od 13. mies. (maks. opł. wyrównawcza 300 zł); CANAL+ SUPER SPORT 65 zł w mies. 1-12, 70 zł od 13. mies. (maks. 780 zł). Promocja 6M: 0 zł w mies. 1-6, potem 25/65 zł w mies. 7-12, dalej 30/70 zł (maks. 150/390 zł). Bez zobowiązań: 30 zł / 70 zł. Ceny standardowe GPON: 54,90 zł / 129,90 zł.",
+      "zasady": "Okres Lojalnościowy 12 mies. w promocjach 12 mies. i 6M. 0 zł przez 6 mies. wg strony tylko z Internetem 300/600/1000 Mb/s i HIWAY 4K. Wersja SUPER SPORT z kanałami TV tylko w pakietach HIWAY i START w technologii GPON. Aktywacja: dodanie pakietu (aplikacja INEA, infolinia, przy zakupie), link rejestracyjny e-mailem, formularz na stronie CANAL+. 2 urządzenia jednocześnie.",
+      "zrodla": [
+        "s6",
+        "s6",
+        "s6",
+        "s6"
+      ]
     },
     {
       "serwis": "Polsat Box Go",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora.",
-      "opis": "",
-      "zrodla": [
-        "s2",
-        "s3"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą. Kanały Polsatu są liniowo w paczkach TV, ale to nie jest dostęp do Polsat Box Go.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
+    },
+    {
+      "serwis": "Player",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą. Paczka TV o nazwie PLAY to kanały liniowe, nie serwis Player.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
     },
     {
       "serwis": "Eleven Sports",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie streamingowej operatora (regulamin Kanały PREMIUM 11.0 nie wymienia Eleven).",
-      "opis": "",
+      "typ": "platny",
+      "krotko": "Paczka ELEVEN 15 zł/mies.",
+      "uwaga": "5 kanałów liniowych w TV HIWAY; dostęp do aplikacji Eleven niepotwierdzony",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Paczka ELEVEN (5 kanałów): 15 zł/mies. w promocji Wybierz więcej_GPON 4.0 (umowa na czas nieoznaczony); cena standardowa w cenniku GPON: 29,90 zł/mies.",
+      "zasady": "Dodatek do usługi TV (Internet z telewizją). Na czas nieokreślony, można zrezygnować w dowolnym momencie. To kanały TV na dekoderze; żadne oficjalne źródło INEA nie mówi o dostępie do serwisu/aplikacji Eleven Sports w ramach paczki.",
       "zrodla": [
-        "s6"
-      ],
+        "s2",
+        "s21",
+        "sv1"
+      ]
+    },
+    {
+      "serwis": "Viaplay",
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Brak w cenniku TV GPON i regulaminach promocji. Oficjalne strony wymieniają na dekoderze HIWAY tylko aplikację YouTube; o innych aplikacjach nic nie piszą.",
+      "zrodla": [
+        "s18",
+        "sv1"
+      ]
+    },
+    {
+      "serwis": "FilmBox+",
+      "typ": "platny",
+      "krotko": "10 zł/mies. (12 mies.)",
+      "uwaga": "Potem 15 zł wg regulaminu; z internetem 300-1000 + HIWAY 4K 6 mies. 0 zł",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "FILMBOX & FILMBOX+ (TV) lub FILMBOX+ (sam internet), promocja Kanały premium 11.0: 10 zł w mies. 1-12, 15 zł od 13. mies. (maks. opł. wyrównawcza 120 zł). Promocja 6M: 0 zł w mies. 1-6, 10 zł w mies. 7-12, 15 zł od 13. mies. (maks. 60 zł). Bez zobowiązań: 15 zł. Standard GPON: 29,90 zł. W zestawie CINEMANIAC (85 zł) i DELUXE (110 zł).",
+      "zasady": "Okres Lojalnościowy 12 mies. w promocjach 12 mies./6M. Strona inea.pl/hiway podaje po promocji 10,00 zł/mies., regulamin 15 zł (rozbieżność). Aktywacja kodem na filmboxplus.stream, 3 urządzenia jednocześnie.",
+      "zrodla": [
+        "s6",
+        "s6",
+        "sv2",
+        "s2"
+      ]
     }
   ],
   "multiroom": {
@@ -3753,6 +3777,13 @@
     "Plan serwisu CANAL+ online w pakietach (np. czy zawiera 4K) i dokładny plan HBO Max: opisy z landing page INEA, bez potwierdzenia w regulaminie.",
     "Kontekst: media (spidersweb.pl, 08.2026) podają, że Deutsche Telekom przejmuje INEA i Fiberhost, z finalizacją po zgodzie UOKiK. Nie potwierdzono w źródłach INEA; możliwe przyszłe zmiany oferty.",
     "Streaming: promocja 0 zł przez 6 mies. na HBO+HBO MAX, CANAL+ i FILMBOX przy internecie z HIWAY 4K – ceny z tabeli na stronie oferty Pół roku za FREE (s19); brak osobnego regulaminu tej promocji pakietów premium. Strona podaje FILMBOX 10 zł także po 12 mies., regulamin Kanały PREMIUM 11.0 – 15 zł.",
-    "Streaming: czy klient INEA może podpiąć istniejące konto HBO Max lub CANAL+ – brak informacji."
+    "Streaming: czy klient INEA może podpiąć istniejące konto HBO Max lub CANAL+ – brak informacji.",
+    "Streaming: Promo 0 zł przez 6 mies. na HBO Max/CANAL+/FILMBOX+: strona wiąże je z internetem 300/600/1000 Mb/s + HIWAY 4K, regulamin 6M nie wymienia prędkości. Dopytać konsultanta, czy obecny klient też dostanie 0 zł.",
+    "Streaming: FILMBOX+ po promocji: strona hiway podaje 10 zł, regulamin Kanały premium 11.0 i 6M podają 15 zł. Przyjąłem 15 zł (regulamin).",
+    "Streaming: HBO Max bez zobowiązania: 40 zł/mies. (regulamin Kanały premium bez zobowiązań 11.0); standard z cennika GPON to 79,90 zł.",
+    "Streaming: Paczka ELEVEN to 5 kanałów liniowych. Sprawdzić, czy daje też logowanie do aplikacji Eleven Sports (brak w źródłach).",
+    "Streaming: Aplikacje na dekoderze HIWAY: oficjalnie potwierdzony tylko YouTube. Netflix, Disney+, Prime Video itd. nie są wspomniane; potwierdzić u konsultanta, czy dekoder w ogóle pozwala instalować inne aplikacje.",
+    "Streaming: INEA Online TV (aplikacja INEA, bez dopłat dla klientów Internet z TV) to własna telewizja online, nie żaden z badanych serwisów.",
+    "Streaming: Ceny dotyczą sieci GPON (cennik GPON 2026-07-08); w HFC i u Operatorów Lokalnych mogą być inne."
   ]
 }

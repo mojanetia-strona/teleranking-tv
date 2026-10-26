@@ -72,6 +72,41 @@
       "url": "https://www.play.pl/play-expert/newsy/nowy-pakiet-ukraina-w-ofercie-telewizyjnej-play",
       "typ": "strona",
       "sprawdzono": "2026-10-23"
+    },
+    {
+      "id": "sv1",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.play.pl/oferta/play-telewizja (panel 'Sprawdź na co możesz wymienić punkty')",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv2",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.play.pl/oferta/play-telewizja (FAQ, zakładka Netflix)",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv3",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.play.pl/uslugi/serwisy-wideo/hbo-max",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv4",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.play.pl/oferta/play-telewizja (karta Telewizja MAX Premium / Lista kanałów)",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv5",
+      "tytul": "Streaming: strona operatora",
+      "url": "https://www.play.pl/uslugi/serwisy-wideo/amazon-prime",
+      "typ": "strona",
+      "sprawdzono": "2026-10-26"
     }
   ],
   "podsumowanie": "Play sprzedaje telewizję internetową z dekoderem Play BOX TV w trzech wariantach: Telewizja Start (do 71 kanałów), Telewizja MAX / MAX Premium (do 217/229 kanałów, MAX Premium z Filmbox, SkyShowtime, Eleven Sports i Eurosport w cenie) oraz Telewizja Nowej Generacji (ok. 100 kanałów + 45 punktów miesięcznie na serwisy streamingowe i pakiety). TV można kupić samodzielnie (na łączu innego operatora, z ograniczeniem części kanałów) lub z światłowodem Play. Osobno działa PLAY NOW (aplikacja, 66 kanałów w abonamentach komórkowych) oraz dla dotychczasowych klientów telewizja kablowa DVB-C po UPC (pakiety Start, Select, Max, Max Premium).",
@@ -3659,170 +3694,166 @@
   "streaming": [
     {
       "serwis": "Netflix",
-      "wariant": "Podstawowy / Standardowy / Premium",
-      "dostepnosc": "jako płatny dodatek (za punkty w TNG, płatny w MAX i PLAY NOW)",
-      "cena": "PLAY NOW: Podstawowy 29 zł/mies., Standard 43 zł/mies., Premium 60 zł/mies.; Telewizja Nowej Generacji: Podstawowy 35 pkt, Standardowy 50 pkt, Premium 65 pkt (z 45 pkt w abonamencie); Telewizja MAX: cena w sekcji Pakiety na dekoderze (nieopublikowana)",
-      "zasady": "TNG: wybór serwisów za punkty raz w miesiącu, niewykorzystane punkty przepadają, brakujące można dokupić (pakiety 10/20/40/80 pkt). MAX / PLAY NOW: aktywacja na dekoderze (Moje konto / sekcja Pakiety), potwierdzenie SMS-em, opłata na fakturze Play do rezygnacji; można zrezygnować w dowolnym momencie. Logowanie: zalogować się istniejącym kontem lub zarejestrować w serwisie. Przycisk Netflix na pilocie.",
-      "opis": "",
+      "typ": "w_cenie",
+      "krotko": "Za 35 z 45 pkt w TV Nowej Generacji",
+      "uwaga": "TNG: Podstawowy 35 pkt z puli 45 pkt/mies.; w MAX płatny od 37 zł/mies.",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "Telewizja Nowej Generacji (60 zł/mies. dla klientów Play po rabatach, 70 zł dla pozostałych; 45 pkt/mies.): Podstawowy 35 pkt, Standardowy 50 pkt, Premium 65 pkt. Telewizja MAX: Plan Podstawowy 37 zł/mies., promocja 50% taniej przez 3 mies. (najniższa cena z 30 dni 37 zł/mies.). Strona PLAY NOW (TV BOX/abonament): Podstawowy 29 zł/mies., Standard 43 zł/mies., Premium 60 zł/mies.",
+      "zasady": "TNG: punkty co cykl rozliczeniowy, wybór serwisów raz w miesiącu, Standard/Premium przekraczają pulę 45 pkt (brakujące trzeba dokupić). MAX: dodatek płatny do rachunku za TV, rezygnacja w dowolnym momencie; promocja 'zamów u konsultanta'. Aktywacja przez link SMS / kod QR w sekcji Pakiety na dekoderze lub w Play24. Rozbieżność: FAQ wciąż opisuje promocję '2 miesiące w prezencie', baner mówi o 50% przez 3 mies.; ceny 29/43/60 zł na stronie PLAY NOW różnią się od 37 zł podawanych dla Telewizji MAX.",
       "zrodla": [
-        "s3",
+        "sv1",
         "s1",
-        "s4"
-      ],
-      "typ": "platny",
-      "krotko": "od 29 zł/mies.",
-      "uwaga": "w PLAY NOW; w Telewizji Nowej Generacji za punkty"
+        "s2",
+        "s1"
+      ]
     },
     {
       "serwis": "HBO Max",
-      "wariant": "Podstawowy / Standardowy / Premium",
-      "dostepnosc": "jako płatny dodatek",
-      "cena": "PLAY NOW: od 30 zł/mies.; TNG: Podstawowy 25 pkt, Standardowy 35 pkt, Premium 40 pkt",
-      "zasady": "PLAY NOW: aktywacja w sekcji Pakiety, na playnow.pl lub w Play24, potem link SMS do założenia konta HBO Max; rezygnacja w dowolnym momencie; usługa niegwarantowana (jej wycofanie nie jest zmianą umowy). TNG: za punkty, zmiana raz w miesiącu. Przycisk Max na pilocie.",
-      "opis": "",
+      "typ": "w_cenie",
+      "krotko": "Za punkty w TV Nowej Generacji",
+      "uwaga": "TNG: od 25 pkt z puli 45; w MAX i do abonamentu od 30 zł/mies.",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "TNG: Podstawowy 25 pkt, Standardowy 35 pkt, Premium 40 pkt (wszystkie mieszczą się w 45 pkt/mies.). Telewizja MAX i abonament komórkowy/PLAY NOW: od 30 zł/mies. bez zobowiązań (cen poszczególnych wariantów strona nie podaje).",
+      "zasady": "Warianty Standardowy i Premium zawierają też kanały HBO, HBO2, HBO3. Aktywacja w sekcji Pakiety na dekoderze (zatwierdzenie na telefonie), w PLAY NOW lub Play24, potem link SMS do konta HBO Max. Rezygnacja w dowolnym momencie. Serwis niegwarantowany (wycofanie nie jest zmianą umowy).",
       "zrodla": [
-        "s3",
-        "s1",
-        "s4"
-      ],
-      "typ": "platny",
-      "krotko": "od 30 zł/mies.",
-      "uwaga": "w PLAY NOW; w Telewizji Nowej Generacji za punkty"
-    },
-    {
-      "serwis": "CANAL+ online",
-      "wariant": "CANAL+ (kanały + serwis online)",
-      "dostepnosc": "jako płatny dodatek",
-      "cena": "PLAY NOW: 49 zł/mies.; TNG: pakiet CANAL+ 50 pkt; MAX: cena w sekcji Pakiety na dekoderze (nieopublikowana)",
-      "zasady": "Aktywacja w sekcji Pakiety na dekoderze/TV BOX, potem link SMS do założenia konta CANAL+. Rezygnacja w dowolnym momencie (PLAY NOW). Przycisk CANAL+ Online na pilocie.",
-      "opis": "",
-      "zrodla": [
-        "s3",
-        "s1",
-        "s4"
-      ],
-      "typ": "platny",
-      "krotko": "49 zł/mies.",
-      "uwaga": "w PLAY NOW; w Telewizji Nowej Generacji 50 pkt"
-    },
-    {
-      "serwis": "Amazon Prime Video",
-      "wariant": "Amazon Prime",
-      "dostepnosc": "jako płatny dodatek",
-      "cena": "PLAY NOW: 15,50 zł/mies. lub 69 zł/rok; TNG: 15 pkt",
-      "zasady": "Aktywacja w sekcji Pakiety PLAY NOW, na playnow.pl lub w Play24 (na numerze telefonu Play), potem link SMS do założenia konta. Rezygnacja w dowolnym momencie. Obejmuje Prime Video, Amazon Luna, darmowe dostawy. Przycisk Prime Video na pilocie.",
-      "opis": "",
-      "zrodla": [
-        "s3",
-        "s1",
-        "s4"
-      ],
-      "typ": "platny",
-      "krotko": "15,50 zł/mies.",
-      "uwaga": "albo 69 zł za rok; w Telewizji Nowej Generacji 15 pkt"
-    },
-    {
-      "serwis": "SkyShowtime",
-      "wariant": "Standard z reklamami / Standard",
-      "dostepnosc": "jako płatny dodatek (TNG) | w cenie pakietu MAX Premium (kanały SkyShowtime 1 i 2)",
-      "cena": "TNG: Standard z reklamami 25 pkt, Standard 30 pkt; w cenie Telewizji MAX Premium",
-      "zasady": "W MAX Premium pakiet SkyShowtime (kanały SkyShowtime 1 i 2) w cenie przez czas umowy. W TNG za punkty, zmiana raz w miesiącu. Czy pakiet daje też dostęp do aplikacji SkyShowtime – niepotwierdzone.",
-      "opis": "",
-      "zrodla": [
+        "sv3",
+        "sv3",
+        "sv1",
         "s1"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W cenie Telewizji MAX Premium",
-      "uwaga": "w Telewizji Nowej Generacji od 25 pkt"
-    },
-    {
-      "serwis": "Viaplay",
-      "wariant": "Viaplay Filmy i Seriale (TNG) / Viaplay Total (PLAY NOW)",
-      "dostepnosc": "jako płatny dodatek",
-      "cena": "TNG: 15 pkt; PLAY NOW: Viaplay Total – cena nie podana",
-      "zasady": "PLAY NOW: aktywacja pakietu Viaplay Total w Play24 (Telewizja i Wideo), potem link SMS do założenia konta; rezygnacja w dowolnym momencie.",
-      "opis": "",
-      "zrodla": [
-        "s1",
-        "s3"
-      ],
-      "typ": "platny",
-      "krotko": "15 pkt w Telewizji Nowej Generacji",
-      "uwaga": "w PLAY NOW cenę potwierdzi konsultant"
-    },
-    {
-      "serwis": "Eleven Sports",
-      "wariant": "",
-      "dostepnosc": "w cenie pakietu MAX Premium | promocyjnie w MAX | jako płatny dodatek (TNG, PLAY NOW)",
-      "cena": "w cenie MAX Premium; w ofercie Internet + Telewizja MAX w cenie przez 12 mies.; TNG: 15 pkt; PLAY NOW: w płatnej opcji Pakiet Sport (cena nie podana)",
-      "zasady": "Pakiet 5 kanałów Eleven Sports (w tym Eleven Sports 1 4K). Kanały linearne, nie aplikacja Eleven.",
-      "opis": "",
-      "zrodla": [
-        "s1",
-        "s2",
-        "s3"
-      ],
-      "typ": "w_cenie",
-      "krotko": "W cenie Telewizji MAX Premium",
-      "uwaga": "w ofercie Internet + MAX przez 12 mies.; w TNG 15 pkt"
+      ]
     },
     {
       "serwis": "Disney+",
-      "wariant": "",
+      "typ": "konto",
+      "krotko": "Własne konto w aplikacji",
+      "uwaga": "Aplikacja na dekoderze Play BOX TV, subskrypcja poza Play",
       "dostepnosc": "integracja w dekoderze (logowanie własnym kontem)",
       "cena": "",
-      "zasady": "Nie ma w ofercie operatora (brak w punktach i pakietach). Można pobrać aplikację Disney+ z Google Play na dekoderze Play BOX TV (Android TV) i zalogować się własnym, płatnym kontem.",
-      "opis": "",
-      "zrodla": [
-        "s1",
-        "s4"
-      ],
-      "typ": "konto",
-      "krotko": "Własne konto",
-      "uwaga": "aplikacja na dekoderze, subskrypcja poza Play"
-    },
-    {
-      "serwis": "Player",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Play wymienia Player wśród serwisów 'w zależności od pakietu', ale nie ma go na liście za punkty ani w pakietach; nie ma w ofercie operatora (do potwierdzenia).",
-      "opis": "",
+      "zasady": "Play nie sprzedaje Disney+ (brak w punktach i pakietach). Aplikację pobiera się na dekoder Play BOX TV (Android TV) i loguje własnym kontem.",
       "zrodla": [
         "s1"
-      ],
+      ]
+    },
+    {
+      "serwis": "SkyShowtime",
+      "typ": "w_cenie",
+      "krotko": "W cenie MAX Premium / pkt w TNG",
+      "uwaga": "MAX Premium: w pakiecie; TNG: 25/30 pkt z puli 45",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "Telewizja MAX Premium (0 zł przez 6 mies., potem 60 zł/mies. dla klientów Play, 70 zł dla pozostałych): SkyShowtime w cenie. TNG: Standard z reklamami 25 pkt, Standard 30 pkt; osobno 'Pakiety SkyShowtime' (kanały SkyShowtime 1 i 2) 25/30 pkt.",
+      "zasady": "W MAX Premium lista kanałów pokazuje kanały SkyShowtime 1 i 2; czy obejmuje to także dostęp do aplikacji SkyShowtime, strona nie mówi. W TNG SkyShowtime jest w sekcji 'Serwisy streamingowe'. Serwis niegwarantowany.",
+      "zrodla": [
+        "sv4",
+        "sv1",
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Amazon Prime Video",
+      "typ": "w_cenie",
+      "krotko": "15 pkt w TNG / 15,50 zł mies.",
+      "uwaga": "TNG: 15 pkt z puli 45; do abonamentu Play 15,50 zł/mies. lub 69 zł/rok",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "TNG: Amazon Prime 15 pkt. Do abonamentu Play: 15,50 zł/mies. lub 69 zł/rok, bez zobowiązań.",
+      "zasady": "Amazon Prime obejmuje Prime Video, darmową dostawę, Amazon Luna i promocje. Aktywacja w sekcji Pakiety (PLAY NOW/playnow.pl/Play24), potem link SMS. Rezygnacja w dowolnym momencie.",
+      "zrodla": [
+        "sv1",
+        "sv5",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Apple TV",
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Apple TV pojawia się na stronie PLAY NOW wyłącznie jako platforma Smart TV, na której działa aplikacja PLAY NOW. Brak serwisu Apple TV w punktach i pakietach. Czy aplikację Apple TV da się zainstalować na Play BOX TV, Play nie podaje.",
+      "zrodla": [
+        "s3"
+      ]
+    },
+    {
+      "serwis": "CANAL+ online",
+      "typ": "w_cenie",
+      "krotko": "Za punkty w TNG / 49 zł mies.",
+      "uwaga": "TNG: CANAL+ Seriale i Filmy 25 pkt, pełny CANAL+ 50 pkt (ponad pulę 45)",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "TNG: Pakiet CANAL+ 50 pkt, Pakiet CANAL+ Seriale i Filmy 25 pkt. Na TV BOX/abonament: CANAL+ online 49 zł/mies.; w części abonamentów 'w abonamencie'.",
+      "zasady": "Pakiet CANAL+ (50 pkt) przekracza pulę 45 pkt, trzeba dokupić punkty. Pakiety CANAL+ oznaczone jako dostępne wyłącznie przez internet od Play. Aktywacja w sekcji Pakiety na TV BOX, potem link SMS do konta CANAL+. Rezygnacja kiedy chcesz. Czy pakiet 'Seriale i Filmy' daje pełny dostęp do aplikacji CANAL+ online, czy tylko kanały - niejasne.",
+      "zrodla": [
+        "sv1",
+        "s2",
+        "s3"
+      ]
     },
     {
       "serwis": "Polsat Box Go",
-      "wariant": "",
-      "dostepnosc": "brak",
-      "cena": "",
-      "zasady": "Nie ma w ofercie operatora. W PLAY NOW dostępny pakiet kanałów Polsat Sport Premium za 20 zł/mies. bez zobowiązań (do czerwca 2027).",
-      "opis": "",
-      "zrodla": [
-        "s3"
-      ],
       "typ": "brak",
       "krotko": "",
-      "uwaga": ""
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Play nie wymienia Polsat Box Go wśród serwisów. Dostępne są kanały: TNG 'Pakiet Polsat / Polsat OTT' 10/20 pkt, 'Pakiet Polsat Sport Premium' 15 pkt; do abonamentu Polsat Sport Premium 20 zł/mies. bez zobowiązań (dostępny do czerwca 2027 r.).",
+      "zrodla": [
+        "sv1",
+        "s3"
+      ]
     },
     {
-      "serwis": "inny",
-      "wariant": "Kabaret GO / YouTube / Kino Play",
-      "dostepnosc": "jako płatny dodatek",
-      "cena": "Kabaret GO w TNG 15 pkt; Kino Play: filmy od 5 zł za tytuł; YouTube bez opłat",
-      "zasady": "YouTube jako aplikacja na dekoderze (przycisk na pilocie); Kino Play to wypożyczalnia pojedynczych filmów.",
-      "opis": "",
+      "serwis": "Player",
+      "typ": "brak",
+      "krotko": "",
+      "uwaga": "",
+      "dostepnosc": "brak",
+      "cena": "",
+      "zasady": "Play wymienia Player na liście serwisów dostępnych 'w zależności od wybranego pakietu', ale Player nie występuje w liście punktów TNG ani w cennikach. Nie wiadomo, czy to płatny dodatek, czy aplikacja na dekoderze z własnym kontem.",
       "zrodla": [
-        "s1",
-        "s4"
-      ],
-      "typ": "platny",
-      "krotko": "Kabaret GO 15 pkt",
-      "uwaga": "YouTube bez opłat"
+        "s1"
+      ]
+    },
+    {
+      "serwis": "Eleven Sports",
+      "typ": "w_cenie",
+      "krotko": "W cenie Telewizji MAX Premium",
+      "uwaga": "Kanały Eleven (nie aplikacja); TNG 15 pkt; Internet+TV 12 mies. w cenie",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "W cenie Telewizji MAX Premium. Internet światłowód + Telewizja (dla nowych klientów): Eleven Sports w cenie przez 12 mies. TNG: Pakiet ELEVEN SPORTS 15 pkt, Pakiet SPORT MAX 25 pkt. PLAY NOW: w Pakiecie Sport (cena nie podana).",
+      "zasady": "Kanały Eleven Sports 1 (też 4K), 2, 3, 4. Chodzi o kanały linearne, o aplikacji Eleven Sports Play nie pisze.",
+      "zrodla": [
+        "sv4",
+        "s2",
+        "sv1"
+      ]
+    },
+    {
+      "serwis": "Viaplay",
+      "typ": "w_cenie",
+      "krotko": "15 pkt w TV Nowej Generacji",
+      "uwaga": "TNG: Viaplay Filmy i Seriale 15 pkt; Viaplay Total do abonamentu bez ceny",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "TNG: Viaplay Filmy i Seriale 15 pkt. Do abonamentu (Play24): pakiet Viaplay Total, cena nie podana na stronie.",
+      "zasady": "Viaplay Total aktywuje się w Play24 (Telewizja i Wideo), potem link SMS do konta; rezygnacja kiedy chcesz. Serwis niegwarantowany.",
+      "zrodla": [
+        "sv1",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "serwis": "FilmBox+",
+      "typ": "w_cenie",
+      "krotko": "W cenie Telewizji MAX Premium",
+      "uwaga": "MAX Premium: kanały FilmBox; TNG: Pakiet FilmBox 10 pkt",
+      "dostepnosc": "w cenie pakietu",
+      "cena": "W cenie Telewizji MAX Premium. TNG: Pakiet FilmBox 10 pkt (kanały Filmbox Premium, Extra, Arthouse, Family, Action).",
+      "zasady": "Karta MAX Premium pokazuje logo FilmBox+, a lista kanałów kanały Filmbox. Czy obejmuje to aplikację FilmBox+ (VOD), strona nie mówi.",
+      "zrodla": [
+        "sv4",
+        "sv1"
+      ]
     }
   ],
   "multiroom": {
@@ -4045,6 +4076,13 @@
     "Czy Multiroom jest dostępny w ofercie Telewizja Start i w telewizji kablowej (poza odkodowanymi kanałami na drugim TV).",
     "Streaming: koszty serwisów w punktach TNG (Netflix 35/50/65, Max 25/35/40, CANAL+ 50, Prime 15, SkyShowtime 25/30, Viaplay 15, Eleven 15, Kabaret GO 15) pochodzą z wcześniejszego odczytu play.pl; przy kontroli 23.10.2026 strona nie pokazywała tych liczb. Brak też ceny dokupienia punktów.",
     "Streaming: ceny Netflix, HBO Max, CANAL+, Amazon Prime w Telewizji MAX / MAX Premium (dokupienie na dekoderze) – Play ich nie publikuje; brak regulaminów/cenników tych usług na play.pl.",
-    "Streaming: cena Viaplay Total w PLAY NOW oraz Pakietu Sport (Eleven + Polsat Sport) w PLAY NOW – nie podano."
+    "Streaming: cena Viaplay Total w PLAY NOW oraz Pakietu Sport (Eleven + Polsat Sport) w PLAY NOW – nie podano.",
+    "Streaming: Telewizja Nowej Generacji daje 45 pkt/mies. w cenie abonamentu (60 zł klienci Play / 70 zł pozostali, 0 zł przez 6 mies., 24 mies. umowy). Netflix Podstawowy, HBO Max, SkyShowtime, Prime, Viaplay, Eleven mieszczą się w puli, więc dla klienta to 'w cenie' (ale jeden serwis zjada większość puli; np. Netflix 35 + Prime 15 = 50 pkt już nie wchodzi).",
+    "Streaming: Cennika dokupowania punktów nie znalazłem na stronie (obecne dane podają pakiety 10/20/40/80 pkt bez źródła), trzeba potwierdzić u konsultanta.",
+    "Streaming: Netflix: rozbieżność cen. Telewizja MAX to 37 zł/mies. za Plan Podstawowy (promocja -50% przez 3 mies.), a strona PLAY NOW podaje 29/43/60 zł. FAQ wciąż opisuje starą promocję '2 miesiące w prezencie'. Zapytać, która cena obowiązuje w danym kanale.",
+    "Streaming: Ceny HBO Max dla wariantów Standard/Premium w Telewizji MAX nie są publikowane ('od 30 zł'); Viaplay Total, Pakiet Sport w PLAY NOW, cena dokupienia CANAL+ w MAX też bez ceny.",
+    "Streaming: MAX Premium: SkyShowtime, FilmBox+ i Eleven 'bez dodatkowych opłat', ale lista kanałów pokazuje kanały linearne. Czy klient dostaje też aplikacje (SkyShowtime, FilmBox+), do potwierdzenia.",
+    "Streaming: Player i Apple TV: brak potwierdzenia, czy da się je mieć (Play wymienia Player w tekście SEO bez szczegółów).",
+    "Streaming: Dokument 'Pakiety Premium dodatkowo płatne' (stan na 12.06.2026) ma tylko listę kanałów w pakietach, bez cen; nie znalazłem aktualnego cennika PDF z cenami dodatków. Cenniki znalezione w wyszukiwarce są z 2024-2025."
   ]
 }
