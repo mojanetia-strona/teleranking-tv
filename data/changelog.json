@@ -1,5 +1,39 @@
 [
   {
+    "data": "2026-11-02",
+    "operatorzy": [
+      {
+        "operator": "T-Mobile",
+        "zmiany": [
+          "Nowe kanały: Newsmax Polska, TVP Seriale",
+          "Usunięte kanały: Newsmax",
+          "Zmiana pakietów dla kanałów: Adventure, BBC Brit, ViDoc TV 4K, Warner TV",
+          "(opis AI) Nowa oficjalna lista kanałów MagentaTV (PDF, stan na 14.10.2026, link ze strony z listą kanałów) dodana jako źródło s_tm_pdf; kanały zweryfikowane względem niej.",
+          "(opis AI) Dodano kanał TVP Seriale (nr 124, MIDI i MAXI) – jest na liście z 14.10.2026 i na stronie, a brakowało go w danych.",
+          "(opis AI) ViDoc TV (nr 532) jest teraz na oficjalnej liście i dostępny we wszystkich pakietach (Telewizja dla każdego, MIDI, MAXI); ViDoc TV 4K (nr 533) tylko w MAXI. Wcześniej oba miały puste pakiety.",
+          "(opis AI) BBC Brit (nr 526) i Adventure (nr 530) według listy z 14.10.2026 są także w Telewizji dla każdego (wcześniej tylko MIDI i MAXI).",
+          "(opis AI) Warner TV (nr 132) według listy z 14.10.2026 jest tylko w MAXI (wcześniej wpisany także w MIDI).",
+          "(opis AI) Kanał „Newsmax” przemianowano na „Newsmax Polska” (nazwa z listy z 14.10.2026 i ze strony); usunięto adnotację o kanale obcojęzycznym.",
+          "(opis AI) Polsat Comedy Central Extra i TeenNick: lista z 14.10.2026 podaje dostępność w ofercie do 31.12.2027 r. (wcześniej wpisano 31.12.2026).",
+          "(opis AI) Funkcje z listy z 14.10.2026: nagrywanie 128 kanałów, catch-up 190 (wcześniej 189), time-shift 113; zaktualizowano opisy.",
+          "(opis AI) ShortTV, ShortTV 4K, BBC News i Euronews FR są na stronie z listą kanałów, ale nie ma ich w PDF z 14.10.2026; zostawiono je z adnotacją i dopisano do do_sprawdzenia.",
+          "(opis AI) Streaming: strona rozrywka pokazuje CANAL+ „od 29,99 zł/mies.”, a strona CANAL+ i regulamin podają 29 zł (Seriale i Filmy) – zostawiono 29 zł i dopisano rozbieżność do do_sprawdzenia. Netflix, HBO Max i CANAL+ Super Sport bez zmian (Netflix nadal zapowiada zmianę ceny od 1.11.2026 bez nowych kwot).",
+          "(opis AI) Zaktualizowano daty sprawdzenia źródeł i liczby w do_sprawdzenia."
+        ]
+      },
+      {
+        "operator": "Vectra",
+        "zmiany": [
+          "(opis AI) Streaming / CANAL+ Super Sport (dodatek do TV): strona vectra.pl/canal-plus pokazuje teraz 25 zł za pierwszy miesiąc, od 2. miesiąca 69,00 zł/mies., aktywacja 0 zł (wcześniej w danych 69 zł od początku i aktywacja 10 zł). Zaktualizowano pola cena, uwaga i zasady.",
+          "(opis AI) CANAL+ Seriale i Filmy: bez zmian (29,00 zł/mies., aktywacja 10 zł, bez zobowiązania). Potwierdzono ponownie na stronie.",
+          "(opis AI) Oferta Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł nie jest już widoczna na stronie vectra.pl/canal-plus. Zostawiono ją w danych z adnotacją i dopisano do 'do_sprawdzenia'.",
+          "(opis AI) Zaktualizowano daty sprawdzenia źródeł s1, s4, s5, sv7 i sv10 oraz dopisano nowe punkty w 'do_sprawdzenia'.",
+          "(opis AI) Wykaz telewizji cyfrowej IN01p nadal ma wersję 1.102 (od 1.10.2026). Strony pakiety-tv i oferta-telewizja-internetowa nie zmieniły liczb kanałów (37/72/128/167/191 oraz TV Smart 41/81/125), więc skład pakietów i kanałów zostaje bez zmian."
+        ]
+      }
+    ]
+  },
+  {
     "data": "2026-10-26",
     "operatorzy": [],
     "bledy": [

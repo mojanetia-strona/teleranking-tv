@@ -1,21 +1,28 @@
 {
   "operator": "T-Mobile",
   "slug": "t-mobile",
-  "sprawdzono": "2026-10-26",
+  "sprawdzono": "2026-11-02",
   "zrodla": [
     {
       "id": "s_tm_lista",
       "tytul": "Pakiety telewizyjne - lista kanałów (t-mobile.pl, tabela pakietów)",
       "url": "https://www.t-mobile.pl/MagentaTV/pakiety-telewizyjne-lista-kanalow",
       "typ": "strona",
-      "sprawdzono": "2026-10-26"
+      "sprawdzono": "2026-11-02"
+    },
+    {
+      "id": "s_tm_pdf",
+      "tytul": "Lista programów Magenta TV, stan na 14.10.2026 (PDF linkowany ze strony z listą kanałów)",
+      "url": "https://www.t-mobile.pl/dam/jcr:444ed9b8-2a6b-4319-9498-3e4191cba049",
+      "typ": "pdf",
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "s1",
       "tytul": "Strona MagentaTV (T-Mobile)",
       "url": "https://www.t-mobile.pl/MagentaTV",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "s2",
@@ -29,7 +36,7 @@
       "tytul": "Lista programów MagentaTV, stan na 1.07.2026 (pakiety S/M/L, CANAL+ SUPER SPORT, Eurosport), podlinkowana ze strony dekodera",
       "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6a43d2c4a249e9b64c6e8d48/attachments/a62015a9760b4227bc3a86e7aa6e4baa",
       "typ": "pdf",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "s5",
@@ -120,21 +127,21 @@
       "tytul": "Netflix w T-Mobile",
       "url": "https://www.t-mobile.pl/rozrywka/netflix",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "s18",
       "tytul": "HBO Max w T-Mobile",
       "url": "https://www.t-mobile.pl/rozrywka/hbo_max",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "s19",
       "tytul": "Serwis streamingowy CANAL+ w T-Mobile",
       "url": "https://www.t-mobile.pl/rozrywka/canalplus",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "s20",
@@ -173,10 +180,10 @@
     },
     {
       "id": "st3",
-      "tytul": "Regulamin CANAL+ Filmy i Seriale oraz CANAL+ Super Sport w T-Mobile",
+      "tytul": "Regulamin CANAL+ Filmy i Seriale oraz CANAL+ Super Sport w T-Mobile (od 29.06.2026)",
       "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006630",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "st4",
@@ -190,7 +197,7 @@
       "tytul": "T-Mobile: Serwisy rozrywkowe (Netflix, HBO Max, CANAL+)",
       "url": "https://www.t-mobile.pl/rozrywka",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-02"
     },
     {
       "id": "sv1",
@@ -204,11 +211,12 @@
   "technologie": [
     {
       "nazwa": "OTT (aplikacja)",
-      "opis": "Aplikacja MagentaTV na Smart TV, smartfonie, tablecie i komputerze oraz strona magentatv.pl. Według listy kanałów z 18.08.2026 wszystkie kanały działają przez internet od dowolnego dostawcy. Działa we wszystkich trzech pakietach.",
+      "opis": "Aplikacja MagentaTV na Smart TV, smartfonie, tablecie i komputerze oraz strona magentatv.pl. Według listy kanałów z 14.10.2026 wszystkie kanały działają przez internet od dowolnego dostawcy. Działa we wszystkich trzech pakietach.",
       "zrodla": [
         "s1",
         "s8",
-        "s20"
+        "s20",
+        "s_tm_pdf"
       ]
     },
     {
@@ -235,6 +243,7 @@
       "warunki": "Umowa bezterminowa. Dla klientów wszystkich sieci, bez potrzeby internetu T-Mobile. Wymaga rejestracji (nowymoj.t-mobile.pl/tv), zgód marketingowych i obsługi elektronicznej (od tego zależą rabaty). Dekoder za dopłatą. Możliwość dokupienia pojedynczych kanałów.",
       "zrodla": [
         "s_tm_lista",
+        "s_tm_pdf",
         "s1",
         "s2",
         "s8",
@@ -252,6 +261,7 @@
       "warunki": "Umowa na 24 miesiące. Działa przez internet od dowolnego dostawcy. Klienci światłowodu T-Mobile mają w ofercie pakietowej dekoder w cenie.",
       "zrodla": [
         "s_tm_lista",
+        "s_tm_pdf",
         "s1",
         "s2",
         "s15",
@@ -269,6 +279,7 @@
       "warunki": "Umowa na 24 miesiące (czas określony). Działa przez internet od dowolnego dostawcy.",
       "zrodla": [
         "s_tm_lista",
+        "s_tm_pdf",
         "s1",
         "s2",
         "s15",
@@ -982,7 +993,7 @@
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": "nr 111; kanał niegwarantowany; dostępny w ofercie do 31.12.2026 r. (przypis na liście kanałów)"
+      "uwagi": "nr 111; kanał niegwarantowany; dostępny w ofercie do 31.12.2027 r. (przypis na liście kanałów z 14.10.2026)"
     },
     {
       "nazwa": "BBC First",
@@ -1033,6 +1044,16 @@
         "tmobile-maxi"
       ],
       "uwagi": "nr 123; kanał niegwarantowany"
+    },
+    {
+      "nazwa": "TVP Seriale",
+      "kategoria": "filmy i seriale",
+      "jakosc": "HD",
+      "pakiety": [
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 124; kanał niegwarantowany"
     },
     {
       "nazwa": "TVP HD",
@@ -1105,7 +1126,6 @@
       "kategoria": "filmy i seriale",
       "jakosc": "HD",
       "pakiety": [
-        "tmobile-midi",
         "tmobile-maxi"
       ],
       "uwagi": "nr 132; kanał niegwarantowany"
@@ -1212,7 +1232,7 @@
       "uwagi": "nr 203; kanał gwarantowany"
     },
     {
-      "nazwa": "Newsmax",
+      "nazwa": "Newsmax Polska",
       "kategoria": "informacyjne",
       "jakosc": "HD",
       "pakiety": [
@@ -1220,7 +1240,7 @@
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": "nr 204; kanał niegwarantowany; kanał obcojęzyczny"
+      "uwagi": "nr 204; kanał niegwarantowany"
     },
     {
       "nazwa": "Wydarzenia 24",
@@ -1961,20 +1981,22 @@
       "kategoria": "dokumentalne",
       "jakosc": "HD",
       "pakiety": [
+        "tmobile-dla-kazdego",
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": "nr 526; kanał gwarantowany"
+      "uwagi": "nr 526; kanał gwarantowany; wg listy z 14.10.2026 także w Telewizji dla każdego"
     },
     {
       "nazwa": "Adventure",
       "kategoria": "dokumentalne",
       "jakosc": "HD",
       "pakiety": [
+        "tmobile-dla-kazdego",
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": "nr 530; kanał niegwarantowany"
+      "uwagi": "nr 530; kanał niegwarantowany; wg listy z 14.10.2026 także w Telewizji dla każdego"
     },
     {
       "nazwa": "Show TV",
@@ -1991,15 +2013,21 @@
       "nazwa": "ViDoc TV",
       "kategoria": "dokumentalne",
       "jakosc": "HD",
-      "pakiety": [],
-      "uwagi": "brak na oficjalnej liście kanałów t-mobile.pl (26.10.2026)"
+      "pakiety": [
+        "tmobile-dla-kazdego",
+        "tmobile-midi",
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 532; kanał niegwarantowany; jest na liście PDF z 14.10.2026, brak w tabeli na stronie"
     },
     {
       "nazwa": "ViDoc TV 4K",
       "kategoria": "dokumentalne",
       "jakosc": "4K",
-      "pakiety": [],
-      "uwagi": "brak na oficjalnej liście kanałów t-mobile.pl (26.10.2026)"
+      "pakiety": [
+        "tmobile-maxi"
+      ],
+      "uwagi": "nr 533; kanał niegwarantowany; jest na liście PDF z 14.10.2026, brak w tabeli na stronie"
     },
     {
       "nazwa": "Eska TV",
@@ -2261,7 +2289,7 @@
       "pakiety": [
         "tmobile-maxi"
       ],
-      "uwagi": "nr 707; kanał niegwarantowany; dostępny w ofercie do 31.12.2026 r. (przypis na liście kanałów)"
+      "uwagi": "nr 707; kanał niegwarantowany; dostępny w ofercie do 31.12.2027 r. (przypis na liście kanałów z 14.10.2026)"
     },
     {
       "nazwa": "MiniMini+",
@@ -2526,7 +2554,7 @@
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": ""
+      "uwagi": "widoczny na stronie z listą kanałów (26.10 i 2.11.2026), brak w PDF z 14.10.2026; pakiety i numer niepotwierdzone w PDF"
     },
     {
       "nazwa": "ShortTV 4K",
@@ -2535,7 +2563,7 @@
       "pakiety": [
         "tmobile-maxi"
       ],
-      "uwagi": ""
+      "uwagi": "widoczny na stronie z listą kanałów, brak w PDF z 14.10.2026; pakiety i numer niepotwierdzone w PDF"
     },
     {
       "nazwa": "BBC News",
@@ -2545,7 +2573,7 @@
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": ""
+      "uwagi": "widoczny na stronie z listą kanałów, brak w PDF z 14.10.2026 (w PDF jest BBC World News nr 207); pakiety niepotwierdzone w PDF"
     },
     {
       "nazwa": "Euronews FR",
@@ -2555,7 +2583,7 @@
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": ""
+      "uwagi": "widoczny na stronie z listą kanałów, brak w PDF z 14.10.2026; pakiety niepotwierdzone w PDF"
     }
   ],
   "dodatki": [
@@ -2626,9 +2654,10 @@
         "TravelXP 4K",
         "Top Kids"
       ],
-      "warunki": "Tylko do pakietu Telewizja dla każdego; opłata miesięczna za każdy kanał.",
+      "warunki": "Tylko do pakietu Telewizja dla każdego; opłata miesięczna za każdy kanał. Lista kanałów z 14.10.2026 oznacza je gwiazdką.",
       "zrodla": [
-        "s1"
+        "s1",
+        "s_tm_pdf"
       ]
     },
     {
@@ -2649,68 +2678,74 @@
   "streaming": [
     {
       "serwis": "Netflix",
+      "wariant": "",
       "typ": "platny",
       "krotko": "od 37 zł/mies.",
       "uwaga": "Tylko z abonamentem głosowym T-Mobile (taryfa T); cena zmienia się od 1.11.2026",
       "dostepnosc": "jako płatny dodatek",
       "cena": "Netflix plan Podstawowy 37 zł/mies., plan Standardowy 55 zł/mies., plan Premium 75 zł/mies. (regulamin od 01.06.2026). Brak opłaty za cykl, w którym aktywowano usługę. Od 1.11.2026 zmiana ceny (nowe kwoty nie są podane na stronie).",
       "zasady": "Wyłącznie dla konsumentów z aktywnym mobilnym abonamentem głosowym T-Mobile na taryfie T (bez Heyah); nie jest w cenie MagentaTV. Aktywacja w aplikacji Mój T-Mobile > Usługi > serwisy rozrywkowe, link rejestracyjny na e-mail; istniejące konto Netflix można podpiąć. Bez zobowiązania; rezygnacja po pierwszym płatnym cyklu w aplikacji, pod 602 900 000 lub w salonie. Opłata z góry, na fakturze T-Mobile. Od 1.11.2026 nowa cena wymaga akceptacji klienta, inaczej serwis wyłączony z końcem cyklu listopadowego. Tytuł strony zapowiada 'Netflix Premium w cenie planu Podstawowego nawet na 3 miesiące', ale brak regulaminu tej promocji. Pilot MagentaTV Box ma przycisk Netflix.",
+      "opis": "",
       "zrodla": [
-        "st1",
-        "st1",
         "st1",
         "s17"
       ]
     },
     {
       "serwis": "HBO Max",
+      "wariant": "",
       "typ": "platny",
       "krotko": "39,99 zł/mies.",
       "uwaga": "Plan Premium w cenie Standardowego; tylko z abonamentem głosowym T-Mobile",
       "dostepnosc": "jako płatny dodatek",
       "cena": "HBO Max czasowy plan Premium w cenie Standardowego 39,99 zł/mies. Brak opłaty za niepełny cykl aktywacji.",
       "zasady": "Dla konsumentów z umową i aktywną mobilną usługą głosową T-Mobile (bez Heyah) oraz aplikacją Mój T-Mobile; nie jest w cenie MagentaTV (pakiet MAXI ma linearne kanały HBO, nie aplikację HBO Max). Aktywacja w Mój T-Mobile > serwisy rozrywkowe, link na e-mail. Bez zobowiązania; rezygnacja po pierwszym pełnym płatnym cyklu (aplikacja, 602 900 000, salon). Opłata z góry na fakturze. Regulamin od 28.10.2025; 'czasowy' plan, data końca nieokreślona.",
+      "opis": "",
       "zrodla": [
         "st2",
-        "s18",
-        "st2"
+        "s18"
       ]
     },
     {
       "serwis": "CANAL+ online",
+      "wariant": "",
       "typ": "platny",
       "krotko": "od 29 zł/mies.",
       "uwaga": "Seriale i Filmy 29 zł, Super Sport 69 zł; aktywacja w Mój T-Mobile",
       "dostepnosc": "jako płatny dodatek",
-      "cena": "CANAL+ Seriale i Filmy 29 zł/mies.; CANAL+ Super Sport 69 zł/mies. Strona pokazuje Super Sport '35 zł/mies. przez 1 miesiąc', ale regulamin tej promocji dopuszcza aktywację tylko do 31.07.2026. Brak opłaty za cykl aktywacji (wg regulaminu).",
-      "zasady": "Dla abonenta T-Mobile z aktywną umową i aplikacją Mój T-Mobile. Aktywacja: Mój T-Mobile > Usługi > serwisy rozrywkowe, link rejestracyjny na e-mail; opłata na fakturze T-Mobile. Bez zobowiązania; rezygnacja po pierwszym płatnym cyklu (aplikacja, 602 900 000, salon). Osobno istnieje opcja telewizyjna CANAL+ SUPER SPORT do MagentaTV (19 kanałów, 69 zł/mies., tylko przez dekoder TV BOX z internetem światłowodowym T-Mobile), to inna usługa niż aplikacja.",
+      "cena": "CANAL+ Seriale i Filmy 29 zł/mies.; CANAL+ Super Sport 69 zł/mies. (cennik w regulaminie od 29.06.2026). Strona pokazuje Super Sport '35 zł/mies. przez 1 miesiąc', ale regulamin tej promocji dopuszcza aktywację tylko do 31.07.2026. Brak opłaty za cykl aktywacji (wg regulaminu).",
+      "zasady": "Dla abonenta T-Mobile z aktywną umową i aplikacją Mój T-Mobile. Aktywacja: Mój T-Mobile > Usługi > serwisy rozrywkowe, link rejestracyjny na e-mail; opłata na fakturze T-Mobile. Bez zobowiązania; rezygnacja po pierwszym płatnym cyklu (aplikacja, 602 900 000, salon). Seriale i Filmy: oferta miesięczna, do 2 streamów jednocześnie, 65 kanałów online. Osobno istnieje opcja telewizyjna CANAL+ SUPER SPORT do MagentaTV (19 kanałów, 69 zł/mies., tylko przez dekoder TV BOX z internetem światłowodowym T-Mobile), to inna usługa niż aplikacja.",
+      "opis": "",
       "zrodla": [
         "s19",
         "st3",
-        "s19",
         "st4"
       ]
     },
     {
       "serwis": "Eleven Sports",
+      "wariant": "",
       "typ": "w_cenie",
       "krotko": "W cenie pakietu MAXI",
       "uwaga": "Kanały linearne Eleven 1-4 i 1 4K w MAXI (90 zł/mies. po 3 mies. za 0 zł)",
       "dostepnosc": "w cenie pakietu",
       "cena": "W cenie pakietu MagentaTV MAXI: 0 zł/mies. przez pierwsze 3 mies., potem 90 zł/mies. po rabatach (umowa 24 mies., potem +10 zł/mies. co rok).",
       "zasady": "Chodzi o kanały telewizyjne Eleven Sports 1-4 i Eleven Sports 1 4K w pakiecie MAXI, nie o osobną aplikację/subskrypcję Eleven. Brak w MIDI i 'Telewizji dla każdego'. Cena zawiera rabaty 5 zł za zgody marketingowe i 5 zł za e-fakturę.",
+      "opis": "",
       "zrodla": [
         "s1"
       ]
     },
     {
       "serwis": "Disney+",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem. Na stronach t-mobile.pl nie znaleziono żadnej oferty Disney+ (Deutsche Telekom zapowiadał Disney+ w krajach europejskich w 2026, ale T-Mobile Polska tego nie ogłosił na swojej stronie).",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
@@ -2719,12 +2754,14 @@
     },
     {
       "serwis": "SkyShowtime",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
@@ -2733,12 +2770,14 @@
     },
     {
       "serwis": "Amazon Prime Video",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
@@ -2747,12 +2786,14 @@
     },
     {
       "serwis": "Apple TV",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem. Uwaga: na stronie MagentaTV 'Apple TV' pojawia się tylko jako urządzenie, na którym działa aplikacja MagentaTV, nie jako serwis.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
@@ -2761,12 +2802,14 @@
     },
     {
       "serwis": "Polsat Box Go",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem. Kanały Polsat są w pakietach MagentaTV, ale to nie aplikacja Polsat Box Go.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
@@ -2775,12 +2818,14 @@
     },
     {
       "serwis": "Player",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem. Kanały TVN (np. TVN24) są w pakietach MagentaTV, ale to nie aplikacja Player.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
@@ -2789,12 +2834,14 @@
     },
     {
       "serwis": "Viaplay",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
@@ -2803,16 +2850,19 @@
     },
     {
       "serwis": "FilmBox+",
+      "wariant": "",
       "typ": "brak",
       "krotko": "",
       "uwaga": "",
       "dostepnosc": "brak",
       "cena": "",
-      "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem. Na liście kanałów MagentaTV (stan 24.09.2026) brak kanałów FilmBox.",
+      "zasady": "Na stronach t-mobile.pl (menu serwisów rozrywkowych, MagentaTV, aktualne promocje, pakiety internet+TV) brak oferty tego serwisu. Dekoder MagentaTV Box działa na Android TV i strona mówi ogólnie o 'serwisach streamingowych i ulubionych aplikacjach', ale nie wymienia tej aplikacji, więc nie można potwierdzić, że klient zaloguje się własnym kontem. Na liście kanałów MagentaTV (stan 14.10.2026) brak kanałów FilmBox.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "s5",
-        "s1"
+        "s1",
+        "s_tm_pdf"
       ]
     }
   ],
@@ -2842,8 +2892,8 @@
       "uwagi": "Logowanie loginem z umowy i hasłem do Mój T-Mobile. Usługa gwarantowana tylko w Polsce; czasowo w UE/EOG możliwa, ale niegwarantowana (T-Mobile może weryfikować IP)."
     },
     "smart_tv_bez_dekodera": "Tak. Aplikacja MagentaTV działa na Smart TV z Google TV/Android TV, Tizen (Samsung) i webOS (LG); dekoder jest opcjonalny we wszystkich pakietach.",
-    "nagrywanie": "Nagrywanie w chmurze (wirtualny dysk): 20 h w Telewizji dla każdego, 100 h w MIDI i MAXI, nagrania przechowywane do 180 dni. Dostępne na wybranych kanałach (wg listy z 18.08.2026: 128 kanałów), zależnie od praw nadawcy.",
-    "cofanie_i_ogladanie_od_poczatku": "Catch-up do 7 dni wstecz (na niektórych kanałach, np. TVN, TVN Siedem, Metro, TTV, 2 dni); wg listy z 18.08.2026 catch-up ma 189 kanałów. Time-shift (pauza, przewijanie, wznawianie) na 113 kanałach. Dostępność zależy od praw nadawcy i może różnić się dla poszczególnych audycji.",
+    "nagrywanie": "Nagrywanie w chmurze (wirtualny dysk): 20 h w Telewizji dla każdego, 100 h w MIDI i MAXI, nagrania przechowywane do 180 dni. Dostępne na wybranych kanałach (wg listy z 14.10.2026: 128 kanałów), zależnie od praw nadawcy.",
+    "cofanie_i_ogladanie_od_poczatku": "Catch-up do 7 dni wstecz (na niektórych kanałach, np. TVN, TVN Siedem, Metro, TTV, 2 dni); wg listy z 14.10.2026 catch-up ma 190 kanałów. Time-shift (pauza, przewijanie, wznawianie) na 113 kanałach. Dostępność zależy od praw nadawcy i może różnić się dla poszczególnych audycji.",
     "vod": "Wideo na żądanie od T-Mobile: kolekcja VOD w MIDI, rozszerzona w MAXI (seriale i dokumenty). Katalog zależy od pakietu i może się zmieniać.",
     "zrodla": [
       "s1",
@@ -2851,7 +2901,8 @@
       "s5",
       "s8",
       "s9",
-      "s10"
+      "s10",
+      "s_tm_pdf"
     ]
   },
   "warunki_ogolne": [
@@ -2873,7 +2924,8 @@
       "zrodla": [
         "s1",
         "s9",
-        "s20"
+        "s20",
+        "s_tm_pdf"
       ]
     },
     {
@@ -2923,21 +2975,24 @@
       "pytanie": "Czy mogę nagrywać programy?",
       "odpowiedz": "Tak, w chmurze: 20 h w Telewizji dla każdego, 100 h w MIDI i MAXI, nagrania trzymane do 180 dni. Nie na każdym kanale; na wielu kanałach TVP i Polsatu nagrywanie jest niedostępne.",
       "zrodla": [
-        "s2"
+        "s2",
+        "s_tm_pdf"
       ]
     },
     {
       "pytanie": "Czy mogę obejrzeć program, który już się skończył?",
       "odpowiedz": "Tak, catch-up do 7 dni wstecz na większości kanałów (na TVN, TVN Siedem, Metro i TTV 2 dni). Dodatkowo time-shift: pauza i przewijanie na części kanałów.",
       "zrodla": [
-        "s2"
+        "s2",
+        "s_tm_pdf"
       ]
     },
     {
       "pytanie": "Czy jest Polsat Sport i Eleven Sports?",
       "odpowiedz": "Polsat Sport 1, 2, 3 i Polsat Sport Fight są od pakietu MIDI. Eleven Sports 1-4 i Eleven Sports 1 4K są tylko w MAXI. Eurosport 1 i 2 od MIDI, Eurosport 3 i 4 jako płatny dodatek.",
       "zrodla": [
-        "s13"
+        "s13",
+        "s_tm_pdf"
       ]
     },
     {
@@ -2953,7 +3008,8 @@
       "pytanie": "Czy jest HBO?",
       "odpowiedz": "Kanały HBO, HBO 2 i HBO 3 są w pakiecie MAXI. Serwis HBO Max można dodatkowo zamówić przez T-Mobile jako osobną subskrypcję.",
       "zrodla": [
-        "s18"
+        "s18",
+        "s_tm_pdf"
       ]
     },
     {
@@ -2967,14 +3023,17 @@
     {
       "pytanie": "Czy jest TVN24 i Polsat?",
       "odpowiedz": "Polsat jest już w Telewizji dla każdego. TVN24, TVN24 BiS i Polsat News są od pakietu MIDI.",
-      "zrodla": []
+      "zrodla": [
+        "s_tm_pdf"
+      ]
     },
     {
       "pytanie": "Czy są kanały w 4K?",
       "odpowiedz": "Tak, w pakiecie MAXI (m.in. Eleven Sports 1 4K, Filmax 4K, Love Nature 4K, TravelXP 4K, Museum 4K, Ultra TV 4K, Fashion TV 4K). Dekoder MagentaTV Box obsługuje 4K HDR. CANAL+ 4K jest w dodatku CANAL+ SUPER SPORT.",
       "zrodla": [
         "s5",
-        "s4"
+        "s4",
+        "s_tm_pdf"
       ]
     },
     {
@@ -2997,12 +3056,15 @@
       "pytanie": "Czy mogę dokupić pojedyncze kanały?",
       "odpowiedz": "Tak, do pakietu Telewizja dla każdego można dokupić wybrane kanały na sztuki (np. FX Comedy, BBC First, Eleven Sports 4, CANAL+ Sport 5, National Geographic Wild).",
       "zrodla": [
-        "s1"
+        "s1",
+        "s_tm_pdf"
       ]
     }
   ],
   "do_sprawdzenia": [
-    "Liczby z listy z 18.08.2026 nie zgadzają się dokładnie z marketingiem: dla Telewizji dla każdego wychodzi 77 unikalnych kanałów (78 pozycji z TVP 3 Warszawa podwójnie) zamiast 75, dla MIDI 168/169 pozycji zamiast 170, MAXI 206 unikalnych/207 pozycji. Kanały gwarantowane w tabeli: 16/45/54 zamiast 15/45/51. Pole „gwarantowany” w uwagach kanałów trzeba zweryfikować na oficjalnej liście.",
+    "Liczby z listy z 14.10.2026 nie zgadzają się dokładnie z marketingiem: Telewizja dla każdego ma na liście 78 pozycji (77 unikalnych, TVP 3 Warszawa podwójnie) zamiast 75, MIDI 170 pozycji (169 unikalnych) zamiast 170, MAXI 208 pozycji (207 unikalnych). Kanały gwarantowane w tabeli: 16/45/54 zamiast 15/45/51. Pole „gwarantowany” w uwagach kanałów trzeba zweryfikować na oficjalnej liście.",
+    "Lista z 14.10.2026 wpisuje BBC Brit i Adventure także do Telewizji dla każdego, a Warner TV tylko do MAXI – zmiana względem wcześniejszych danych; warto potwierdzić u konsultanta, bo reklamowane 75 kanałów nie zostało zmienione.",
+    "ShortTV, ShortTV 4K, BBC News i Euronews FR są na stronie z listą kanałów (tabela), ale nie ma ich w PDF z 14.10.2026; pakiety tych kanałów wpisano z poprzedniego sprawdzenia i nie są potwierdzone w PDF. ViDoc TV i ViDoc TV 4K są w PDF, a nie ma ich w tabeli na stronie.",
     "Mapowanie pakietów S/M/L (regulaminy dla klientów światłowodu, lista z 1.07.2026) na Telewizję dla każdego / MIDI / MAXI nie jest potwierdzone wprost. Konfigurator na stronie światłowodu pokazuje też pakiet M z 85 kanałami.",
     "Multiroom: regulamin oferty z 09.09.2026 i 16 podaje dostępność w S, M i L, a regulaminy z 18.08.2026 i 22.10.2026 tylko w Midi i Maxi. Nie wiadomo, czy Multiroom można dokupić do Telewizji dla każdego.",
     "CANAL+ SUPER SPORT: czy można go dokupić do pakietów MIDI/MAXI kupionych bez internetu T-Mobile i czy działa w aplikacji, czy wyłącznie na dekoderze.",
@@ -3011,18 +3073,16 @@
     "Funkcja start-over (oglądanie od początku trwającej audycji) nie jest opisana osobno w oficjalnych źródłach.",
     "Lista urządzeń dla aplikacji: prasa podaje też Apple TV i zapowiedź Hisense; oficjalnie potwierdzone tylko Google TV, Tizen, webOS, Android, iOS i przeglądarka.",
     "Czy nagrywanie i odtwarzanie nagrań działa na dodatkowym dekoderze Multiroom (pytanie jest w FAQ T-Mobile, ale bez odpowiedzi).",
-    "Kanały Polsat Comedy Central Extra i TeenNick mają być w ofercie tylko do 31.12.2026 r.",
-    "Liczby kanałów z funkcjami: lista 18.08.2026 podaje nagrywanie 128, catch-up 189, time-shift 113; lista 1.07.2026: 116/158/134. Funkcje per kanał nie zostały wpisane do pliku.",
-    "Streaming: nowa cena Netflix w T-Mobile od 1.11.2026 – strona zapowiada zmianę, kwoty nie podaje (strona pokazuje też starsze ceny 33/49/67 zł).",
+    "Kanały Polsat Comedy Central Extra i TeenNick mają być w ofercie tylko do 31.12.2027 r. (lista z 14.10.2026; wcześniejsza lista podawała 2026).",
+    "Liczby kanałów z funkcjami: lista 14.10.2026 podaje nagrywanie 128, catch-up 190, time-shift 113 (lista 18.08.2026: 128/189/113; lista 1.07.2026: 116/158/134). Funkcje per kanał nie zostały wpisane do pliku.",
+    "Streaming: nowa cena Netflix w T-Mobile od 1.11.2026 – strona nadal zapowiada zmianę, kwoty nie podaje (strona pokazuje też starsze ceny 33/49/67 zł). Sprawdzić nowy regulamin/cennik, gdy się pojawi.",
     "Streaming: czy klient z samą MagentaTV lub samym internetem (bez abonamentu głosowego) może kupić Netflix/HBO Max/CANAL+ przez T-Mobile – regulaminy wymagają abonamentu głosowego.",
-    "Streaming: aktualna promocja Netflix Premium w cenie Podstawowego 'nawet przez 3 miesiące' – brak regulaminu (strona wymienia regulamin Netflix Premium z Magenta Moments D_007_1006190, nie sprawdzono).",
-    "Oficjalna tabela na t-mobile.pl ma 61/157/194 pozycji wobec reklamowanych 75/170/207; różnica to głównie 16 regionalnych TVP3 (liczonych przez T-Mobile osobno). ViDoc TV nie występuje w tabeli.",
-    "Streaming: Netflix: od 1.11.2026 zmiana ceny przez T-Mobile; nowe kwoty nie są publiczne. Za kilka dni sprawdzić nowy regulamin/cennik.",
-    "Streaming: Netflix: tytuł strony 'Premium w cenie Podstawowego nawet na 3 miesiące', ale brak regulaminu promocji; w ukrytym kodzie strony są też stare ceny 33/49/67 zł. Dopytać konsultanta, czy promocja działa.",
+    "Streaming: aktualna promocja Netflix Premium w cenie Podstawowego 'nawet przez 3 miesiące' – brak regulaminu (strona wymienia regulamin Netflix Premium z Magenta Moments D_007_1006190, nie sprawdzono). Strona rozrywka linkuje też starszy regulamin Netflix z 28.10.2025 z cenami 33/49/67 zł.",
+    "Streaming: CANAL+ – strona rozrywka pokazuje „od 29,99 zł/mies.”, a strona CANAL+ i cennik regulaminu (od 29.06.2026) podają Seriale i Filmy 29 zł. Przyjęto 29 zł; rozbieżność do wyjaśnienia.",
     "Streaming: CANAL+ Super Sport: strona nadal pokazuje 35 zł za 1. miesiąc, a regulamin promocji kończy aktywację 31.07.2026. Traktować 69 zł jako cenę pewną.",
-    "Streaming: Wszystkie serwisy (Netflix, HBO Max, CANAL+) są dla klientów z abonamentem komórkowym T-Mobile (bez Heyah), nie dla samego światłowodu/MagentaTV. Dopytać, czy klient tylko z internetem domowym może je aktywować.",
-    "Streaming: Dekoder MagentaTV Box = Android TV; oficjalnie nie ma listy aplikacji (Disney+, Prime Video, SkyShowtime, Player, Polsat Box Go). Dopytać konsultanta, czy jest Google Play i te aplikacje; wtedy typ zmienić na 'konto'.",
-    "Streaming: Usunięto pozycję 'Wideo na żądanie MagentaTV' (nie jest na liście serwisów do sprawdzenia); FAQ MagentaTV: płatnej wypożyczalni VOD obecnie nie ma, kolekcje VOD są w MAXI.",
-    "Streaming: Nie udało się otworzyć magentatv.pl (brak zgody na pobranie strony)."
+    "Streaming: wszystkie serwisy (Netflix, HBO Max, CANAL+) są dla klientów z abonamentem komórkowym T-Mobile (bez Heyah), nie dla samego światłowodu/MagentaTV. Dopytać, czy klient tylko z internetem domowym może je aktywować.",
+    "Streaming: dekoder MagentaTV Box = Android TV; oficjalnie nie ma listy aplikacji (Disney+, Prime Video, SkyShowtime, Player, Polsat Box Go). Dopytać konsultanta, czy jest Google Play i te aplikacje; wtedy typ zmienić na 'konto'.",
+    "Streaming: nie ma pozycji 'Wideo na żądanie MagentaTV'; płatnej wypożyczalni VOD obecnie nie ma, kolekcje VOD są w MAXI.",
+    "Streaming: nie udało się otworzyć magentatv.pl (brak zgody na pobranie strony)."
   ]
 }

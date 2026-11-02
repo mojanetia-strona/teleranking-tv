@@ -1,22 +1,73 @@
 {
-  "data": "2026-10-26",
-  "operatorzy": [],
-  "bledy": [
-    "INEA: Brak bloku JSON i brak BEZ_ZMIAN w odpowiedzi"
+  "data": "2026-11-02",
+  "operatorzy": [
+    {
+      "operator": "T-Mobile",
+      "zmiany": [
+        "Nowe kanały: Newsmax Polska, TVP Seriale",
+        "Usunięte kanały: Newsmax",
+        "Zmiana pakietów dla kanałów: Adventure, BBC Brit, ViDoc TV 4K, Warner TV",
+        "(opis AI) Nowa oficjalna lista kanałów MagentaTV (PDF, stan na 14.10.2026, link ze strony z listą kanałów) dodana jako źródło s_tm_pdf; kanały zweryfikowane względem niej.",
+        "(opis AI) Dodano kanał TVP Seriale (nr 124, MIDI i MAXI) – jest na liście z 14.10.2026 i na stronie, a brakowało go w danych.",
+        "(opis AI) ViDoc TV (nr 532) jest teraz na oficjalnej liście i dostępny we wszystkich pakietach (Telewizja dla każdego, MIDI, MAXI); ViDoc TV 4K (nr 533) tylko w MAXI. Wcześniej oba miały puste pakiety.",
+        "(opis AI) BBC Brit (nr 526) i Adventure (nr 530) według listy z 14.10.2026 są także w Telewizji dla każdego (wcześniej tylko MIDI i MAXI).",
+        "(opis AI) Warner TV (nr 132) według listy z 14.10.2026 jest tylko w MAXI (wcześniej wpisany także w MIDI).",
+        "(opis AI) Kanał „Newsmax” przemianowano na „Newsmax Polska” (nazwa z listy z 14.10.2026 i ze strony); usunięto adnotację o kanale obcojęzycznym.",
+        "(opis AI) Polsat Comedy Central Extra i TeenNick: lista z 14.10.2026 podaje dostępność w ofercie do 31.12.2027 r. (wcześniej wpisano 31.12.2026).",
+        "(opis AI) Funkcje z listy z 14.10.2026: nagrywanie 128 kanałów, catch-up 190 (wcześniej 189), time-shift 113; zaktualizowano opisy.",
+        "(opis AI) ShortTV, ShortTV 4K, BBC News i Euronews FR są na stronie z listą kanałów, ale nie ma ich w PDF z 14.10.2026; zostawiono je z adnotacją i dopisano do do_sprawdzenia.",
+        "(opis AI) Streaming: strona rozrywka pokazuje CANAL+ „od 29,99 zł/mies.”, a strona CANAL+ i regulamin podają 29 zł (Seriale i Filmy) – zostawiono 29 zł i dopisano rozbieżność do do_sprawdzenia. Netflix, HBO Max i CANAL+ Super Sport bez zmian (Netflix nadal zapowiada zmianę ceny od 1.11.2026 bez nowych kwot).",
+        "(opis AI) Zaktualizowano daty sprawdzenia źródeł i liczby w do_sprawdzenia."
+      ],
+      "do_sprawdzenia": [
+        "Liczby z listy z 14.10.2026 nie zgadzają się dokładnie z marketingiem: Telewizja dla każdego ma na liście 78 pozycji (77 unikalnych, TVP 3 Warszawa podwójnie) zamiast 75, MIDI 170 pozycji (169 unikalnych) zamiast 170, MAXI 208 pozycji (207 unikalnych). Kanały gwarantowane w tabeli: 16/45/54 zamiast 15/45/51. Pole „gwarantowany” w uwagach kanałów trzeba zweryfikować na oficjalnej liście.",
+        "Lista z 14.10.2026 wpisuje BBC Brit i Adventure także do Telewizji dla każdego, a Warner TV tylko do MAXI – zmiana względem wcześniejszych danych; warto potwierdzić u konsultanta, bo reklamowane 75 kanałów nie zostało zmienione.",
+        "ShortTV, ShortTV 4K, BBC News i Euronews FR są na stronie z listą kanałów (tabela), ale nie ma ich w PDF z 14.10.2026; pakiety tych kanałów wpisano z poprzedniego sprawdzenia i nie są potwierdzone w PDF. ViDoc TV i ViDoc TV 4K są w PDF, a nie ma ich w tabeli na stronie.",
+        "Mapowanie pakietów S/M/L (regulaminy dla klientów światłowodu, lista z 1.07.2026) na Telewizję dla każdego / MIDI / MAXI nie jest potwierdzone wprost. Konfigurator na stronie światłowodu pokazuje też pakiet M z 85 kanałami.",
+        "Multiroom: regulamin oferty z 09.09.2026 i 16 podaje dostępność w S, M i L, a regulaminy z 18.08.2026 i 22.10.2026 tylko w Midi i Maxi. Nie wiadomo, czy Multiroom można dokupić do Telewizji dla każdego.",
+        "CANAL+ SUPER SPORT: czy można go dokupić do pakietów MIDI/MAXI kupionych bez internetu T-Mobile i czy działa w aplikacji, czy wyłącznie na dekoderze.",
+        "Czy na dekoderze MagentaTV Box można instalować YouTube, Disney+, Prime Video, SkyShowtime, Player, Polsat Box Go itd. ze Sklepu Google Play (regulamin wspomina Google Play, ale strona dekodera wymienia tylko Netflix, HBO Max, CANAL+, Eurosport).",
+        "Czy w Telewizji dla każdego jest dostęp do VOD i czy w aplikacji wyświetlane są reklamy.",
+        "Funkcja start-over (oglądanie od początku trwającej audycji) nie jest opisana osobno w oficjalnych źródłach.",
+        "Lista urządzeń dla aplikacji: prasa podaje też Apple TV i zapowiedź Hisense; oficjalnie potwierdzone tylko Google TV, Tizen, webOS, Android, iOS i przeglądarka."
+      ]
+    },
+    {
+      "operator": "Vectra",
+      "zmiany": [
+        "(opis AI) Streaming / CANAL+ Super Sport (dodatek do TV): strona vectra.pl/canal-plus pokazuje teraz 25 zł za pierwszy miesiąc, od 2. miesiąca 69,00 zł/mies., aktywacja 0 zł (wcześniej w danych 69 zł od początku i aktywacja 10 zł). Zaktualizowano pola cena, uwaga i zasady.",
+        "(opis AI) CANAL+ Seriale i Filmy: bez zmian (29,00 zł/mies., aktywacja 10 zł, bez zobowiązania). Potwierdzono ponownie na stronie.",
+        "(opis AI) Oferta Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł nie jest już widoczna na stronie vectra.pl/canal-plus. Zostawiono ją w danych z adnotacją i dopisano do 'do_sprawdzenia'.",
+        "(opis AI) Zaktualizowano daty sprawdzenia źródeł s1, s4, s5, sv7 i sv10 oraz dopisano nowe punkty w 'do_sprawdzenia'.",
+        "(opis AI) Wykaz telewizji cyfrowej IN01p nadal ma wersję 1.102 (od 1.10.2026). Strony pakiety-tv i oferta-telewizja-internetowa nie zmieniły liczb kanałów (37/72/128/167/191 oraz TV Smart 41/81/125), więc skład pakietów i kanałów zostaje bez zmian."
+      ],
+      "do_sprawdzenia": [
+        "Multiroom: maksymalna liczba dodatkowych dekoderów, czy kolejne dekodery mają ten sam pakiet, jakie modele - strona odsyła do formularza, brak danych w regulaminie (tylko definicja 'Gniazda Dodatkowego').",
+        "Nagrywanie w chmurze TV Smart: limit godzin niespójny (10 h vs 100 h na stronie dekoderów), czas przechowywania nieznany.",
+        "Super Film & Sport: dokładny skład (189/190/191 kanałów w różnych źródłach) - przypisanie kanałów w 'kanaly' wyprowadzone z opisu na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro), nie z wykazu IN01p.",
+        "TV Smart: liczby kanałów w ofercie (41/81/125) nie zgadzają się z wykazem IN16 v1.31 (27/66/110); możliwe, że oferta liczy kanały dodatkowe/radio - nie potwierdzono.",
+        "TV Smart: czy wymaga internetu Vectry (regulamin telewizji pkt 5.2 dla dekodera Smart: tak; regulamin TV Smart: tylko min. 10/25 Mb/s) - niespójne.",
+        "Lista Smart TV (Samsung, LG, Android TV) obsługujących aplikację TV Smart GO - niepodana.",
+        "Kategorie i jakość kanałów przyjęto z wykazu EPG IN01 2.27 (kwiecień 2026); kanały spoza tego wykazu (np. FilmBox+, Echo24, kanały ukraińskie) skategoryzowano wg nazwy. Część kanałów SD w EPG może być nadawana w HD.",
+        "HBO w Złotym/Platynowym: strona oferty podaje HBO w cenie, ale wykaz IN01p traktuje HBO jako osobny pakiet - prawdopodobnie element promocji, warto sprawdzić w regulaminie promocji.",
+        "Pakiet 'Ostry' (20 kanałów) widoczny na vectra.pl/pakiety-tv - brak pełnej listy kanałów i relacji do Sport na Ostro.",
+        "Oferta Vectry w sieciach przejętych (np. Multimedia Polska) - nie potwierdzono, czy lineup jest identyczny we wszystkich sieciach."
+      ]
+    }
   ],
+  "bledy": [],
   "bez_zmian": [
     "Netia",
-    "T-Mobile",
     "Orange",
     "Play",
     "Plus",
-    "Vectra"
+    "INEA"
   ],
   "koszt": {
-    "input": 2579455,
-    "output": 14209,
-    "searches": 5,
-    "usd_orientacyjnie": 5.35
+    "input": 7686172,
+    "output": 152693,
+    "searches": 9,
+    "usd_orientacyjnie": 16.99
   },
-  "tekst": "Aktualizacja bazy TV: 2026-10-26\n\nBez zmian: Netia, T-Mobile, Orange, Play, Plus, Vectra\n\nBŁĘDY (dane tych operatorów zostały bez zmian):\n  - INEA: Brak bloku JSON i brak BEZ_ZMIAN w odpowiedzi\n\nKoszt orientacyjny: ~5.35 USD\nApka: https://mojanetia-strona.github.io/teleranking-tv/"
+  "tekst": "Aktualizacja bazy TV: 2026-11-02\n\nT-Mobile:\n  - Nowe kanały: Newsmax Polska, TVP Seriale\n  - Usunięte kanały: Newsmax\n  - Zmiana pakietów dla kanałów: Adventure, BBC Brit, ViDoc TV 4K, Warner TV\n  - (opis AI) Nowa oficjalna lista kanałów MagentaTV (PDF, stan na 14.10.2026, link ze strony z listą kanałów) dodana jako źródło s_tm_pdf; kanały zweryfikowane względem niej.\n  - (opis AI) Dodano kanał TVP Seriale (nr 124, MIDI i MAXI) – jest na liście z 14.10.2026 i na stronie, a brakowało go w danych.\n  - (opis AI) ViDoc TV (nr 532) jest teraz na oficjalnej liście i dostępny we wszystkich pakietach (Telewizja dla każdego, MIDI, MAXI); ViDoc TV 4K (nr 533) tylko w MAXI. Wcześniej oba miały puste pakiety.\n  - (opis AI) BBC Brit (nr 526) i Adventure (nr 530) według listy z 14.10.2026 są także w Telewizji dla każdego (wcześniej tylko MIDI i MAXI).\n  - (opis AI) Warner TV (nr 132) według listy z 14.10.2026 jest tylko w MAXI (wcześniej wpisany także w MIDI).\n  - (opis AI) Kanał „Newsmax” przemianowano na „Newsmax Polska” (nazwa z listy z 14.10.2026 i ze strony); usunięto adnotację o kanale obcojęzycznym.\n  - (opis AI) Polsat Comedy Central Extra i TeenNick: lista z 14.10.2026 podaje dostępność w ofercie do 31.12.2027 r. (wcześniej wpisano 31.12.2026).\n  - (opis AI) Funkcje z listy z 14.10.2026: nagrywanie 128 kanałów, catch-up 190 (wcześniej 189), time-shift 113; zaktualizowano opisy.\n  - (opis AI) ShortTV, ShortTV 4K, BBC News i Euronews FR są na stronie z listą kanałów, ale nie ma ich w PDF z 14.10.2026; zostawiono je z adnotacją i dopisano do do_sprawdzenia.\n  - (opis AI) Streaming: strona rozrywka pokazuje CANAL+ „od 29,99 zł/mies.”, a strona CANAL+ i regulamin podają 29 zł (Seriale i Filmy) – zostawiono 29 zł i dopisano rozbieżność do do_sprawdzenia. Netflix, HBO Max i CANAL+ Super Sport bez zmian (Netflix nadal zapowiada zmianę ceny od 1.11.2026 bez nowych kwot).\n  - (opis AI) Zaktualizowano daty sprawdzenia źródeł i liczby w do_sprawdzenia.\nVectra:\n  - (opis AI) Streaming / CANAL+ Super Sport (dodatek do TV): strona vectra.pl/canal-plus pokazuje teraz 25 zł za pierwszy miesiąc, od 2. miesiąca 69,00 zł/mies., aktywacja 0 zł (wcześniej w danych 69 zł od początku i aktywacja 10 zł). Zaktualizowano pola cena, uwaga i zasady.\n  - (opis AI) CANAL+ Seriale i Filmy: bez zmian (29,00 zł/mies., aktywacja 10 zł, bez zobowiązania). Potwierdzono ponownie na stronie.\n  - (opis AI) Oferta Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł nie jest już widoczna na stronie vectra.pl/canal-plus. Zostawiono ją w danych z adnotacją i dopisano do 'do_sprawdzenia'.\n  - (opis AI) Zaktualizowano daty sprawdzenia źródeł s1, s4, s5, sv7 i sv10 oraz dopisano nowe punkty w 'do_sprawdzenia'.\n  - (opis AI) Wykaz telewizji cyfrowej IN01p nadal ma wersję 1.102 (od 1.10.2026). Strony pakiety-tv i oferta-telewizja-internetowa nie zmieniły liczb kanałów (37/72/128/167/191 oraz TV Smart 41/81/125), więc skład pakietów i kanałów zostaje bez zmian.\nBez zmian: Netia, Orange, Play, Plus, INEA\n\nKoszt orientacyjny: ~16.99 USD\nApka: https://kanaly.teleranking.pl/"
 }
