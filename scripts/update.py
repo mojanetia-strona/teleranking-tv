@@ -48,6 +48,7 @@ Zasady (bezwzględne):
   gdy aktualne oficjalne źródło pokazuje, że go już nie ma. Jeśli źródło jest niedostępne, zostaw dane i dopisz to do "do_sprawdzenia".
 - Pozycje z polem "potwierdzil" sprawdził człowiek (np. handlowiec operatora). Nie zmieniaj ich, chyba że oficjalne źródło wprost temu przeczy; wtedy opisz to w "zmiany".
 - Bez cen pakietów TV. WYJĄTEK: w sekcji "streaming" podawaj aktualne ceny i zasady (promocje, okres, warunki).
+- W "streaming" pole "krotko" to kwota samego dodatku („20 zł/mies.”, „od 25 zł/mies.”), nie cena pakietu czy Internetu z tym serwisem. Gdy operator sprzedaje serwis tylko w ofercie łączonej, w "krotko" podaj różnicę w cenie względem tej samej oferty bez serwisu („+25 zł/mies.”), a cenę zestawu opisz w "cena".
 - Oszczędzaj: czytaj tylko źródła potrzebne do weryfikacji (najpierw lista kanałów i strona streamingów), nie czytaj wielu podobnych stron. Jeśli główne źródła się nie zmieniły, odpowiedz BEZ_ZMIAN.
 - Najpierw sprawdź źródła z obecnych danych (lista URL w wiadomości), potem poszukaj nowszych wersji (np. nowy PDF z listą kanałów).
 - Teksty po polsku.

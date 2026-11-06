@@ -3694,10 +3694,10 @@
   "streaming": [
     {
       "serwis": "Netflix",
-      "typ": "w_cenie",
-      "krotko": "Za 35 z 45 pkt w TV Nowej Generacji",
-      "uwaga": "TNG: Podstawowy 35 pkt z puli 45 pkt/mies.; w MAX płatny od 37 zł/mies.",
-      "dostepnosc": "w cenie pakietu",
+      "typ": "platny",
+      "krotko": "od 37 zł/mies.",
+      "uwaga": "W Telewizji MAX; w TV Nowej Generacji za 35 z 45 pkt",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Telewizja Nowej Generacji (60 zł/mies. dla klientów Play po rabatach, 70 zł dla pozostałych; 45 pkt/mies.): Podstawowy 35 pkt, Standardowy 50 pkt, Premium 65 pkt. Telewizja MAX: Plan Podstawowy 37 zł/mies., promocja 50% taniej przez 3 mies. (najniższa cena z 30 dni 37 zł/mies.). Strona PLAY NOW (TV BOX/abonament): Podstawowy 29 zł/mies., Standard 43 zł/mies., Premium 60 zł/mies.",
       "zasady": "TNG: punkty co cykl rozliczeniowy, wybór serwisów raz w miesiącu, Standard/Premium przekraczają pulę 45 pkt (brakujące trzeba dokupić). MAX: dodatek płatny do rachunku za TV, rezygnacja w dowolnym momencie; promocja 'zamów u konsultanta'. Aktywacja przez link SMS / kod QR w sekcji Pakiety na dekoderze lub w Play24. Rozbieżność: FAQ wciąż opisuje promocję '2 miesiące w prezencie', baner mówi o 50% przez 3 mies.; ceny 29/43/60 zł na stronie PLAY NOW różnią się od 37 zł podawanych dla Telewizji MAX.",
       "zrodla": [
@@ -3705,14 +3705,15 @@
         "s1",
         "s2",
         "s1"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "HBO Max",
-      "typ": "w_cenie",
-      "krotko": "Za punkty w TV Nowej Generacji",
-      "uwaga": "TNG: od 25 pkt z puli 45; w MAX i do abonamentu od 30 zł/mies.",
-      "dostepnosc": "w cenie pakietu",
+      "typ": "platny",
+      "krotko": "30 zł/mies.",
+      "uwaga": "Kanały HBO + HBO Max w Telewizji MAX; w TV Nowej Generacji od 25 pkt z 45",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "TNG: Podstawowy 25 pkt, Standardowy 35 pkt, Premium 40 pkt (wszystkie mieszczą się w 45 pkt/mies.). Telewizja MAX i abonament komórkowy/PLAY NOW: od 30 zł/mies. bez zobowiązań (cen poszczególnych wariantów strona nie podaje).",
       "zasady": "Warianty Standardowy i Premium zawierają też kanały HBO, HBO2, HBO3. Aktywacja w sekcji Pakiety na dekoderze (zatwierdzenie na telefonie), w PLAY NOW lub Play24, potem link SMS do konta HBO Max. Rezygnacja w dowolnym momencie. Serwis niegwarantowany (wycofanie nie jest zmianą umowy).",
       "zrodla": [
@@ -3720,7 +3721,8 @@
         "sv3",
         "sv1",
         "s1"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "Disney+",
@@ -3736,24 +3738,25 @@
     },
     {
       "serwis": "SkyShowtime",
-      "typ": "w_cenie",
-      "krotko": "W cenie MAX Premium / pkt w TNG",
-      "uwaga": "MAX Premium: w pakiecie; TNG: 25/30 pkt z puli 45",
-      "dostepnosc": "w cenie pakietu",
+      "typ": "platny",
+      "krotko": "35 zł/mies.",
+      "uwaga": "Standard bez reklam w Telewizji MAX (z reklamami 25 zł); w MAX Premium w cenie, w TNG 25/30 pkt",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Telewizja MAX Premium (0 zł przez 6 mies., potem 60 zł/mies. dla klientów Play, 70 zł dla pozostałych): SkyShowtime w cenie. TNG: Standard z reklamami 25 pkt, Standard 30 pkt; osobno 'Pakiety SkyShowtime' (kanały SkyShowtime 1 i 2) 25/30 pkt.",
       "zasady": "W MAX Premium lista kanałów pokazuje kanały SkyShowtime 1 i 2; czy obejmuje to także dostęp do aplikacji SkyShowtime, strona nie mówi. W TNG SkyShowtime jest w sekcji 'Serwisy streamingowe'. Serwis niegwarantowany.",
       "zrodla": [
         "sv4",
         "sv1",
         "s1"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "Amazon Prime Video",
-      "typ": "w_cenie",
-      "krotko": "15 pkt w TNG / 15,50 zł mies.",
-      "uwaga": "TNG: 15 pkt z puli 45; do abonamentu Play 15,50 zł/mies. lub 69 zł/rok",
-      "dostepnosc": "w cenie pakietu",
+      "typ": "platny",
+      "krotko": "15,50 zł/mies.",
+      "uwaga": "Do abonamentu Play (lub 69 zł/rok); w TV Nowej Generacji 15 pkt z 45",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "TNG: Amazon Prime 15 pkt. Do abonamentu Play: 15,50 zł/mies. lub 69 zł/rok, bez zobowiązań.",
       "zasady": "Amazon Prime obejmuje Prime Video, darmową dostawę, Amazon Luna i promocje. Aktywacja w sekcji Pakiety (PLAY NOW/playnow.pl/Play24), potem link SMS. Rezygnacja w dowolnym momencie.",
       "zrodla": [
@@ -3761,7 +3764,8 @@
         "sv5",
         "s3",
         "s1"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "Apple TV",

@@ -3331,10 +3331,10 @@
     {
       "serwis": "HBO Max",
       "wariant": "",
-      "dostepnosc": "w cenie pakietu",
-      "typ": "w_cenie",
-      "krotko": "W cenie pakietów TV 72/128/167 kan.",
-      "uwaga": "HBO Standardowy w pakietach TV; osobno od 39,99 zł/mies.",
+      "dostepnosc": "jako płatny dodatek",
+      "typ": "platny",
+      "krotko": "39,99 zł/mies.",
+      "uwaga": "HBO + HBO Max Standardowy, aktywacja 5 zł; w cenie pakietów TV 72/128/167 kanałów",
       "cena": "Telewizja (23 mies.) z HBO Standardowy: 72 kanały 35,00 zł (mies. 1-6), potem 44,99 zł; 128 kanałów 35,00 zł, potem 64,99 zł; 167 kanałów 35,00 zł, potem 74,99 zł (aktywacja 9,99 zł). Dodatek do telewizji: HBO + HBO Max Standardowy 39,99 zł/mies., HBO + HBO Max Premium 49,99 zł/mies., aktywacja 5 zł, bez zobowiązania. Cennik: Pakiet HBO Podstawowy 29,99 zł; HBO Max (internet) Podstawowy 29,99 / Standardowy 39,99 / Premium 49,99 zł. Zestawy z internetem z HBO Max Standardowy: 300 Mb/s 35,00 zł (1. mies.), potem 59,99 zł (2-12); 600 Mb/s 35,00 zł, potem 74,99 zł; Internet 1 Gb/s + 168 kanałów 70,00 zł, potem 144,99 zł.",
       "zasady": "Pakiety telewizji 72/128/167 kanałów mają w zawartości 'HBO Standardowy' (kanały HBO, HBO 2, HBO 3 + biblioteka HBO Max); pakiety 37 i 191 kanałów go nie mają. Strona nie mówi, czy HBO jest na cały okres umowy. W Superofertach Internet+TV HBO Standardowy jest prezentem na 6 mies. za 0 zł, potem wyłączany. Wariant Podstawowy jest w cenniku, ale na stronie HBO nie ma go jako dodatku do kupienia.",
       "opis": "",
@@ -3343,15 +3343,16 @@
         "sv3",
         "sv3",
         "sv1"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "Disney+",
       "wariant": "",
-      "dostepnosc": "w ofercie łączonej",
-      "typ": "zestaw",
-      "krotko": "Zestaw 94,99 zł lub 34,99 zł osobno",
-      "uwaga": "Superoferta 600 Mb/s+129 kan. z Disney+; dodatek dla klientów Vectry 34,99 zł",
+      "dostepnosc": "jako płatny dodatek",
+      "typ": "platny",
+      "krotko": "34,99 zł/mies.",
+      "uwaga": "Dla klientów z Internetem Vectry, bez zobowiązania; jest też zestaw 600 Mb/s + 129 kanałów z Disney+ za 94,99 zł",
       "cena": "SUPEROFERTA Internet do 600 Mb/s + 129 kanałów TV + Disney+ Standardowy: 94,99 zł/mies. od 1 do 12 miesiąca (z rabatami 15 zł), modem 4,99 zł/mies., aktywacja 9,99 zł, bez zobowiązania. Usługa dodatkowa Disney+ Standard: 34,99 zł/mies., aktywacja 0 zł, bez zobowiązania. Dopłata do Disney+ Premium 25,00 zł (regulamin).",
       "zasady": "Oferta łączona: ten sam pakiet 600/129 za 94,99 zł występuje z Netflix albo z Disney+ do wyboru. Dodatek 34,99 zł dla abonentów z umową na usługi podstawowe Vectry (wymaga internetu, TV nie jest wymagana). Aktywacja przez Strefę Klienta, istniejące konto Disney+ można połączyć (chyba że jest w ofercie innego operatora). Rezygnacja z końcem okresu rozliczeniowego, konto Disney+ zostaje. Aplikacja preinstalowana na Vectra 4K BOX/PVR i TV Smart 4K BOX.",
       "opis": "",
@@ -3359,7 +3360,8 @@
         "sv4",
         "sv5",
         "sv6"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "SkyShowtime",

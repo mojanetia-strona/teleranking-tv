@@ -2852,8 +2852,8 @@
     {
       "serwis": "HBO Max",
       "typ": "platny",
-      "krotko": "Pakiet HBO od 25 zł/mies.",
-      "uwaga": "dodatek do każdego pakietu TV Netii; jest też w ofercie Dla Kinomaniaka",
+      "krotko": "25 zł/mies.",
+      "uwaga": "Pakiet HBO HD + HBO Max, dodatek do każdego pakietu TV Netii",
       "dostepnosc": "jako płatny dodatek",
       "cena": "Dla Kinomaniaka 1 Gb/s + 123 kanały: 105 zł/mies. od 7. mies. (3 mies. 0 zł po rabatach, mies. 4-6: 25 zł); 1 Gb/s + 192 kanały: 135 zł/mies. od 7. mies. (mies. 4-6: 25 zł); Dla Kinomaniaka „już od 80 zł miesięcznie” (wolniejszy internet); strona /max: „HBO Max już od 25 zł/mies.”, Pakiet M 4K z HBO Max od 95 zł/mies., Pakiet L 4K z HBO Max od 125 zł/mies.",
       "zasady": "W kartach Dla Kinomaniaka: „HBO HD + HBO Max Standardowy” (plan Standard). Dla porównania Dla Każdego 1 Gb/s + 120 kanałów kosztuje 80 zł, czyli HBO realnie podnosi cenę o ok. 25 zł (zgadza się z „od 25 zł/mies.”). HBO Max wyłącznie z pakietem kanałów HBO HD, dla abonentów z internetem i TV Netii. Aktywacja: w aplikacji HBO Max wybrać operatora Netia, ID klienta i kod autoryzacyjny z SMS/e-maila. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). W Netia GO (bez dekodera) pakiet HBO HD 20 zł/mies. Czy 25 zł/mies. można dokupić do Dla Każdego jako osobny dodatek, strona nie mówi wprost. Pakiet HBO (kanały HBO + HBO Max) można dokupić do zwykłego pakietu TV, nie tylko w ofercie Dla Kinomaniaka (potwierdzone przez handlowca Netii 26.10.2026).",
@@ -2863,14 +2863,14 @@
         "s14",
         "sv3"
       ],
-      "potwierdzil": "handlowiec Netii 2026-10-26"
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "Disney+",
-      "typ": "zestaw",
-      "krotko": "Internet z Disney+ od 90 zł",
-      "uwaga": "Disney+ to ok. +25 zł do ceny; 6 mies. 0 zł po rabatach, umowa 24 mies.",
-      "dostepnosc": "w ofercie łączonej",
+      "typ": "platny",
+      "krotko": "25 zł/mies.",
+      "uwaga": "Dodatek do Internetu lub TV, umowa 24 mies.; w paczce Prime + Apple TV + Disney+ 40 zł",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Internet stacjonarny z Disney+ 1 Gb/s: 90 zł/mies. od 7. mies. (6 mies. 0 zł po rabatach), bez Disney+ 65 zł. Z TV (1 Gb/s): 95 kanałów z Disney+ 95 zł (bez: 70 zł), 120 kanałów z Disney+ 105 zł (bez: 80 zł), 189 kanałów z Disney+ 135 zł; wszystkie od 7. mies., 6 mies. 0 zł po rabatach.",
       "zasady": "Plan Standard. Disney+ jest „integralną częścią usługi internetowej przez cały okres jej trwania”; brak aktywacji nie obniża opłaty. Aktywacja: wiadomość powitalna w ciągu 24 h, link ważny 30 dni. Rezygnacja: przez Obsługę Klienta. Netia nie gwarantuje aplikacji Disney+ na dekoderach. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). Osobnej ceny „dodatku Disney+” strona nie podaje; różnicę ok. 25 zł wyliczono z porównania ofert.",
       "zrodla": [
@@ -2878,14 +2878,15 @@
         "sv5",
         "sv1",
         "s12"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "SkyShowtime",
-      "typ": "zestaw",
-      "krotko": "Internet ze SkyShowtime od 50 zł",
-      "uwaga": "NIE jest bez dopłaty: ok. +20 zł względem samego internetu; umowa 24 mies.",
-      "dostepnosc": "w ofercie łączonej",
+      "typ": "platny",
+      "krotko": "20 zł/mies.",
+      "uwaga": "Dodatek do Internetu lub TV, umowa 24 mies.; w paczce Prime + Apple TV + SkyShowtime 40 zł",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Internet ze SkyShowtime: 300 Mb/s 50 zł/mies.; 1 Gb/s 85 zł/mies. od 7. mies. (6 mies. 0 zł); 2 Gb/s 100 zł/mies. od 7. mies. (6 mies. 0 zł); 600 Mb/s 75 zł/mies. od 4. mies. (3 mies. 0 zł); 150 Mb/s 60 zł/mies. od 2. mies. (1 mies. 0 zł). Ten sam internet bez SkyShowtime: 30 / 65 / 80 / 55 / 40 zł.",
       "zasady": "Plan Standard (Full HD, 2 streamy, 30 pobrań, 6 profili). Strona /skyshowtime pisze „w cenie wybranych taryf, bez dodatkowych opłat”, ale taryfy ze SkyShowtime są o 20 zł droższe od tych samych bez niego. Aktywacja: e-mail/SMS powitalny z linkiem. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON).",
       "zrodla": [
@@ -2893,14 +2894,15 @@
         "sv6",
         "s13",
         "s13"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "Amazon Prime Video",
-      "typ": "zestaw",
-      "krotko": "Internet z Prime od 35 zł",
-      "uwaga": "tylko ok. +5 zł względem samego internetu; jedno konto Prime na numer w Netii",
-      "dostepnosc": "w ofercie łączonej",
+      "typ": "platny",
+      "krotko": "5 zł/mies.",
+      "uwaga": "Dodatek do Internetu lub TV, umowa 24 mies.; jedno konto Prime na numer w Netii",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Internet stacjonarny z Amazon Prime: 300 Mb/s 35 zł/mies.; 1 Gb/s 70 zł/mies. od 7. mies. (6 mies. 0 zł po rabatach); 2 Gb/s 85 zł/mies. od 7. mies. (6 mies. 0 zł); 600 Mb/s 60 zł/mies. od 4. mies. (3 mies. 0 zł); 150 Mb/s 45 zł/mies. od 2. mies. (1 mies. 0 zł). Strona Prime: „Pakiet z Amazon Prime” (1 Gb/s + 118 kanałów + Prime) 85 zł/mies., 6 mies. 0 zł po rabatach.",
       "zasady": "Pełny Amazon Prime (Prime Video do 3 urządzeń, 4K, dostawy, gry). Aktywacja: mail/SMS w ciągu 24 h z linkiem do rejestracji. Kto ma już Prime: nowe konto na inny e-mail albo anulowanie subskrypcji w Amazonie. Jedno konto Prime na jeden numer MSISDN w Netii. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON).",
       "zrodla": [
@@ -2908,14 +2910,15 @@
         "sv8",
         "s15",
         "s15"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "Apple TV",
-      "typ": "zestaw",
-      "krotko": "Internet z Apple TV od 50 zł",
-      "uwaga": "osobna oferta łączona, ok. +20 zł względem samego internetu; umowa 24 mies.",
-      "dostepnosc": "w ofercie łączonej",
+      "typ": "platny",
+      "krotko": "20 zł/mies.",
+      "uwaga": "Dodatek do Internetu lub TV, umowa 24 mies.; 4 serwisy (Prime, Apple TV, SkyShowtime, Disney+) 55 zł",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Internet stacjonarny z Apple TV: 300 Mb/s 50 zł/mies.; 1 Gb/s 85 zł/mies. od 7. mies. (6 mies. 0 zł po rabatach); 2 Gb/s 100 zł/mies. od 7. mies. (6 mies. 0 zł); 600 Mb/s 75 zł/mies. od 4. mies. (3 mies. 0 zł); 150 Mb/s 60 zł/mies. od 2. mies. (1 mies. 0 zł). Strona Apple TV: „Pakiet z Apple TV” (1 Gb/s + 118 kanałów + Apple TV) 100 zł/mies., 6 mies. 0 zł po rabatach.",
       "zasady": "Apple TV tylko w specjalnych ofertach łączonych, nie w cenie standardowego internetu/TV. Aktywacja: mail/SMS w ciągu 24 h, rejestracja konta Apple. Subskrypcję może współdzielić do 6 osób. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON). Rezygnacji z samego Apple TV strona nie opisuje.",
       "zrodla": [
@@ -2923,7 +2926,8 @@
         "sv7",
         "s16",
         "s16"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     },
     {
       "serwis": "CANAL+ online",
@@ -2991,10 +2995,10 @@
     },
     {
       "serwis": "Eleven Sports",
-      "typ": "zestaw",
-      "krotko": "W pakiecie Dla Fanów Sportu",
-      "uwaga": "kanały Eleven w TV Netii (nie aplikacja); pakiet od 90 zł/mies. z internetem",
-      "dostepnosc": "w ofercie łączonej",
+      "typ": "platny",
+      "krotko": "10 zł/mies.",
+      "uwaga": "Kanały Eleven Sports w TV Netii (nie aplikacja); z Polsat Sport Premium 20 zł",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "Dla Fanów Sportu „Już od 90 zł miesięcznie”; 1 Gb/s + 131 kanałów: 100 zł/mies. od 7. mies. (3 mies. 0 zł po rabatach, mies. 4-6: 20 zł); 1 Gb/s + 200 kanałów: 130 zł/mies. od 7. mies. W Netia GO: pakiet Eleven Sports 10 zł/mies.; Premium Sport (Eleven, Polsat Sport Premium, Motowizja) bez długotrwałych zobowiązań, ceny strona nie pokazuje.",
       "zasady": "Dla Fanów Sportu: umowa 24 mies., dekoder 4K, Eleven Sports, Polsat Sport Premium i Eurosport w cenie. To kanały linearne (także w Netia GO), nie konto w aplikacji Eleven/Viaplay. Dla porównania Dla Każdego 1 Gb/s + 120 kanałów: 80 zł. Umowa na 24 pełne okresy rozliczeniowe; ceny z rabatami 5 zł za e-fakturę i 5 zł za zgody marketingowe (bez nich +10 zł); opłata aktywacyjna 79 zł za internet i 2 zł za TV; po 24 mies. abonament rośnie o 20 zł (300 Mb/s: o 30 zł); tylko sieć PON, HFC, ETTH (2 Gb/s tylko PON).",
       "zrodla": [
@@ -3002,7 +3006,8 @@
         "sv11",
         "s8",
         "s8"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
     }
   ],
   "multiroom": {
