@@ -3781,17 +3781,18 @@
     },
     {
       "serwis": "CANAL+ online",
-      "typ": "w_cenie",
-      "krotko": "Za punkty w TNG / 49 zł mies.",
-      "uwaga": "TNG: CANAL+ Seriale i Filmy 25 pkt, pełny CANAL+ 50 pkt (ponad pulę 45)",
-      "dostepnosc": "w cenie pakietu",
+      "typ": "platny",
+      "krotko": "49 zł/mies.",
+      "uwaga": "CANAL+ online do abonamentu lub TV BOX; w TV Nowej Generacji 25 pkt (Seriale i Filmy) / 50 pkt",
+      "dostepnosc": "jako płatny dodatek",
       "cena": "TNG: Pakiet CANAL+ 50 pkt, Pakiet CANAL+ Seriale i Filmy 25 pkt. Na TV BOX/abonament: CANAL+ online 49 zł/mies.; w części abonamentów 'w abonamencie'.",
       "zasady": "Pakiet CANAL+ (50 pkt) przekracza pulę 45 pkt, trzeba dokupić punkty. Pakiety CANAL+ oznaczone jako dostępne wyłącznie przez internet od Play. Aktywacja w sekcji Pakiety na TV BOX, potem link SMS do konta CANAL+. Rezygnacja kiedy chcesz. Czy pakiet 'Seriale i Filmy' daje pełny dostęp do aplikacji CANAL+ online, czy tylko kanały - niejasne.",
       "zrodla": [
         "sv1",
         "s2",
         "s3"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku)"
     },
     {
       "serwis": "Polsat Box Go",
@@ -3834,17 +3835,18 @@
     },
     {
       "serwis": "Viaplay",
-      "typ": "w_cenie",
-      "krotko": "15 pkt w TV Nowej Generacji",
-      "uwaga": "TNG: Viaplay Filmy i Seriale 15 pkt; Viaplay Total do abonamentu bez ceny",
-      "dostepnosc": "w cenie pakietu",
-      "cena": "TNG: Viaplay Filmy i Seriale 15 pkt. Do abonamentu (Play24): pakiet Viaplay Total, cena nie podana na stronie.",
+      "typ": "platny",
+      "krotko": "20 zł/mies.",
+      "uwaga": "Viaplay Filmy i Seriale w Telewizji MAX, bez zobowiązań; w TV Nowej Generacji 15 pkt",
+      "dostepnosc": "jako płatny dodatek",
+      "cena": "Telewizja MAX: Viaplay Filmy i Seriale 20 zł/mies., bez zobowiązań (play.pl/oferta/play-internet-tv). TNG: 15 pkt. Do abonamentu (Play24): pakiet Viaplay Total, cena nie podana na stronie.",
       "zasady": "Viaplay Total aktywuje się w Play24 (Telewizja i Wideo), potem link SMS do konta; rezygnacja kiedy chcesz. Serwis niegwarantowany.",
       "zrodla": [
         "sv1",
         "s3",
         "s1"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku)"
     },
     {
       "serwis": "FilmBox+",

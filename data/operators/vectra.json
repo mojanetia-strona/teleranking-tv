@@ -3314,11 +3314,11 @@
     {
       "serwis": "Netflix",
       "wariant": "",
-      "dostepnosc": "w ofercie łączonej",
-      "typ": "zestaw",
-      "krotko": "Zestaw z internetem+TV 94,99 zł",
-      "uwaga": "Tylko w ofertach Internet+TV (129 kanałów) z Netflix; ceny z rabatami 15 zł",
-      "cena": "SUPEROFERTA Internet do 600 Mb/s + 129 kanałów TV + Netflix Plan podstawowy: 94,99 zł/mies. od 1 do 12 miesiąca (z rabatami 15 zł), bez zobowiązania. Oferta 'Netflix przez 3 mies. w prezencie': Internet do 300 Mb/s + 129 kanałów + Netflix Plan podstawowy: 61,99 zł/mies. od 1 do 3 miesiąca, 94,99 zł/mies. od 4 do 23 miesiąca, zobowiązanie 23 mies. Do tego modem 4,99 zł/mies., aktywacja 9,99 zł.",
+      "dostepnosc": "jako płatny dodatek",
+      "typ": "platny",
+      "krotko": "37 zł/mies.",
+      "uwaga": "Plan Podstawowy dla klientów Vectry, aktywacja 0 zł, bez zobowiązania; w zestawach 300/600 Mb/s + 129 kanałów w cenie",
+      "cena": "Dodatek Netflix Plan Podstawowy: 37 zł/mies. od 1. mies., aktywacja 0 zł, bez zobowiązania (vectra.pl/netflix). Zestawy z Netflixem: SUPEROFERTA Internet do 600 Mb/s + 129 kanałów 94,99 zł/mies. (mies. 1-12, bez zobowiązania); Internet do 300 Mb/s + 129 kanałów 61,99 zł (mies. 1-3), potem 94,99 zł (4-23), zobowiązanie 23 mies. Modem 4,99 zł/mies., aktywacja 9,99 zł.",
       "zasady": "To oferta łączona (pakiet 600 Mb/s + 129 kanałów kosztuje tyle samo w wariantach z Netflix, z Disney+ albo z HBO+Eleven), nie dodatek do każdego pakietu TV. Netflix 'w pakiecie na czas trwania umowy'. Ceny z rabatami -10 zł za zgody marketingowe i -5 zł za e-fakturę. Abonament za usługę główną rośnie o 10 zł po okresie zobowiązania/podstawowym i co 12 mies. Obecni klienci: 'Dokup Netflix w Strefie Klienta', ale cena samodzielnego Netflixa nie jest podana na stronie. Aktywacja: link od Netflixa, Strefa Klienta albo aplikacja Netflix na TV Smart 4K BOX / 4730 CD/CDX. Netflix preinstalowany też na Vectra 4K BOX/PVR (logowanie własnym kontem).",
       "opis": "",
       "zrodla": [
@@ -3326,7 +3326,8 @@
         "sv1",
         "st2",
         "st2"
-      ]
+      ],
+      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku)"
     },
     {
       "serwis": "HBO Max",
