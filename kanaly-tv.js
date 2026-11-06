@@ -92,10 +92,21 @@
       if (q) q.split(",").forEach(function (k) { if (self.K[k] && self.sel.indexOf(k) < 0) self.sel.push(k); });
     } catch (e) { /* stary przeglądarka */ }
     var h = (location.hash || "").replace(/^#\/?/, "").split("/");
-    if (h[0] === "pakiety") this.tab = "pakiety";
+    if (h[0] === "pakiety" || h[0] === "pakiet") this.tab = "pakiety";
     else if (h[0] === "streaming") this.tab = "streaming";
     this.renderShell();
     this.renderAll();
+    // #/pakiet/<id>: od razu okno pakietu (link z CRM i ofert teleranking.pl)
+    if (h[0] === "pakiet" && h[1]) {
+      var pid = decodeURIComponent(h[1]);
+      this.ops.some(function (o) {
+        return o.linie.some(function (L) {
+          if (!L.pakiety.concat(L.dodatki).some(function (x) { return x.id === pid; })) return false;
+          self.openPkg(o.slug, L.id, pid);
+          return true;
+        });
+      });
+    }
   };
 
   /* ---------- logotypy ---------- */
