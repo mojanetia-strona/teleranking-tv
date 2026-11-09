@@ -1,14 +1,14 @@
 {
   "operator": "Plus",
   "slug": "plus",
-  "sprawdzono": "2026-11-02",
+  "sprawdzono": "2026-11-09",
   "zrodla": [
     {
       "id": "s1",
       "tytul": "Cennik Usług Komunikacji Elektronicznej Telewizji „Telewizja dla Nowych Klientów” z 01.10.2026 (Polsat Box, pakiety S/M/L, listy kanałów § 6)",
       "url": "https://www.polsatbox.pl/binaries/content/assets/polsatbox/regulaminy-i-cenniki/telewizja/cenniki/01.10.2026/715_cennik-pke_cennik-uslug-komunikacji-elektronicznej-telewizji-dla-nowych-klientow_01.10.26.pdf",
       "typ": "pdf",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s2",
@@ -89,10 +89,10 @@
     },
     {
       "id": "s13",
-      "tytul": "Plus: zestawy streamingów (Stream 2/3/4/Trio)",
+      "tytul": "Plus: zestawy streamingów (3-PAK, 4-PAK, 2 lub 4; stan 09.11.2026)",
       "url": "https://www.plus.pl/streaming",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s14",
@@ -127,7 +127,7 @@
       "tytul": "Polsat Box: układ kanałów (linki do PDF układu kanałów 31.07.2026 dla satelity, OTT i IPTV)",
       "url": "https://sklep.polsatbox.pl/noweepg",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s19",
@@ -159,14 +159,14 @@
     },
     {
       "id": "st1",
-      "tytul": "Regulamin Pakietu Stream 3 w wersji promocyjnej (Plus, 18.08.2026)",
+      "tytul": "Regulamin Pakietu Stream 3 w wersji promocyjnej (Plus, 18.08.2026; na stronie oznaczony jako archiwalny)",
       "url": "https://www.plus.pl/binaries/content/assets/plus/regulaminy/180826-zmiany-regulaminow/streaming/regulamin-pakietu-stream-3-w-wersji-promocyjnej.pdf",
       "typ": "regulamin",
       "sprawdzono": "2026-10-23"
     },
     {
       "id": "st2",
-      "tytul": "Regulamin Pakietu Stream 2 w wersji promocyjnej (Plus, 18.08.2026)",
+      "tytul": "Regulamin Pakietu Stream 2 w wersji promocyjnej (Plus, 18.08.2026; na stronie oznaczony jako archiwalny)",
       "url": "https://www.plus.pl/binaries/content/assets/plus/regulaminy/180826-zmiany-regulaminow/streaming/regulamin-pakietu-stream-2-w-wersji-promocyjnej.pdf",
       "typ": "regulamin",
       "sprawdzono": "2026-10-23"
@@ -1428,79 +1428,95 @@
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Ani Plus, ani Polsat Box nie sprzedają Netflixa (brak w cennikach i na stronach streamingowych). Na dekoderze polsat soundbox 4K aplikacja Netflix nie jest wspierana. Klient może oglądać Netflixa na własnym Smart TV, poza operatorem.",
+      "opis": "",
       "zrodla": [
         "s9"
       ]
     },
     {
       "serwis": "HBO Max",
+      "wariant": "Standard",
       "typ": "platny",
       "krotko": "od 25 zł/mies.",
       "uwaga": "25 zł tylko przy nowej/przedłużanej umowie 24 mies.; potem 34,99",
       "dostepnosc": "jako płatny dodatek",
-      "cena": "Plus: 25 zł/mies. (wersja promocyjna przy nowej/przedłużanej umowie min. 24 mies.); 34,99 zł/mies. dodane w dowolnym momencie umowy; w zestawie 2 za 40 zł/mies. lub 4 za 80 zł/mies. Polsat Box: pakiet HBO (3 kanały + HBO Max) przy zawarciu umowy 25 zł/mies., w trakcie umowy 34,99 zł/mies.; Promocja 2 z 4: 20 zł/usługa, 40 zł/mies. za dwie; HBO Max bezpłatnie w ramach pakietu HBO.",
-      "zasady": "Plan Standard. Plus: zamówienie na ostatnim kroku zamówienia lub u doradcy, płatność Kupuj z Plus na rachunku; w trakcie umowy przez iPlus lub 601 102 601. W regulaminie Stream 4 (Plus) HBO Max jest Premium do 24. okresu, od 25. Standard. Polsat Box: pakiet HBO przy zawarciu umowy bez możliwości dezaktywacji; dostępny tylko z pakietem podstawowym. HBO Max nie jest w cenie żadnego pakietu podstawowego TV.",
+      "cena": "Plus: 25 zł/mies. (wersja promocyjna przy nowej/przedłużanej umowie min. 24 mies.); 34,99 zł/mies. dodane w dowolnym momencie umowy; w zestawie 2 za 40 zł/mies. lub 4 za 80 zł/mies. (wybór z 6 serwisów, stan strony 09.11.2026). Polsat Box: pakiet HBO (3 kanały + HBO Max) przy zawarciu umowy 25 zł/mies., w trakcie umowy 34,99 zł/mies.; Promocja 2 z 4: 20 zł/usługa, 40 zł/mies. za dwie; HBO Max bezpłatnie w ramach pakietu HBO.",
+      "zasady": "Plan Standard. Zestaw 2 lub 4 w Plus: tylko z nową lub przedłużaną umową na min. 24 mies. (abonament komórkowy, światłowód lub internet mobilny); cena zestawu bez zmian od 25. mies. Plus: zamówienie na ostatnim kroku zamówienia lub u doradcy, płatność Kupuj z Plus na rachunku; w trakcie umowy przez iPlus lub 601 102 601. W regulaminie Stream 4 (Plus) HBO Max jest Premium do 24. okresu, od 25. Standard. Polsat Box: pakiet HBO przy zawarciu umowy bez możliwości dezaktywacji; dostępny tylko z pakietem podstawowym. HBO Max nie jest w cenie żadnego pakietu podstawowego TV.",
+      "opis": "",
       "zrodla": [
         "sv1",
         "sv2",
         "s3",
-        "sv3"
+        "sv3",
+        "s13"
       ]
     },
     {
       "serwis": "Disney+",
+      "wariant": "Standard",
       "typ": "platny",
       "krotko": "od 25 zł/mies.",
       "uwaga": "25 zł przy nowej/przedł. umowie 24 mies.; w trakcie 34,99 zł",
       "dostepnosc": "jako płatny dodatek",
-      "cena": "Plus: 25 zł/mies. (wersja promocyjna przy nowej/przedłużanej umowie), 34,99 zł/mies. w dowolnym momencie; Gotowy zestaw (Amazon Prime + Apple TV + Disney+) 30 zł/mies. do 3.11.2026; 2 za 40 zł / 4 za 80 zł/mies. Polsat Box: 25 zł/mies. przy umowie (1 miesiąc bez opłat), 34,99 zł/mies. w trakcie umowy; Stream 3 z Disney+ 30 zł/mies. (1 miesiąc bez opłat); Promocja 2 z 4: 40 zł/mies. za dwie.",
-      "zasady": "Plan Standard. Promocyjne ceny wymagają umowy min. 24 mies.; w zestawach wszystkie usługi muszą zostać zachowane, nie można ich zmieniać w trakcie umowy. Polsat Box: tylko z pakietem podstawowym S, M lub L. Plus: płatność Kupuj z Plus.",
+      "cena": "Plus: 25 zł/mies. (wersja promocyjna przy nowej/przedłużanej umowie), 34,99 zł/mies. w dowolnym momencie; 3-PAK (Amazon Prime + Apple TV + Disney+) 40 zł/mies.; 4-PAK (Amazon Prime + Apple TV + Disney+ + SkyShowtime) 55 zł/mies.; 2 za 40 zł / 4 za 80 zł/mies. (wybór z 6 serwisów) – stan strony plus.pl/streaming z 09.11.2026. Polsat Box (wg cennika 711 z 01.10.2026, ważnego do 03.11.2026): 25 zł/mies. przy umowie (1 miesiąc bez opłat), 34,99 zł/mies. w trakcie umowy; Stream 3 z Disney+ 30 zł/mies. (1 miesiąc bez opłat) – aktualna cena po 03.11.2026 niepotwierdzona; Promocja 2 z 4: 40 zł/mies. za dwie.",
+      "zasady": "Plan Standard. Promocyjne ceny wymagają umowy min. 24 mies.; w zestawach wszystkie usługi muszą zostać zachowane, nie można ich zmieniać w trakcie umowy. Plus: zestawy 3-PAK/4-PAK/2 lub 4 tylko z nową lub przedłużaną umową na min. 24 mies. (abonament komórkowy, światłowód lub internet mobilny); cena zestawu bez zmian od 25. mies. Polsat Box: tylko z pakietem podstawowym S, M lub L. Plus: płatność Kupuj z Plus.",
+      "opis": "",
       "zrodla": [
         "sv4",
         "s2",
-        "sv5"
+        "sv5",
+        "s13"
       ]
     },
     {
       "serwis": "SkyShowtime",
+      "wariant": "Standard",
       "typ": "platny",
       "krotko": "od 25 zł/mies.",
       "uwaga": "25 zł przy nowej/przedł. umowie; w trakcie 34,99 zł",
       "dostepnosc": "jako płatny dodatek",
-      "cena": "Plus: 25 zł/mies. (promocyjnie przy nowej/przedłużanej umowie), 34,99 zł/mies. w dowolnym momencie; Gotowy zestaw (SkyShowtime + Apple TV + Amazon Prime) 30 zł/mies. do 3.11.2026; 2 za 40 / 4 za 80 zł/mies. Polsat Box (kanały SkyShowtime + serwis): 25 zł/mies. przy umowie (1 miesiąc bez opłat), 34,99 zł/mies. w trakcie umowy; Stream 3 ze SkyShowtime 30 zł/mies.; Promocja 2 z 4.",
-      "zasady": "Plan Standard. Polsat Box: przy zawarciu umowy bez możliwości dezaktywacji; łącznie z pakietem TV przez 2 lata od 55 zł/mies. z rabatem. Plus: rezygnacja w salonie lub 601 102 601, opłata proporcjonalna.",
+      "cena": "Plus: 25 zł/mies. (promocyjnie przy nowej/przedłużanej umowie), 34,99 zł/mies. w dowolnym momencie; 3-PAK (SkyShowtime + Apple TV + Amazon Prime) 40 zł/mies.; 4-PAK (Amazon Prime + Apple TV + Disney+ + SkyShowtime) 55 zł/mies.; 2 za 40 / 4 za 80 zł/mies. – stan strony plus.pl/streaming z 09.11.2026. Polsat Box (kanały SkyShowtime + serwis; wg cennika z 01.10.2026): 25 zł/mies. przy umowie (1 miesiąc bez opłat), 34,99 zł/mies. w trakcie umowy; Stream 3 ze SkyShowtime 30 zł/mies. (do 03.11.2026, aktualna cena niepotwierdzona); Promocja 2 z 4.",
+      "zasady": "Plan Standard. Plus: zestawy tylko z nową lub przedłużaną umową na min. 24 mies. (abonament komórkowy, światłowód lub internet mobilny); cena zestawu bez zmian od 25. mies.; rezygnacja w salonie lub 601 102 601, opłata proporcjonalna. Polsat Box: przy zawarciu umowy bez możliwości dezaktywacji; łącznie z pakietem TV przez 2 lata od 55 zł/mies. z rabatem.",
+      "opis": "",
       "zrodla": [
         "sv6",
         "sv7",
-        "s2"
+        "s2",
+        "s13"
       ]
     },
     {
       "serwis": "Amazon Prime Video",
+      "wariant": "Amazon Prime",
       "typ": "platny",
       "krotko": "15,50 zł/mies.",
-      "uwaga": "Do dowolnej umowy; w zestawie 3 serwisów 30 zł",
+      "uwaga": "Do dowolnej umowy; w zestawach 3-PAK 40 zł, 4-PAK 55 zł",
       "dostepnosc": "jako płatny dodatek",
-      "cena": "Plus i Polsat Box: Amazon Prime 15,50 zł/mies. dodawany w dowolnym momencie umowy; Gotowy zestaw / Stream 3 (z Apple TV i SkyShowtime lub Disney+) 30 zł/mies. (cena do 3.11.2026, w Polsat Box 1 miesiąc bez opłat).",
-      "zasady": "Pełne Amazon Prime (Prime Video, dostawy). Zamówienie w iPlus/iPolsat Box lub telefonicznie. Klient z istniejącym Prime zakłada nowe konto na inny e-mail albo zarządza obecną subskrypcją na amazon.pl. Prime Video na 3 urządzeniach. Aplikacja z Google Play na soundbox 4K.",
+      "cena": "Plus i Polsat Box: Amazon Prime 15,50 zł/mies. dodawany w dowolnym momencie umowy (wg stron z 26.10.2026). Plus: 3-PAK (z Apple TV i Disney+ albo SkyShowtime) 40 zł/mies.; 4-PAK (z Apple TV, Disney+ i SkyShowtime) 55 zł/mies. – stan plus.pl/streaming z 09.11.2026. Polsat Box: Stream 3 30 zł/mies. wg cennika do 03.11.2026 (1 miesiąc bez opłat); aktualna cena niepotwierdzona.",
+      "zasady": "Pełne Amazon Prime (Prime Video, Amazon Luna, dostawy). Zamówienie w iPlus/iPolsat Box lub telefonicznie. Zestawy 3-PAK/4-PAK tylko z nową lub przedłużaną umową min. 24 mies. Klient z istniejącym Prime zakłada nowe konto na inny e-mail albo zarządza obecną subskrypcją na amazon.pl. Prime Video na 3 urządzeniach. Aplikacja z Google Play na soundbox 4K.",
+      "opis": "",
       "zrodla": [
         "sv8",
         "sv9",
-        "s9"
+        "s9",
+        "s13"
       ]
     },
     {
       "serwis": "Apple TV",
+      "wariant": "",
       "typ": "platny",
       "krotko": "od 25 zł/mies.",
       "uwaga": "25 zł przy nowej/przedł. umowie; w trakcie 34,99 zł",
       "dostepnosc": "jako płatny dodatek",
-      "cena": "Plus: 25 zł/mies. (promocyjnie przy nowej/przedłużanej umowie komórkowej, światłowodu lub 5G/LTE), 34,99 zł/mies. w dowolnym momencie; Gotowy zestaw 30 zł/mies. do 3.11.2026; Stream 4 (wybór 4 z 6). Polsat Box: 25 zł/mies. przy umowie TV (1 miesiąc bez opłat), 34,99 zł/mies. w każdej chwili; Stream 3 30 zł/mies.; Promocja 2 z 4.",
-      "zasady": "Nie jest w cenie żadnej usługi. Wymaga konta Apple TV powiązanego z aktywnym numerem Plus; płatność Kupuj z Plus. Umowa min. 24 mies. dla cen promocyjnych.",
+      "cena": "Plus: 25 zł/mies. (promocyjnie przy nowej/przedłużanej umowie komórkowej, światłowodu lub 5G/LTE), 34,99 zł/mies. w dowolnym momencie; 3-PAK 40 zł/mies. (z Amazon Prime i Disney+ albo SkyShowtime); 4-PAK 55 zł/mies.; 2 za 40 / 4 za 80 zł/mies. (wybór z 6) – stan plus.pl/streaming z 09.11.2026. Polsat Box: 25 zł/mies. przy umowie TV (1 miesiąc bez opłat), 34,99 zł/mies. w każdej chwili; Stream 3 30 zł/mies. (wg cennika do 03.11.2026, aktualna cena niepotwierdzona); Promocja 2 z 4.",
+      "zasady": "Nie jest w cenie żadnej usługi. Wymaga konta Apple TV powiązanego z aktywnym numerem Plus; płatność Kupuj z Plus. Umowa min. 24 mies. dla cen promocyjnych i zestawów.",
+      "opis": "",
       "zrodla": [
         "sv10",
         "s2",
-        "sv3"
+        "sv3",
+        "s13"
       ]
     },
     {
@@ -1511,22 +1527,26 @@
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "CANAL+ nie występuje w cennikach Polsat Box z 01.10.2026 ani na stronach streamingowych Plus. Nie potwierdzono w oficjalnym źródle, czy aplikację CANAL+ online da się zainstalować z Google Play na soundbox 4K (wtedy byłby typ 'konto').",
+      "opis": "",
       "zrodla": [
         "s9"
       ]
     },
     {
       "serwis": "Polsat Box Go",
+      "wariant": "",
       "typ": "w_cenie",
       "krotko": "W cenie TV Polsat Box",
       "uwaga": "Zakres treści zależy od pakietu TV; w Plusie płatny od 25 zł",
       "dostepnosc": "w cenie pakietu",
-      "cena": "Polsat Box TV: w cenie wybranej oferty (Katalogi Online bezpłatnie), dodatkowe pakiety na 30 dni płatne osobno. Plus (bez TV): Polsat Box Go Sport lub Premium 25 zł/mies. (wersja promocyjna przy nowej/przedłużanej umowie mobilnej, światłowodu lub 5G/LTE); w trakcie umowy Sport 40 zł/mies., Premium 30 zł/mies.; w zestawie 2 za 40 / 4 za 80 zł/mies.",
+      "cena": "Polsat Box TV: w cenie wybranej oferty (Katalogi Online bezpłatnie), dodatkowe pakiety na 30 dni płatne osobno. Plus (bez TV): Polsat Box Go Sport lub Premium 25 zł/mies. (wersja promocyjna przy nowej/przedłużanej umowie mobilnej, światłowodu lub 5G/LTE); w trakcie umowy Sport 40 zł/mies., Premium 30 zł/mies.; w zestawie 2 za 40 / 4 za 80 zł/mies. (potwierdzone na plus.pl/streaming 09.11.2026).",
       "zasady": "Polsat Box: wybrane kanały i materiały bez dopłat zgodnie z posiadaną ofertą TV, tylko w Polsce. Plus: umowa min. 24 mies., zamówienie w iPlus lub 601 102 601, SMS z linkiem w 24 h; po dezaktywacji wersji promocyjnej nie można jej ponownie włączyć.",
+      "opis": "",
       "zrodla": [
         "s3",
         "s11",
-        "s12"
+        "s12",
+        "s13"
       ]
     },
     {
@@ -1537,20 +1557,22 @@
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Player nie występuje w ofercie ani cennikach. Nie potwierdzono oficjalnie, czy aplikacja Player jest dostępna w Google Play na soundbox 4K.",
+      "opis": "",
       "zrodla": [
         "s9"
       ]
     },
     {
       "serwis": "Eleven Sports",
+      "wariant": "",
       "typ": "w_cenie",
       "krotko": "W cenie pakietu L",
       "uwaga": "Pakiet L 80 zł/mies.; Sport Max przez 24 mies. umowy",
       "dostepnosc": "w cenie pakietu",
       "cena": "Polsat Box: w Pakiecie L (80 zł/mies. z rabatami, 90 zł bez) bezpłatny pakiet Sport Max z Eleven Sports 1-4; pakiet Eleven Sports dokupiony w trakcie umowy 20 zł/mies. Plus (bez TV): brak.",
       "zasady": "Kanały linearne Eleven Sports w telewizji Polsat Box, nie osobna aplikacja Eleven. W Pakiecie L Eleven Sports dostępne przez 24 miesiące trwania umowy. Pakiety S i M: tylko płatny dodatek 20 zł/mies.",
+      "opis": "",
       "zrodla": [
-        "s1",
         "s1",
         "s3"
       ]
@@ -1563,21 +1585,24 @@
       "dostepnosc": "brak",
       "cena": "",
       "zasady": "Viaplay nie występuje w ofercie ani cennikach. Nie potwierdzono oficjalnie dostępności aplikacji w Google Play na soundbox 4K.",
+      "opis": "",
       "zrodla": [
         "s9"
       ]
     },
     {
       "serwis": "FilmBox+",
+      "wariant": "",
       "typ": "platny",
       "krotko": "od 10 zł/mies.",
       "uwaga": "Pakiet kanałów FILMBOX w Polsat Box; dostęp do aplikacji nieznany",
       "dostepnosc": "jako płatny dodatek",
       "cena": "Polsat Box: pakiet FILMBOX 10 zł/mies. przy nowej/przedłużanej umowie, 15 zł/mies. włączony w dowolnym momencie. Plus (bez TV): brak.",
       "zasady": "To pakiet 5 kanałów (FILMBOX+ Hits, Emotion, Comedy, Action, Festival), dodatek do pakietu podstawowego, przy umowie bez możliwości dezaktywacji. Strona nie mówi, czy daje dostęp do serwisu/aplikacji FilmBox+. (część informacji niepotwierdzona w oficjalnych źródłach)",
+      "opis": "",
       "zrodla": [
         "sv11",
-        "sv11"
+        "s1"
       ]
     }
   ],
@@ -1636,7 +1661,7 @@
   },
   "warunki_ogolne": [
     "Plus (Polkomtel) nie świadczy usługi telewizji sam: telewizję sprzedaje Cyfrowy Polsat S.A. pod marką Polsat Box, na osobnej umowie (Grupa Polsat Plus).",
-    "Telewizję można połączyć z usługami Plus (światłowód, abonament, internet 5G/LTE) w programie „Usługi Łączone dla konsumentów 2” – minimum 2 umowy, rabaty na drugą i kolejne usługi, oferty M lub L (wszystkie usługi w zestawie tego samego typu). Program trwa do 03.11.2026.",
+    "Telewizję można połączyć z usługami Plus (światłowód, abonament, internet 5G/LTE) w programie „Usługi Łączone dla konsumentów 2” – minimum 2 umowy, rabaty na drugą i kolejne usługi, oferty M lub L (wszystkie usługi w zestawie tego samego typu). Wg regulaminu w wersji z 01.10.2026 program trwał do 03.11.2026; nowszej wersji regulaminu nie potwierdzono.",
     "W Usługach Łączonych TV to: Telewizja Satelitarna lub IPTV z Pakietem M/L albo Telewizja Internetowa z Pakietem Komfortowym/Bogatym.",
     "Klient Światłowodu Plusa może odbierać Polsat Box w technologii kablowej IPTV (bez anteny satelitarnej) – Plus jest na liście operatorów współpracujących.",
     "Telewizja Polsat Box (satelita/IPTV) jest też dostępna bez internetu Plus (satelita) i bez kupowania czegokolwiek w Plus.",
@@ -1646,7 +1671,8 @@
     "Kanały promocyjne (TVP 1, TVP 2, TVP 3, Polsat, TVN, TV 4, TV Puls) mogą zostać zmienione lub wycofane bez zmiany umowy.",
     "Multiroom tylko przy zawarciu umowy; nie da się go dokupić później.",
     "Dodatki Eleven Sports i Polsat Sport Premium zamawia się w trakcie umowy (przy pakiecie S lub M); przy L są w Sport Max przez 24 mies.",
-    "Oferta i cenniki Polsat Box obowiązują od 01.10.2026 do 03.11.2026 (potem możliwe zmiany)."
+    "Cennik Polsat Box z 01.10.2026 deklarował ważność do 03.11.2026 lub do odwołania. Nowszego cennika nie znaleziono, a dane o pakietach i kanałach zgadzają się z tym cennikiem oraz z układem kanałów z 31.07.2026.",
+    "Plus sprzedaje zestawy streamingów (3-PAK, 4-PAK, 2 lub 4) tylko do nowej lub przedłużanej umowy na min. 24 mies. (abonament komórkowy, światłowód, internet mobilny); opłata w usłudze Kupuj z Plus."
   ],
   "faq": [
     {
@@ -1709,7 +1735,8 @@
       "odpowiedz": "Netflix nie jest w ofercie. Strona polsat soundbox 4K podaje wprost, że Netflix na nim nie działa. W ofercie są natomiast Disney+, HBO Max, SkyShowtime, Amazon Prime i Apple TV.",
       "zrodla": [
         "s9",
-        "s2"
+        "s2",
+        "s13"
       ]
     },
     {
@@ -1784,7 +1811,7 @@
     },
     {
       "pytanie": "Czy mam HBO Max w pakiecie?",
-      "odpowiedz": "Nie w podstawowym. HBO Max jest razem z płatnym pakietem kanałów HBO (3 kanały) albo w zestawach streamingowych Plus/Polsat Box.",
+      "odpowiedz": "Nie w podstawowym. HBO Max jest razem z płatnym pakietem kanałów HBO (3 kanały) albo w zestawach streamingowych Plus/Polsat Box, np. „2 za 40 zł” lub „4 za 80 zł” w Plusie.",
       "zrodla": [
         "s1",
         "s2",
@@ -1797,6 +1824,13 @@
       "zrodla": [
         "s1",
         "s4"
+      ]
+    },
+    {
+      "pytanie": "Jakie zestawy streamingów oferuje Plus i ile kosztują?",
+      "odpowiedz": "Wg strony plus.pl/streaming z 09.11.2026: 3-PAK za 40 zł/mies. (Amazon Prime + Apple TV + Disney+ albo + SkyShowtime), nowy 4-PAK za 55 zł/mies. (Amazon Prime, Apple TV, Disney+, SkyShowtime) oraz „2 lub 4” (2 za 40 zł lub 4 za 80 zł z 6 serwisów, w tym HBO Max i Polsat Box Go). Tylko z nową lub przedłużaną umową na min. 24 mies. Zestawu nie da się kupić do umowy na samą telewizję Polsat Box w Plusie.",
+      "zrodla": [
+        "s13"
       ]
     }
   ],
@@ -1812,16 +1846,21 @@
     "Pełna lista kanałów z CatchUP/reStart i nPVR (osobny PDF nPVR na polsatbox.pl).",
     "Szczegóły „Telewizji Elastycznej” OTT (okres, pakiety).",
     "Czy przy zamówieniu przez Plus (Usługi Łączone) oferowana jest telewizja S (regulamin wymienia tylko oferty M i L).",
+    "Nowa wersja cennika Polsat Box, cennika usług dodatkowych (711) i regulaminu Usług Łączonych po 03.11.2026 – 09.11.2026 nie znaleziono nowszych wersji, a strony polsatbox.pl/regulaminy-i-cenniki oraz sklep.polsatbox.pl (telewizja-satelitarna, streaming) zwracały błąd W500. Dane z 01.10.2026 uznano za nadal obowiązujące do czasu znalezienia nowszych; sprawdzić ponownie.",
+    "Streaming: plus.pl/streaming (09.11.2026) w nagłówkach podaje 3-PAK 40 zł i 4-PAK 55 zł, ale stopki prawne nadal wymieniają Stream 3 i Stream Trio po 30 zł, ważne 1.10–3.11.2026. Przyjęto ceny z nagłówków (40/55 zł); potwierdzić u konsultanta. Regulaminy Stream 2/3/4/Trio z 18.08.2026 są na stronie oznaczone jako archiwalne, a regulaminu dla 4-PAK nie znaleziono.",
+    "Streaming: brak daty końca ofert 3-PAK/4-PAK na plus.pl/streaming; sprawdzić okres ważności.",
+    "Streaming: ceny pojedynczych serwisów (25 zł przy umowie / 34,99 zł w trakcie umowy, Amazon 15,50 zł) pochodzą ze stron serwisów sprawdzonych 26.10.2026. 09.11.2026 nie udało się ich ponownie otworzyć (limit odczytów, plus.pl/hbomax zwróciło błąd W500), a plus.pl/streaming ich już nie podaje.",
+    "Streaming: strona plus.pl/amazonprime (kopia z 26.10.2026) nadal pokazuje „Gotowy zestaw 30 zł do 03.11” – nieaktualne wobec plus.pl/streaming z 09.11.2026.",
+    "Streaming: ceny Polsat Box dla zestawów Stream 3 (30 zł) i pakietów po 03.11.2026 – nie sprawdzono (sklep.polsatbox.pl/streaming niedostępny). Wiadomość na polsat.pl z 04.11.2026 mówi o 4 platformach za 55 zł w Plusie i Polsat Box, ale to nie jest oficjalna strona operatora, więc traktować tylko jako wskazówkę.",
     "Streaming: cena Pakietu HBO przy zawarciu umowy Polsat Box (cennik 711 podaje tylko 34,99 zł w trakcie umowy) oraz cena pojedynczego HBO Max w Plus.",
-    "Streaming: cena zestawów Stream po okresie promocyjnym w Plus – regulaminy odsyłają do Cennika Usług Dodatkowych Plus (nie sprawdzono); kwoty 30/40/80 zł ze strony plus.pl/streaming (oferta 1.10–3.11.2026).",
+    "Streaming: cena zestawów Stream po okresie promocyjnym w Plus – regulaminy odsyłają do Cennika Usług Dodatkowych Plus (nie sprawdzono). Strona streamingu podaje tylko, że cena zestawu nie zmienia się od 25. miesiąca.",
     "Streaming: liczba jednoczesnych urządzeń w Polsat Box Go dla klientów TV.",
-    "Streaming: Żaden serwis wideo nie jest 'w cenie' abonamentu Plus; w cenie są tylko Polsat Box Go (w TV Polsat Box) i Eleven (w pakiecie L Polsat Box).",
-    "Streaming: Ceny 25 zł (pojedynczy serwis) i zestawy 30/40/80 zł działają tylko przy nowej lub przedłużanej umowie min. 24 mies.; dodane w trakcie umowy kosztują 34,99 zł (PBG Sport 40, Premium 30).",
-    "Streaming: Cena 30 zł za gotowy zestaw 3 streamingów obowiązuje do 3.11.2026, po tym terminie sprawdzić nową cenę.",
-    "Streaming: Strona plus.pl/appletv podaje sprzeczne liczby w przypisach (Stream 3 za 40 zł, łącznie od 90 zł); potwierdzić u konsultanta.",
-    "Streaming: Regulamin Stream 4 (Plus) mówi o HBO Max Premium do 24. miesiąca, strony sprzedażowe o planie Standard; dopytać.",
-    "Streaming: Pierwszy miesiąc bez opłat jest w cenniku Polsat Box (przy umowie), na stronach Plus brak takiej informacji.",
-    "Streaming: Nie potwierdzono, czy Player, CANAL+ online i Viaplay da się zainstalować z Google Play na soundbox 4K (wtedy typ 'konto').",
-    "Streaming: Pakiet FILMBOX w Polsat Box to kanały; nie wiadomo, czy daje dostęp do aplikacji FilmBox+."
+    "Streaming: żaden serwis wideo nie jest „w cenie” abonamentu Plus; w cenie są tylko Polsat Box Go (w TV Polsat Box) i Eleven (w pakiecie L Polsat Box).",
+    "Streaming: ceny 25 zł (pojedynczy serwis) i zestawy 40/55/80 zł działają tylko przy nowej lub przedłużanej umowie min. 24 mies.; dodane w trakcie umowy kosztują 34,99 zł (PBG Sport 40, Premium 30).",
+    "Streaming: strona plus.pl/appletv (stan 26.10) podawała sprzeczne liczby w przypisach (Stream 3 za 40 zł, łącznie od 90 zł); po zmianie cen możliwe, że były to już nowe ceny – potwierdzić u konsultanta.",
+    "Streaming: regulamin Stream 4 (Plus) mówi o HBO Max Premium do 24. miesiąca, strony sprzedażowe o planie Standard; dopytać.",
+    "Streaming: pierwszy miesiąc bez opłat jest w cenniku Polsat Box (przy umowie), na stronach Plus brak takiej informacji.",
+    "Streaming: nie potwierdzono, czy Player, CANAL+ online i Viaplay da się zainstalować z Google Play na soundbox 4K (wtedy typ 'konto').",
+    "Streaming: pakiet FILMBOX w Polsat Box to kanały; nie wiadomo, czy daje dostęp do aplikacji FilmBox+."
   ]
 }

@@ -1,23 +1,11 @@
 {
-  "data": "2026-11-02",
+  "data": "2026-11-09",
   "operatorzy": [
     {
       "operator": "T-Mobile",
       "zmiany": [
-        "Nowe kanały: Newsmax Polska, TVP Seriale",
-        "Usunięte kanały: Newsmax",
-        "Zmiana pakietów dla kanałów: Adventure, BBC Brit, ViDoc TV 4K, Warner TV",
-        "(opis AI) Nowa oficjalna lista kanałów MagentaTV (PDF, stan na 14.10.2026, link ze strony z listą kanałów) dodana jako źródło s_tm_pdf; kanały zweryfikowane względem niej.",
-        "(opis AI) Dodano kanał TVP Seriale (nr 124, MIDI i MAXI) – jest na liście z 14.10.2026 i na stronie, a brakowało go w danych.",
-        "(opis AI) ViDoc TV (nr 532) jest teraz na oficjalnej liście i dostępny we wszystkich pakietach (Telewizja dla każdego, MIDI, MAXI); ViDoc TV 4K (nr 533) tylko w MAXI. Wcześniej oba miały puste pakiety.",
-        "(opis AI) BBC Brit (nr 526) i Adventure (nr 530) według listy z 14.10.2026 są także w Telewizji dla każdego (wcześniej tylko MIDI i MAXI).",
-        "(opis AI) Warner TV (nr 132) według listy z 14.10.2026 jest tylko w MAXI (wcześniej wpisany także w MIDI).",
-        "(opis AI) Kanał „Newsmax” przemianowano na „Newsmax Polska” (nazwa z listy z 14.10.2026 i ze strony); usunięto adnotację o kanale obcojęzycznym.",
-        "(opis AI) Polsat Comedy Central Extra i TeenNick: lista z 14.10.2026 podaje dostępność w ofercie do 31.12.2027 r. (wcześniej wpisano 31.12.2026).",
-        "(opis AI) Funkcje z listy z 14.10.2026: nagrywanie 128 kanałów, catch-up 190 (wcześniej 189), time-shift 113; zaktualizowano opisy.",
-        "(opis AI) ShortTV, ShortTV 4K, BBC News i Euronews FR są na stronie z listą kanałów, ale nie ma ich w PDF z 14.10.2026; zostawiono je z adnotacją i dopisano do do_sprawdzenia.",
-        "(opis AI) Streaming: strona rozrywka pokazuje CANAL+ „od 29,99 zł/mies.”, a strona CANAL+ i regulamin podają 29 zł (Seriale i Filmy) – zostawiono 29 zł i dopisano rozbieżność do do_sprawdzenia. Netflix, HBO Max i CANAL+ Super Sport bez zmian (Netflix nadal zapowiada zmianę ceny od 1.11.2026 bez nowych kwot).",
-        "(opis AI) Zaktualizowano daty sprawdzenia źródeł i liczby w do_sprawdzenia."
+        "(opis AI) Netflix (streaming): T-Mobile odroczył podwyżkę cen o miesiąc (komunikat z 30.10.2026 na stronie rozrywka/netflix). Nowe ceny 37/55/75 zł dla dotychczasowych klientów (stare 33/49/67 zł) wchodzą od 1.12.2026, a nie od 1.11.2026. Akceptacja nowej ceny w e-mailu jest możliwa do 30.11.2026. Bez niej serwis zostanie wyłączony z końcem cyklu rozpoczętego w grudniu 2026. Poprawiono pola uwaga, cena i zasady oraz punkt w do_sprawdzenia.",
+        "(opis AI) Zaktualizowano daty sprawdzenia źródeł: lista kanałów (strona i PDF z 14.10.2026), lista z 1.07.2026, strona MagentaTV, strony Netflix, HBO Max, CANAL+, rozrywka i regulamin Netflix. Lista kanałów, ceny HBO Max (39,99 zł) i CANAL+ (29 zł / 69 zł) nie zmieniły się."
       ],
       "do_sprawdzenia": [
         "Liczby z listy z 14.10.2026 nie zgadzają się dokładnie z marketingiem: Telewizja dla każdego ma na liście 78 pozycji (77 unikalnych, TVP 3 Warszawa podwójnie) zamiast 75, MIDI 170 pozycji (169 unikalnych) zamiast 170, MAXI 208 pozycji (207 unikalnych). Kanały gwarantowane w tabeli: 16/45/54 zamiast 15/45/51. Pole „gwarantowany” w uwagach kanałów trzeba zweryfikować na oficjalnej liście.",
@@ -33,41 +21,93 @@
       ]
     },
     {
+      "operator": "Play",
+      "zmiany": [
+        "Streaming Polsat Sport Premium: brak -> jako płatny dodatek",
+        "(opis AI) Netflix: oficjalne strony Play (play-telewizja i play-internet-tv) podają teraz promocję „2 miesiące w prezencie” (tylko Plan Podstawowy, przy jednoczesnym zakupie Telewizji MAX), potem 37 zł/mies. Zastąpiłem wcześniejszy opis „50% taniej przez 3 mies.”. Kwoty w krotko i polu potwierdzonym przez Łukasza zostały bez zmian. Usunąłem z do_sprawdzenia rozbieżność dotyczącą FAQ.",
+        "(opis AI) SkyShowtime: według play-internet-tv w Telewizji Nowej Generacji Standard z reklamami kosztuje 20 pkt (wcześniej 25 pkt), a Standard 30 pkt. Dopisałem ceny w Telewizji MAX (25 zł z reklamami, 35 zł Standard) i informację, że wersja z reklamami jest w cenie abonamentu w wybranych ofertach. Poprawiłem też dodatek play-skyshowtime.",
+        "(opis AI) Eleven Sports: play-internet-tv podaje 25 zł/mies. bez zobowiązań w Telewizji MAX, TNG 15 pkt, a w wybranych ofertach pakiet jest w cenie abonamentu. Strona nie wspomina już o promocji „w cenie przez 12 mies.” w Internet + TV, więc usunąłem to jako fakt i dodałem do do_sprawdzenia. Poprawiłem pakiet play-max, dodatek play-eleven i FAQ o sporcie.",
+        "(opis AI) Dodano serwis Polsat Sport Premium w streamingu: 20 zł/mies. w Telewizji MAX i w PLAY NOW, bez zobowiązań, TNG 15 pkt, dostępny do 30.06.2027 (w wybranych ofertach w cenie abonamentu). Wpis Polsat Box Go zostaje jako „brak”, z odesłaniem do nowego wpisu.",
+        "(opis AI) FilmBox+: play-internet-tv podaje 15 zł/mies. w Telewizji MAX (bez zobowiązań) i 10 pkt w TNG. Pakiet to 5 kanałów plus serwis streamingowy FILMBOX+, a Play oznacza go jako „dostępny do 31.12.2026”. Zaktualizowałem wpis streamingowy i dodatek play-filmbox.",
+        "(opis AI) Amazon Prime: strona dodaje, że w wybranych ofertach internetu z telewizją serwis jest w cenie abonamentu. Można go wyłączyć w Play24 lub na TV BOX. Pola potwierdzone przez Łukasza nie były zmieniane, dopisałem tylko zasady.",
+        "(opis AI) HBO Max: strona podaje, że kanały HBO, HBO2 i HBO3 są na numerach 170, 171 i 172, a serwis ma 3 pakiety. Dopisałem to do zasad. Ceny bez zmian (od 30 zł/mies.).",
+        "(opis AI) PLAY NOW: FAQ na play.pl podaje, że nagrania w chmurze są przechowywane do 90 dni. Poprawiłem to w nagrywaniu (wcześniej 180 dni dla PLAY NOW). Dla dekodera nadal obowiązuje okres pół roku (180 dni).",
+        "(opis AI) Zaktualizowałem daty sprawdzenia źródeł. Wykazy PDF Start, Select, Max i Max Premium są nadal ważne od 09.02.2026 i 12.06.2026, a przewodnik PDF to nadal wersja 05.2026. Listy kanałów w oknach modalnych na play.pl nie były widoczne w tym odczycie, więc listy kanałów zostawiłem bez zmian.",
+        "(opis AI) Uzupełniłem do_sprawdzenia (m.in. brak widocznej oferty Telewizja Start i karty MAX Premium w statycznej treści strony, nowe terminy dostępności pakietów Polsat Sport Premium i FilmBox)."
+      ],
+      "do_sprawdzenia": [
+        "Status sprzedaży telewizji kablowej (DVB-C, dawne UPC) nowym klientom w 2026 r.: strony ofertowe play.pl jej nie pokazują, a wykazy programów są aktualne (2026). Nie wiadomo, czy można ją jeszcze zamówić.",
+        "Jakość obrazu (SD/HD) kanałów w telewizji internetowej: listy kanałów na play.pl nie podają jakości. Pole \"jakosc\" uzupełniono tylko dla kanałów 4K i kanałów oznaczonych HD w wykazach dla sieci kablowej; pozostałe puste.",
+        "Liczba kanałów HD w każdym pakiecie: brak danych w oficjalnych źródłach.",
+        "Rozbieżności liczb: MAX Premium lista ok. 232 pozycje vs komunikowane 229; MAX ok. 220 vs 217; PLAY NOW 64 pozycje vs 66. Możliwe liczenie pakietów lub duplikatów (BBC Player 3 razy).",
+        "Dokładny podział kanałów między warianty kablowe Max, Max Plus, Max Premium i Max Premium Plus: PDF-y zawierają wspólne listy, a część pozycji to same logotypy (bez nazwy w tekście). PDF \"Max i Max Plus\" przy odczycie zwracał treść zatytułowaną jak \"Max Premium i Max Premium Plus\".",
+        "Pełna lista kanałów w sieci kablowej (kanały niegwarantowane i numeracja dekoderów DMC/Mediabox): w PDF-ach numeracji, których nie udało się odczytać (linki bez adresu URL w kodzie strony).",
+        "Dekoder TV BOX w ofercie Telewizja Start: model i funkcje (4K, nagrywanie, Android TV) niepotwierdzone.",
+        "Serwis Player: Play wymienia go wśród serwisów dostępnych \"w zależności od pakietu\", ale nie ma go na liście za punkty ani w pakietach.",
+        "Pakiet SkyShowtime w TNG: na liście pokazane kanały SkyShowtime 1 i 2, a progi punktów (20 pkt z reklamami / 30 pkt Standard wg play-internet-tv) odpowiadają planom serwisu SkyShowtime. Nie wiadomo, czy to kanały, serwis, czy oba; nie potwierdzono też, czy osobny „Pakiet SkyShowtime” (kanały) nadal kosztuje 25/30 pkt.",
+        "Pakiet Ukraina: lista na play.pl ma błędne podpisy (w danych strony pojawiają się nazwy kanałów erotycznych przy logotypach 36,6 TV i Star Cinema); skład przyjęto wg logotypów. W marcu 2026 Play podawał 10 kanałów."
+      ]
+    },
+    {
+      "operator": "Plus",
+      "zmiany": [
+        "(opis AI) Plus (plus.pl/streaming, stan 09.11.2026): gotowe zestawy streamingów kosztują teraz 3-PAK 40 zł/mies. (Amazon Prime + Apple TV + Disney+ albo Amazon Prime + Apple TV + SkyShowtime). Wcześniej było 30 zł do 3.11.2026.",
+        "(opis AI) Plus: nowy zestaw 4-PAK za 55 zł/mies. (Amazon Prime + Apple TV + Disney+ w planie Standard + SkyShowtime). Ceny zestawów w wpisach Disney+, SkyShowtime, Amazon Prime i Apple TV zaktualizowane.",
+        "(opis AI) Plus: zestaw „2 lub 4” bez zmian (2 za 40 zł lub 4 za 80 zł z 6 serwisów: Apple TV, SkyShowtime, HBO Max Standard, Disney+ Standard, PBG Sport, PBG Premium). Dopisano źródło s13 do HBO Max i Polsat Box Go.",
+        "(opis AI) Terminy „do 03.11.2026” (Usługi Łączone, cennik Polsat Box, gotowe zestawy) są już przeterminowane. Opisano je jako dane z dokumentów z 01.10.2026 i dodano do „do_sprawdzenia”, bo nie znaleziono nowszych dokumentów.",
+        "(opis AI) Cennik Polsat Box z 01.10.2026 (pakiety S/M/L, dodatki, multiroom, nPVR) sprawdzony ponownie i bez zmian. Układ kanałów z 31.07.2026 (sklep.polsatbox.pl/noweepg) nadal aktualny. Składy pakietów i listę kanałów zostawiono bez zmian.",
+        "(opis AI) Część stron (sklep.polsatbox.pl: telewizja-satelitarna, streaming; polsatbox.pl/regulaminy-i-cenniki; plus.pl/hbomax) zwróciła błąd W500. Nie usuwano z ich powodu żadnych danych; dopisano to do „do_sprawdzenia”."
+      ],
+      "do_sprawdzenia": [
+        "Pełne składy kanałów pakietów telewizji internetowej OTT (Pakiet Komfortowy, Bogaty, ewentualnie Wygodny) w ofercie z października 2026 – strona OTT nie publikuje składów, aktualny cennik OTT nie był dostępny; ostatnie potwierdzone składy pochodzą z regulaminu z 08.2025 (s21), więc nie wpisano ich jako aktualnych.",
+        "Składy dodatków OTT: Filmy i Seriale (17), Pakiet SPORT (15), Pakiet Dzieci (8), miniKomfortowy (17), miniBogaty (49), midiBogaty (70), Eleven Sports (5), Polsat Sport Premium (6 + 4 PPV).",
+        "Jakość kanałów bez dopisku HD w cenniku (np. Polsat Sport 1/2/3, TVP 3, TVP ABC, Polsat News 2, Eleven Sports 1-4) – oznaczono jako SD, a w układzie kanałów część z nich może występować w HD.",
+        "Które kanały i ile z każdego pakietu S/M/L jest dostępnych w Polsat Box Go (stara ulotka z 04.2025 podawała np. S: 57/35 online – dane nieaktualne).",
+        "Limit jednoczesnych urządzeń w Polsat Box Go dla klientów satelity/IPTV (dla OTT: 3 urządzenia mobilne).",
+        "Lista kanałów 4K i kanałów promocyjnych/niegwarantowanych wliczanych w „ponad 130 / 160 kanałów” w reklamach.",
+        "Długość promocyjnych pakietów Mini M i Mini L (wg cennika określona w umowie).",
+        "Dokładne przypisanie modeli dekoderów do pakietów (tabela § 5.1 cennika nieczytelna dla polsat box 4K lite i soundbox) oraz czy soundbox działa w IPTV/satelicie (ulotka z 2025: tylko internet).",
+        "Pełna lista kanałów z CatchUP/reStart i nPVR (osobny PDF nPVR na polsatbox.pl).",
+        "Szczegóły „Telewizji Elastycznej” OTT (okres, pakiety)."
+      ]
+    },
+    {
       "operator": "Vectra",
       "zmiany": [
-        "(opis AI) Streaming / CANAL+ Super Sport (dodatek do TV): strona vectra.pl/canal-plus pokazuje teraz 25 zł za pierwszy miesiąc, od 2. miesiąca 69,00 zł/mies., aktywacja 0 zł (wcześniej w danych 69 zł od początku i aktywacja 10 zł). Zaktualizowano pola cena, uwaga i zasady.",
-        "(opis AI) CANAL+ Seriale i Filmy: bez zmian (29,00 zł/mies., aktywacja 10 zł, bez zobowiązania). Potwierdzono ponownie na stronie.",
-        "(opis AI) Oferta Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł nie jest już widoczna na stronie vectra.pl/canal-plus. Zostawiono ją w danych z adnotacją i dopisano do 'do_sprawdzenia'.",
-        "(opis AI) Zaktualizowano daty sprawdzenia źródeł s1, s4, s5, sv7 i sv10 oraz dopisano nowe punkty w 'do_sprawdzenia'.",
-        "(opis AI) Wykaz telewizji cyfrowej IN01p nadal ma wersję 1.102 (od 1.10.2026). Strony pakiety-tv i oferta-telewizja-internetowa nie zmieniły liczb kanałów (37/72/128/167/191 oraz TV Smart 41/81/125), więc skład pakietów i kanałów zostaje bez zmian."
+        "Streaming Apple TV: brak -> jako płatny dodatek",
+        "(opis AI) Streaming: Apple TV zmienione z 'brak' na płatny dodatek. Vectra sprzedaje Apple TV (vectra.pl/apple-tv, strona czytana 9.11.2026). Dodatek dla obecnych klientów kosztuje 34,99 zł/mies. od 2. miesiąca, aktywacja 0 zł, bez zobowiązania. Są też zestawy Internet+TV z Apple TV (70 zł w mies. 1-4, potem 84,99 / 104,99 / 134,99 zł), regulamin promocji obowiązuje 02.11.2026-31.01.2027.",
+        "(opis AI) Dodano źródła sv14 (strona Apple TV), sv15 (regulamin promocji JZ26 Apple TV 1M BZ) i sv16 (regulamin promocji JZ26 Paczka 2P AT NK BZ).",
+        "(opis AI) Pakiet Super Film & Sport: według vectra.pl/pakiety-tv (strona z 9.11.2026) pakiet ma dostęp do serwisu Max w wariancie Premium. Poprawiono opis pakietu i dodano uwagę, że strona nazywa go 'Super Film&Sport Premium'.",
+        "(opis AI) Podsumowanie i FAQ: dopisano Apple TV w ofercie streamingowej, dodano pytanie FAQ o Apple TV.",
+        "(opis AI) Potwierdzono bez zmian w treści: wykaz IN01p v1.102 (obowiązuje od 1.10.2026), ceny i warunki HBO Max (strona z 9.11.2026) oraz CANAL+ (strona z 9.11.2026). Zaktualizowano daty sprawdzenia źródeł.",
+        "(opis AI) Do_sprawdzenia: dopisano nowe rozbieżności (liczby kanałów HD i kanałów TV Smart na vectra.pl/pakiety-tv, 'Pakiet Sport od HBO Max', niespójność 1 vs 6 mies. prezentu Apple TV, niewczytany regulamin RG27 Apple TV). Zaktualizowano status Superoferty z prezentami HBO/Eleven (regulamin do 02.11.2026) i usunięto Apple TV z listy usług 'brak w ofercie'."
       ],
       "do_sprawdzenia": [
         "Multiroom: maksymalna liczba dodatkowych dekoderów, czy kolejne dekodery mają ten sam pakiet, jakie modele - strona odsyła do formularza, brak danych w regulaminie (tylko definicja 'Gniazda Dodatkowego').",
         "Nagrywanie w chmurze TV Smart: limit godzin niespójny (10 h vs 100 h na stronie dekoderów), czas przechowywania nieznany.",
-        "Super Film & Sport: dokładny skład (189/190/191 kanałów w różnych źródłach) - przypisanie kanałów w 'kanaly' wyprowadzone z opisu na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro), nie z wykazu IN01p.",
-        "TV Smart: liczby kanałów w ofercie (41/81/125) nie zgadzają się z wykazem IN16 v1.31 (27/66/110); możliwe, że oferta liczy kanały dodatkowe/radio - nie potwierdzono.",
+        "Super Film & Sport: dokładny skład (189/190/191 kanałów w różnych źródłach) - przypisanie kanałów w 'kanaly' wyprowadzone z opisu na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro), nie z wykazu IN01p. Strona Pakietów Premium (9.11.2026) mówi też o serwisie Max w wariancie Premium w tym pakiecie - nie sprawdzono tego w cenniku ani regulaminie.",
+        "TV Smart: liczby kanałów w ofercie (41/81/125) nie zgadzają się z wykazem IN16 v1.31 (27/66/110) ani ze stroną vectra.pl/pakiety-tv z 9.11.2026 (27/61/104; HD 24?/58/90) - nie potwierdzono, skąd różnice.",
+        "Liczby kanałów HD w kablówce: strona vectra.pl/pakiety-tv (9.11.2026) podaje 33/59/105/135/156 HD (Stalowy/Srebrny/Złoty/Platynowy/Super Film&Sport), a w danych jest 35/60/109/143/160 (z wykazu EPG IN01 2.27). Nie rozstrzygnięto, które są aktualne.",
         "TV Smart: czy wymaga internetu Vectry (regulamin telewizji pkt 5.2 dla dekodera Smart: tak; regulamin TV Smart: tylko min. 10/25 Mb/s) - niespójne.",
         "Lista Smart TV (Samsung, LG, Android TV) obsługujących aplikację TV Smart GO - niepodana.",
         "Kategorie i jakość kanałów przyjęto z wykazu EPG IN01 2.27 (kwiecień 2026); kanały spoza tego wykazu (np. FilmBox+, Echo24, kanały ukraińskie) skategoryzowano wg nazwy. Część kanałów SD w EPG może być nadawana w HD.",
         "HBO w Złotym/Platynowym: strona oferty podaje HBO w cenie, ale wykaz IN01p traktuje HBO jako osobny pakiet - prawdopodobnie element promocji, warto sprawdzić w regulaminie promocji.",
-        "Pakiet 'Ostry' (20 kanałów) widoczny na vectra.pl/pakiety-tv - brak pełnej listy kanałów i relacji do Sport na Ostro.",
-        "Oferta Vectry w sieciach przejętych (np. Multimedia Polska) - nie potwierdzono, czy lineup jest identyczny we wszystkich sieciach."
+        "Pakiet 'Ostry' (20 kanałów) widoczny na vectra.pl/pakiety-tv - brak pełnej listy kanałów i relacji do Sport na Ostro."
       ]
     }
   ],
-  "bledy": [],
+  "bledy": [
+    "Orange: Brak bloku JSON i brak BEZ_ZMIAN w odpowiedzi"
+  ],
   "bez_zmian": [
     "Netia",
-    "Orange",
-    "Play",
-    "Plus",
     "INEA"
   ],
   "koszt": {
-    "input": 7686172,
-    "output": 152693,
-    "searches": 9,
-    "usd_orientacyjnie": 16.99
+    "input": 10222057,
+    "output": 250536,
+    "searches": 10,
+    "usd_orientacyjnie": 23.05
   },
-  "tekst": "Aktualizacja bazy TV: 2026-11-02\n\nT-Mobile:\n  - Nowe kanały: Newsmax Polska, TVP Seriale\n  - Usunięte kanały: Newsmax\n  - Zmiana pakietów dla kanałów: Adventure, BBC Brit, ViDoc TV 4K, Warner TV\n  - (opis AI) Nowa oficjalna lista kanałów MagentaTV (PDF, stan na 14.10.2026, link ze strony z listą kanałów) dodana jako źródło s_tm_pdf; kanały zweryfikowane względem niej.\n  - (opis AI) Dodano kanał TVP Seriale (nr 124, MIDI i MAXI) – jest na liście z 14.10.2026 i na stronie, a brakowało go w danych.\n  - (opis AI) ViDoc TV (nr 532) jest teraz na oficjalnej liście i dostępny we wszystkich pakietach (Telewizja dla każdego, MIDI, MAXI); ViDoc TV 4K (nr 533) tylko w MAXI. Wcześniej oba miały puste pakiety.\n  - (opis AI) BBC Brit (nr 526) i Adventure (nr 530) według listy z 14.10.2026 są także w Telewizji dla każdego (wcześniej tylko MIDI i MAXI).\n  - (opis AI) Warner TV (nr 132) według listy z 14.10.2026 jest tylko w MAXI (wcześniej wpisany także w MIDI).\n  - (opis AI) Kanał „Newsmax” przemianowano na „Newsmax Polska” (nazwa z listy z 14.10.2026 i ze strony); usunięto adnotację o kanale obcojęzycznym.\n  - (opis AI) Polsat Comedy Central Extra i TeenNick: lista z 14.10.2026 podaje dostępność w ofercie do 31.12.2027 r. (wcześniej wpisano 31.12.2026).\n  - (opis AI) Funkcje z listy z 14.10.2026: nagrywanie 128 kanałów, catch-up 190 (wcześniej 189), time-shift 113; zaktualizowano opisy.\n  - (opis AI) ShortTV, ShortTV 4K, BBC News i Euronews FR są na stronie z listą kanałów, ale nie ma ich w PDF z 14.10.2026; zostawiono je z adnotacją i dopisano do do_sprawdzenia.\n  - (opis AI) Streaming: strona rozrywka pokazuje CANAL+ „od 29,99 zł/mies.”, a strona CANAL+ i regulamin podają 29 zł (Seriale i Filmy) – zostawiono 29 zł i dopisano rozbieżność do do_sprawdzenia. Netflix, HBO Max i CANAL+ Super Sport bez zmian (Netflix nadal zapowiada zmianę ceny od 1.11.2026 bez nowych kwot).\n  - (opis AI) Zaktualizowano daty sprawdzenia źródeł i liczby w do_sprawdzenia.\nVectra:\n  - (opis AI) Streaming / CANAL+ Super Sport (dodatek do TV): strona vectra.pl/canal-plus pokazuje teraz 25 zł za pierwszy miesiąc, od 2. miesiąca 69,00 zł/mies., aktywacja 0 zł (wcześniej w danych 69 zł od początku i aktywacja 10 zł). Zaktualizowano pola cena, uwaga i zasady.\n  - (opis AI) CANAL+ Seriale i Filmy: bez zmian (29,00 zł/mies., aktywacja 10 zł, bez zobowiązania). Potwierdzono ponownie na stronie.\n  - (opis AI) Oferta Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł nie jest już widoczna na stronie vectra.pl/canal-plus. Zostawiono ją w danych z adnotacją i dopisano do 'do_sprawdzenia'.\n  - (opis AI) Zaktualizowano daty sprawdzenia źródeł s1, s4, s5, sv7 i sv10 oraz dopisano nowe punkty w 'do_sprawdzenia'.\n  - (opis AI) Wykaz telewizji cyfrowej IN01p nadal ma wersję 1.102 (od 1.10.2026). Strony pakiety-tv i oferta-telewizja-internetowa nie zmieniły liczb kanałów (37/72/128/167/191 oraz TV Smart 41/81/125), więc skład pakietów i kanałów zostaje bez zmian.\nBez zmian: Netia, Orange, Play, Plus, INEA\n\nKoszt orientacyjny: ~16.99 USD\nApka: https://kanaly.teleranking.pl/"
+  "tekst": "Aktualizacja bazy TV: 2026-11-09\n\nT-Mobile:\n  - (opis AI) Netflix (streaming): T-Mobile odroczył podwyżkę cen o miesiąc (komunikat z 30.10.2026 na stronie rozrywka/netflix). Nowe ceny 37/55/75 zł dla dotychczasowych klientów (stare 33/49/67 zł) wchodzą od 1.12.2026, a nie od 1.11.2026. Akceptacja nowej ceny w e-mailu jest możliwa do 30.11.2026. Bez niej serwis zostanie wyłączony z końcem cyklu rozpoczętego w grudniu 2026. Poprawiono pola uwaga, cena i zasady oraz punkt w do_sprawdzenia.\n  - (opis AI) Zaktualizowano daty sprawdzenia źródeł: lista kanałów (strona i PDF z 14.10.2026), lista z 1.07.2026, strona MagentaTV, strony Netflix, HBO Max, CANAL+, rozrywka i regulamin Netflix. Lista kanałów, ceny HBO Max (39,99 zł) i CANAL+ (29 zł / 69 zł) nie zmieniły się.\nPlay:\n  - Streaming Polsat Sport Premium: brak -> jako płatny dodatek\n  - (opis AI) Netflix: oficjalne strony Play (play-telewizja i play-internet-tv) podają teraz promocję „2 miesiące w prezencie” (tylko Plan Podstawowy, przy jednoczesnym zakupie Telewizji MAX), potem 37 zł/mies. Zastąpiłem wcześniejszy opis „50% taniej przez 3 mies.”. Kwoty w krotko i polu potwierdzonym przez Łukasza zostały bez zmian. Usunąłem z do_sprawdzenia rozbieżność dotyczącą FAQ.\n  - (opis AI) SkyShowtime: według play-internet-tv w Telewizji Nowej Generacji Standard z reklamami kosztuje 20 pkt (wcześniej 25 pkt), a Standard 30 pkt. Dopisałem ceny w Telewizji MAX (25 zł z reklamami, 35 zł Standard) i informację, że wersja z reklamami jest w cenie abonamentu w wybranych ofertach. Poprawiłem też dodatek play-skyshowtime.\n  - (opis AI) Eleven Sports: play-internet-tv podaje 25 zł/mies. bez zobowiązań w Telewizji MAX, TNG 15 pkt, a w wybranych ofertach pakiet jest w cenie abonamentu. Strona nie wspomina już o promocji „w cenie przez 12 mies.” w Internet + TV, więc usunąłem to jako fakt i dodałem do do_sprawdzenia. Poprawiłem pakiet play-max, dodatek play-eleven i FAQ o sporcie.\n  - (opis AI) Dodano serwis Polsat Sport Premium w streamingu: 20 zł/mies. w Telewizji MAX i w PLAY NOW, bez zobowiązań, TNG 15 pkt, dostępny do 30.06.2027 (w wybranych ofertach w cenie abonamentu). Wpis Polsat Box Go zostaje jako „brak”, z odesłaniem do nowego wpisu.\n  - (opis AI) FilmBox+: play-internet-tv podaje 15 zł/mies. w Telewizji MAX (bez zobowiązań) i 10 pkt w TNG. Pakiet to 5 kanałów plus serwis streamingowy FILMBOX+, a Play oznacza go jako „dostępny do 31.12.2026”. Zaktualizowałem wpis streamingowy i dodatek play-filmbox.\n  - (opis AI) Amazon Prime: strona dodaje, że w wybranych ofertach internetu z telewizją serwis jest w cenie abonamentu. Można go wyłączyć w Play24 lub na TV BOX. Pola potwierdzone przez Łukasza nie były zmieniane, dopisałem tylko zasady.\n  - (opis AI) HBO Max: strona podaje, że kanały HBO, HBO2 i HBO3 są na numerach 170, 171 i 172, a serwis ma 3 pakiety. Dopisałem to do zasad. Ceny bez zmian (od 30 zł/mies.).\n  - (opis AI) PLAY NOW: FAQ na play.pl podaje, że nagrania w chmurze są przechowywane do 90 dni. Poprawiłem to w nagrywaniu (wcześniej 180 dni dla PLAY NOW). Dla dekodera nadal obowiązuje okres pół roku (180 dni).\n  - (opis AI) Zaktualizowałem daty sprawdzenia źródeł. Wykazy PDF Start, Select, Max i Max Premium są nadal ważne od 09.02.2026 i 12.06.2026, a przewodnik PDF to nadal wersja 05.2026. Listy kanałów w oknach modalnych na play.pl nie były widoczne w tym odczycie, więc listy kanałów zostawiłem bez zmian.\n  - (opis AI) Uzupełniłem do_sprawdzenia (m.in. brak widocznej oferty Telewizja Start i karty MAX Premium w statycznej treści strony, nowe terminy dostępności pakietów Polsat Sport Premium i FilmBox).\nPlus:\n  - (opis AI) Plus (plus.pl/streaming, stan 09.11.2026): gotowe zestawy streamingów kosztują teraz 3-PAK 40 zł/mies. (Amazon Prime + Apple TV + Disney+ albo Amazon Prime + Apple TV + SkyShowtime). Wcześniej było 30 zł do 3.11.2026.\n  - (opis AI) Plus: nowy zestaw 4-PAK za 55 zł/mies. (Amazon Prime + Apple TV + Disney+ w planie Standard + SkyShowtime). Ceny zestawów w wpisach Disney+, SkyShowtime, Amazon Prime i Apple TV zaktualizowane.\n  - (opis AI) Plus: zestaw „2 lub 4” bez zmian (2 za 40 zł lub 4 za 80 zł z 6 serwisów: Apple TV, SkyShowtime, HBO Max Standard, Disney+ Standard, PBG Sport, PBG Premium). Dopisano źródło s13 do HBO Max i Polsat Box Go.\n  - (opis AI) Terminy „do 03.11.2026” (Usługi Łączone, cennik Polsat Box, gotowe zestawy) są już przeterminowane. Opisano je jako dane z dokumentów z 01.10.2026 i dodano do „do_sprawdzenia”, bo nie znaleziono nowszych dokumentów.\n  - (opis AI) Cennik Polsat Box z 01.10.2026 (pakiety S/M/L, dodatki, multiroom, nPVR) sprawdzony ponownie i bez zmian. Układ kanałów z 31.07.2026 (sklep.polsatbox.pl/noweepg) nadal aktualny. Składy pakietów i listę kanałów zostawiono bez zmian.\n  - (opis AI) Część stron (sklep.polsatbox.pl: telewizja-satelitarna, streaming; polsatbox.pl/regulaminy-i-cenniki; plus.pl/hbomax) zwróciła błąd W500. Nie usuwano z ich powodu żadnych danych; dopisano to do „do_sprawdzenia”.\nVectra:\n  - Streaming Apple TV: brak -> jako płatny dodatek\n  - (opis AI) Streaming: Apple TV zmienione z 'brak' na płatny dodatek. Vectra sprzedaje Apple TV (vectra.pl/apple-tv, strona czytana 9.11.2026). Dodatek dla obecnych klientów kosztuje 34,99 zł/mies. od 2. miesiąca, aktywacja 0 zł, bez zobowiązania. Są też zestawy Internet+TV z Apple TV (70 zł w mies. 1-4, potem 84,99 / 104,99 / 134,99 zł), regulamin promocji obowiązuje 02.11.2026-31.01.2027.\n  - (opis AI) Dodano źródła sv14 (strona Apple TV), sv15 (regulamin promocji JZ26 Apple TV 1M BZ) i sv16 (regulamin promocji JZ26 Paczka 2P AT NK BZ).\n  - (opis AI) Pakiet Super Film & Sport: według vectra.pl/pakiety-tv (strona z 9.11.2026) pakiet ma dostęp do serwisu Max w wariancie Premium. Poprawiono opis pakietu i dodano uwagę, że strona nazywa go 'Super Film&Sport Premium'.\n  - (opis AI) Podsumowanie i FAQ: dopisano Apple TV w ofercie streamingowej, dodano pytanie FAQ o Apple TV.\n  - (opis AI) Potwierdzono bez zmian w treści: wykaz IN01p v1.102 (obowiązuje od 1.10.2026), ceny i warunki HBO Max (strona z 9.11.2026) oraz CANAL+ (strona z 9.11.2026). Zaktualizowano daty sprawdzenia źródeł.\n  - (opis AI) Do_sprawdzenia: dopisano nowe rozbieżności (liczby kanałów HD i kanałów TV Smart na vectra.pl/pakiety-tv, 'Pakiet Sport od HBO Max', niespójność 1 vs 6 mies. prezentu Apple TV, niewczytany regulamin RG27 Apple TV). Zaktualizowano status Superoferty z prezentami HBO/Eleven (regulamin do 02.11.2026) i usunięto Apple TV z listy usług 'brak w ofercie'.\nBez zmian: Netia, INEA\n\nBŁĘDY (dane tych operatorów zostały bez zmian):\n  - Orange: Brak bloku JSON i brak BEZ_ZMIAN w odpowiedzi\n\nKoszt orientacyjny: ~23.05 USD\nApka: https://kanaly.teleranking.pl/"
 }

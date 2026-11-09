@@ -1,28 +1,28 @@
 {
   "operator": "T-Mobile",
   "slug": "t-mobile",
-  "sprawdzono": "2026-11-02",
+  "sprawdzono": "2026-11-09",
   "zrodla": [
     {
       "id": "s_tm_lista",
       "tytul": "Pakiety telewizyjne - lista kanałów (t-mobile.pl, tabela pakietów)",
       "url": "https://www.t-mobile.pl/MagentaTV/pakiety-telewizyjne-lista-kanalow",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s_tm_pdf",
       "tytul": "Lista programów Magenta TV, stan na 14.10.2026 (PDF linkowany ze strony z listą kanałów)",
       "url": "https://www.t-mobile.pl/dam/jcr:444ed9b8-2a6b-4319-9498-3e4191cba049",
       "typ": "pdf",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s1",
       "tytul": "Strona MagentaTV (T-Mobile)",
       "url": "https://www.t-mobile.pl/MagentaTV",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s2",
@@ -36,7 +36,7 @@
       "tytul": "Lista programów MagentaTV, stan na 1.07.2026 (pakiety S/M/L, CANAL+ SUPER SPORT, Eurosport), podlinkowana ze strony dekodera",
       "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/documents/6a43d2c4a249e9b64c6e8d48/attachments/a62015a9760b4227bc3a86e7aa6e4baa",
       "typ": "pdf",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s5",
@@ -127,21 +127,21 @@
       "tytul": "Netflix w T-Mobile",
       "url": "https://www.t-mobile.pl/rozrywka/netflix",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s18",
       "tytul": "HBO Max w T-Mobile",
       "url": "https://www.t-mobile.pl/rozrywka/hbo_max",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s19",
       "tytul": "Serwis streamingowy CANAL+ w T-Mobile",
       "url": "https://www.t-mobile.pl/rozrywka/canalplus",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s20",
@@ -169,7 +169,7 @@
       "tytul": "Regulamin Netflix w T-Mobile, oferta standardowa (od 01.06.2026)",
       "url": "https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006807",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "st2",
@@ -197,7 +197,7 @@
       "tytul": "T-Mobile: Serwisy rozrywkowe (Netflix, HBO Max, CANAL+)",
       "url": "https://www.t-mobile.pl/rozrywka",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "sv1",
@@ -2554,7 +2554,7 @@
         "tmobile-midi",
         "tmobile-maxi"
       ],
-      "uwagi": "widoczny na stronie z listą kanałów (26.10 i 2.11.2026), brak w PDF z 14.10.2026; pakiety i numer niepotwierdzone w PDF"
+      "uwagi": "widoczny na stronie z listą kanałów (26.10, 2.11 i 9.11.2026), brak w PDF z 14.10.2026; pakiety i numer niepotwierdzone w PDF"
     },
     {
       "nazwa": "ShortTV 4K",
@@ -2681,10 +2681,10 @@
       "wariant": "",
       "typ": "platny",
       "krotko": "od 37 zł/mies.",
-      "uwaga": "Tylko z abonamentem głosowym T-Mobile (taryfa T); cena zmienia się od 1.11.2026",
+      "uwaga": "Tylko z abonamentem głosowym T-Mobile (taryfa T); podwyżka starych cen od 1.12.2026",
       "dostepnosc": "jako płatny dodatek",
-      "cena": "Netflix plan Podstawowy 37 zł/mies., plan Standardowy 55 zł/mies., plan Premium 75 zł/mies. (regulamin od 01.06.2026). Brak opłaty za cykl, w którym aktywowano usługę. Od 1.11.2026 zmiana ceny (nowe kwoty nie są podane na stronie).",
-      "zasady": "Wyłącznie dla konsumentów z aktywnym mobilnym abonamentem głosowym T-Mobile na taryfie T (bez Heyah); nie jest w cenie MagentaTV. Aktywacja w aplikacji Mój T-Mobile > Usługi > serwisy rozrywkowe, link rejestracyjny na e-mail; istniejące konto Netflix można podpiąć. Bez zobowiązania; rezygnacja po pierwszym płatnym cyklu w aplikacji, pod 602 900 000 lub w salonie. Opłata z góry, na fakturze T-Mobile. Od 1.11.2026 nowa cena wymaga akceptacji klienta, inaczej serwis wyłączony z końcem cyklu listopadowego. Tytuł strony zapowiada 'Netflix Premium w cenie planu Podstawowego nawet na 3 miesiące', ale brak regulaminu tej promocji. Pilot MagentaTV Box ma przycisk Netflix.",
+      "cena": "Netflix plan Podstawowy 37 zł/mies., plan Standardowy 55 zł/mies., plan Premium 75 zł/mies. (regulamin od 01.06.2026). Strona pokazuje też dotychczasowe ceny 33/49/67 zł. Według komunikatu z 30.10.2026 klienci z dotychczasowym cennikiem przechodzą na 37/55/75 zł od cyklu rozpoczynającego się w grudniu 2026 (termin odroczony z 1.11.2026). Brak opłaty za cykl, w którym aktywowano usługę.",
+      "zasady": "Wyłącznie dla konsumentów z aktywnym mobilnym abonamentem głosowym T-Mobile na taryfie T (bez Heyah); nie jest w cenie MagentaTV. Aktywacja w aplikacji Mój T-Mobile > Usługi > serwisy rozrywkowe, link rejestracyjny na e-mail; istniejące konto Netflix można podpiąć. Bez zobowiązania; rezygnacja po pierwszym płatnym cyklu w aplikacji, pod 602 900 000 lub w salonie. Opłata z góry, na fakturze T-Mobile. Komunikat z 30.10.2026: klient, który nie zaakceptował podwyżki, musi to zrobić w e-mailu do końca 30.11.2026, inaczej serwis zostanie wyłączony z końcem cyklu rozpoczętego w grudniu 2026. Do tego czasu obowiązuje dotychczasowa cena. Tytuł strony zapowiada 'Netflix Premium w cenie planu Podstawowego nawet na 3 miesiące', ale brak regulaminu tej promocji. Pilot MagentaTV Box ma przycisk Netflix.",
       "opis": "",
       "zrodla": [
         "st1",
@@ -3014,10 +3014,11 @@
     },
     {
       "pytanie": "Czy Netflix jest w pakiecie?",
-      "odpowiedz": "Nie. Netflix można zamówić przez T-Mobile jako osobną płatną subskrypcję rozliczaną na fakturze. Dekoder MagentaTV Box ma przycisk Netflix na pilocie.",
+      "odpowiedz": "Nie. Netflix można zamówić przez T-Mobile jako osobną płatną subskrypcję rozliczaną na fakturze (od 37 zł/mies.; stare ceny 33/49/67 zł rosną do 37/55/75 zł od cyklu grudniowego 2026). Dekoder MagentaTV Box ma przycisk Netflix na pilocie.",
       "zrodla": [
         "s17",
-        "s5"
+        "s5",
+        "st1"
       ]
     },
     {
@@ -3075,9 +3076,9 @@
     "Czy nagrywanie i odtwarzanie nagrań działa na dodatkowym dekoderze Multiroom (pytanie jest w FAQ T-Mobile, ale bez odpowiedzi).",
     "Kanały Polsat Comedy Central Extra i TeenNick mają być w ofercie tylko do 31.12.2027 r. (lista z 14.10.2026; wcześniejsza lista podawała 2026).",
     "Liczby kanałów z funkcjami: lista 14.10.2026 podaje nagrywanie 128, catch-up 190, time-shift 113 (lista 18.08.2026: 128/189/113; lista 1.07.2026: 116/158/134). Funkcje per kanał nie zostały wpisane do pliku.",
-    "Streaming: nowa cena Netflix w T-Mobile od 1.11.2026 – strona nadal zapowiada zmianę, kwoty nie podaje (strona pokazuje też starsze ceny 33/49/67 zł). Sprawdzić nowy regulamin/cennik, gdy się pojawi.",
+    "Streaming: Netflix – podwyżka cen dla dotychczasowych klientów (33/49/67 → 37/55/75 zł) przesunięta na cykl grudniowy 2026 (komunikat 30.10.2026). Nie wiadomo, od kiedy dokładnie nowi klienci płacą 37/55/75 zł. Regulamin od 01.06.2026 podaje już te kwoty, a strona pokazuje obie wersje cen. Sprawdzić po 1.12.2026, czy strona zostanie uporządkowana.",
     "Streaming: czy klient z samą MagentaTV lub samym internetem (bez abonamentu głosowego) może kupić Netflix/HBO Max/CANAL+ przez T-Mobile – regulaminy wymagają abonamentu głosowego.",
-    "Streaming: aktualna promocja Netflix Premium w cenie Podstawowego 'nawet przez 3 miesiące' – brak regulaminu (strona wymienia regulamin Netflix Premium z Magenta Moments D_007_1006190, nie sprawdzono). Strona rozrywka linkuje też starszy regulamin Netflix z 28.10.2025 z cenami 33/49/67 zł.",
+    "Streaming: aktualna promocja Netflix Premium w cenie Podstawowego 'nawet przez 3 miesiące' – brak regulaminu (strona wymienia regulamin Netflix Premium z Magenta Moments D_007_1006190, nie sprawdzono). Strona rozrywka linkuje też starszy regulamin Netflix (D_007_1006141) z cenami 33/49/67 zł.",
     "Streaming: CANAL+ – strona rozrywka pokazuje „od 29,99 zł/mies.”, a strona CANAL+ i cennik regulaminu (od 29.06.2026) podają Seriale i Filmy 29 zł. Przyjęto 29 zł; rozbieżność do wyjaśnienia.",
     "Streaming: CANAL+ Super Sport: strona nadal pokazuje 35 zł za 1. miesiąc, a regulamin promocji kończy aktywację 31.07.2026. Traktować 69 zł jako cenę pewną.",
     "Streaming: wszystkie serwisy (Netflix, HBO Max, CANAL+) są dla klientów z abonamentem komórkowym T-Mobile (bez Heyah), nie dla samego światłowodu/MagentaTV. Dopytać, czy klient tylko z internetem domowym może je aktywować.",

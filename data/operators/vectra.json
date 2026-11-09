@@ -1,14 +1,14 @@
 {
   "operator": "Vectra",
   "slug": "vectra",
-  "sprawdzono": "2026-11-02",
+  "sprawdzono": "2026-11-09",
   "zrodla": [
     {
       "id": "s1",
       "tytul": "Wykaz telewizji cyfrowej IN01p v1.102 (obowiązuje od 1.10.2026), PDF",
       "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202610021409556abf9f13729ca/in01p-wykaz-telewizji-cyfrowej-v-1-102.pdf",
       "typ": "pdf",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s2",
@@ -22,14 +22,14 @@
       "tytul": "Telewizja cyfrowa - oferta (pakiety Stalowy-Super Film & Sport)",
       "url": "https://www.vectra.pl/oferta-telewizja-cyfrowa",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s4",
       "tytul": "Pakiety Premium Telewizji",
       "url": "https://www.vectra.pl/pakiety-tv",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "s5",
@@ -134,7 +134,7 @@
       "tytul": "Netflix w Vectrze (strona)",
       "url": "https://www.vectra.pl/netflix",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "st3",
@@ -162,7 +162,7 @@
       "tytul": "Streaming: strona operatora",
       "url": "https://www.vectra.pl/hbo-max",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "sv4",
@@ -190,7 +190,7 @@
       "tytul": "Streaming: strona operatora (CANAL+)",
       "url": "https://www.vectra.pl/canal-plus",
       "typ": "strona",
-      "sprawdzono": "2026-11-02"
+      "sprawdzono": "2026-11-09"
     },
     {
       "id": "sv8",
@@ -233,9 +233,30 @@
       "url": "https://www.vectra.pl/filmbox-plus",
       "typ": "strona",
       "sprawdzono": "2026-10-26"
+    },
+    {
+      "id": "sv14",
+      "tytul": "Streaming: strona operatora (Apple TV)",
+      "url": "https://www.vectra.pl/apple-tv",
+      "typ": "strona",
+      "sprawdzono": "2026-11-09"
+    },
+    {
+      "id": "sv15",
+      "tytul": "Regulamin promocji JZ26 Apple TV 1M BZ 1.0 (02.11.2026–31.01.2027), PDF",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202610290954386ae309ced4e3b/regulamin-promocji-jz26-apple-tv-1m-bz-1-0.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-11-09"
+    },
+    {
+      "id": "sv16",
+      "tytul": "Regulamin promocji JZ26 Paczka 2P AT NK BZ 1.0 (02.11.2026–31.01.2027), PDF",
+      "url": "https://r.e.blueonline.tv/s/vectra-www/uploads/202610281036336ae1c2212c781/regulamin-promocji-jz26-paczka-2p-at-nk-bz-1-0.pdf",
+      "typ": "regulamin",
+      "sprawdzono": "2026-11-09"
     }
   ],
-  "podsumowanie": "Vectra sprzedaje telewizję w dwóch liniach: telewizja cyfrowa w sieci kablowej (pakiety Stalowy 37, Srebrny 72, Złoty 128, Platynowy 167, Super Film & Sport 191 kanałów) oraz telewizja internetowa TV Smart z dekoderem Android TV (pakiety 41/81/125 kanałów). Pakiety są kumulatywne, w aktualnej ofercie Srebrny i wyższe mają HBO z biblioteką HBO Max. TV można kupić samodzielnie lub w pakiecie z internetem (Superpakiety ze streamingiem: Netflix, Disney+, HBO Max, CANAL+). Każdy klient TV ma bezpłatną aplikację TV Smart GO (3 ekrany jednocześnie).",
+  "podsumowanie": "Vectra sprzedaje telewizję w dwóch liniach: telewizja cyfrowa w sieci kablowej (pakiety Stalowy 37, Srebrny 72, Złoty 128, Platynowy 167, Super Film & Sport 191 kanałów) oraz telewizja internetowa TV Smart z dekoderem Android TV (pakiety 41/81/125 kanałów). Pakiety są kumulatywne, w aktualnej ofercie Srebrny i wyższe mają HBO z biblioteką HBO Max. TV można kupić samodzielnie lub w pakiecie z internetem (oferty łączone ze streamingiem: Netflix, Disney+, HBO Max, CANAL+, Apple TV). Każdy klient TV ma bezpłatną aplikację TV Smart GO (3 ekrany jednocześnie).",
   "technologie": [
     {
       "nazwa": "DVB-C (kablówka)",
@@ -335,8 +356,8 @@
       "liczba_kanalow": 191,
       "liczba_kanalow_hd": 160,
       "zawiera_pakiet": "vectra-platynowy",
-      "opis": "Najwyższy pakiet: wg strony Pakietów Premium łączy pakiet kanałów HBO z dostępem do HBO Max, FilmBox+ oraz Sport na Ostro (Polsat Sport 2, Eurosport 3/4, Extreme Channel, Motowizja, Golf Zone, FightKlub, kanały e-sportowe, Dorcel XXX).",
-      "warunki": "Liczba kanałów różni się w źródłach: oferta 191, strona Pakietów Premium 189, wykaz IN01 2.27: 190. Skład wyprowadzony z opisu na vectra.pl/pakiety-tv, nie z wykazu IN01p (nie ma w nim osobnej kolumny).",
+      "opis": "Najwyższy pakiet: wg strony Pakietów Premium (tam pod nazwą 'Super Film&Sport Premium') łączy pakiet kanałów HBO z dostępem do serwisu Max w wariancie Premium, FilmBox+ oraz Sport na Ostro (Polsat Sport 2, Eurosport 3/4, Extreme Channel, Motowizja, Golf Zone, FightKlub, kanały e-sportowe, Dorcel XXX).",
+      "warunki": "Liczba kanałów różni się w źródłach: oferta 191, strona Pakietów Premium 189 (w tym 156 HD, 4 w 4K; 191 kanałów w TV Smart GO), wykaz IN01 2.27: 190. Skład wyprowadzony z opisu na vectra.pl/pakiety-tv, nie z wykazu IN01p (nie ma w nim osobnej kolumny).",
       "zrodla": [
         "s3",
         "s4",
@@ -351,11 +372,12 @@
       "liczba_kanalow_hd": 24,
       "zawiera_pakiet": null,
       "opis": "Telewizja internetowa TV Smart (przez internet, dekoder TV Smart 4K BOX). Kanały główne: TVP 1, TVP 2, TVN, TVN 7, Polsat, TV Puls, WP, Metro, kanały 4K Funbox UHD i Ultra TV 4K.",
-      "warunki": "Wykaz IN16 podaje 27 pozycji, strona oferty reklamuje pakiet jako 41 kanałów (różnica niewyjaśniona). Wymagane łącze min. 10 Mb/s (HD) / 25 Mb/s (4K).",
+      "warunki": "Wykaz IN16 podaje 27 pozycji, strona oferty reklamuje pakiet jako 41 kanałów (różnica niewyjaśniona); strona Pakietów TV podaje 27. Wymagane łącze min. 10 Mb/s (HD) / 25 Mb/s (4K).",
       "zrodla": [
         "s5",
         "s6",
-        "s8"
+        "s8",
+        "s4"
       ]
     },
     {
@@ -366,10 +388,11 @@
       "liczba_kanalow_hd": 58,
       "zawiera_pakiet": "vectra-smart-start",
       "opis": "Start + Discovery, National Geographic, TLC, TVN 24, TVN 24 BIS, TVN Style, TVN Turbo, Eurosport 1-4, Disney Channel, Nickelodeon, Kino Polska, History.",
-      "warunki": "Wykaz IN16: 66 pozycji, strona oferty: 81 kanałów.",
+      "warunki": "Wykaz IN16: 66 pozycji, strona oferty: 81 kanałów, strona Pakietów TV: 61 kanałów (58 HD).",
       "zrodla": [
         "s5",
-        "s6"
+        "s6",
+        "s4"
       ]
     },
     {
@@ -380,10 +403,11 @@
       "liczba_kanalow_hd": 95,
       "zawiera_pakiet": "vectra-smart-standard",
       "opis": "Standard + AXN, BBC Brit/Earth/First/Lifestyle, Cartoon Network, Cartoonito, Disney Junior, CNN, Warner TV, FX, Canal+ Sport 5, Filmbox+ One, Filmax 4K, Polsat Viasat Nature/Explore.",
-      "warunki": "Wykaz IN16: 110 pozycji, strona oferty: 125 kanałów.",
+      "warunki": "Wykaz IN16: 110 pozycji, strona oferty: 125 kanałów, strona Pakietów TV: 104 kanały (90 HD, 4 w 4K).",
       "zrodla": [
         "s5",
-        "s6"
+        "s6",
+        "s4"
       ]
     }
   ],
@@ -3395,15 +3419,17 @@
     {
       "serwis": "Apple TV",
       "wariant": "",
-      "dostepnosc": "brak",
-      "typ": "brak",
-      "krotko": "",
-      "uwaga": "",
-      "cena": "",
-      "zasady": "Vectra nie oferuje tego serwisu (brak na vectra.pl). Dekoder TV Smart 4K BOX to Android TV z Google Play, w tabeli 'Serwisy streamingowe: Wszystkie', ale aplikacja nie jest wymieniona z nazwy. Dekodery Vectra 4K BOX / PVR nie pozwalają instalować aplikacji. ",
+      "dostepnosc": "jako płatny dodatek",
+      "typ": "platny",
+      "krotko": "34,99 zł/mies.",
+      "uwaga": "Usługa dodatkowa od 2. mies., aktywacja 0 zł, bez zobowiązania",
+      "cena": "Usługa dodatkowa Apple TV (obecny klient): 34,99 zł/mies. od 2. miesiąca, aktywacja 0 zł, bez zobowiązania (vectra.pl/apple-tv); cena za 1. miesiąc nie jest podana na stronie. Zestawy dla nowych klientów (bez okresu zobowiązania, Okres Podstawowy 12 mies.): Internet do 300 Mb/s + 72 kanały + Apple TV 70,00 zł/mies. (mies. 1-4), potem 84,99 zł (5-12); Internet do 600 Mb/s + 129 kanałów + Apple TV 70,00 zł (1-4), potem 104,99 zł (5-12); Internet do 1 Gb/s + 168 kanałów + Apple TV 70,00 zł (1-4), potem 134,99 zł (5-12). Ceny z rabatami -10 zł (zgody marketingowe) i -5 zł (e-faktura); modem 4,99 zł/mies., aktywacja 9,99 zł.",
+      "zasady": "Usługa świadczona wg Regulaminu Usługi Apple TV. Promocja 'Apple TV 1M' trwa od 02.11.2026 do 31.01.2027 i wymaga umowy lub zmiany umowy na TV cyfrową, internet stacjonarny, TV Smart, telefonię stacjonarną/komórkową lub internet mobilny. Dostęp na 6 urządzeniach jednocześnie. Aktywacja: mail po zamówieniu, w Strefie Klienta 'Połącz konto', zalogowanie się lub założenie konta Apple. Apple TV działa na iOS/Android, dekoderach TV Smart, Smart TV, komputerach i konsolach. Strona pokazuje baner '6 mies. w prezencie' (formularz kontaktowy), ale ikona i regulamin dotyczą 1 miesiąca - niespójne.",
       "opis": "",
       "zrodla": [
-        "s10"
+        "sv14",
+        "sv15",
+        "sv16"
       ]
     },
     {
@@ -3414,7 +3440,7 @@
       "krotko": "od 29 zł/mies.",
       "uwaga": "Super Sport: 1. mies. 25 zł, potem 69 zł; aktywacja 0 zł",
       "cena": "Dodatek do telewizji: CANAL+ Seriale i Filmy 29,00 zł/mies. od 1 miesiąca, aktywacja 10 zł, bez zobowiązania. CANAL+ Super Sport: 25 zł za 1. miesiąc, od 2. miesiąca 69,00 zł/mies., aktywacja 0 zł, bez zobowiązania. Cennik (ceny standardowe): Seriale i Filmy 49,00 zł, Super Sport 99,00 zł. Zestawy: Internet 600 Mb/s + 129 kanałów + Seriale i Filmy 69,99 zł (mies. 1-3), potem 94,99 zł (4-23), zobowiązanie 23 mies. ('3 miesiące Canal+ w prezencie'); Internet 300 Mb/s + 72 kanały + Super Sport 79,99 zł (1-6), potem 114,99 zł (7-12), bez zobowiązania; wcześniej odnotowany zestaw Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł (1-12) nie jest już widoczny na stronie vectra.pl/canal-plus (stan 2.11.2026).",
-      "zasady": "Abonenci pakietów CANAL+ mogą korzystać z treści CANAL+ online. Regulamin promocji Premium wymienia też CANAL+ Online Seriale i Filmy / Super Sport jako usługę dodatkową dla klientów z samym internetem, ale cen online na stronie nie ma. Kanał 4K wymaga TV Smart 4K BOX. Ceny 29/69 zł to promocja (cennik 49/99 zł), regulamin promocji wskazuje okres zobowiązania z Informacji Przedumownych. Oferta Super Sport za 25 zł w 1. miesiącu jest widoczna na stronie, regulaminu tej konkretnej promocji nie zweryfikowano.",
+      "zasady": "Abonenci pakietów CANAL+ mogą korzystać z treści CANAL+ online. Regulamin promocji Premium wymienia też CANAL+ Online Seriale i Filmy / Super Sport jako usługę dodatkową dla klientów z samym internetem, ale cen online na stronie nie ma. Kanał 4K wymaga TV Smart 4K BOX. Ceny 29/69 zł to promocja (cennik 49/99 zł), regulamin promocji wskazuje okres zobowiązania z Informacji Przedumownych. Oferta Super Sport za 25 zł w 1. miesiącu jest widoczna na stronie, regulaminu tej konkretnej promocji nie zweryfikowano. Strona (9.11.2026): do 2 równoczesnych streamów, także poza domem.",
       "opis": "",
       "zrodla": [
         "sv7",
@@ -3667,6 +3693,15 @@
       ]
     },
     {
+      "pytanie": "Czy mogę dokupić Apple TV?",
+      "odpowiedz": "Tak. Obecny klient dokupuje Apple TV w Strefie Klienta za 34,99 zł/mies. od 2. miesiąca (aktywacja 0 zł, bez zobowiązania), na 6 urządzeniach jednocześnie. Nowi klienci mogą wybrać zestawy Internet + TV z Apple TV (promocja 02.11.2026-31.01.2027). Czas prezentu (1 czy 6 mies.) trzeba potwierdzić, bo źródła są niespójne.",
+      "zrodla": [
+        "sv14",
+        "sv15",
+        "sv16"
+      ]
+    },
+    {
       "pytanie": "Gdzie obejrzę Ligę Mistrzów i Ekstraklasę?",
       "odpowiedz": "W dodatku CANAL+ Super Sport (19 kanałów: Liga Mistrzów UEFA, PKO BP Ekstraklasa, Premier League, wybrane mecze LaLiga). Bez zobowiązania. CANAL+ 4K wymaga dekodera TV Smart 4K BOX.",
       "zrodla": [
@@ -3728,29 +3763,31 @@
   "do_sprawdzenia": [
     "Multiroom: maksymalna liczba dodatkowych dekoderów, czy kolejne dekodery mają ten sam pakiet, jakie modele - strona odsyła do formularza, brak danych w regulaminie (tylko definicja 'Gniazda Dodatkowego').",
     "Nagrywanie w chmurze TV Smart: limit godzin niespójny (10 h vs 100 h na stronie dekoderów), czas przechowywania nieznany.",
-    "Super Film & Sport: dokładny skład (189/190/191 kanałów w różnych źródłach) - przypisanie kanałów w 'kanaly' wyprowadzone z opisu na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro), nie z wykazu IN01p.",
-    "TV Smart: liczby kanałów w ofercie (41/81/125) nie zgadzają się z wykazem IN16 v1.31 (27/66/110); możliwe, że oferta liczy kanały dodatkowe/radio - nie potwierdzono.",
+    "Super Film & Sport: dokładny skład (189/190/191 kanałów w różnych źródłach) - przypisanie kanałów w 'kanaly' wyprowadzone z opisu na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro), nie z wykazu IN01p. Strona Pakietów Premium (9.11.2026) mówi też o serwisie Max w wariancie Premium w tym pakiecie - nie sprawdzono tego w cenniku ani regulaminie.",
+    "TV Smart: liczby kanałów w ofercie (41/81/125) nie zgadzają się z wykazem IN16 v1.31 (27/66/110) ani ze stroną vectra.pl/pakiety-tv z 9.11.2026 (27/61/104; HD 24?/58/90) - nie potwierdzono, skąd różnice.",
+    "Liczby kanałów HD w kablówce: strona vectra.pl/pakiety-tv (9.11.2026) podaje 33/59/105/135/156 HD (Stalowy/Srebrny/Złoty/Platynowy/Super Film&Sport), a w danych jest 35/60/109/143/160 (z wykazu EPG IN01 2.27). Nie rozstrzygnięto, które są aktualne.",
     "TV Smart: czy wymaga internetu Vectry (regulamin telewizji pkt 5.2 dla dekodera Smart: tak; regulamin TV Smart: tylko min. 10/25 Mb/s) - niespójne.",
     "Lista Smart TV (Samsung, LG, Android TV) obsługujących aplikację TV Smart GO - niepodana.",
     "Kategorie i jakość kanałów przyjęto z wykazu EPG IN01 2.27 (kwiecień 2026); kanały spoza tego wykazu (np. FilmBox+, Echo24, kanały ukraińskie) skategoryzowano wg nazwy. Część kanałów SD w EPG może być nadawana w HD.",
     "HBO w Złotym/Platynowym: strona oferty podaje HBO w cenie, ale wykaz IN01p traktuje HBO jako osobny pakiet - prawdopodobnie element promocji, warto sprawdzić w regulaminie promocji.",
     "Pakiet 'Ostry' (20 kanałów) widoczny na vectra.pl/pakiety-tv - brak pełnej listy kanałów i relacji do Sport na Ostro.",
     "Oferta Vectry w sieciach przejętych (np. Multimedia Polska) - nie potwierdzono, czy lineup jest identyczny we wszystkich sieciach.",
-    "Strony vectra.pl nie dało się pobrać bezpośrednio (blokada), treści czytane przez pośredni fetch - warto zweryfikować w przeglądarce. Część stron (oferta-telewizja-cyfrowa, netflix, hbo-max, disney-plus) pochodziła 2.11 z pamięci podręcznej z 25-28.10.2026.",
-    "Streaming: ceny CANAL+ niespójne – strona canal-plus: Seriale i Filmy 29 zł, Super Sport 69 zł (od 2. mies., 1. mies. 25 zł); cennik CN02 v1.44 (05.2026): 49 zł i 99 zł. Przyjęto stronę (nowsza).",
-    "Streaming: CANAL+ Super Sport '1 miesiąc za 25 zł' i aktywacja 0 zł (strona 2.11.2026) - nie znaleziono regulaminu tej promocji, brak daty końca; sprawdzić w regulaminie (m.in. regulamin-promocji-wl26-spec-p-es-23 z 30.10.2026 i jz24-premium-std-bz-2-0 z 26.10.2026, niewczytane).",
-    "Streaming: zestaw Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł nie jest widoczny na vectra.pl/canal-plus (2.11.2026) - sprawdzić, czy oferta jeszcze obowiązuje.",
-    "Streaming: cena Disney+ jako osobnej usługi: strona vectra.pl/disney-plus podaje 34,99 zł/mies., aktywacja 0 zł, bez zobowiązania (zgodne z danymi); cennik CN02 nie wymienia Disney+.",
+    "Strony vectra.pl nie dało się pobrać bezpośrednio (blokada), treści czytane przez pośredni fetch - warto zweryfikować w przeglądarce. 9.11.2026 odświeżone: hbo-max, canal-plus, pakiety-tv, apple-tv. Z pamięci podręcznej: netflix (6.11), oferta-telewizja-cyfrowa i disney-plus (28.10).",
+    "Streaming: ceny CANAL+ niespójne – strona canal-plus: Seriale i Filmy 29 zł, Super Sport 69 zł (od 2. mies., 1. mies. 25 zł); cennik CN02 v1.44 (05.2026): 49 zł i 99 zł. Przyjęto stronę (nowsza; potwierdzona ponownie 9.11.2026).",
+    "Streaming: CANAL+ Super Sport '1 miesiąc za 25 zł' i aktywacja 0 zł (strona 9.11.2026) - nie znaleziono regulaminu tej promocji, brak daty końca; sprawdzić w regulaminie (m.in. regulamin-promocji-wl26-spec-p-es-23 z 30.10.2026 i jz24-premium-std-bz-2-0 z 26.10.2026, niewczytane).",
+    "Streaming: zestaw Internet 300 Mb/s + 37 kanałów + Super Sport 94,99 zł nie jest widoczny na vectra.pl/canal-plus (2.11 i 9.11.2026) - sprawdzić, czy oferta jeszcze obowiązuje.",
+    "Streaming: cena Disney+ jako osobnej usługi: strona vectra.pl/disney-plus podaje 34,99 zł/mies., aktywacja 0 zł, bez zobowiązania (zgodne z danymi); cennik CN02 nie wymienia Disney+. Strony Disney+ nie odświeżono 9.11 (kopia z 28.10).",
     "Streaming: Regulamin Usługi Netflix Vectry (cena planów Standard/Premium jako dodatku, rezygnacja) – nie odnaleziono PDF; ceny ofert z Netflix z odczytu strony (kwoty trudne do odczytania, 94 vs 99 zł).",
     "Streaming: Netflix i Disney+ to NIE 'w cenie': są tylko w ofertach łączonych Internet+TV 129 kanałów (ten sam pakiet za 94,99 zł z Netflix, z Disney+ albo z HBO+Eleven).",
     "Streaming: Cena samodzielnego Netflixa dla obecnych klientów ('Dokup w Strefie Klienta') nie jest podana na stronie, zapytać konsultanta.",
     "Streaming: HBO Standardowy jest w zawartości pakietów TV 72/128/167 kanałów, ale strona nie mówi, czy na cały okres umowy. Potwierdzić u konsultanta.",
-    "Streaming: Na stronie HBO nie ma dodatku 'Podstawowy' ani 'samego HBO Max do internetu' z cenami; są tylko w cenniku (29,99/39,99/49,99). Na stronie: TV-dodatek Standardowy 39,99 i Premium 49,99, aktywacja 5 zł.",
+    "Streaming: Na stronie HBO nie ma dodatku 'Podstawowy' ani 'samego HBO Max do internetu' z cenami; są tylko w cenniku (29,99/39,99/49,99). Na stronie (9.11.2026): TV-dodatek Standardowy 39,99 i Premium 49,99, aktywacja 5 zł. Strona HBO pokazuje też 'Pakiet Sport od HBO Max' (4 kanały sportowe w serwisie, dla obecnych klientów HBO Max) - bez ceny i warunków, nie zbadano.",
     "Streaming: Eleven: obecnie 19,99 zł/mies., aktywacja 10 zł (potwierdzone 2.11.2026; 30,18 zł to cena cennikowa). CANAL+ 29/69 zł to ceny promocyjne (cennik 49/99 zł) - zapytać, czy jest zobowiązanie i do kiedy trwa promocja.",
     "Streaming: Oferta 11434 (600 Mb/s + 129 kan. + HBO + Eleven, 94,99 zł): strona pokazuje zobowiązanie 11 mies., a podpięty regulamin mówi 23 mies. Niejasne.",
-    "Streaming: Viaplay, Prime Video, SkyShowtime, Apple TV, Polsat Box Go: brak w ofercie Vectry. TV Smart 4K BOX ma Google Play ('Serwisy streamingowe: Wszystkie'), ale konkretne aplikacje nie są wymienione. Vectra 4K BOX nie pozwala instalować aplikacji.",
+    "Streaming: Viaplay, Prime Video, SkyShowtime, Polsat Box Go: brak w ofercie Vectry. TV Smart 4K BOX ma Google Play ('Serwisy streamingowe: Wszystkie'), ale konkretne aplikacje nie są wymienione. Vectra 4K BOX nie pozwala instalować aplikacji.",
     "Streaming: Player: Vectra umożliwia płatność przez rachunek, ale bez ceny na stronie.",
-    "Streaming: Superoferta z prezentami HBO/Eleven (regulamin WL26 2P SPEC BAU BZ) obowiązuje 01.10-02.11.2026, czyli dziś jest ostatni dzień. Strony Netflix/HBO/Disney+ nadal pokazywały te oferty (wersje z pamięci podręcznej z 25-28.10), więc po 2.11 trzeba zweryfikować ponownie ceny zestawów i prezentów.",
+    "Streaming: Superoferta z prezentami HBO/Eleven (regulamin WL26 2P SPEC BAU BZ) obowiązywała 01.10-02.11.2026. Strona Netflix (kopia z 6.11.2026) nadal pokazuje ofertę 600 Mb/s + 129 kanałów 94,99 zł (z Netflixem i prezentami HBO/Eleven na 6 mies.), a strona HBO (9.11.2026) już jej nie pokazuje. Nie ma potwierdzenia, czy oferta nadal obowiązuje - zweryfikować przed podaniem klientowi.",
+    "Streaming: Apple TV - strona pokazuje baner '6 mies. w prezencie' (formularz), a ikona oferty i regulamin promocji (JZ26 Apple TV 1M BZ) wskazują 1 miesiąc; cena za 1. miesiąc dodatku nie jest podana (34,99 zł 'od 2 miesiąca'). Regulamin szczegółowy usługi Apple TV (RG27 v1.0, vectra.pl, 30.10.2026) nie został wczytany - sprawdzić zasady rezygnacji i zgodność z promocją 'Paczka 2P AT'.",
     "Plik 'plansze-www-zmiany-w-ofercie-kanalowej.pdf' (vectra.pl/media/pobierz/12481) to skan obrazkowy. Przejrzano OCR pierwszych 6 plansz (m.in. Eurosport 3/4 od 15.09.2026, koniec Dolce Vita TV 31.07.2026). Pozostałe plansze (łącznie 103) nie zostały sprawdzone, więc zmian po wykazie IN01p v1.102 nie można wykluczyć."
   ]
 }
