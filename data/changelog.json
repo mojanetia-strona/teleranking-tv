@@ -1,5 +1,22 @@
 [
   {
+    "data": "2026-11-16",
+    "operatorzy": [
+      {
+        "operator": "Plus",
+        "zmiany": [
+          "(opis AI) Dodano nowe źródło s23 (sklep.polsatbox.pl/streaming, stan 16.11.2026). Polsat Box ma tam własne zestawy streamingów, więc zaktualizowano sekcję „streaming”.",
+          "(opis AI) Polsat Box: Stream 3 (Amazon Prime + Apple TV + Disney+ albo + SkyShowtime) kosztuje 40 zł/mies. Stary cennik 711 podawał 30 zł (oferta do 03.11.2026), więc wpis „aktualna cena niepotwierdzona” zastąpiono potwierdzoną ceną.",
+          "(opis AI) Polsat Box: Stream 4 (Amazon Prime, Apple TV, Disney+, SkyShowtime) kosztuje 55 zł/mies. Promocja „2 z 4” to 2 serwisy za 40 zł/mies. do wyboru z 4: Apple TV, Disney+, HBO Max, SkyShowtime. Nie ma tam wariantu „4 za 80 zł” ani Polsat Box Go w wyborze (to jest tylko w Plusie).",
+          "(opis AI) Polsat Box: dodano zasady. Zestaw 3 serwisów można łączyć z „2 z 4” tylko bez powtarzających się serwisów, wszystkie składniki trzeba zachować przez całą umowę, a zakup jest „z nową lub przedłużaną umową na min. 24 mies.”.",
+          "(opis AI) Strona OTT (sklep.polsatbox.pl/telewizja-internetowa-ott): potwierdzono, że przy zamówieniu można wybrać streamingi (Amazon Prime, Apple TV, Disney+, HBO + HBO Max, SkyShowtime – kanały i serwis, FilmBox, Filmy i Seriale). Zestawy 3-PAK/4-PAK są też promowane przy OTT. Dopisano to do technologii OTT i do_sprawdzenia.",
+          "(opis AI) Zaktualizowano daty sprawdzenia źródeł s1 (cennik z 01.10.2026 pobrany ponownie, bez zmian w pakietach i kanałach), s4, s13 i s18 (układ kanałów z 31.07.2026 nadal aktualny). Dodano FAQ o zestawach streamingów w Polsat Box.",
+          "(opis AI) Plus (plus.pl/streaming, 16.11.2026): ceny bez zmian względem 09.11 (3-PAK 40 zł, 4-PAK 55 zł, 2 za 40 / 4 za 80 zł). Stopka prawna nadal wymienia Stream 3 i Trio po 30 zł z ważnością do 03.11.2026 – to nieaktualna stopka, bo nagłówki i regulamin Polsat Box mówią o 40 zł."
+        ]
+      }
+    ]
+  },
+  {
     "data": "2026-11-09",
     "operatorzy": [
       {
