@@ -2639,27 +2639,39 @@
       "kategoria": "filmy i seriale",
       "jakosc": "HD",
       "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
         "vectra-super-film-sport"
       ],
-      "uwagi": "W aktualnych ofertach vectra.pl kanały HBO + biblioteka HBO Max są w cenie pakietów Srebrny, Złoty i Platynowy (promocja), formalnie osobny pakiet HBO w wykazie IN01p; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-hbo"
+      "uwagi": "W cenie pakietów Srebrny, Złoty, Platynowy i Super Film & Sport (vectra.pl/oferta-telewizja-cyfrowa, 19.11.2026: „Pakiet obejmuje 3 kanały telewizyjne: HBO, HBO 2, HBO 3 oraz pełną bibliotekę serwisu streamingowego HBO Max”); do Stalowego i TV Smart jako dodatek; dodatek: vectra-hbo",
+      "potwierdzil": "Łukasz 19.11.2026 (vectra.pl/oferta-telewizja-cyfrowa: HBO, HBO 2, HBO 3 i HBO Max w pakietach 72-191 kanałów)"
     },
     {
       "nazwa": "HBO 2",
       "kategoria": "filmy i seriale",
       "jakosc": "HD",
       "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
         "vectra-super-film-sport"
       ],
-      "uwagi": "W aktualnych ofertach vectra.pl kanały HBO + biblioteka HBO Max są w cenie pakietów Srebrny, Złoty i Platynowy (promocja), formalnie osobny pakiet HBO w wykazie IN01p; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-hbo"
+      "uwagi": "W cenie pakietów Srebrny, Złoty, Platynowy i Super Film & Sport (vectra.pl/oferta-telewizja-cyfrowa, 19.11.2026: „Pakiet obejmuje 3 kanały telewizyjne: HBO, HBO 2, HBO 3 oraz pełną bibliotekę serwisu streamingowego HBO Max”); do Stalowego i TV Smart jako dodatek; dodatek: vectra-hbo",
+      "potwierdzil": "Łukasz 19.11.2026 (vectra.pl/oferta-telewizja-cyfrowa: HBO, HBO 2, HBO 3 i HBO Max w pakietach 72-191 kanałów)"
     },
     {
       "nazwa": "HBO 3",
       "kategoria": "filmy i seriale",
       "jakosc": "HD",
       "pakiety": [
+        "vectra-srebrny",
+        "vectra-zloty",
+        "vectra-platynowy",
         "vectra-super-film-sport"
       ],
-      "uwagi": "W aktualnych ofertach vectra.pl kanały HBO + biblioteka HBO Max są w cenie pakietów Srebrny, Złoty i Platynowy (promocja), formalnie osobny pakiet HBO w wykazie IN01p; Przypisanie do Super Film & Sport wyprowadzone ze składu pakietu podanego na vectra.pl/pakiety-tv (Platynowy + HBO + FilmBox+ + Sport na Ostro); dodatek: vectra-hbo"
+      "uwagi": "W cenie pakietów Srebrny, Złoty, Platynowy i Super Film & Sport (vectra.pl/oferta-telewizja-cyfrowa, 19.11.2026: „Pakiet obejmuje 3 kanały telewizyjne: HBO, HBO 2, HBO 3 oraz pełną bibliotekę serwisu streamingowego HBO Max”); do Stalowego i TV Smart jako dodatek; dodatek: vectra-hbo",
+      "potwierdzil": "Łukasz 19.11.2026 (vectra.pl/oferta-telewizja-cyfrowa: HBO, HBO 2, HBO 3 i HBO Max w pakietach 72-191 kanałów)"
     },
     {
       "nazwa": "CINEMAX",
@@ -3359,7 +3371,7 @@
       "dostepnosc": "jako płatny dodatek",
       "typ": "platny",
       "krotko": "39,99 zł/mies.",
-      "uwaga": "HBO + HBO Max Standardowy, aktywacja 5 zł; w cenie pakietów TV 72/128/167 kanałów",
+      "uwaga": "HBO + HBO Max Standardowy, aktywacja 5 zł; w cenie pakietów Srebrny, Złoty, Platynowy i Super Film & Sport",
       "cena": "Telewizja (23 mies.) z HBO Standardowy: 72 kanały 35,00 zł (mies. 1-6), potem 44,99 zł; 128 kanałów 35,00 zł, potem 64,99 zł; 167 kanałów 35,00 zł, potem 74,99 zł (aktywacja 9,99 zł). Dodatek do telewizji: HBO + HBO Max Standardowy 39,99 zł/mies., HBO + HBO Max Premium 49,99 zł/mies., aktywacja 5 zł, bez zobowiązania. Cennik: Pakiet HBO Podstawowy 29,99 zł; HBO Max (internet) Podstawowy 29,99 / Standardowy 39,99 / Premium 49,99 zł. Zestawy z internetem z HBO Max Standardowy: 300 Mb/s 35,00 zł (1. mies.), potem 59,99 zł (2-12); 600 Mb/s 35,00 zł, potem 74,99 zł; Internet 1 Gb/s + 168 kanałów 70,00 zł, potem 144,99 zł.",
       "zasady": "Pakiety telewizji 72/128/167 kanałów mają w zawartości 'HBO Standardowy' (kanały HBO, HBO 2, HBO 3 + biblioteka HBO Max); pakiety 37 i 191 kanałów go nie mają. Strona nie mówi, czy HBO jest na cały okres umowy. W Superofertach Internet+TV HBO Standardowy jest prezentem na 6 mies. za 0 zł, potem wyłączany. Wariant Podstawowy jest w cenniku, ale na stronie HBO nie ma go jako dodatku do kupienia.",
       "opis": "",
@@ -3369,7 +3381,7 @@
         "sv3",
         "sv1"
       ],
-      "potwierdzil": "Łukasz 06.11.2026 (cena samego dodatku, OnePager Netii / cenniki)"
+      "potwierdzil": "Łukasz 19.11.2026 (vectra.pl/oferta-telewizja-cyfrowa: HBO, HBO 2, HBO 3 i HBO Max w pakietach 72-191 kanałów)"
     },
     {
       "serwis": "Disney+",

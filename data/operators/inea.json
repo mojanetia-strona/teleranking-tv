@@ -3513,8 +3513,8 @@
     {
       "serwis": "Eleven Sports",
       "typ": "platny",
-      "krotko": "Paczka ELEVEN 15 zł/mies.",
-      "uwaga": "5 kanałów liniowych w TV HIWAY; dostęp do aplikacji Eleven niepotwierdzony",
+      "krotko": "29,90 zł/mies.",
+      "uwaga": "5 kanałów liniowych w TV HIWAY; w promocji „Wybierz więcej” (jeden zestaw, umowa bezterminowa) 15 zł",
       "dostepnosc": "jako płatny dodatek",
       "cena": "Paczka ELEVEN (5 kanałów): 15 zł/mies. w promocji Wybierz więcej_GPON 4.0 (umowa na czas nieoznaczony); cena standardowa w cenniku GPON: 29,90 zł/mies.",
       "zasady": "Dodatek do usługi TV (Internet z telewizją). Na czas nieokreślony, można zrezygnować w dowolnym momencie. To kanały TV na dekoderze; żadne oficjalne źródło INEA nie mówi o dostępie do serwisu/aplikacji Eleven Sports w ramach paczki.",
@@ -3522,7 +3522,8 @@
         "s2",
         "s21",
         "sv1"
-      ]
+      ],
+      "potwierdzil": "Łukasz 19.11.2026 (cennik GPON od 8.10.2026: ELEVEN 29,90 zł; 15 zł tylko w promocji Wybierz więcej_GPON 4.0)"
     },
     {
       "serwis": "Viaplay",
