@@ -1,5 +1,23 @@
 [
   {
+    "data": "2026-11-23",
+    "operatorzy": [
+      {
+        "operator": "Orange",
+        "zmiany": [
+          "(opis AI) Strona Telewizja Orange (s9, sprawdzona 2026-11-23) podaje teraz wprost: Extra TV z Internetem mobilnym 5G dla domu to 179 kanałów (ze światłowodem 230). Zaktualizowano technologię OTT 5G, warunki Extra TV, warunki ogólne i dwa pytania FAQ oraz zamknięto punkt w „do_sprawdzenia” o rozbieżności 179 vs 128.",
+          "(opis AI) Strona Telewizja Orange wymienia też wariant „z abonamentem komórkowym”: ponad 40 kanałów, także poza domem w UE, na 3 urządzeniach. Orange nie podaje listy kanałów ani regulaminu tego wariantu, więc dodano go tylko do „do_sprawdzenia”, a nie jako pakiet.",
+          "(opis AI) Zaktualizowano punkt o CANAL+ Domo i Kuchnia w Pakiecie Optymalnym. Na stronie jest teraz komunikat, że od 15 października promocyjne udostępnianie się skończyło, ale starszy wpis nadal mówi o oglądaniu za darmo do końca roku. Orange nie rozstrzyga tego jednoznacznie.",
+          "(opis AI) Zaktualizowano daty sprawdzenia źródeł, które otwarto ponownie. Lista kanałów IPTV (01.09.2026), dokumenty Start TV i Extra TV (od 07.09.2026), regulaminy HBO/CANAL+/Polsat Sport Premium/Netflix/Amazon Prime (od 25.05.2026) oraz strony Netflix i HBO nie zmieniły się: kanały, ceny i zasady są takie same jak w poprzednich danych.",
+          "(opis AI) Nie udało się ponownie otworzyć stron swiatlowod-z-tv i telewizja/eleven (limit narzędzia). Dane z nich zostawiono bez zmian, a ich daty sprawdzenia nie zostały zmienione."
+        ]
+      }
+    ],
+    "bledy": [
+      "Vectra: Odpowiedź ucięta (max_tokens)"
+    ]
+  },
+  {
     "data": "2026-11-16",
     "operatorzy": [
       {

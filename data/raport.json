@@ -1,45 +1,44 @@
 {
-  "data": "2026-11-16",
+  "data": "2026-11-23",
   "operatorzy": [
     {
-      "operator": "Plus",
+      "operator": "Orange",
       "zmiany": [
-        "(opis AI) Dodano nowe źródło s23 (sklep.polsatbox.pl/streaming, stan 16.11.2026). Polsat Box ma tam własne zestawy streamingów, więc zaktualizowano sekcję „streaming”.",
-        "(opis AI) Polsat Box: Stream 3 (Amazon Prime + Apple TV + Disney+ albo + SkyShowtime) kosztuje 40 zł/mies. Stary cennik 711 podawał 30 zł (oferta do 03.11.2026), więc wpis „aktualna cena niepotwierdzona” zastąpiono potwierdzoną ceną.",
-        "(opis AI) Polsat Box: Stream 4 (Amazon Prime, Apple TV, Disney+, SkyShowtime) kosztuje 55 zł/mies. Promocja „2 z 4” to 2 serwisy za 40 zł/mies. do wyboru z 4: Apple TV, Disney+, HBO Max, SkyShowtime. Nie ma tam wariantu „4 za 80 zł” ani Polsat Box Go w wyborze (to jest tylko w Plusie).",
-        "(opis AI) Polsat Box: dodano zasady. Zestaw 3 serwisów można łączyć z „2 z 4” tylko bez powtarzających się serwisów, wszystkie składniki trzeba zachować przez całą umowę, a zakup jest „z nową lub przedłużaną umową na min. 24 mies.”.",
-        "(opis AI) Strona OTT (sklep.polsatbox.pl/telewizja-internetowa-ott): potwierdzono, że przy zamówieniu można wybrać streamingi (Amazon Prime, Apple TV, Disney+, HBO + HBO Max, SkyShowtime – kanały i serwis, FilmBox, Filmy i Seriale). Zestawy 3-PAK/4-PAK są też promowane przy OTT. Dopisano to do technologii OTT i do_sprawdzenia.",
-        "(opis AI) Zaktualizowano daty sprawdzenia źródeł s1 (cennik z 01.10.2026 pobrany ponownie, bez zmian w pakietach i kanałach), s4, s13 i s18 (układ kanałów z 31.07.2026 nadal aktualny). Dodano FAQ o zestawach streamingów w Polsat Box.",
-        "(opis AI) Plus (plus.pl/streaming, 16.11.2026): ceny bez zmian względem 09.11 (3-PAK 40 zł, 4-PAK 55 zł, 2 za 40 / 4 za 80 zł). Stopka prawna nadal wymienia Stream 3 i Trio po 30 zł z ważnością do 03.11.2026 – to nieaktualna stopka, bo nagłówki i regulamin Polsat Box mówią o 40 zł."
+        "(opis AI) Strona Telewizja Orange (s9, sprawdzona 2026-11-23) podaje teraz wprost: Extra TV z Internetem mobilnym 5G dla domu to 179 kanałów (ze światłowodem 230). Zaktualizowano technologię OTT 5G, warunki Extra TV, warunki ogólne i dwa pytania FAQ oraz zamknięto punkt w „do_sprawdzenia” o rozbieżności 179 vs 128.",
+        "(opis AI) Strona Telewizja Orange wymienia też wariant „z abonamentem komórkowym”: ponad 40 kanałów, także poza domem w UE, na 3 urządzeniach. Orange nie podaje listy kanałów ani regulaminu tego wariantu, więc dodano go tylko do „do_sprawdzenia”, a nie jako pakiet.",
+        "(opis AI) Zaktualizowano punkt o CANAL+ Domo i Kuchnia w Pakiecie Optymalnym. Na stronie jest teraz komunikat, że od 15 października promocyjne udostępnianie się skończyło, ale starszy wpis nadal mówi o oglądaniu za darmo do końca roku. Orange nie rozstrzyga tego jednoznacznie.",
+        "(opis AI) Zaktualizowano daty sprawdzenia źródeł, które otwarto ponownie. Lista kanałów IPTV (01.09.2026), dokumenty Start TV i Extra TV (od 07.09.2026), regulaminy HBO/CANAL+/Polsat Sport Premium/Netflix/Amazon Prime (od 25.05.2026) oraz strony Netflix i HBO nie zmieniły się: kanały, ceny i zasady są takie same jak w poprzednich danych.",
+        "(opis AI) Nie udało się ponownie otworzyć stron swiatlowod-z-tv i telewizja/eleven (limit narzędzia). Dane z nich zostawiono bez zmian, a ich daty sprawdzenia nie zostały zmienione."
       ],
       "do_sprawdzenia": [
-        "Pełne składy kanałów pakietów telewizji internetowej OTT (Pakiet Komfortowy, Bogaty, ewentualnie Wygodny) w ofercie z października 2026 – strona OTT nie publikuje składów, aktualny cennik OTT nie był dostępny; ostatnie potwierdzone składy pochodzą z regulaminu z 08.2025 (s21), więc nie wpisano ich jako aktualnych.",
-        "Składy dodatków OTT: Filmy i Seriale (17), Pakiet SPORT (15), Pakiet Dzieci (8), miniKomfortowy (17), miniBogaty (49), midiBogaty (70), Eleven Sports (5), Polsat Sport Premium (6 + 4 PPV).",
-        "Jakość kanałów bez dopisku HD w cenniku (np. Polsat Sport 1/2/3, TVP 3, TVP ABC, Polsat News 2, Eleven Sports 1-4) – oznaczono jako SD, a w układzie kanałów część z nich może występować w HD.",
-        "Które kanały i ile z każdego pakietu S/M/L jest dostępnych w Polsat Box Go (stara ulotka z 04.2025 podawała np. S: 57/35 online – dane nieaktualne).",
-        "Limit jednoczesnych urządzeń w Polsat Box Go dla klientów satelity/IPTV (dla OTT: 3 urządzenia mobilne).",
-        "Lista kanałów 4K i kanałów promocyjnych/niegwarantowanych wliczanych w „ponad 130 / 160 kanałów” w reklamach.",
-        "Długość promocyjnych pakietów Mini M i Mini L (wg cennika określona w umowie).",
-        "Dokładne przypisanie modeli dekoderów do pakietów (tabela § 5.1 cennika nieczytelna dla polsat box 4K lite i soundbox) oraz czy soundbox działa w IPTV/satelicie (ulotka z 2025: tylko internet).",
-        "Pełna lista kanałów z CatchUP/reStart i nPVR (osobny PDF nPVR na polsatbox.pl).",
-        "Szczegóły „Telewizji Elastycznej” OTT (okres, pakiety)."
+        "Strona Telewizja Orange (23.11.2026) wymienia też telewizję z abonamentem komórkowym: ponad 40 kanałów, także w UE, na 3 urządzeniach. Brak oficjalnej listy kanałów i regulaminu tego wariantu, więc nie ujęto go jako pakietu. Do potwierdzenia, czy to osobny produkt, czy część Start TV.",
+        "Dokument 'Informacje na temat oferty Extra TV' mówi o usłudze internetowej 'o prędkości do 300 Mb/s' jako warunku. Nie jest jasne, czy przy szybszym światłowodzie Extra TV wiąże się przez Start TV; do potwierdzenia u operatora.",
+        "Okres przechowywania nagrań Multinagrywarki: zasady usługi (od 2019) mówią 30 dni, poradnik Orange o dekoderze 7 dni od emisji.",
+        "Modele dekoderów 4K Duo i 4K Stream: wymienione na stronie oferty, brak oficjalnej specyfikacji (Android TV, Wi-Fi, dysk).",
+        "Maksymalna liczba odbiorników w Multiroomie (4) pochodzi z poradnika Orange, nie z regulaminu; brak aktualnego cennika/regulaminu Multiroomu.",
+        "Na liście kanałów przy części pozycji jest znacznik 'kanał niegwarantowany'; w pliku zaznaczono tylko kanały gwarantowane wg dokumentów ofertowych.",
+        "Liczby kanałów: operator podaje 47 (Start TV) i 230 (Start + Extra). PDF z listą kanałów (01.09.2026) ma 48 pozycji w Start TV (TVP3 ogólne + 16 regionalnych) i 181 w Extra TV, razem 229. Pole liczba_kanalow_hd liczone z PDF (HD + 4K).",
+        "Brak informacji o telewizji satelitarnej i DVB-T w aktualnej ofercie Orange.",
+        "Disney+, SkyShowtime, Polsat Box Go, Player: nie znaleziono oficjalnej oferty Orange (ani integracji w dekoderze).",
+        "Strona Telewizja Orange zawiera sprzeczne komunikaty o CANAL+ Domo / CANAL+ Kuchnia dla Pakietu Optymalnego (starszy wpis: odkodowane do końca roku; nowszy: od 15 października promocyjne udostępnianie zakończone) oraz akcję 'Dzień Klienta' (od 27 października ponad 30 odkodowanych kanałów); nie ujęto jako stałej oferty."
       ]
     }
   ],
-  "bledy": [],
+  "bledy": [
+    "Vectra: Odpowiedź ucięta (max_tokens)"
+  ],
   "bez_zmian": [
     "Netia",
     "T-Mobile",
-    "Orange",
     "Play",
-    "Vectra",
+    "Plus",
     "INEA"
   ],
   "koszt": {
-    "input": 6736944,
-    "output": 72215,
-    "searches": 3,
-    "usd_orientacyjnie": 14.23
+    "input": 8463862,
+    "output": 145082,
+    "searches": 13,
+    "usd_orientacyjnie": 18.51
   },
-  "tekst": "Aktualizacja bazy TV: 2026-11-16\n\nPlus:\n  - (opis AI) Dodano nowe źródło s23 (sklep.polsatbox.pl/streaming, stan 16.11.2026). Polsat Box ma tam własne zestawy streamingów, więc zaktualizowano sekcję „streaming”.\n  - (opis AI) Polsat Box: Stream 3 (Amazon Prime + Apple TV + Disney+ albo + SkyShowtime) kosztuje 40 zł/mies. Stary cennik 711 podawał 30 zł (oferta do 03.11.2026), więc wpis „aktualna cena niepotwierdzona” zastąpiono potwierdzoną ceną.\n  - (opis AI) Polsat Box: Stream 4 (Amazon Prime, Apple TV, Disney+, SkyShowtime) kosztuje 55 zł/mies. Promocja „2 z 4” to 2 serwisy za 40 zł/mies. do wyboru z 4: Apple TV, Disney+, HBO Max, SkyShowtime. Nie ma tam wariantu „4 za 80 zł” ani Polsat Box Go w wyborze (to jest tylko w Plusie).\n  - (opis AI) Polsat Box: dodano zasady. Zestaw 3 serwisów można łączyć z „2 z 4” tylko bez powtarzających się serwisów, wszystkie składniki trzeba zachować przez całą umowę, a zakup jest „z nową lub przedłużaną umową na min. 24 mies.”.\n  - (opis AI) Strona OTT (sklep.polsatbox.pl/telewizja-internetowa-ott): potwierdzono, że przy zamówieniu można wybrać streamingi (Amazon Prime, Apple TV, Disney+, HBO + HBO Max, SkyShowtime – kanały i serwis, FilmBox, Filmy i Seriale). Zestawy 3-PAK/4-PAK są też promowane przy OTT. Dopisano to do technologii OTT i do_sprawdzenia.\n  - (opis AI) Zaktualizowano daty sprawdzenia źródeł s1 (cennik z 01.10.2026 pobrany ponownie, bez zmian w pakietach i kanałach), s4, s13 i s18 (układ kanałów z 31.07.2026 nadal aktualny). Dodano FAQ o zestawach streamingów w Polsat Box.\n  - (opis AI) Plus (plus.pl/streaming, 16.11.2026): ceny bez zmian względem 09.11 (3-PAK 40 zł, 4-PAK 55 zł, 2 za 40 / 4 za 80 zł). Stopka prawna nadal wymienia Stream 3 i Trio po 30 zł z ważnością do 03.11.2026 – to nieaktualna stopka, bo nagłówki i regulamin Polsat Box mówią o 40 zł.\nBez zmian: Netia, T-Mobile, Orange, Play, Vectra, INEA\n\nKoszt orientacyjny: ~14.23 USD\nApka: https://kanaly.teleranking.pl/"
+  "tekst": "Aktualizacja bazy TV: 2026-11-23\n\nOrange:\n  - (opis AI) Strona Telewizja Orange (s9, sprawdzona 2026-11-23) podaje teraz wprost: Extra TV z Internetem mobilnym 5G dla domu to 179 kanałów (ze światłowodem 230). Zaktualizowano technologię OTT 5G, warunki Extra TV, warunki ogólne i dwa pytania FAQ oraz zamknięto punkt w „do_sprawdzenia” o rozbieżności 179 vs 128.\n  - (opis AI) Strona Telewizja Orange wymienia też wariant „z abonamentem komórkowym”: ponad 40 kanałów, także poza domem w UE, na 3 urządzeniach. Orange nie podaje listy kanałów ani regulaminu tego wariantu, więc dodano go tylko do „do_sprawdzenia”, a nie jako pakiet.\n  - (opis AI) Zaktualizowano punkt o CANAL+ Domo i Kuchnia w Pakiecie Optymalnym. Na stronie jest teraz komunikat, że od 15 października promocyjne udostępnianie się skończyło, ale starszy wpis nadal mówi o oglądaniu za darmo do końca roku. Orange nie rozstrzyga tego jednoznacznie.\n  - (opis AI) Zaktualizowano daty sprawdzenia źródeł, które otwarto ponownie. Lista kanałów IPTV (01.09.2026), dokumenty Start TV i Extra TV (od 07.09.2026), regulaminy HBO/CANAL+/Polsat Sport Premium/Netflix/Amazon Prime (od 25.05.2026) oraz strony Netflix i HBO nie zmieniły się: kanały, ceny i zasady są takie same jak w poprzednich danych.\n  - (opis AI) Nie udało się ponownie otworzyć stron swiatlowod-z-tv i telewizja/eleven (limit narzędzia). Dane z nich zostawiono bez zmian, a ich daty sprawdzenia nie zostały zmienione.\nBez zmian: Netia, T-Mobile, Play, Plus, INEA\n\nBŁĘDY (dane tych operatorów zostały bez zmian):\n  - Vectra: Odpowiedź ucięta (max_tokens)\n\nKoszt orientacyjny: ~18.51 USD\nApka: https://kanaly.teleranking.pl/"
 }

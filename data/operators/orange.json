@@ -1,49 +1,49 @@
 {
   "operator": "Orange",
   "slug": "orange",
-  "sprawdzono": "2026-11-16",
+  "sprawdzono": "2026-11-23",
   "zrodla": [
     {
       "id": "s1",
       "tytul": "Lista kanałów TV ze światłowodem (IPTV), aktualna na 01.09.2026 (PDF)",
       "url": "https://www.orange.pl/medias/omni/lp/b2c/tv/tv_mobilna/Lista-kana%C5%82%C3%B3w-TV-w-technologii-IPTV.pdf",
       "typ": "pdf",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "s2",
       "tytul": "Informacje na temat oferty Start TV (oferta od 07.09.2026)",
       "url": "https://orange.binaries.pl/bw/20155/0/137210/c48e80df-d753-47f5-807c-a3f73fad7872.pdf",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "s3",
       "tytul": "Informacje na temat oferty Extra TV (oferta od 07.09.2026)",
       "url": "https://orange.binaries.pl/bw/20155/0/137201/8b3fa2fc-1c17-4d14-b94a-9258919dc270.pdf",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "s4",
       "tytul": "Informacje na temat oferty pakietów TV: HBO, CANAL+, Polsat Sport Premium (od 25.05.2026)",
       "url": "https://orange.binaries.pl/bw/20155/0/142720/c1d1e4a4-ff25-4da1-8390-6267af3cb8ec.pdf",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "s5",
       "tytul": "Regulamin usług HBO Max i CANAL+ z Orange (od 25.05.2026)",
       "url": "https://orange.binaries.pl/bw/20155/0/142718/38892604-69f1-49ed-83ce-9f4ca451fd24.pdf",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "s6",
       "tytul": "Regulamin usługi Netflix z Orange (od 25.05.2026)",
       "url": "https://orange.binaries.pl/bw/20155/0/116118/0dfde672-fb46-429d-94c3-643a58051ac9.pdf",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "s7",
@@ -64,7 +64,7 @@
       "tytul": "Telewizja Orange (strona oferty)",
       "url": "https://www.orange.pl/telewizja/telewizja-orange",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "s10",
@@ -106,14 +106,14 @@
       "tytul": "Regulamin promocji Amazon Prime dla klientów Extra TV (od 25.05.2026)",
       "url": "https://orange.binaries.pl/bw/20155/0/151908/6bdb070a-7613-4482-84be-a1d06591e074.pdf",
       "typ": "regulamin",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "st2",
       "tytul": "Orange: Netflix z Orange (strona oferty)",
       "url": "https://www.orange.pl/telewizja/netflix",
       "typ": "strona",
-      "sprawdzono": "2026-10-23"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "sv1",
@@ -148,7 +148,7 @@
       "tytul": "Streaming: strona operatora",
       "url": "https://www.orange.pl/telewizja/hbo",
       "typ": "strona",
-      "sprawdzono": "2026-10-26"
+      "sprawdzono": "2026-11-23"
     },
     {
       "id": "sv6",
@@ -172,7 +172,7 @@
       "sprawdzono": "2026-10-26"
     }
   ],
-  "podsumowanie": "Orange sprzedaje telewizję wyłącznie jako dodatek do swojego internetu (światłowód, Internet mobilny dla domu 5G) lub pakietu Orange Love. Podstawą jest Start TV (47 kanałów), wliczony w cenę internetu, a rozszerzeniem osobno zamawiany Extra TV (łącznie 230 kanałów na światłowodzie) z Amazon Prime przy umowie na 24 miesiące. Do Extra TV można dobrać pakiety HBO, CANAL+ (Seriale i Filmy lub Super Sport) oraz Polsat Sport Premium. Oglądać można przez dekoder 4K (IPTV na światłowodzie) albo bez dekodera w aplikacji Orange TV (Android TV, Samsung Tizen) i Orange TV Go.",
+  "podsumowanie": "Orange sprzedaje telewizję wyłącznie jako dodatek do swojego internetu (światłowód, Internet mobilny dla domu 5G) lub pakietu Orange Love. Podstawą jest Start TV (47 kanałów), wliczony w cenę internetu, a rozszerzeniem osobno zamawiany Extra TV (łącznie 230 kanałów na światłowodzie, 179 przy Internecie mobilnym dla domu) z Amazon Prime przy umowie na 24 miesiące. Do Extra TV można dobrać pakiety HBO, CANAL+ (Seriale i Filmy lub Super Sport) oraz Polsat Sport Premium. Oglądać można przez dekoder 4K (IPTV na światłowodzie) albo bez dekodera w aplikacji Orange TV (Android TV, Samsung Tizen) i Orange TV Go.",
   "technologie": [
     {
       "nazwa": "IPTV",
@@ -192,7 +192,7 @@
     },
     {
       "nazwa": "OTT (Internet mobilny dla domu 5G)",
-      "opis": "Przy Internecie mobilnym dla domu telewizja (Start TV, Extra TV) jest oglądana w aplikacji Orange TV na telewizorze i w Orange TV Go, bez dekodera. Liczba kanałów może być mniejsza niż na światłowodzie. Regulamin zaleca 5G przy routerze w sieci mobilnej.",
+      "opis": "Przy Internecie mobilnym dla domu telewizja (Start TV, Extra TV) jest oglądana w aplikacji Orange TV na telewizorze i w Orange TV Go, bez dekodera. Extra TV daje tu łącznie 179 kanałów (ze światłowodem 230). Regulamin zaleca 5G przy routerze w sieci mobilnej.",
       "zrodla": [
         "s3",
         "s8",
@@ -225,7 +225,7 @@
       "liczba_kanalow_hd": 205,
       "zawiera_pakiet": "orange-start-tv",
       "opis": "Rozszerzenie Start TV do 230 kanałów: informacyjne (TVN24, Polsat News), sport (Eurosport, Polsat Sport, Eleven Sports), filmy i seriale, dokumentalne (Discovery, National Geographic, BBC Earth), dziecięce (Disney, Cartoon Network) i muzyczne. Przy umowie na 24 miesiące Amazon Prime przez 24 miesiące bez dodatkowej opłaty.",
-      "warunki": "Osobna umowa (24 miesiące lub czas nieokreślony), przypisana do usługi internetowej Orange, Internetu mobilnego dla domu, pakietu Orange Love lub Start TV. Można dokupić w trakcie umowy. Rezygnacja z usługi powiązanej kończy Extra TV. Przy Internecie mobilnym dla domu lub Start TV (bez internetu stacjonarnego) liczba kanałów może być mniejsza, a 10 kanałów działa w aplikacjach tylko w sieci Orange. 29 kanałów jest gwarantowanych umową.",
+      "warunki": "Osobna umowa (24 miesiące lub czas nieokreślony), przypisana do usługi internetowej Orange, Internetu mobilnego dla domu, pakietu Orange Love lub Start TV. Można dokupić w trakcie umowy. Rezygnacja z usługi powiązanej kończy Extra TV. Przy Internecie mobilnym dla domu łączna liczba kanałów to 179 (wg strony Telewizja Orange); przy samym Start TV (bez internetu stacjonarnego) liczba kanałów może być mniejsza, a 10 kanałów działa w aplikacjach tylko w sieci Orange. 29 kanałów jest gwarantowanych umową.",
       "zrodla": [
         "s1",
         "s3",
@@ -2847,7 +2847,7 @@
     "Start TV: umowa na czas nieokreślony, w cenie internetu.",
     "Extra TV: umowa na 24 miesiące (z Amazon Prime) lub na czas nieokreślony; umowa 24-miesięczna przechodzi potem automatycznie na czas nieokreślony.",
     "Pakiety HBO, CANAL+ i Polsat Sport Premium wymagają Extra TV powiązanej z internetem stacjonarnym lub Orange Love.",
-    "Pełna oferta 230 kanałów dotyczy światłowodu. Przy Internecie mobilnym dla domu lub samym Start TV kanałów może być mniej, część kanałów działa tylko w sieci Orange.",
+    "Pełna oferta 230 kanałów dotyczy światłowodu. Przy Internecie mobilnym dla domu Extra TV daje łącznie 179 kanałów; przy samym Start TV kanałów może być mniej, a część kanałów działa tylko w sieci Orange.",
     "Kanały oznaczone na liście jako nowe (np. FILMBOX+ Emotion, Golf Zone, Szlagier TV) są tylko dla umów zawartych od 25.05.2026.",
     "Kanały TVP (np. TVP Info, TVP Sport, TVP Seriale) w Orange TV Go działają tylko w domowej sieci Orange.",
     "Kanały poza listą gwarantowaną mogą zostać wycofane; umowa gwarantuje 11 kanałów w Start TV i 29 w Extra TV.",
@@ -2868,7 +2868,7 @@
     },
     {
       "pytanie": "Ile kanałów mam w podstawie, a ile w Extra TV?",
-      "odpowiedz": "Start TV to 47 kanałów w cenie internetu. Start TV + Extra TV na światłowodzie daje 230 kanałów. Przy Internecie mobilnym dla domu kanałów jest mniej.",
+      "odpowiedz": "Start TV to 47 kanałów w cenie internetu. Start TV + Extra TV na światłowodzie daje 230 kanałów, a przy Internecie mobilnym dla domu 179.",
       "zrodla": [
         "s1",
         "s9",
@@ -2994,15 +2994,16 @@
     },
     {
       "pytanie": "Mam 5G (Internet mobilny dla domu), czy będę mieć te same kanały?",
-      "odpowiedz": "Nie w pełni. Przy Internecie mobilnym dla domu oglądasz w aplikacji Orange TV / Orange TV Go, a liczba kanałów może być mniejsza niż na światłowodzie. Pakiety HBO, CANAL+ i Polsat Sport Premium wymagają Extra TV z internetem stacjonarnym lub Orange Love.",
+      "odpowiedz": "Nie w pełni. Przy Internecie mobilnym dla domu oglądasz w aplikacji Orange TV / Orange TV Go, a Extra TV daje łącznie 179 kanałów zamiast 230 na światłowodzie. Pakiety HBO, CANAL+ i Polsat Sport Premium wymagają Extra TV z internetem stacjonarnym lub Orange Love.",
       "zrodla": [
         "s3",
-        "s4"
+        "s4",
+        "s9"
       ]
     }
   ],
   "do_sprawdzenia": [
-    "Dokładna liczba kanałów Extra TV przy Internecie mobilnym dla domu (5G): strona Telewizja Orange podaje 179 kanałów, starszy komunikat prasowy (03.2025) 128. Brak aktualnej listy kanałów dla 5G.",
+    "Strona Telewizja Orange (23.11.2026) wymienia też telewizję z abonamentem komórkowym: ponad 40 kanałów, także w UE, na 3 urządzeniach. Brak oficjalnej listy kanałów i regulaminu tego wariantu, więc nie ujęto go jako pakietu. Do potwierdzenia, czy to osobny produkt, czy część Start TV.",
     "Dokument 'Informacje na temat oferty Extra TV' mówi o usłudze internetowej 'o prędkości do 300 Mb/s' jako warunku. Nie jest jasne, czy przy szybszym światłowodzie Extra TV wiąże się przez Start TV; do potwierdzenia u operatora.",
     "Okres przechowywania nagrań Multinagrywarki: zasady usługi (od 2019) mówią 30 dni, poradnik Orange o dekoderze 7 dni od emisji.",
     "Modele dekoderów 4K Duo i 4K Stream: wymienione na stronie oferty, brak oficjalnej specyfikacji (Android TV, Wi-Fi, dysk).",
@@ -3011,15 +3012,15 @@
     "Liczby kanałów: operator podaje 47 (Start TV) i 230 (Start + Extra). PDF z listą kanałów (01.09.2026) ma 48 pozycji w Start TV (TVP3 ogólne + 16 regionalnych) i 181 w Extra TV, razem 229. Pole liczba_kanalow_hd liczone z PDF (HD + 4K).",
     "Brak informacji o telewizji satelitarnej i DVB-T w aktualnej ofercie Orange.",
     "Disney+, SkyShowtime, Polsat Box Go, Player: nie znaleziono oficjalnej oferty Orange (ani integracji w dekoderze).",
-    "Strona Telewizja Orange wspomina akcję 'Dzień Klienta' (od 27 października ponad 30 odkodowanych kanałów) i sprzeczne informacje o odkodowaniu CANAL+ Domo / CANAL+ Kuchnia; nie ujęto jako stałej oferty.",
-    "Lista kanałów w aplikacji Orange TV na Smart TV (bez dekodera) może się różnić od listy IPTV; brak osobnego oficjalnego zestawienia.",
+    "Strona Telewizja Orange zawiera sprzeczne komunikaty o CANAL+ Domo / CANAL+ Kuchnia dla Pakietu Optymalnego (starszy wpis: odkodowane do końca roku; nowszy: od 15 października promocyjne udostępnianie zakończone) oraz akcję 'Dzień Klienta' (od 27 października ponad 30 odkodowanych kanałów); nie ujęto jako stałej oferty.",
+    "Lista kanałów w aplikacji Orange TV na Smart TV (bez dekodera) może się różnić od listy IPTV; brak osobnego oficjalnego zestawienia. Dla Internetu mobilnego dla domu (179 kanałów) brak oficjalnej listy kanałów.",
+    "Strony swiatlowod-z-tv i telewizja/eleven nie zostały ponownie otwarte 23.11.2026 (limit narzędzia); dane z nich pochodzą z poprzedniego sprawdzenia.",
     "Streaming: cena Amazon Prime po 24 mies. promocji w Extra TV – regulamin promocji jej nie podaje.",
     "Streaming: warunki promocji Netflix w prezencie (3 mies. przy światłowodzie / 6 mies. w pakiecie Mini) – brak osobnego regulaminu promocji; dopłaty 18/38 zł ze strony oferty.",
-    "Streaming: HBO Max i CANAL+ (usługa bez TV) wymagają internetu o prędkości NIE NIŻSZEJ niż 300 Mb/s, a nie 'do 300 Mb/s' jak w obecnych danych.",
+    "Streaming: HBO Max i CANAL+ (usługa bez TV) wymagają internetu o prędkości NIE NIŻSZEJ niż 300 Mb/s, a nie 'do 300 Mb/s' jak w starszych danych.",
     "Streaming: Netflix: brak osobnej oferty łączonej; 'Światłowód z Netflixem' to zwykły światłowód na 24 mies. z Planem Podstawowym 3 mies. gratis.",
     "Streaming: Pakiet Mini (Netflix 6 mies. gratis) nie został sprawdzony, co to dokładnie jest (prawdopodobnie pakiet z abonamentem komórkowym).",
     "Streaming: Dostępność aplikacji (Disney+, SkyShowtime, Player, Polsat Box Go, Apple TV, Viaplay, FilmBox+) na dekoderze 4K Android TV: dopytać konsultanta; starsze dekodery mogą nie mieć Google Play.",
-    "Streaming: Amazon Prime: brak informacji o cenie po 24 mies.; strona TV pisze o Prime także przy 5G dla domu (do 179 kanałów).",
-    "Streaming: Na stronie TV są sprzeczne komunikaty o CANAL+ Domo/Kuchnia dla Pakietu Optymalnego (stara oferta), bez wpływu na streaming."
+    "Streaming: Amazon Prime: brak informacji o cenie po 24 mies.; strona TV pisze o Prime także przy 5G dla domu (do 179 kanałów)."
   ]
 }
